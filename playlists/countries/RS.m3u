@@ -1,13 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ArenaSport1Premium.rs" tvg-name="Arena Sport 1 Premium" tvg-logo="" tvg-country="RS" group-title="Sports",Arena Sport 1 Premium [360p]
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vmRdlEHaaMaQAQw3LRAakpnghBMtR57sXXgLEXZF8gVD
-#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" tvg-logo="" tvg-country="RS" group-title="Music",DM Sat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://85.14.32.26:8800/udp/239.100.10.40:5000
+#EXTINF:-1 tvg-id="DMSat.rs" tvg-name="DM Sat" tvg-logo="" tvg-country="RS" group-title="Music",DM Sat [576p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs" tvg-name="IDJTV" tvg-logo="" tvg-country="RS" group-title="General",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
 #EXTINF:-1 tvg-id="Nova.rs" tvg-name="Nova" tvg-logo="" tvg-country="RS" group-title="General",Nova [1080p]
 https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="PannonTV.rs" tvg-name="Pannon TV" tvg-logo="" tvg-country="RS" group-title="General",Pannon TV [648p]
+https://stream.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" tvg-country="RS" group-title="General",RTS 2 [720p]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="RTVNoviPazar.rs" tvg-name="RTV Novi Pazar" tvg-logo="" tvg-country="RS" group-title="General",RTV Novi Pazar

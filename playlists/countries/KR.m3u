@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="ABN.kr" tvg-name="ABN" tvg-logo="" tvg-country="KR" group-title="General",ABN [720p]
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" tvg-logo="" tvg-country="KR" group-title="General",Arirang Radio [720p]
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="" tvg-country="KR" group-title="News",Arirang TV [1080p]
-https://freem3u.xyz/api/live/play.m3u8?vid=111
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangUN.kr" tvg-name="Arirang UN" tvg-logo="" tvg-country="KR" group-title="News",Arirang UN [1080p]
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBSTV.kr" tvg-name="BBS TV" tvg-logo="" tvg-country="KR" group-title="Religious",BBS TV [1080p]
@@ -55,6 +55,10 @@ https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLCTDTV.kr" tvg-name="HLCT-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLCT-DTV [480p]
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDHDTV.kr" tvg-name="HLDH-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLDH-DTV [1080p]
+https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDPDTV.kr" tvg-name="HLDP-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLDP-DTV [540p]
+https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 #EXTINF:-1 tvg-id="HLDQDTV.kr" tvg-name="HLDQ-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLDQ-DTV [406p]
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-name="HLDR-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLDR-DTV [540p]

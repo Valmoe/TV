@@ -15,6 +15,10 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls.m3u8
 https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls.m3u8
 #EXTINF:-1 tvg-id="OireachtasTVSeanadEireann.ie" tvg-name="Oireachtas TV Seanad Eireann" tvg-logo="" tvg-country="IE" group-title="Legislative",Oireachtas TV Seanad Eireann [720p]
 https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
+#EXTINF:-1 tvg-id="RTEjr.ie" tvg-name="RTEjr" tvg-logo="" tvg-country="IE" group-title="General",RTEjr
+#EXTVLCOPT:http-user-agent=Win64
+#EXTVLCOPT:http-referrer=https://www.rte.ie/
+http://etvhosts.site:55337/live/littlespiked/cam1gail2brian3/20641.m3u8
 #EXTINF:-1 tvg-id="SetantaSports1Eurasia.ie" tvg-name="Setanta Sports 1 Eurasia" tvg-logo="" tvg-country="IE" group-title="Sports",Setanta Sports 1 Eurasia [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/234/index.m3u8

@@ -1,0 +1,21 @@
+# Python virtual environment
+/venv/
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Generated channel catalog (playlists are intended to be committed)
+/playlists/catalog.csv
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment files
+.env
+.env.*

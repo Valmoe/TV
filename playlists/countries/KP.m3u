@@ -1,18 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" tvg-logo="" tvg-country="KP" group-title="General",Korean Central Television [1080p]
 https://live.koryocdn.org/kctv/index.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" tvg-logo="" tvg-country="KP" group-title="General",Korean Central Television [1080p]
-https://stream.intchoson.com/kctv/index.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" tvg-logo="" tvg-country="KP" group-title="General",Korean Central Television [1080p]
-https://stream.intchoson.com/kctv/main_stream.m3u8
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" tvg-logo="" tvg-country="KP" group-title="General",Korean Central Television [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kcnawatch.org/
-https://streamer.nknews.org/tvdash/stream.mpd
-#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-name="Korean Central Television" tvg-logo="" tvg-country="KP" group-title="General",Korean Central Television [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/143.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://kcnawatch.org/
-https://streamer.nknews.org/tvhls/stream.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" tvg-logo="" tvg-country="KP" group-title="Education",Ryongnamsan Television [720p]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="SportsTelevision.kp" tvg-name="Sports Television" tvg-logo="" tvg-country="KP" group-title="Sports",Sports Television [720p]

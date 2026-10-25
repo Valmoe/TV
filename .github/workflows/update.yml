@@ -1,0 +1,39 @@
+name: Update playlists
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-playlists
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 100
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Build playlists
+        run: python build_playlists.py --max-minutes 70
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "playlist-bot"
+          git config user.email "playlist-bot@users.noreply.github.com"
+          git add -A playlists
+          git diff --cached --quiet || git commit -m "Update playlists $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git pull --rebase
+          git push

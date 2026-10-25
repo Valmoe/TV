@@ -3,41 +3,8 @@
 https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
 #EXTINF:-1 tvg-id="CMCTV.hr" tvg-name="CMC TV" tvg-logo="" tvg-country="HR" group-title="Music",CMC TV [1080p]
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="DiadoraTV.hr" tvg-name="Diadora TV" tvg-logo="" tvg-country="HR" group-title="General",Diadora TV
-https://diadoratv.stream/live/diadora/playlist.m3u8
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="" tvg-country="HR" group-title="General",HRT 1 [1080p]
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-name="HRT 1" tvg-logo="" tvg-country="HR" group-title="General",HRT 1 [720p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt1.m3u8
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="" tvg-country="HR" group-title="General",HRT 2 [1080p]
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-name="HRT 2" tvg-logo="" tvg-country="HR" group-title="General",HRT 2 [720p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt2.m3u8
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="" tvg-country="HR" group-title="Culture",HRT 3 [720p]
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3" tvg-logo="" tvg-country="HR" group-title="Culture",HRT 3 [720p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4" tvg-logo="" tvg-country="HR" group-title="News",HRT 4 [720p]
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 #EXTINF:-1 tvg-id="KlapeiTambureTV.hr" tvg-name="Klape i Tambure TV" tvg-logo="" tvg-country="HR" group-title="Music",Klape i Tambure TV [1080p]
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="Klasik.hr" tvg-name="Klasik" tvg-logo="" tvg-country="HR" group-title="Movies",Klasik [576p]
-https://178.253.194.105/klasiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="LibertasTV.hr" tvg-name="Libertas TV" tvg-logo="" tvg-country="HR" group-title="General",Libertas TV [1080p]
-https://stream.luci.xyz/hls/LTV.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.hr" tvg-name="National Geographic" tvg-logo="" tvg-country="HR" group-title="Documentary",National Geographic [1080p]
-http://176.61.157.250/NationalGeographic/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.hr" tvg-name="Nick Jr." tvg-logo="" tvg-country="HR" group-title="Kids",Nick Jr. [540p]
-http://176.61.157.250/NickJr/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.hr" tvg-name="Nickelodeon" tvg-logo="" tvg-country="HR" group-title="Kids",Nickelodeon [1080p]
-http://176.61.157.250/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="Nova TV" tvg-logo="" tvg-country="HR" group-title="General",Nova TV [1080p]
-http://176.61.157.250/NovaTV/index.m3u8
-#EXTINF:-1 tvg-id="OTV.hr" tvg-name="OTV" tvg-logo="" tvg-country="HR" group-title="News",OTV [720p]
-https://stream.agatin.hr:3559/live/otvlive.m3u8
 #EXTINF:-1 tvg-id="RadioTelevizijaBanovina.hr" tvg-name="Radio Televizija Banovina" tvg-logo="" tvg-country="HR" group-title="General",Radio Televizija Banovina [1080p]
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="SBTV.hr" tvg-name="SBTV" tvg-logo="" tvg-country="HR" group-title="General",SBTV [1080p]
@@ -50,7 +17,3 @@ https://hls.shift.tv/live/shifttv/playlist.m3u8
 https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
 #EXTINF:-1 tvg-id="TVNova.hr" tvg-name="TV Nova" tvg-logo="" tvg-country="HR" group-title="Entertainment",TV Nova [720p]
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
-#EXTINF:-1 tvg-id="TVZapad.hr" tvg-name="TV Zapad" tvg-logo="" tvg-country="HR" group-title="General",TV Zapad [1080p]
-http://85.94.67.158/TVZAPAD/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="Trend TV" tvg-logo="" tvg-country="HR" group-title="General",Trend TV [480p]
-http://185.62.75.22:1935/trend/myStream/playlist.m3u8

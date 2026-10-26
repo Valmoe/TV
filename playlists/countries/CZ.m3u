@@ -99,7 +99,7 @@ http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-name="Nicktoons" tvg-logo="" tvg-country="CZ" group-title="Kids",Nicktoons
 http://88.212.15.50/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" tvg-logo="" tvg-country="CZ" group-title="Music",Ocko [540p]
-https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoBlack.cz" tvg-name="Ocko Black" tvg-logo="" tvg-country="CZ" group-title="Music",Ocko Black
 https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoExpres.cz" tvg-name="Ocko Expres" tvg-logo="" tvg-country="CZ" group-title="Music",Ocko Expres [540p]
@@ -168,6 +168,8 @@ http://88.212.15.50/live/test_parpika_tv_sd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.cz" tvg-name="Travel Channel" tvg-logo="" tvg-country="CZ" group-title="General",Travel Channel
 http://88.212.15.50/live/test_travel_channel_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV" tvg-logo="" tvg-country="CZ" group-title="General",UTV [1080p]
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="UpNetwork.cz" tvg-name="Up Network" tvg-logo="" tvg-country="CZ" group-title="General",Up Network
 https://dash.antik.sk/live/test_upnetwork/playlist.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-name="Viasat Explore" tvg-logo="" tvg-country="CZ" group-title="Documentary",Viasat Explore

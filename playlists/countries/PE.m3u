@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-logo="" tvg-country="PE" group-title="General",36 TV Huacho [720p]
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" tvg-logo="" tvg-country="PE" group-title="General",ABC Teleshow [720p]
-https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" tvg-logo="" tvg-country="PE" group-title="General",ABTelevision [720p]
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="" tvg-country="PE" group-title="General",ATV [1080p]
@@ -12,7 +10,7 @@ http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="" tvg-country="PE" group-title="News",ATV+ [1080p]
 http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="" tvg-country="PE" group-title="Outdoor",Agro TV [720p]
-https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" tvg-name="Altura TV" tvg-logo="" tvg-country="PE" group-title="General",Altura TV [720p]
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="" tvg-country="PE" group-title="General",Amazonica TV [720p]
@@ -27,6 +25,8 @@ https://live-evg8.tv360.bitel.com.pe/bitel/aunoSRT/playlist.m3u8
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-name="AsiriTV" tvg-logo="" tvg-country="PE" group-title="Culture",AsiriTV [720p]
 https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-id="AtlantisRadioTV.pe" tvg-name="Atlantis Radio TV" tvg-logo="" tvg-country="PE" group-title="General",Atlantis Radio TV [720p]
+https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe" tvg-name="Autentica Television" tvg-logo="" tvg-country="PE" group-title="General",Autentica Television [720p]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1 tvg-id="BNBDigital.pe" tvg-name="BNB Digital" tvg-logo="" tvg-country="PE" group-title="General",BNB Digital [720p]
@@ -42,7 +42,7 @@ https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe" tvg-name="Cadena TV" tvg-logo="" tvg-country="PE" group-title="General",Cadena TV [720p]
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="Canal21Huancayo.pe" tvg-name="Canal 21 Huancayo" tvg-logo="" tvg-country="PE" group-title="General",Canal 21 Huancayo [720p]
-https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+https://live-evg11.tv360.bitel.com.pe/bitel/tvwanka/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Ayacucho.pe" tvg-name="Canal 25 Ayacucho" tvg-logo="" tvg-country="PE" group-title="General",Canal 25 Ayacucho [720p]
 https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8Catacaos.pe" tvg-name="Canal 8 Catacaos" tvg-logo="" tvg-country="PE" group-title="General",Canal 8 Catacaos [720p]
@@ -98,7 +98,7 @@ http://45.70.201.81:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-logo="" tvg-country="PE" group-title="Legislative",Justicia TV [1080p]
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" tvg-country="PE" group-title="Music",Karibena [720p]
-http://187.102.210.46/KARIBENA/index.m3u8
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-logo="" tvg-country="PE" group-title="Sports",L1 Max [1080p]
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="" tvg-country="PE" group-title="Music",La Fabulosa TV [720p]
@@ -182,9 +182,11 @@ https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-name="Radio Onda Digital" tvg-logo="" tvg-country="PE" group-title="Music",Radio Onda Digital [1080p]
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-logo="" tvg-country="PE" group-title="Music",Radio Rumba TV [720p]
-https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
+https://tv.sistemasandinos.org/rumbatv/video.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-name="Radio Tropical" tvg-logo="" tvg-country="PE" group-title="Music",Radio Tropical [480p]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" tvg-logo="" tvg-country="PE" group-title="News",Radio Uno Tacna [720p]
+https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTVOriente.pe" tvg-name="RadioTV Oriente" tvg-logo="" tvg-country="PE" group-title="General",RadioTV Oriente [720p]
 https://live.obslivestream.com/tvoriente/index.m3u8
 #EXTINF:-1 tvg-id="RealTelevision.pe" tvg-name="Real Television" tvg-logo="" tvg-country="PE" group-title="General",Real Television [720p]
@@ -203,6 +205,8 @@ https://video2.lhdserver.es/siscomtv/live.m3u8
 https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-logo="" tvg-country="PE" group-title="General",Solar Television
 https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
+#EXTINF:-1 tvg-id="SqalaTV.pe" tvg-name="Sqala TV" tvg-logo="" tvg-country="PE" group-title="Sports",Sqala TV [720p]
+https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-logo="" tvg-country="PE" group-title="General",Studio Pasco TV [720p]
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe" tvg-name="Super Canal" tvg-logo="" tvg-country="PE" group-title="General",Super Canal [720p]
@@ -213,8 +217,6 @@ https://s2.tvdatta.com:3687/hybrid/play.m3u8
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="TVKaliente.pe" tvg-name="TV Kaliente" tvg-logo="" tvg-country="PE" group-title="Entertainment",TV Kaliente [720p]
 https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-logo="" tvg-country="PE" group-title="General",TV MAR [720p]
-https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe" tvg-name="TV MAX" tvg-logo="" tvg-country="PE" group-title="General",TV MAX [720p]
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-logo="" tvg-country="PE" group-title="General",TV Norte Chiclayo [720p]

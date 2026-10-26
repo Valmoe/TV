@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="4DmasNoticiasTV.py" tvg-name="4Dmas Noticias TV" tvg-logo="" tvg-country="PY" group-title="News",4Dmas Noticias TV [1080p]
+https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="AGRFMTV.py" tvg-name="AGR FM TV" tvg-logo="" tvg-country="PY" group-title="General",AGR FM TV
 https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcanceFMPLAYTV.py" tvg-name="Alcance FM PLAY TV" tvg-logo="" tvg-country="PY" group-title="Music",Alcance FM PLAY TV
@@ -33,14 +35,17 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Educanal.py" tvg-name="Educanal" tvg-logo="" tvg-country="PY" group-title="Education",Educanal [1080p]
 http://190.128.214.97:64333/play/a011/index.m3u8
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" tvg-logo="" tvg-country="PY" group-title="Music",Farra Play [720p]
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",GO TV [720p]
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEi Now" tvg-logo="" tvg-country="PY" group-title="Music",HEi Now [1080p]
 #EXTVLCOPT:http-referrer=https://www.heinow.com.py/
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="InvasivaTV.py" tvg-name="Invasiva TV" tvg-logo="" tvg-country="PY" group-title="General",Invasiva TV [720p]
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" tvg-country="PY" group-title="General",Latele [1080p]
-#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+http://190.128.214.97:64333/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" tvg-logo="" tvg-country="PY" group-title="Music",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="" tvg-country="PY" group-title="News",Mega TV [1080p]
@@ -77,6 +82,8 @@ http://45.170.130.224:8000/play/a032/index.m3u8?hls
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="ProductivaTV.py" tvg-name="Productiva TV" tvg-logo="" tvg-country="PY" group-title="Outdoor",Productiva TV [1080p]
 http://190.128.214.97:64333/play/a04i/index.m3u8
+#EXTINF:-1 tvg-id="RBTV.py" tvg-name="RB TV" tvg-logo="" tvg-country="PY" group-title="General",RB TV [1080p]
+https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py" tvg-name="RCC TV" tvg-logo="" tvg-country="PY" group-title="Religious",RCC TV [1080p]
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RadioColmenar925FM.py" tvg-name="Radio Colmenar 92.5 FM" tvg-logo="" tvg-country="PY" group-title="Music",Radio Colmenar 92.5 FM

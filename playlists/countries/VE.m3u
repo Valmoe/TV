@@ -13,6 +13,9 @@ https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF:-1 tvg-id="Canal21Tachira.ve" tvg-name="Canal 21 Tachira" tvg-logo="" tvg-country="VE" group-title="General",Canal 21 Tachira [360p]
 https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve" tvg-name="Canal C del Zulia" tvg-logo="" tvg-country="VE" group-title="General",Canal C del Zulia [1080p]
+#EXTVLCOPT:http-referrer=https://canalc.vercel.app
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomatico" tvg-logo="" tvg-country="VE" group-title="Culture",Canal Diplomatico
 https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 #EXTINF:-1 tvg-id="CanalI.ve" tvg-name="Canal I" tvg-logo="" tvg-country="VE" group-title="News",Canal I [1080p]
@@ -75,8 +78,6 @@ https://live.teve.pro/live/tvoasis/index.m3u8
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:-1 tvg-id="TVS.ve" tvg-name="TVS" tvg-logo="" tvg-country="VE" group-title="General",TVS [720p]
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
-#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" tvg-logo="" tvg-country="VE" group-title="General",TVes [1080p]
-https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="" tvg-country="VE" group-title="General",TeleAragua [480p]
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" tvg-country="VE" group-title="General",Telecentro [480p]

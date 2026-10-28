@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="" tvg-country="TR" group-title="News",24 TV [720p]
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" tvg-country="TR" group-title="News",360 [720p]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="" tvg-country="TR" group-title="Entertainment",4U TV [720p]
@@ -173,6 +173,8 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-name="Semerkand TV" tvg-logo="" tvg-country="TR" group-title="General",Semerkand TV [1080p]
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" tvg-logo="" tvg-country="TR" group-title="Religious",Sercem TV [1080p]
+https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr" tvg-name="Spacetoon Turkey" tvg-logo="" tvg-country="TR" group-title="Animation",Spacetoon Turkey [720p]
 #EXTVLCOPT:http-referrer=https://spacetoon.com.tr/
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
@@ -200,6 +202,8 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="" tvg-country="TR" group-title="Education",TRT EBA [720p]
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-name="TRT Genc" tvg-logo="" tvg-country="TR" group-title="General",TRT Genc [1440p]
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-logo="" tvg-country="TR" group-title="News",TRT Haber [720p]
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="" tvg-country="TR" group-title="General",TRT Kurdi [720p]

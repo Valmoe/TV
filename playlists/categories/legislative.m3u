@@ -10,7 +10,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" tvg-logo="" tvg-country="CA" group-title="Legislative",Ontario Parliamentary Network [720p]
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" tvg-logo="" tvg-country="CO" group-title="Legislative",Canal Congreso [1080p]
-http://181.78.82.130:8000/play/a0s1/index.m3u8
+http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-logo="" tvg-country="DE" group-title="Legislative",Parlamentsfernsehen 1 [1080p]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="" tvg-country="DK" group-title="Legislative",TV from the Danish Parliament [1080p]
@@ -103,6 +103,8 @@ http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch3/video.m3u8
 #EXTINF:-1 tvg-id="Channel10.us" tvg-name="Channel 10" tvg-logo="" tvg-country="US" group-title="Legislative",Channel 10 [720p]
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/santa-paula/G0930_002/playlist.m3u8
+#EXTINF:-1 tvg-id="CityTVChannel341.us" tvg-name="City TV Channel 3/41" tvg-logo="" tvg-country="US" group-title="Legislative",City TV Channel 3/41 [360p]
+https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofFortPierce.us" tvg-name="City of Fort Pierce" tvg-logo="" tvg-country="US" group-title="Legislative",City of Fort Pierce [720p]
 https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="CityofPompanoBeach.us" tvg-name="City of Pompano Beach" tvg-logo="" tvg-country="US" group-title="Legislative",City of Pompano Beach [720p]
@@ -118,7 +120,7 @@ https://livestream-us-east-edge-2.granicusops.com/live/cypressca/live-1-a/playli
 #EXTINF:-1 tvg-id="DCCouncilHearingRoom120.us" tvg-name="DC Council Hearing Room 120" tvg-logo="" tvg-country="US" group-title="Legislative",DC Council Hearing Room 120 [1080p]
 https://video.oct.dc.gov/out/u/97_12.m3u8
 #EXTINF:-1 tvg-id="DCC.us" tvg-name="DCC" tvg-logo="" tvg-country="US" group-title="Legislative",DCC [1080p]
-https://video.oct.dc.gov/out/u/15_12.m3u8
+https://video.oct.dc.gov/out/u/DCC.m3u8
 #EXTINF:-1 tvg-id="Denver8TV.us" tvg-name="Denver 8 TV" tvg-logo="" tvg-country="US" group-title="Legislative",Denver 8 TV [720p]
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8
 #EXTINF:-1 tvg-id="DerryTV17.us" tvg-name="DerryTV 17" tvg-logo="" tvg-country="US" group-title="Legislative",DerryTV 17 [720p]

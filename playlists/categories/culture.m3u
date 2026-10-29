@@ -50,6 +50,8 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" tvg-logo="" tvg-country="CA" group-title="Culture",Hyder TV [720p]
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" tvg-logo="" tvg-country="CA" group-title="Culture",Montreal Greek TV [480p]
+http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pamir TV [1080p]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-name="Pardesi TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pardesi TV [720p]
@@ -65,7 +67,7 @@ https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" tvg-logo="" tvg-country="CL" group-title="Culture",Holvoet TV [720p]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
-http://15.204.246.24:8080/Mega2HD/index.m3u8
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Radio Suyai TV [1080p]
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-name="Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Suyai TV [1080p]
@@ -81,7 +83,7 @@ http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="" tvg-country="CN" group-title="Documentary",China Travel [1080p]
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="" tvg-country="CN" group-title="Documentary",Discovering China [1080p]
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn" tvg-name="Lanzhou Culture & Tourism Channel" tvg-logo="" tvg-country="CN" group-title="Culture",Lanzhou Culture & Tourism Channel
 https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
 #EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn" tvg-name="Nei Monggol TV 2 Mongolian Culture Channel" tvg-logo="" tvg-country="CN" group-title="Culture",Nei Monggol TV 2 Mongolian Culture Channel [1080i]
@@ -113,25 +115,28 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.ll.m3u8
+https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="" tvg-country="HU" group-title="Culture",Liceum TV [576p]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv/p/3870/hybrid/play.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="AndyHaryana.in" tvg-name="Andy Haryana" tvg-logo="" tvg-country="IN" group-title="Culture",Andy Haryana [576p]
 https://mumt03.tangotv.in/Dsly5z3HANDYHARYANA/index.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
-https://cdn.pishow.tv/ott/live/10/master.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [576p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/335/master.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" tvg-country="IN" group-title="News",DD Mizoram [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" tvg-country="IN" group-title="Culture",DD Punjabi [504p]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" tvg-logo="" tvg-country="IN" group-title="Religious",JTBS Classic
+https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" tvg-logo="" tvg-country="IN" group-title="Culture",Odisha TV [720p]
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="" tvg-country="IN" group-title="Religious",Sanskar TV [1080p]
@@ -156,12 +161,16 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-name="Abai TV" tvg-logo="" tvg-country="KZ" group-title="Culture",Abai TV [720p]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="" tvg-country="LK" group-title="Culture",Imai TV [1080p]
+https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" tvg-logo="" tvg-country="LT" group-title="Culture",LRT Plius [1080p]
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" tvg-logo="" tvg-country="LU" group-title="Lifestyle",apart TV [1080p]
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-name="StoryChannel TV" tvg-logo="" tvg-country="MA" group-title="Culture",StoryChannel TV [720p]
 https://136044159.r.cdnsun.net/storychannel.m3u8
+#EXTINF:-1 tvg-id="MRTVNRC.mm" tvg-name="MRTV NRC" tvg-logo="" tvg-country="MM" group-title="Culture",MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 #EXTINF:-1 tvg-id="MalchinTV.mn" tvg-name="Malchin TV" tvg-logo="" tvg-country="MN" group-title="Culture",Malchin TV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd

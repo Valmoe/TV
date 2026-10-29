@@ -5,6 +5,8 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-id="AltMediaTV.py" tvg-name="Alt Media TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py" tvg-name="America Paraguay" tvg-logo="" tvg-country="PY" group-title="General",America Paraguay [720p]
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="BrunoMasiTV.py" tvg-name="Bruno Masi TV" tvg-logo="" tvg-country="PY" group-title="General",Bruno Masi TV [720p]
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CADTV.py" tvg-name="CAD TV" tvg-logo="" tvg-country="PY" group-title="General",CAD TV
@@ -43,8 +45,7 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="InvasivaTV.py" tvg-name="Invasiva TV" tvg-logo="" tvg-country="PY" group-title="General",Invasiva TV [720p]
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" tvg-country="PY" group-title="General",Latele [1080p]
-#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
-https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+http://190.128.214.97:64333/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" tvg-logo="" tvg-country="PY" group-title="Music",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="" tvg-country="PY" group-title="News",Mega TV [1080p]
@@ -104,6 +105,8 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="SucesoTV.py" tvg-name="Suceso TV" tvg-logo="" tvg-country="PY" group-title="News",Suceso TV [720p]
 https://live.enhdtv.com:8081/8060/index.m3u8
+#EXTINF:-1 tvg-id="TVAire.py" tvg-name="TV Aire" tvg-logo="" tvg-country="PY" group-title="General",TV Aire [1080p]
+http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="" tvg-country="PY" group-title="Legislative",TV Camara [1080p]
 http://158.172.217.18:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-name="TV Canindeyu" tvg-logo="" tvg-country="PY" group-title="General",TV Canindeyu [1080p]

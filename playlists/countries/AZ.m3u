@@ -8,6 +8,8 @@ http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SL
 #EXTVLCOPT:http-user-agent=No response
 #EXTVLCOPT:http-referrer=No response
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" tvg-country="AZ" group-title="News",Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" tvg-logo="" tvg-country="AZ" group-title="General",EL TV [260p]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" tvg-logo="" tvg-country="AZ" group-title="Music",KN Music TV

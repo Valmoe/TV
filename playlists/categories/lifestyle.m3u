@@ -68,7 +68,7 @@ http://88.212.7.14/live/tlc_hungary/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life" tvg-logo="" tvg-country="IL" group-title="Lifestyle",Good Life [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
@@ -104,7 +104,7 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-name="FashionBox" tvg-logo="" tvg-country="NL" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" tvg-logo="" tvg-country="NL" group-title="Lifestyle",INFAST [1080p]
-https://amg00861-amg00861c11-rlaxx-uk-3950.playouts.now.amagi.tv/playlist.m3u8
+https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" tvg-logo="" tvg-country="NZ" group-title="Lifestyle",HGTV [1080p]
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="" tvg-country="RO" group-title="Lifestyle",Antena Monden [720p]
@@ -156,7 +156,7 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="" tvg-country="US" group-title="Lifestyle",30A Luxe Life Discovered [720p]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" tvg-logo="" tvg-country="US" group-title="Lifestyle",Antiques Road Trip [1080p]
-https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us" tvg-name="Aspire TV Life" tvg-logo="" tvg-country="US" group-title="Lifestyle",Aspire TV Life [1080p]
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" tvg-logo="" tvg-country="US" group-title="Lifestyle",BBC Home & Garden [1080p]
@@ -173,6 +173,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2223
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="GlobalFashionChannel.us" tvg-name="Global Fashion Channel" tvg-logo="" tvg-country="US" group-title="Lifestyle",Global Fashion Channel [1080p]
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="" tvg-country="US" group-title="Lifestyle",HGTV [720p]
+http://tvsen7.aynascope.net/hgtv/index.m3u8
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-name="HGTV Asia" tvg-logo="" tvg-country="US" group-title="Lifestyle",HGTV Asia [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-id="HGTVLatinAmerica.us" tvg-name="HGTV Latin America" tvg-logo="" tvg-country="US" group-title="Lifestyle",HGTV Latin America [1080p]

@@ -16,7 +16,7 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="TurismoTravelTV.cl" tvg-name="Turismo Travel TV" tvg-logo="" tvg-country="CL" group-title="Travel",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="" tvg-country="CN" group-title="Documentary",China Travel [1080p]
-https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" tvg-logo="" tvg-country="CN" group-title="General",Guangxi Variety & Travel Channel
 http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr" tvg-name="Costa Rica Channel" tvg-logo="" tvg-country="CR" group-title="Culture",Costa Rica Channel [576p]
@@ -37,10 +37,6 @@ https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in" tvg-name="Travelxp" tvg-logo="" tvg-country="IN" group-title="Travel",Travelxp [1080p]
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 tvg-id="PeerTVAltoAdige.it" tvg-name="Peer TV Alto Adige" tvg-logo="" tvg-country="IT" group-title="Outdoor",Peer TV Alto Adige [1280p]
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it" tvg-name="Peer TV South Tyrol" tvg-logo="" tvg-country="IT" group-title="Outdoor",Peer TV South Tyrol [1280p]
-https://iptv.peer.biz/live/peertv-en.m3u8
 #EXTINF:-1 tvg-id="PeerTVSudtirol.it" tvg-name="Peer TV Sudtirol" tvg-logo="" tvg-country="IT" group-title="Outdoor",Peer TV Sudtirol [1080p]
 https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Turistik TV" tvg-logo="" tvg-country="MX" group-title="Travel",Turistik TV [720p]
@@ -61,14 +57,17 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1 tvg-id="RTGTV.ru" tvg-name="RTG TV" tvg-logo="" tvg-country="RU" group-title="Travel",RTG TV [1080p]
 http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1 tvg-id="RTGint.ru" tvg-name="RTG int." tvg-logo="" tvg-country="RU" group-title="Travel",RTG int.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="" tvg-country="RU" group-title="Travel",Travel+Adventure [1080p]
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1 tvg-id="Vkus.ru" tvg-name="Vkus" tvg-logo="" tvg-country="RU" group-title="Travel",Vkus [576p]
 http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk" tvg-name="Space Live powered by sen" tvg-logo="" tvg-country="UK" group-title="Relax",Space Live powered by sen [1080p]
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
+https://d111bsx9oooqoh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVFloridaAlabama.us" tvg-name="Beach TV Florida & Alabama" tvg-logo="" tvg-country="US" group-title="Travel",Beach TV Florida & Alabama [720p]
-http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-name="Beach TV Key West & Florida Keys" tvg-logo="" tvg-country="US" group-title="Travel",Beach TV Key West & Florida Keys [720p]
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us" tvg-name="Beach TV Myrtle Beach & The Grand Strand" tvg-logo="" tvg-country="US" group-title="Travel",Beach TV Myrtle Beach & The Grand Strand [720p]
@@ -80,7 +79,7 @@ http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="DroneTV.us" tvg-name="DroneTV" tvg-logo="" tvg-country="US" group-title="Relax",DroneTV [1080p]
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us" tvg-name="Fun Roads" tvg-logo="" tvg-country="US" group-title="Travel",Fun Roads [720p]
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=978
+https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-name="GoTraveler" tvg-logo="" tvg-country="US" group-title="Travel",GoTraveler [720p]
 https://amg09501-amg09501c1-klowdtv-us-2398.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-klowdtvus/playlist.m3u8
 #EXTINF:-1 tvg-id="Journy.us" tvg-name="Journy" tvg-logo="" tvg-country="US" group-title="Travel",Journy [720p]

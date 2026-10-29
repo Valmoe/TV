@@ -40,8 +40,11 @@ https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEi Now" tvg-logo="" tvg-country="PY" group-title="Music",HEi Now [1080p]
 #EXTVLCOPT:http-referrer=https://www.heinow.com.py/
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
+#EXTINF:-1 tvg-id="InvasivaTV.py" tvg-name="Invasiva TV" tvg-logo="" tvg-country="PY" group-title="General",Invasiva TV [720p]
+https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" tvg-country="PY" group-title="General",Latele [1080p]
-http://190.128.214.97:64333/play/a03i/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" tvg-logo="" tvg-country="PY" group-title="Music",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="" tvg-country="PY" group-title="News",Mega TV [1080p]
@@ -58,7 +61,10 @@ https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py" tvg-name="Nandejara Ne'e TV" tvg-logo="" tvg-country="PY" group-title="Religious",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Nanduti.py" tvg-name="Nanduti" tvg-logo="" tvg-country="PY" group-title="News",Nanduti [1080p]
-http://190.128.214.97:64333/play/a02d/index.m3u8
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://nanduti.b-cdn.net/Source.m3u8
+#EXTINF:-1 tvg-id="NextHD.py" tvg-name="Next HD" tvg-logo="" tvg-country="PY" group-title="Movies",Next HD [480p]
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="OasisTV.py" tvg-name="Oasis TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",Oasis TV [720p]
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py" tvg-name="Occidental TV" tvg-logo="" tvg-country="PY" group-title="General",Occidental TV
@@ -98,15 +104,12 @@ https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
 #EXTINF:-1 tvg-id="SucesoTV.py" tvg-name="Suceso TV" tvg-logo="" tvg-country="PY" group-title="News",Suceso TV [720p]
 https://live.enhdtv.com:8081/8060/index.m3u8
-#EXTINF:-1 tvg-id="TVAire.py" tvg-name="TV Aire" tvg-logo="" tvg-country="PY" group-title="General",TV Aire [1080p]
-http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="" tvg-country="PY" group-title="Legislative",TV Camara [1080p]
 http://158.172.217.18:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-name="TV Canindeyu" tvg-logo="" tvg-country="PY" group-title="General",TV Canindeyu [1080p]
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="" tvg-country="PY" group-title="General",Telefuturo [1080p]
-#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="" tvg-country="PY" group-title="Sports",Tigo Sports
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="" tvg-country="PY" group-title="General",Trece

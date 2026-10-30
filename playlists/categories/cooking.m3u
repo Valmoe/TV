@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" tvg-country="AR" group-title="Cooking",El Gourmet [1080p]
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+http://138.121.15.230:9002/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" tvg-logo="" tvg-country="CA" group-title="Cooking",Gusto TV [1080p]
-https://563f72af.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0d1c3RvVFZfSExT/playlist.m3u8
+https://gusto-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCocina.de" tvg-name="Pluto TV Cocina" tvg-logo="" tvg-country="DE" group-title="Cooking",Pluto TV Cocina
 https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCucina.de" tvg-name="Pluto TV Cucina" tvg-logo="" tvg-country="DE" group-title="Cooking",Pluto TV Cucina
@@ -10,7 +10,7 @@ https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCuisine.de" tvg-name="Pluto TV Cuisine" tvg-logo="" tvg-country="DE" group-title="Cooking",Pluto TV Cuisine
 https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFood.de" tvg-name="Pluto TV Food" tvg-logo="" tvg-country="DE" group-title="Cooking",Pluto TV Food
-https://jmp2.uk/plu-5ddf930548ff9b00090d5686.m3u8
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr" tvg-name="TV5MONDE Chefs" tvg-logo="" tvg-country="FR" group-title="Lifestyle",TV5MONDE Chefs [1080p]
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-name="Food Network" tvg-logo="" tvg-country="HU" group-title="Cooking",Food Network
@@ -18,7 +18,8 @@ http://88.212.7.14/live/fn_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DensFoodChannel.id" tvg-name="Dens Food Channel" tvg-logo="" tvg-country="ID" group-title="Cooking",Dens Food Channel
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="" tvg-country="IN" group-title="Cooking",Food Food [576p]
-https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/143/143_0.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="" tvg-country="IT" group-title="Cooking",Food Network [1080p]
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="GamberoRossoChannel.it" tvg-name="Gambero Rosso Channel" tvg-logo="" tvg-country="IT" group-title="Cooking",Gambero Rosso Channel [720p]
@@ -41,11 +42,11 @@ https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="FoodTime" tvg-logo="" tvg-country="RU" group-title="Cooking",FoodTime [1080p]
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1 tvg-id="Kuhnya.ru" tvg-name="Kuhnya" tvg-logo="" tvg-country="RU" group-title="Cooking",Kuhnya [576p]
-https://stream8.cinerama.uz/1236/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/179/index.m3u8
 #EXTINF:-1 tvg-id="KulinarTV.ru" tvg-name="Kulinar TV" tvg-logo="" tvg-country="RU" group-title="Cooking",Kulinar TV [576p]
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Telecafe" tvg-logo="" tvg-country="RU" group-title="Cooking",Telecafe [576p]
-http://88.212.15.50/live/test_telecafe_tv/playlist.m3u8
+http://stream.mcquack.net/314/index.m3u8
 #EXTINF:-1 tvg-id="Boligkjopiblinde.se" tvg-name="Boligkjop i blinde" tvg-logo="" tvg-country="SE" group-title="Cooking",Boligkjop i blinde
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1 tvg-id="Boligkobiblinde.se" tvg-name="Boligkob i blinde" tvg-logo="" tvg-country="SE" group-title="Cooking",Boligkob i blinde

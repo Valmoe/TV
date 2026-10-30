@@ -21,8 +21,6 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="" tvg-country="MX" group-title="Entertainment",Azteca Internacional [1080p]
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="B15Fresnillo.mx" tvg-name="B15 Fresnillo" tvg-logo="" tvg-country="MX" group-title="General",B15 Fresnillo [1080p]
-https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 tvg-id="B15Zacatecas.mx" tvg-name="B15 Zacatecas" tvg-logo="" tvg-country="MX" group-title="General",B15 Zacatecas [1080p]
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMOSTV.mx" tvg-name="BAMOS TV" tvg-logo="" tvg-country="MX" group-title="Religious",BAMOS TV [1080p]
@@ -31,6 +29,8 @@ https://video2.getstreamhosting.com:19360/8092/8092.m3u8
 http://181.78.106.127:5000/play/ca064/index.m3u8
 #EXTINF:-1 tvg-id="CBTVMichoacan.mx" tvg-name="CB TV Michoacan" tvg-logo="" tvg-country="MX" group-title="General",CB TV Michoacan
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
+#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="California Medios TV" tvg-logo="" tvg-country="MX" group-title="General",California Medios TV [720p]
+https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-name="Canal 10 Durango" tvg-logo="" tvg-country="MX" group-title="General",Canal 10 Durango [1080p]
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-name="Canal 22 Nacional" tvg-logo="" tvg-country="MX" group-title="General",Canal 22 Nacional [720p]
@@ -65,6 +65,8 @@ https://stream.crealatv.com/live.m3u8
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="" tvg-country="MX" group-title="Movies",De Pelicula Plus [1080p]
 http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 tvg-id="DespiertaTV.mx" tvg-name="Despierta TV" tvg-logo="" tvg-country="MX" group-title="General",Despierta TV [1080p]
+https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" tvg-country="MX" group-title="Comedy",Distrito Comedia [1080p]
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="EclipseTV.mx" tvg-name="Eclipse TV" tvg-logo="" tvg-country="MX" group-title="General",Eclipse TV [720p]
@@ -82,7 +84,7 @@ https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-name="GikTVMX" tvg-logo="" tvg-country="MX" group-title="Culture",GikTVMX [720p]
 https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="" tvg-country="MX" group-title="General",Golden [1080p]
-http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+http://168.196.127.137:6001/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="" tvg-country="MX" group-title="General",Golden Edge [1080p]
 http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="Golden Plus" tvg-logo="" tvg-country="MX" group-title="General",Golden Plus [1080p]
@@ -108,7 +110,7 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="" tvg-country="MX" group-title="General",Las Estrellas [1080p]
 http://45.189.151.7:8000/play/a07s
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-name="Las Estrellas Latin America" tvg-logo="" tvg-country="MX" group-title="General",Las Estrellas Latin America [1080p]
-http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
+http://190.93.224.42/CANAL-LAS-ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-name="Lobo TV" tvg-logo="" tvg-country="MX" group-title="Music",Lobo TV [720p]
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="" tvg-country="MX" group-title="General",MC [1080p]
@@ -127,8 +129,6 @@ http://168.196.127.137:6001/play/a08n/index.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="" tvg-country="MX" group-title="Documentary",National Geographic [1080p]
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
-#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-name="Nayarit Comunica" tvg-logo="" tvg-country="MX" group-title="General",Nayarit Comunica [1080p]
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="Nueve TV" tvg-logo="" tvg-country="MX" group-title="General",Nueve TV [720p]
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="PSN.mx" tvg-name="PSN" tvg-logo="" tvg-country="MX" group-title="Entertainment",PSN [288p]
@@ -213,7 +213,7 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-name="Ultra TV Puebla" tvg-logo="" tvg-country="MX" group-title="General",Ultra TV Puebla [720p]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" tvg-country="MX" group-title="General",Univision Latin America [1080p]
-http://15.204.246.24:8080/UnivisionHD/index.m3u8
+http://190.93.224.42/UNIVISION/index.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="VB Media TV" tvg-logo="" tvg-country="MX" group-title="Entertainment",VB Media TV [1080p]
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Vision Television" tvg-logo="" tvg-country="MX" group-title="Music",Vision Television [720p]

@@ -10,20 +10,19 @@ https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="" tvg-country="BO" group-title="Education",UMSA TVU Internacional [720p]
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
-https://edge.enhdtv.com/8190/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
-https://edge.enhdtv.com/8192/index.m3u8
+https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="" tvg-country="BR" group-title="Education",AgroCanal [720p]
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+http://186.219.52.187/agro_canal/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" tvg-logo="" tvg-country="BR" group-title="Culture",Bem Mais TV [1080p]
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" tvg-country="BR" group-title="Education",Canal Educacao [720p]
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" tvg-logo="" tvg-country="BR" group-title="General",Canal FDR
-https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
-http://186.219.52.187/futura/index.m3u8
+http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" tvg-country="BR" group-title="Education",Futura [720p]
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="" tvg-country="BR" group-title="Education",ISTV [720p]
@@ -119,7 +118,7 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RyongnamsanTelevision.kp" tvg-name="Ryongnamsan Television" tvg-logo="" tvg-country="KP" group-title="Education",Ryongnamsan Television [720p]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-name="EBS 1TV" tvg-logo="" tvg-country="KR" group-title="Education",EBS 1TV [400p]
-https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-name="EBS 2TV" tvg-logo="" tvg-country="KR" group-title="Education",EBS 2TV [400p]
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English" tvg-logo="" tvg-country="KR" group-title="Education",EBS English [400p]
@@ -141,8 +140,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="TVUG.mx" tvg-name="TV UG" tvg-logo="" tvg-country="MX" group-title="Education",TV UG [1080p]
 https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleUV.mx" tvg-name="Tele UV" tvg-logo="" tvg-country="MX" group-title="Education",Tele UV
-https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" tvg-logo="" tvg-country="MX" group-title="Education",UAA TV [1080p]
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 #EXTINF:-1 tvg-id="XHUNESTDT.mx" tvg-name="XHUNES-TDT" tvg-logo="" tvg-country="MX" group-title="Education",XHUNES-TDT [720p]
@@ -244,7 +241,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]
@@ -282,4 +279,4 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="" tvg-country="VN" group-title="Education",HTV4 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="" tvg-country="ZA" group-title="Outdoor",WildEarth [1080p]
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8

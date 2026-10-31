@@ -11,8 +11,6 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="ADATV.cl" tvg-name="ADA TV" tvg-logo="" tvg-country="CL" group-title="Religious",ADA TV [720p]
 https://v4.tustreaming.cl/adatvchile/index.m3u8
-#EXTINF:-1 tvg-id="ADNTV.cl" tvg-name="ADN TV" tvg-logo="" tvg-country="CL" group-title="News",ADN TV [720p]
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-name="AE Radio TV" tvg-logo="" tvg-country="CL" group-title="Music",AE Radio TV [720p]
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCanal.cl" tvg-name="AM Canal" tvg-logo="" tvg-country="CL" group-title="General",AM Canal
@@ -111,6 +109,8 @@ https://v1.tustreaming.cl/emociontv/index.m3u8
 https://v2.tustreaming.cl/enlineamauletv/index.m3u8
 #EXTINF:-1 tvg-id="EnerGeek.cl" tvg-name="EnerGeek" tvg-logo="" tvg-country="CL" group-title="Animation",EnerGeek [1080p]
 https://cl-2.backend.energeek.cl/bkp/egretroweb/index.m3u8?token=IPTVgh26
+#EXTINF:-1 tvg-id="EnerGeekFAN.cl" tvg-name="EnerGeek FAN" tvg-logo="" tvg-country="CL" group-title="Animation",EnerGeek FAN [720p]
+https://cl-2.backend.energeek.cl/bkp/egfan/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EnerGeekRadio.cl" tvg-name="EnerGeek Radio" tvg-logo="" tvg-country="CL" group-title="Music",EnerGeek Radio [720p]
 https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="EnfoqueDigitalTV.cl" tvg-name="Enfoque Digital TV" tvg-logo="" tvg-country="CL" group-title="General",Enfoque Digital TV
@@ -233,8 +233,6 @@ https://v2.tustreaming.cl/alingeproducciones/index.m3u8
 https://tv.arkeo.cl:19360/8052/8052.m3u8
 #EXTINF:-1 tvg-id="RadioPudahuel.cl" tvg-name="Radio Pudahuel" tvg-logo="" tvg-country="CL" group-title="Music",Radio Pudahuel [720p]
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioRancaguaFM.cl" tvg-name="Radio Rancagua FM" tvg-logo="" tvg-country="CL" group-title="General",Radio Rancagua FM [720p]
-https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRitmoFM.cl" tvg-name="Radio Ritmo FM" tvg-logo="" tvg-country="CL" group-title="General",Radio Ritmo FM [1080p]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Radio Suyai TV [1080p]
@@ -274,7 +272,7 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-id="Sextavision.cl" tvg-name="Sextavision" tvg-logo="" tvg-country="CL" group-title="General",Sextavision [1080p]
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" tvg-logo="" tvg-country="CL" group-title="Music",Solo Bailalo [480p]
-https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
+https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="Solo TV" tvg-logo="" tvg-country="CL" group-title="General",Solo TV
 https://sproxy.solotv.cl/hls/live/fhd.m3u8
 #EXTINF:-1 tvg-id="StarChannel.cl" tvg-name="Star Channel" tvg-logo="" tvg-country="CL" group-title="Movies",Star Channel [720p]

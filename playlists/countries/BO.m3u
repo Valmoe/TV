@@ -9,8 +9,6 @@ https://master.tucableip.com/ascontenido/index.m3u8
 https://master.tucableip.com/audiokisstv/index.m3u8
 #EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-name="Bolivia TV" tvg-logo="" tvg-country="BO" group-title="General",Bolivia TV [1080p]
 http://190.181.61.93:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" tvg-logo="" tvg-country="BO" group-title="News",CEACOM TV [1080p]
-https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="CadenaA.bo" tvg-name="Cadena A" tvg-logo="" tvg-country="BO" group-title="General",Cadena A [720p]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" tvg-logo="" tvg-country="BO" group-title="General",Coral TV [720p]
@@ -58,11 +56,9 @@ https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" tvg-name="Red TV Shop" tvg-logo="" tvg-country="BO" group-title="Shop",Red TV Shop [720p]
 https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="" tvg-country="BO" group-title="General",Red Uno [1080p]
-http://190.181.61.93:8000/play/a002/index.m3u8
+http://190.181.61.93:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-name="RedADvenir TV" tvg-logo="" tvg-country="BO" group-title="General",RedADvenir TV [360p]
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
-#EXTINF:-1 tvg-id="SucremantaTV.bo" tvg-name="Sucremanta TV" tvg-logo="" tvg-country="BO" group-title="General",Sucremanta TV [720p]
-https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-name="TDT Multimedia" tvg-logo="" tvg-country="BO" group-title="General",TDT Multimedia [720p]
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="TELE6.bo" tvg-name="TELE 6" tvg-logo="" tvg-country="BO" group-title="General",TELE 6 [720p]
@@ -70,7 +66,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo" tvg-name="TL Estrella" tvg-logo="" tvg-country="BO" group-title="General",TL Estrella [720p]
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo" tvg-name="TV Latina" tvg-logo="" tvg-country="BO" group-title="General",TV Latina [1080p]
-https://master.tucableip.com/tvlatina/index.m3u8
+https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 #EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" tvg-logo="" tvg-country="BO" group-title="Travel",TV OFF [1080p]
 https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-id="TVUSucre.bo" tvg-name="TVU Sucre" tvg-logo="" tvg-country="BO" group-title="General",TVU Sucre [720p]
@@ -80,12 +76,13 @@ https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="" tvg-country="BO" group-title="Education",UMSA TVU Internacional [720p]
 https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
-https://edge.enhdtv.com/8190/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" tvg-name="UPEA TV" tvg-logo="" tvg-country="BO" group-title="General",UPEA TV [720p]
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
-https://edge.enhdtv.com/8192/index.m3u8
+https://live.enhdtv.com:8081/8192/index.m3u8
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="" tvg-country="BO" group-title="General",Unitel [1080p]
 http://190.181.61.93:8000/play/1909/index.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" tvg-name="Univalle Television" tvg-logo="" tvg-country="BO" group-title="General",Univalle Television [1080p]

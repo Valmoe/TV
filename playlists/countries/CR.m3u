@@ -32,7 +32,7 @@ https://cloudvideo.servers10.com:8081/8030/index.m3u8
 #EXTINF:-1 tvg-id="CristoVisionCanal31.cr" tvg-name="Cristo Vision Canal 31" tvg-logo="" tvg-country="CR" group-title="Religious",Cristo Vision Canal 31
 https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="" tvg-country="CR" group-title="Religious",Enlace [1080p]
-http://181.78.106.127:5000/play/ca042/index.m3u8
+http://45.5.117.57:8999/play/a01c/index.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" tvg-logo="" tvg-country="CR" group-title="Religious",Enlace Juvenil
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaKidsTV.cr" tvg-name="Extrema Kids TV" tvg-logo="" tvg-country="CR" group-title="Animation",Extrema Kids TV
@@ -51,6 +51,8 @@ https://edge1-us-miami.picarto.tv/stream/hls/golive%2bXSTUDIOCODE/0_1/index.m3u8
 https://rtmp.info/iqtv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="ImpactChannel.cr" tvg-name="Impact Channel" tvg-logo="" tvg-country="CR" group-title="Religious",Impact Channel
 https://5fe2654d6127d.streamlock.net/impactchannel/videoimpactchannel/playlist.m3u8
+#EXTINF:-1 tvg-id="LaPotenteRadioTV.cr" tvg-name="La Potente Radio TV" tvg-logo="" tvg-country="CR" group-title="Entertainment",La Potente Radio TV
+https://latamvdo.com:3626/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LimonTV.cr" tvg-name="Limon TV" tvg-logo="" tvg-country="CR" group-title="General",Limon TV [1080p]
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 #EXTINF:-1 tvg-id="LosSantosTV.cr" tvg-name="Los Santos TV" tvg-logo="" tvg-country="CR" group-title="General",Los Santos TV [1080i]
@@ -78,8 +80,6 @@ http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-name="TV Sur Canal 14" tvg-logo="" tvg-country="CR" group-title="General",TV Sur Canal 14 [1080p]
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="TV Sur Canal 9" tvg-logo="" tvg-country="CR" group-title="General",TV Sur Canal 9 [620p]
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-name="TVN 14" tvg-logo="" tvg-country="CR" group-title="General",TVN 14 [720p]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" tvg-logo="" tvg-country="CR" group-title="General",Tele Uno [720p]
@@ -107,8 +107,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
 http://45.163.139.42:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="VideoTourChannel.cr" tvg-name="Video Tour Channel" tvg-logo="" tvg-country="CR" group-title="Music",Video Tour Channel [480p]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 tvg-id="VintageMusic.cr" tvg-name="Vintage Music" tvg-logo="" tvg-country="CR" group-title="Music",Vintage Music [720p]
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr" tvg-name="VoiceOver Radio TV" tvg-logo="" tvg-country="CR" group-title="Music",VoiceOver Radio TV [720p]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="XperTV.cr" tvg-name="XperTV" tvg-logo="" tvg-country="CR" group-title="Entertainment",XperTV [1080p]

@@ -61,8 +61,6 @@ https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d
 #EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="" tvg-country="ID" group-title="General",Efarina TV [720p]
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" tvg-logo="" tvg-country="ID" group-title="Entertainment",Ficom Channel [720p]
-https://v3.siar.us/ficomchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="" tvg-country="ID" group-title="General",Garuda TV [1080p]
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="IAmChannel.id" tvg-name="I Am Channel" tvg-logo="" tvg-country="ID" group-title="Religious",I Am Channel [576p]
@@ -77,9 +75,6 @@ http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="" tvg-country="ID" group-title="General",Jawa Pos TV [720p]
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="JekTV.id" tvg-name="Jek TV" tvg-logo="" tvg-country="ID" group-title="General",Jek TV [720p]
-#EXTVLCOPT:http-referrer=http://jektv.co.id/livestreaming/
-http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-name="Jogja Istimewa TV" tvg-logo="" tvg-country="ID" group-title="General",Jogja Istimewa TV [720p]
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id" tvg-name="Jogja TV" tvg-logo="" tvg-country="ID" group-title="General",Jogja TV [720p]
@@ -119,9 +114,6 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PadangTV.id" tvg-name="Padang TV" tvg-logo="" tvg-country="ID" group-title="General",Padang TV [720p]
 http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PujaTVAceh.id" tvg-name="Puja TV Aceh" tvg-logo="" tvg-country="ID" group-title="General",Puja TV Aceh [1080p]
-#EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
-https://pujatv.siar.us/live/pujatv.m3u8
 #EXTINF:-1 tvg-id="RBTVJogja.id" tvg-name="RBTV Jogja" tvg-logo="" tvg-country="ID" group-title="General",RBTV Jogja [1080p]
 #EXTVLCOPT:http-referrer=https://official.rbtvjogja.tv/live.php
 https://official.rbtvjogja.tv/live/mychannel.m3u8
@@ -175,8 +167,8 @@ https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTabalong.id" tvg-name="TV Tabalong" tvg-logo="" tvg-country="ID" group-title="General",TV Tabalong [720p]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="" tvg-country="ID" group-title="General",TVRI [1080p]
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="" tvg-country="ID" group-title="General",TVRI [1080i]
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="" tvg-country="ID" group-title="General",TVRI World [1080p]
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]

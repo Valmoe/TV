@@ -76,6 +76,8 @@ https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepe
 https://online.coopmorteros.coop/canal50/vivo.m3u8
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-name="Canal 6 Posadas" tvg-logo="" tvg-country="AR" group-title="General",Canal 6 Posadas [1080p]
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal6VientoRecio.ar" tvg-name="Canal 6 Viento Recio" tvg-logo="" tvg-country="AR" group-title="Religious",Canal 6 Viento Recio
+https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" tvg-logo="" tvg-country="AR" group-title="General",Canal 7 Jujuy
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-name="Canal 7 Neuquen" tvg-logo="" tvg-country="AR" group-title="General",Canal 7 Neuquen [1080p]
@@ -94,8 +96,6 @@ https://streamconex.com:19360/puan/puan.m3u8
 https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 #EXTINF:-1 tvg-id="Canal79VillaMaza.ar" tvg-name="Canal 79 Villa Maza" tvg-logo="" tvg-country="AR" group-title="General",Canal 79 Villa Maza
 https://streamconex.com:19360/villamaza/villamaza.m3u8
-#EXTINF:-1 tvg-id="Canal8SanJuan.ar" tvg-name="Canal 8 San Juan" tvg-logo="" tvg-country="AR" group-title="General",Canal 8 San Juan [720p]
-https://live20.bozztv.com/akamaissh101/ssh101/canal8sanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" tvg-logo="" tvg-country="AR" group-title="Entertainment",Canal 9 Link
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="" tvg-country="AR" group-title="General",Canal 9 Resistencia [720p]
@@ -129,7 +129,7 @@ https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" tvg-logo="" tvg-country="AR" group-title="General",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" tvg-logo="" tvg-country="AR" group-title="Movies",Cosmos Tv
-https://canaletaplus.com:3922/live/cosmoslive.m3u8
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" tvg-logo="" tvg-country="AR" group-title="Music",Cumbia Mix [720p]
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="" tvg-country="AR" group-title="Sports",DeporTV [1080p]
@@ -195,7 +195,7 @@ https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="" tvg-country="AR" group-title="Kids",Pakapaka [1080p]
 http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" tvg-logo="" tvg-country="AR" group-title="Animation",Plim Plim [1080p]
-http://200.115.120.1:8000/play/ca091/index.m3u8
+http://45.70.168.162:1503/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="PowerMaxRadioTV.ar" tvg-name="Power Max Radio TV" tvg-logo="" tvg-country="AR" group-title="Entertainment",Power Max Radio TV [720p]
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" tvg-logo="" tvg-country="AR" group-title="General",PowerHD
@@ -252,8 +252,6 @@ https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe" tvg-logo="" tvg-country="AR" group-title="General",Telefe [1080p]
 http://45.173.231.22:8000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="TelefeBuenosAires.ar" tvg-name="Telefe Buenos Aires" tvg-logo="" tvg-country="AR" group-title="General",Telefe Buenos Aires [1080p]
-http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional" tvg-logo="" tvg-country="AR" group-title="General",Telefe Internacional [1080p]
 http://200.115.120.1:8000/play/ca016/index.m3u8
 #EXTINF:-1 tvg-id="TelefeSalta.ar" tvg-name="Telefe Salta" tvg-logo="" tvg-country="AR" group-title="General",Telefe Salta

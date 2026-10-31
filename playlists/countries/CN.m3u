@@ -9,6 +9,8 @@ https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-name="CCTV+ 1" tvg-logo="" tvg-country="CN" group-title="News",CCTV+ 1 [600p]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2" tvg-logo="" tvg-country="CN" group-title="News",CCTV+ 2 [600p]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-logo="" tvg-country="CN" group-title="General",CCTV-1 [720p]
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10" tvg-logo="" tvg-country="CN" group-title="Education",CCTV-10 [720p]
@@ -70,11 +72,11 @@ http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-name="CCTV-World Geography" tvg-logo="" tvg-country="CN" group-title="Education",CCTV-World Geography [1080p]
 http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" tvg-country="CN" group-title="News",CGTN [1080p]
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="" tvg-country="CN" group-title="News",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="" tvg-country="CN" group-title="Documentary",CGTN Documentary [1080p]
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="" tvg-country="CN" group-title="News",CGTN French [1080p]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="" tvg-country="CN" group-title="Business",CGTN Global Biz [1080p]
@@ -94,7 +96,7 @@ https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 #EXTINF:-1 tvg-id="ChuxiongNewsChannel.cn" tvg-name="Chuxiong News Channel" tvg-logo="" tvg-country="CN" group-title="News",Chuxiong News Channel
 http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="" tvg-country="CN" group-title="Documentary",Discovering China [1080p]
-https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8
+https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" tvg-logo="" tvg-country="CN" group-title="News",Dongguan Comprehensive News Channel
 http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-name="Guangdong Satellite TV" tvg-logo="" tvg-country="CN" group-title="General",Guangdong Satellite TV
@@ -148,7 +150,7 @@ http://139.211.217.79:9004/hls/75/index.m3u8
 #EXTINF:-1 tvg-id="VoATVChina.cn" tvg-name="VoA TV China" tvg-logo="" tvg-country="CN" group-title="General",VoA TV China [1080p]
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV2.cn" tvg-name="Xinjiang TV 2" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 2
-https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877
+http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 3
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="XinjiangTV5.cn" tvg-name="Xinjiang TV 5" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 5

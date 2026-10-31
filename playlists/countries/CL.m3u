@@ -11,6 +11,8 @@ https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="ADATV.cl" tvg-name="ADA TV" tvg-logo="" tvg-country="CL" group-title="Religious",ADA TV [720p]
 https://v4.tustreaming.cl/adatvchile/index.m3u8
+#EXTINF:-1 tvg-id="ADNTV.cl" tvg-name="ADN TV" tvg-logo="" tvg-country="CL" group-title="News",ADN TV [720p]
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-name="AE Radio TV" tvg-logo="" tvg-country="CL" group-title="Music",AE Radio TV [720p]
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCanal.cl" tvg-name="AM Canal" tvg-logo="" tvg-country="CL" group-title="General",AM Canal
@@ -35,8 +37,6 @@ https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
 https://v2.tustreaming.cl/catvlive/index.m3u8
 #EXTINF:-1 tvg-id="CampusTV.cl" tvg-name="CampusTV" tvg-logo="" tvg-country="CL" group-title="General",CampusTV [720p]
 https://pantera1-100gb-cl-movistar.dps.live/campustv/campustv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal1Nuble.cl" tvg-name="Canal 1 Nuble" tvg-logo="" tvg-country="CL" group-title="General",Canal 1 Nuble
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13" tvg-logo="" tvg-country="CL" group-title="General",Canal 13 [1080p]
 http://15.204.246.24:8080/Canal13HD/index.m3u8
 #EXTINF:-1 tvg-id="Canal2Quellon.cl" tvg-name="Canal 2 Quellon" tvg-logo="" tvg-country="CL" group-title="General",Canal 2 Quellon [1080p]
@@ -166,7 +166,7 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 #EXTINF:-1 tvg-id="Mega.cl" tvg-name="Mega" tvg-logo="" tvg-country="CL" group-title="General",Mega [1080p]
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
-http://15.204.246.24:8080/Mega2HD/index.m3u8
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficcion" tvg-logo="" tvg-country="CL" group-title="Series",Mega Ficcion [1080p]
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasAhora.cl" tvg-name="Meganoticias Ahora" tvg-logo="" tvg-country="CL" group-title="News",Meganoticias Ahora [1080p]
@@ -198,7 +198,7 @@ https://polartv.webredirect.org/memfs/319ac83c-e602-4e91-8104-2b5501380b5e.m3u8
 #EXTINF:-1 tvg-id="PrimitivosTV.cl" tvg-name="Primitivos TV" tvg-logo="" tvg-country="CL" group-title="General",Primitivos TV [720p]
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl" tvg-name="Pucon TV" tvg-logo="" tvg-country="CL" group-title="General",Pucon TV [1080p]
-https://redirector.dps.live/hls/pucontv/playlist.m3u8
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuranoticiaTV.cl" tvg-name="Puranoticia TV" tvg-logo="" tvg-country="CL" group-title="News",Puranoticia TV [720p]
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 tvg-id="RTCTelevision.cl" tvg-name="RTC Television" tvg-logo="" tvg-country="CL" group-title="General",RTC Television
@@ -256,7 +256,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RialTV.cl" tvg-name="Rial TV" tvg-logo="" tvg-country="CL" group-title="General",Rial TV [720p]
 https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="RitoqueTV.cl" tvg-name="Ritoque TV" tvg-logo="" tvg-country="CL" group-title="Music",Ritoque TV [720p]
-https://streaming.purum.cl/ritoquetv/index.m3u8
+https://v2.tustreaming.cl/unetev/index.m3u8
 #EXTINF:-1 tvg-id="RoccoTV.cl" tvg-name="Rocco TV" tvg-logo="" tvg-country="CL" group-title="General",Rocco TV
 https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
 #EXTINF:-1 tvg-id="SURTV.cl" tvg-name="SUR TV" tvg-logo="" tvg-country="CL" group-title="General",SUR TV [720p]
@@ -272,7 +272,7 @@ https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
 #EXTINF:-1 tvg-id="Sextavision.cl" tvg-name="Sextavision" tvg-logo="" tvg-country="CL" group-title="General",Sextavision [1080p]
 https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" tvg-logo="" tvg-country="CL" group-title="Music",Solo Bailalo [480p]
-https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
+https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="Solo TV" tvg-logo="" tvg-country="CL" group-title="General",Solo TV
 https://sproxy.solotv.cl/hls/live/fhd.m3u8
 #EXTINF:-1 tvg-id="StarChannel.cl" tvg-name="Star Channel" tvg-logo="" tvg-country="CL" group-title="Movies",Star Channel [720p]
@@ -333,7 +333,7 @@ https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-id="ULosLagosTV.cl" tvg-name="U Los Lagos TV" tvg-logo="" tvg-country="CL" group-title="General",U Los Lagos TV [1080p]
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-name="UATV" tvg-logo="" tvg-country="CL" group-title="General",UATV [1080p]
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" tvg-logo="" tvg-country="CL" group-title="Culture",UCV TV [720p]
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" tvg-logo="" tvg-country="CL" group-title="Education",UMAGTV

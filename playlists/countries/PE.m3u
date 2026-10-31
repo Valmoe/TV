@@ -10,7 +10,7 @@ http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="" tvg-country="PE" group-title="General",ATV Sur [1080p]
 http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="" tvg-country="PE" group-title="News",ATV+ [1080p]
-http://190.93.224.42/ATV-PLUS/index.m3u8
+http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="" tvg-country="PE" group-title="Outdoor",Agro TV [720p]
 https://play.agenciastreaming.com:8081/agrotv/index.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" tvg-name="Altura TV" tvg-logo="" tvg-country="PE" group-title="General",Altura TV [720p]
@@ -79,6 +79,8 @@ http://190.93.224.42/EXITOSA/index.m3u8
 https://mc.servidor.stream:19360/8274/8274.m3u8
 #EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-name="Galactica TV" tvg-logo="" tvg-country="PE" group-title="Music",Galactica TV
 https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
+#EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-logo="" tvg-country="PE" group-title="General",Genios TV [1080p]
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="" tvg-country="PE" group-title="General",Global TV [1080p]
 http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe" tvg-name="Huacho Peru TV" tvg-logo="" tvg-country="PE" group-title="General",Huacho Peru TV
@@ -96,7 +98,7 @@ http://45.70.201.81:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-logo="" tvg-country="PE" group-title="Legislative",Justicia TV [1080p]
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" tvg-country="PE" group-title="Music",Karibena [720p]
-http://187.102.210.46/KARIBENA/index.m3u8
+https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="KoraTV.pe" tvg-name="Kora TV" tvg-logo="" tvg-country="PE" group-title="Entertainment",Kora TV
 https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-logo="" tvg-country="PE" group-title="Sports",L1 Max [1080p]
@@ -167,8 +169,6 @@ https://mc.servidor.stream:19360/8244/8244.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8
 #EXTINF:-1 tvg-id="QosqoTimes.pe" tvg-name="Qosqo Times" tvg-logo="" tvg-country="PE" group-title="News",Qosqo Times [720p]
 https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
-#EXTINF:-1 tvg-id="RNTelevision.pe" tvg-name="RN Television" tvg-logo="" tvg-country="PE" group-title="General",RN Television [720p]
-https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe" tvg-name="RPP TV" tvg-logo="" tvg-country="PE" group-title="News",RPP TV [1080p]
 http://190.93.224.42/RPP/index.m3u8
 #EXTINF:-1 tvg-id="RSelvaTV.pe" tvg-name="RSelvaTV" tvg-logo="" tvg-country="PE" group-title="News",RSelvaTV [720p]
@@ -222,7 +222,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-logo="" tvg-country="PE" group-title="General",TV Norte Chiclayo [720p]
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="" tvg-country="PE" group-title="General",TV Peru [1080p]
-http://190.93.224.42/VIVA-TV/index.m3u8
+http://190.93.224.42/TV-PERU/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-name="TV Peru Noticias" tvg-logo="" tvg-country="PE" group-title="News",TV Peru Noticias [1080p]
 http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8
 #EXTINF:-1 tvg-id="TVPeruanisima.pe" tvg-name="TV Peruanisima" tvg-logo="" tvg-country="PE" group-title="Music",TV Peruanisima [720p]
@@ -287,8 +287,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8
 http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="Wtv.pe" tvg-name="Wtv" tvg-logo="" tvg-country="PE" group-title="General",Wtv [720p]
 https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="YurimaguasTV.pe" tvg-name="Yurimaguas TV" tvg-logo="" tvg-country="PE" group-title="General",Yurimaguas TV [720p]
-https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Yurivision.pe" tvg-name="Yurivision" tvg-logo="" tvg-country="PE" group-title="General",Yurivision [720p]
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeleveTV.pe" tvg-name="Zeleve TV" tvg-logo="" tvg-country="PE" group-title="General",Zeleve TV [720p]

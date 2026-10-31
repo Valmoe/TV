@@ -33,8 +33,6 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py" tvg-name="E40" tvg-logo="" tvg-country="PY" group-title="Music",E40 [1080p]
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",GO TV [720p]
-https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEi Now" tvg-logo="" tvg-country="PY" group-title="Music",HEi Now [1080p]
 #EXTVLCOPT:http-referrer=https://www.heinow.com.py/
 https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion
@@ -49,7 +47,8 @@ https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="MiTV.py" tvg-name="MiTV" tvg-logo="" tvg-country="PY" group-title="Entertainment",MiTV [1080p]
 http://190.128.214.97:64333/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="MonumentalTV.py" tvg-name="Monumental TV" tvg-logo="" tvg-country="PY" group-title="General",Monumental TV [1080p]
-http://190.128.214.97:64333/play/a046/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.monumental.com.py/
+https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NPY.py" tvg-name="NPY" tvg-logo="" tvg-country="PY" group-title="News",NPY [1080p]
 #EXTVLCOPT:http-referrer=https://www.npy.com.py/
 https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion
@@ -64,8 +63,6 @@ https://nanduti.b-cdn.net/Source.m3u8
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="OasisTV.py" tvg-name="Oasis TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",Oasis TV [720p]
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py" tvg-name="Oviedo TV" tvg-logo="" tvg-country="PY" group-title="General",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" tvg-country="PY" group-title="General",Paraguay TV [1080p]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" tvg-country="PY" group-title="General",Paravision
@@ -85,14 +82,12 @@ https://tvdatta.com:3041/live/colmenarlive.m3u8
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tvg-id="RadioSanCristobal887FM.py" tvg-name="Radio San Cristobal 88.7 FM" tvg-logo="" tvg-country="PY" group-title="Music",Radio San Cristobal 88.7 FM
 https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8
-#EXTINF:-1 tvg-id="RadioTVElArcadelPacto.py" tvg-name="Radio TV El Arca del Pacto" tvg-logo="" tvg-country="PY" group-title="Religious",Radio TV El Arca del Pacto [1080p]
-https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py" tvg-name="Red Digital" tvg-logo="" tvg-country="PY" group-title="General",Red Digital [1080p]
 https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8
 #EXTINF:-1 tvg-id="RedInteriorTV.py" tvg-name="Red Interior TV" tvg-logo="" tvg-country="PY" group-title="General",Red Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 #EXTINF:-1 tvg-id="RegionalTVYaguaron.py" tvg-name="Regional TV Yaguaron" tvg-logo="" tvg-country="PY" group-title="General",Regional TV Yaguaron [1080p]
-http://190.128.214.97:64333/play/a05o/index.m3u8
+https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py" tvg-name="Republica TV" tvg-logo="" tvg-country="PY" group-title="General",Republica TV [720p]
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SURTVItapua.py" tvg-name="SUR TV Itapua" tvg-logo="" tvg-country="PY" group-title="General",SUR TV Itapua
@@ -108,6 +103,8 @@ https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="" tvg-country="PY" group-title="General",Telefuturo [1080p]
 #EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="TigoSports.py" tvg-name="Tigo Sports" tvg-logo="" tvg-country="PY" group-title="Sports",Tigo Sports
+http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="" tvg-country="PY" group-title="General",Trece
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="UniRadioTV.py" tvg-name="UniRadio TV" tvg-logo="" tvg-country="PY" group-title="General",UniRadio TV [1080p]

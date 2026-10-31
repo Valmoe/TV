@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AKTV.id" tvg-name="AKTV" tvg-logo="" tvg-country="ID" group-title="General",AKTV [1080p]
-#EXTVLCOPT:http-referrer=https://aktvuhfdigital.tv/Livestream/aktv
-https://akativi.siar.us/live/akativi.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id" tvg-name="Ahsan TV" tvg-logo="" tvg-country="ID" group-title="Religious",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-name="Al Wafa Tarim" tvg-logo="" tvg-country="ID" group-title="Religious",Al Wafa Tarim [720p]
@@ -31,8 +28,6 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BantenTV.id" tvg-name="Banten TV" tvg-logo="" tvg-country="ID" group-title="General",Banten TV [720p]
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
-#EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" tvg-logo="" tvg-country="ID" group-title="General",Batam TV [480p]
-http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" tvg-logo="" tvg-country="ID" group-title="General",Bungo TV [480p]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="" tvg-country="ID" group-title="Business",CNBC Indonesia
@@ -57,15 +52,10 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DutaTV.id" tvg-name="Duta TV" tvg-logo="" tvg-country="ID" group-title="General",Duta TV [360p]
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EInternational.id" tvg-name="E International" tvg-logo="" tvg-country="ID" group-title="General",E International [576p]
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
+https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="" tvg-country="ID" group-title="General",Efarina TV [720p]
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="" tvg-country="ID" group-title="General",Garuda TV [1080p]
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="IAmChannel.id" tvg-name="I Am Channel" tvg-logo="" tvg-country="ID" group-title="Religious",I Am Channel [576p]
-#EXTVLCOPT:http-referrer=https://iamchannel.org/
-https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana.TV" tvg-logo="" tvg-country="ID" group-title="Entertainment",Indonesiana.TV [720p]
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
@@ -77,8 +67,6 @@ https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JogjaIstimewaTV.id" tvg-name="Jogja Istimewa TV" tvg-logo="" tvg-country="ID" group-title="General",Jogja Istimewa TV [720p]
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="JogjaTV.id" tvg-name="Jogja TV" tvg-logo="" tvg-country="ID" group-title="General",Jogja TV [720p]
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-name="Kawanua TV" tvg-logo="" tvg-country="ID" group-title="General",Kawanua TV [720p]
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" tvg-logo="" tvg-country="ID" group-title="General",Kilisuci TV
@@ -129,8 +117,6 @@ https://www.streaming.radartv.co.id/hls/test.m3u8
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id" tvg-name="Riau TV" tvg-logo="" tvg-country="ID" group-title="General",Riau TV [1080p]
 http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" tvg-logo="" tvg-country="ID" group-title="Education",Rinjani TV
-https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="" tvg-country="ID" group-title="General",Rodja TV [720p]
 https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="SMTV.id" tvg-name="SMTV" tvg-logo="" tvg-country="ID" group-title="General",SMTV [720p]
@@ -142,18 +128,10 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=salamtelevisi.com
 https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv/p/3870/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="SampitTV.id" tvg-name="Sampit TV" tvg-logo="" tvg-country="ID" group-title="General",Sampit TV [720p]
-https://sampit-tv.siar.us/live/sampit-tv.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-name="Sangaji TV" tvg-logo="" tvg-country="ID" group-title="General",Sangaji TV [720p]
 #EXTVLCOPT:http-referrer=https://sangajitv.co.id/
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:-1 tvg-id="SelaparangTV.id" tvg-name="Selaparang TV" tvg-logo="" tvg-country="ID" group-title="General",Selaparang TV [720p]
-#EXTVLCOPT:http-referrer=selaparangtv.net
-https://selaparangtv.siar.us/live/selaparangtv.m3u8
-#EXTINF:-1 tvg-id="SriwijayaTV.id" tvg-name="Sriwijaya TV" tvg-logo="" tvg-country="ID" group-title="General",Sriwijaya TV [720p]
-#EXTVLCOPT:http-referrer=sriwijayatv.tv
-https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" tvg-logo="" tvg-country="ID" group-title="General",Stara TV [1080p]
 #EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
 https://jakarta.staratv.id/hls/0/stream.m3u8
@@ -167,8 +145,8 @@ https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTabalong.id" tvg-name="TV Tabalong" tvg-logo="" tvg-country="ID" group-title="General",TV Tabalong [720p]
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="" tvg-country="ID" group-title="General",TVRI [1080i]
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="" tvg-country="ID" group-title="General",TVRI [1080p]
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="" tvg-country="ID" group-title="General",TVRI World [1080p]
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]

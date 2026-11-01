@@ -39,8 +39,6 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.m3u8
 #EXTINF:-1 tvg-id="EcclesiaTV.gr" tvg-name="Ecclesia TV" tvg-logo="" tvg-country="GR" group-title="General",Ecclesia TV [1080p]
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-#EXTINF:-1 tvg-id="EgnatiaTV.gr" tvg-name="Egnatia TV" tvg-logo="" tvg-country="GR" group-title="News",Egnatia TV [576p]
-https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 tvg-id="EllinikosFM.gr" tvg-name="Ellinikos FM" tvg-logo="" tvg-country="GR" group-title="Music",Ellinikos FM [720p]
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 tvg-id="EpilogesTV.gr" tvg-name="Epiloges TV" tvg-logo="" tvg-country="GR" group-title="General",Epiloges TV
@@ -103,6 +101,8 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SyrosTV1.gr" tvg-name="Syros TV1" tvg-logo="" tvg-country="GR" group-title="General",Syros TV1 [720p]
 https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.gr" tvg-name="TRT" tvg-logo="" tvg-country="GR" group-title="News",TRT [720p]
+https://av.hellasnet.tv/rst/trt/main_stream.m3u8
 #EXTINF:-1 tvg-id="TV100.gr" tvg-name="TV 100" tvg-logo="" tvg-country="GR" group-title="General",TV 100 [720p]
 https://gwebstream.net/hls/master.m3u8
 #EXTINF:-1 tvg-id="TVCreta.gr" tvg-name="TV Creta" tvg-logo="" tvg-country="GR" group-title="General",TV Creta [540p]

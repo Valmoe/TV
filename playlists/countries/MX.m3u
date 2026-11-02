@@ -40,13 +40,15 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 #EXTINF:-1 tvg-id="Canal44.mx" tvg-name="Canal 44" tvg-logo="" tvg-country="MX" group-title="General",Canal 44 [720p]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" tvg-country="MX" group-title="General",Canal 5 [1080p]
-http://45.189.151.7:8000/play/a05s
+http://45.5.118.152:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Canal5TVCozumel.mx" tvg-name="Canal 5 TV Cozumel" tvg-logo="" tvg-country="MX" group-title="General",Canal 5 TV Cozumel [1080p]
 https://video0.rogohosting.com:19360/tvcozumel/tvcozumel.m3u8
 #EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="Canal Once" tvg-logo="" tvg-country="MX" group-title="General",Canal Once [1080p]
 https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalParlamentodelCongresodeJalisco.mx" tvg-name="Canal Parlamento del Congreso de Jalisco" tvg-logo="" tvg-country="MX" group-title="Legislative",Canal Parlamento del Congreso de Jalisco [720p]
 https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanaldelCongreso451.mx" tvg-name="Canal del Congreso 45.1" tvg-logo="" tvg-country="MX" group-title="Legislative",Canal del Congreso 45.1
+https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx" tvg-name="Capital 21" tvg-logo="" tvg-country="MX" group-title="Culture",Capital 21 [1080p]
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CineLatino" tvg-logo="" tvg-country="MX" group-title="Movies",CineLatino [720p]
@@ -54,21 +56,19 @@ http://168.196.127.137:6001/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-logo="" tvg-country="MX" group-title="Movies",Claro Cinema [1080p]
 http://45.171.64.30:6060/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" tvg-country="MX" group-title="Sports",Claro Sports [1080p]
-http://45.228.234.9:8000/play/a06i/index.m3u8
+http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-logo="" tvg-country="MX" group-title="Music",Conecta TV [720p]
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-name="CreaLaTV" tvg-logo="" tvg-country="MX" group-title="General",CreaLaTV [1080p]
 https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="De Pelicula Latin America" tvg-logo="" tvg-country="MX" group-title="Movies",De Pelicula Latin America [1080p]
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="" tvg-country="MX" group-title="Movies",De Pelicula Plus [1080p]
 http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-name="Discovery Home & Health Latin America" tvg-logo="" tvg-country="MX" group-title="Lifestyle",Discovery Home & Health Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" tvg-country="MX" group-title="Comedy",Distrito Comedia [1080p]
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
-#EXTINF:-1 tvg-id="EclipseTV.mx" tvg-name="Eclipse TV" tvg-logo="" tvg-country="MX" group-title="General",Eclipse TV [720p]
-https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" tvg-logo="" tvg-country="MX" group-title="Kids",El Chavo TV [720p]
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-id="ExaTV.mx" tvg-name="Exa TV" tvg-logo="" tvg-country="MX" group-title="Music",Exa TV
@@ -113,16 +113,34 @@ http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
 #EXTINF:-1 tvg-id="MC.mx" tvg-name="MC" tvg-logo="" tvg-country="MX" group-title="General",MC [1080p]
 http://168.196.127.137:6001/play/a070/index.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVS TV" tvg-logo="" tvg-country="MX" group-title="General",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-name="Maria Vision" tvg-logo="" tvg-country="MX" group-title="Religious",Maria Vision [360p]
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-name="Mexiquense TV" tvg-logo="" tvg-country="MX" group-title="General",Mexiquense TV [720p]
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio Television" tvg-logo="" tvg-country="MX" group-title="News",Milenio Television [720p]
-https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx" tvg-name="Monte Maria" tvg-logo="" tvg-country="MX" group-title="Religious",Monte Maria [1080p]
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
 #EXTINF:-1 tvg-id="MultiPremier.mx" tvg-name="MultiPremier" tvg-logo="" tvg-country="MX" group-title="Movies",MultiPremier [1080p]
 http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="MultimediosBajio.mx" tvg-name="Multimedios Bajio" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Bajio [720p]
+https://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-id="MultimediosCDMX.mx" tvg-name="Multimedios CDMX" tvg-logo="" tvg-country="MX" group-title="General",Multimedios CDMX [720p]
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MultimediosCiudadJuarez.mx" tvg-name="Multimedios Ciudad Juarez" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Ciudad Juarez [720p]
+https://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="MultimediosGuadalajara.mx" tvg-name="Multimedios Guadalajara" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Guadalajara [720p]
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="MultimediosLaguna.mx" tvg-name="Multimedios Laguna" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Laguna [720p]
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" tvg-name="Multimedios Monterrey" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Monterrey [720p]
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="MultimediosPuebla.mx" tvg-name="Multimedios Puebla" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Puebla [720p]
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-id="MultimediosSaltillo.mx" tvg-name="Multimedios Saltillo" tvg-logo="" tvg-country="MX" group-title="General",Multimedios Saltillo [720p]
+https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx" tvg-name="MyTime Movie Network" tvg-logo="" tvg-country="MX" group-title="Movies",MyTime Movie Network [720p]
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="" tvg-country="MX" group-title="Documentary",National Geographic [1080p]
@@ -184,14 +202,16 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="Tele Yucatan" tvg-logo="" tvg-country="MX" group-title="General",Tele Yucatan [1080p]
 #EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" tvg-country="MX" group-title="General",TeleFormula
-https://jmp2.uk/plu-63d2c140c111bc0008cb890b.m3u8
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" tvg-country="MX" group-title="General",TeleFormula [720p]
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" tvg-logo="" tvg-country="MX" group-title="Music",TeleHit [1080p]
 http://190.61.47.54:8000/play/a029/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.mx" tvg-name="Telemax" tvg-logo="" tvg-country="MX" group-title="General",Telemax [1080p]
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste" tvg-logo="" tvg-country="MX" group-title="Entertainment",Teleplay Sureste [720p]
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="" tvg-country="MX" group-title="General",Teleritmo [720p]
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-name="Tlaxcala TV" tvg-logo="" tvg-country="MX" group-title="General",Tlaxcala TV [360p]
 https://vid26.mega00.com:5443/live/streams/qNmc7nulmq8zPYZE1582752735050.m3u8
 #EXTINF:-1 tvg-id="TlnovelasLatinAmerica.mx" tvg-name="Tlnovelas Latin America" tvg-logo="" tvg-country="MX" group-title="Series",Tlnovelas Latin America [1080p]
@@ -230,3 +250,7 @@ https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="XHZHZ-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHZHZ-TDT [720p]
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="bitMe.mx" tvg-name="bitMe" tvg-logo="" tvg-country="MX" group-title="Entertainment",bitMe [1080p]
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="bitMeLatinAmerica.mx" tvg-name="bitMe Latin America" tvg-logo="" tvg-country="MX" group-title="Entertainment",bitMe Latin America [1080p]
+https://cablered.iptvperu.tv:1936/cablered/bitme_new/playlist.m3u8

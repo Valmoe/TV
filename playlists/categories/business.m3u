@@ -5,10 +5,6 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 tvg-id="AusbizTV.au" tvg-name="Ausbiz TV" tvg-logo="" tvg-country="AU" group-title="Business",Ausbiz TV [720p]
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="Canal Z" tvg-logo="" tvg-country="BE" group-title="Business",Canal Z [1080p]
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
-#EXTINF:-1 tvg-id="KanaalZ.be" tvg-name="Kanaal Z" tvg-logo="" tvg-country="BE" group-title="Business",Kanaal Z [1080p]
-https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 #EXTINF:-1 tvg-id="BloombergTVBulgaria.bg" tvg-name="Bloomberg TV Bulgaria" tvg-logo="" tvg-country="BG" group-title="Business",Bloomberg TV Bulgaria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04m
@@ -81,7 +77,7 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="RBK-TV" tvg-logo="" tvg-country="RU" group-title="Business",RBK-TV [576p]
 http://176.118.197.101/RBK/index.m3u8
 #EXTINF:-1 tvg-id="AsharqNews.sa" tvg-name="Asharq News" tvg-logo="" tvg-country="SA" group-title="Business",Asharq News [1080p]
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/manifest.mpd
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-asharq/10ae30c64e21402c8116a7fb1e5aa789/index.m3u8
 #EXTINF:-1 tvg-id="AsharqRadio.sa" tvg-name="Asharq Radio" tvg-logo="" tvg-country="SA" group-title="Business",Asharq Radio [1080p]
 https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" tvg-name="CNBC Asia" tvg-logo="" tvg-country="SG" group-title="Business",CNBC Asia [1080p]
@@ -93,15 +89,13 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="" tvg-country="UA" group-title="News",100% NEWS [576p]
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" tvg-logo="" tvg-country="UK" group-title="News",CNBC UK [1080p]
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="30AInvestmentPitch.us" tvg-name="30A Investment Pitch" tvg-logo="" tvg-country="US" group-title="Business",30A Investment Pitch [720p]
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1 tvg-id="Ameritrade.us" tvg-name="Ameritrade" tvg-logo="" tvg-country="US" group-title="Business",Ameritrade [1080p]
 https://tdameritrade-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergOriginals.us" tvg-name="Bloomberg Originals" tvg-logo="" tvg-country="US" group-title="Documentary",Bloomberg Originals [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://www.bloomberg.com/originals
-https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
+https://d3qwwydnxv5vo9.cloudfront.net/v1/bloomberg_quicktake_3/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV" tvg-logo="" tvg-country="US" group-title="Business",Bloomberg TV [2160p]
 https://d2d98ykcmmhgd4.cloudfront.net/v1/bloomberg_bloombergtv_2/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BusinessRockstars.us" tvg-name="Business Rockstars" tvg-logo="" tvg-country="US" group-title="Business",Business Rockstars [720p]

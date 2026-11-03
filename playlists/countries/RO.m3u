@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="" tvg-country="RO" group-title="General",A7TV [1080p]
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+#EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" tvg-logo="" tvg-country="RO" group-title="General",AS TV [576p]
+https://s2.netstreaming.eu/astv.m3u8
 #EXTINF:-1 tvg-id="Acasa.ro" tvg-name="Acasa" tvg-logo="" tvg-country="RO" group-title="Entertainment",Acasa [1080p]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-pro2/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Acasa Gold" tvg-logo="" tvg-country="RO" group-title="Entertainment",Acasa Gold [1080p]
@@ -202,10 +204,14 @@ https://hls01ns.antenaplay.ro/hls/romania-tv-sd/index.m3u8
 https://stream1.antenaplay.ro/zurtv/rfmprem/chunklist.m3u8
 #EXTINF:-1 tvg-id="SangeorzTV.ro" tvg-name="Sangeorz TV" tvg-logo="" tvg-country="RO" group-title="General",Sangeorz TV [576p]
 https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
+#EXTINF:-1 tvg-id="SensTV.ro" tvg-name="Sens TV" tvg-logo="" tvg-country="RO" group-title="General",Sens TV [576i]
+https://live.senstv.ro/live/senstv_1080p/chunklist.m3u8
 #EXTINF:-1 tvg-id="SmartRadio.ro" tvg-name="Smart Radio" tvg-logo="" tvg-country="RO" group-title="Music",Smart Radio [576p]
 https://streamw.m.ro/Regie/radio.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro" tvg-name="SperantaTV" tvg-logo="" tvg-country="RO" group-title="Religious",SperantaTV [1080p]
 https://jstre.am/live/jsl:2gNjpghXRLE.m3u8
+#EXTINF:-1 tvg-id="SportTotalFM.ro" tvg-name="Sport Total FM" tvg-logo="" tvg-country="RO" group-title="Sports",Sport Total FM [576i]
+https://livesptfm.com/SPTFM/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV.ro" tvg-name="Super TV" tvg-logo="" tvg-country="RO" group-title="Music",Super TV [576p]
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="TVAS.ro" tvg-name="TV AS" tvg-logo="" tvg-country="RO" group-title="Music",TV AS

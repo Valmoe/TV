@@ -12,7 +12,7 @@ https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroTV.bg" tvg-name="Agro TV" tvg-logo="" tvg-country="BG" group-title="Outdoor",Agro TV [480p]
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="" tvg-country="BR" group-title="Education",AgroCanal [720p]
-http://186.219.52.187/agro_canal/index.m3u8
+http://45.162.64.114/AGRO_CANAL/index.m3u8
 #EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural" tvg-logo="" tvg-country="BR" group-title="Outdoor",Canal Rural [720p]
 http://186.219.52.187/canal_rural/index.m3u8
 #EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV" tvg-logo="" tvg-country="BR" group-title="Outdoor",Fish TV [720p]
@@ -36,7 +36,8 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV" tvg-logo="" tvg-country="CR" group-title="Outdoor",Agrotendencia TV [1080p]
 https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" tvg-logo="" tvg-country="HU" group-title="Outdoor",The Fishing & Hunting Channel
-http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" tvg-country="IN" group-title="Education",DD Kisan [1080p]
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="" tvg-country="IT" group-title="Outdoor",Caccia e Pesca [720p]
@@ -109,7 +110,7 @@ https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" tvg-logo="" tvg-country="US" group-title="Documentary",Pluto TV Naturaleza
 https://jmp2.uk/plu-5dd85eac039bba0009e86d1d.m3u8
 #EXTINF:-1 tvg-id="PursuitUP.us" tvg-name="PursuitUP" tvg-logo="" tvg-country="US" group-title="Outdoor",PursuitUP [1080p]
-https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
+https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="REVNAction.us" tvg-name="REV'N Action" tvg-logo="" tvg-country="US" group-title="Auto",REV'N Action [720p]
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
 #EXTINF:-1 tvg-id="SpikeOutdoors.us" tvg-name="Spike Outdoors" tvg-logo="" tvg-country="US" group-title="Outdoor",Spike Outdoors

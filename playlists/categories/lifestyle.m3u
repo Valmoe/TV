@@ -64,7 +64,7 @@ http://88.212.7.14/live/tlc_hungary/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life" tvg-logo="" tvg-country="IL" group-title="Lifestyle",Good Life [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
@@ -73,7 +73,8 @@ http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" tvg-logo="" tvg-country="IN" group-title="Lifestyle",CVR Health [576p]
 https://cdn.pishow.tv/ott/live/395/master.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="Food Food" tvg-logo="" tvg-country="IN" group-title="Cooking",Food Food [576p]
-https://cdn.pishow.tv/ott/live/267/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/143/143_0.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-logo="" tvg-country="IN" group-title="Lifestyle",Kappa TV [576p]
 https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" tvg-logo="" tvg-country="IN" group-title="Lifestyle",NDTV Good Times [1080p]
@@ -158,7 +159,7 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="" tvg-country="US" group-title="Lifestyle",30A Luxe Life Discovered [720p]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" tvg-logo="" tvg-country="US" group-title="Lifestyle",Antiques Road Trip [1080p]
-https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us" tvg-name="Aspire TV Life" tvg-logo="" tvg-country="US" group-title="Lifestyle",Aspire TV Life [1080p]
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" tvg-logo="" tvg-country="US" group-title="Lifestyle",BBC Home & Garden [1080p]
@@ -188,7 +189,7 @@ https://dnmfq3sh1jipj.cloudfront.net/DisneyLocalish.m3u8
 #EXTINF:-1 tvg-id="NBCLXHome.us" tvg-name="NBC LX Home" tvg-logo="" tvg-country="US" group-title="Lifestyle",NBC LX Home [1080p]
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 #EXTINF:-1 tvg-id="NowMediaTelevision.us" tvg-name="NowMedia Television" tvg-logo="" tvg-country="US" group-title="News",NowMedia Television [1080p]
-https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a16fa020f4c411f09ddaa1978319689a/index.m3u8
+https://stream-204968.castr.net/64e0c91d08bff3041638aee3/live_a4243540d4b911f0b624bda5e9a32aa9/index.m3u8
 #EXTINF:-1 tvg-id="OWN.us" tvg-name="OWN" tvg-logo="" tvg-country="US" group-title="Lifestyle",OWN [720p]
 http://23.237.104.106:8080/USA_OWN/index.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us" tvg-name="PBS Travel" tvg-logo="" tvg-country="US" group-title="Lifestyle",PBS Travel [1080p]
@@ -214,7 +215,7 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-logo="" tvg-country="US" group-title="Lifestyle",The Design Network [1080p]
 https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="" tvg-country="US" group-title="Lifestyle",The Jamie Oliver Channel [1080p]
-https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
+https://pb-gxzycliwq14lw.akamaized.net/Jamie_Oliver.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" tvg-logo="" tvg-country="VE" group-title="Lifestyle",Plous TV [1080p]
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVCWomen.vn" tvg-name="HTVC Women" tvg-logo="" tvg-country="VN" group-title="Lifestyle",HTVC Women [720p]

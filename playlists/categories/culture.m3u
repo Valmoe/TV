@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" tvg-logo="" tvg-country="AR" group-title="Music",AlternaTV [720p]
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="CatamarcaTV.ar" tvg-name="Catamarca TV" tvg-logo="" tvg-country="AR" group-title="Culture",Catamarca TV [720p]
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="" tvg-country="AR" group-title="Culture",Encuentro [720p]
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" tvg-logo="" tvg-country="AR" group-title="Culture",Senal U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" tvg-logo="" tvg-country="AR" group-title="General",Somos Entre Rios [360p]
-https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" tvg-logo="" tvg-country="AT" group-title="Culture",ORF III [720p]
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" tvg-logo="" tvg-country="BD" group-title="Culture",Channel S
@@ -52,8 +52,6 @@ https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-name="Pardesi TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pardesi TV [720p]
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Evtele.cg" tvg-name="Ev-tele" tvg-logo="" tvg-country="CG" group-title="Culture",Ev-tele [720p]
-https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="AfrocultureTV.ci" tvg-name="Afroculture TV" tvg-logo="" tvg-country="CI" group-title="Culture",Afroculture TV
 https://streamtv.cmediahosthosting.net:3836/live/myafroculturelive.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" tvg-country="CL" group-title="Culture",13C [1080p]
@@ -63,7 +61,7 @@ https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" tvg-logo="" tvg-country="CL" group-title="Culture",Holvoet TV [720p]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
-http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+http://15.204.246.24:8080/Mega2HD/index.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Radio Suyai TV [1080p]
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-name="Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Suyai TV [1080p]
@@ -111,14 +109,14 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.ll.m3u8
+https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="" tvg-country="HU" group-title="Culture",Liceum TV [576p]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
@@ -128,8 +126,6 @@ https://cdn.pishow.tv/ott/live/10/master.m3u8
 https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" tvg-country="IN" group-title="Culture",DD Punjabi [504p]
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
-#EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" tvg-logo="" tvg-country="IN" group-title="Religious",JTBS Classic
-https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" tvg-logo="" tvg-country="IN" group-title="Culture",Odisha TV [720p]
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="" tvg-country="IN" group-title="Religious",Sanskar TV [1080p]
@@ -189,6 +185,8 @@ https://live.jintv.org/medialive/jintv.m3u8
 https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/bad78523/index.m3u8
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-name="Oman TV Cultural" tvg-logo="" tvg-country="OM" group-title="Culture",Oman TV Cultural [1080p]
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-name="AsiriTV" tvg-logo="" tvg-country="PE" group-title="Culture",AsiriTV [720p]
+https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="Cultura24.pe" tvg-name="Cultura 24" tvg-logo="" tvg-country="PE" group-title="Culture",Cultura 24
 https://www.opencaster.com/resources/hls_stream/cultura24.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" tvg-logo="" tvg-country="PE" group-title="Culture",USMPTV [720p]

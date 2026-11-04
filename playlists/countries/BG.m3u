@@ -24,6 +24,8 @@ http://213.91.179.28:8000/play/a04m
 http://213.91.179.28:8000/play/a05x
 #EXTINF:-1 tvg-id="CineStar1Bulgaria.bg" tvg-name="CineStar 1 Bulgaria" tvg-logo="" tvg-country="BG" group-title="Movies",CineStar 1 Bulgaria
 http://213.91.179.28:8000/play/a05h
+#EXTINF:-1 tvg-id="CineStarActionBulgaria.bg" tvg-name="CineStar Action Bulgaria" tvg-logo="" tvg-country="BG" group-title="Movies",CineStar Action Bulgaria
+http://213.91.179.28:8000/play/a06b
 #EXTINF:-1 tvg-id="CityTV.bg" tvg-name="City TV" tvg-logo="" tvg-country="BG" group-title="Music",City TV [576p]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg" tvg-name="DSTV" tvg-logo="" tvg-country="BG" group-title="Music",DSTV [614p]
@@ -138,9 +140,8 @@ https://shift03.isp.bg/ViasatNature_HD/index.m3u8
 #EXTINF:-1 tvg-id="VivacomArena.bg" tvg-name="Vivacom Arena" tvg-logo="" tvg-country="BG" group-title="General",Vivacom Arena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a053
-#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="" tvg-country="BG" group-title="General",bTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 tvg-id="bTV.bg" tvg-name="bTV" tvg-logo="" tvg-country="BG" group-title="General",bTV [576p]
+http://85.11.189.178:8080/bTV/index.m3u8
 #EXTINF:-1 tvg-id="bTVAction.bg" tvg-name="bTV Action" tvg-logo="" tvg-country="BG" group-title="Movies",bTV Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a04n

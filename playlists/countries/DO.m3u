@@ -38,6 +38,8 @@ https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-logo="" tvg-country="DO" group-title="Movies",Boreal [720p]
 https://edge.essastream.com/borealtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN" tvg-logo="" tvg-country="DO" group-title="General",CDN [576p]
+http://190.61.90.17:40000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes" tvg-logo="" tvg-country="DO" group-title="Sports",CDN Deportes [720p]
 https://hls.tvabierta.net/hls/036.m3u8
 #EXTINF:-1 tvg-id="CNTMasTV.do" tvg-name="CNT Mas TV" tvg-logo="" tvg-country="DO" group-title="General",CNT Mas TV [720p]
@@ -116,15 +118,10 @@ https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 #EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="DigitalVision63.do" tvg-name="Digital Vision 63" tvg-logo="" tvg-country="DO" group-title="General",Digital Vision 63 [720p]
-https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 #EXTINF:-1 tvg-id="EcosCanal57.do" tvg-name="Ecos Canal 57" tvg-logo="" tvg-country="DO" group-title="General",Ecos Canal 57 [1080p]
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovision" tvg-logo="" tvg-country="DO" group-title="Documentary",Ecovision [720p]
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="ElNuevoDiarioTV.do" tvg-name="El Nuevo Diario TV" tvg-logo="" tvg-country="DO" group-title="News",El Nuevo Diario TV [480p]
-#EXTVLCOPT:http-referrer=https://nuevodiario01.streamprolive.com/i/cp/hls/player.html
-https://nuevodiario01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ElPuertoTV.do" tvg-name="El Puerto TV" tvg-logo="" tvg-country="DO" group-title="Religious",El Puerto TV [720p]
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSeis6.do" tvg-name="El Seis 6" tvg-logo="" tvg-country="DO" group-title="General",El Seis 6 [1080p]
@@ -250,7 +247,7 @@ https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" tvg-logo="" tvg-country="DO" group-title="Travel",OEPM TV [720p]
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV" tvg-logo="" tvg-country="DO" group-title="General",ORBIT TV [1080p]
-https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-name="Onda TV" tvg-logo="" tvg-country="DO" group-title="General",Onda TV [720p]
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV" tvg-logo="" tvg-country="DO" group-title="General",Palmar TV
@@ -384,8 +381,6 @@ https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion" tvg-logo="" tvg-country="DO" group-title="General",Teleunion [1080p]
 #EXTVLCOPT:http-referrer=https://teleuniontvrd.com/portal/
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-name="Teleuniverso" tvg-logo="" tvg-country="DO" group-title="General",Teleuniverso [720p]
-https://hls.tvabierta.net/hls/029.m3u8
 #EXTINF:-1 tvg-id="Telever.do" tvg-name="Telever" tvg-logo="" tvg-country="DO" group-title="General",Telever [1080p]
 https://soportedvb.click:3413/live/televerlive.m3u8
 #EXTINF:-1 tvg-id="Televida.do" tvg-name="Televida" tvg-logo="" tvg-country="DO" group-title="Religious",Televida [1080p]

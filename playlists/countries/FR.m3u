@@ -86,7 +86,7 @@ https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07a
 #EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2" tvg-logo="" tvg-country="FR" group-title="General",France 2
 http://149.62.177.107:9999/France_2/index.m3u8
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-logo="" tvg-country="FR" group-title="News",France 24 [1080p]
-https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3" tvg-logo="" tvg-country="FR" group-title="General",France 3 [1080p]
 http://5.180.164.197:8080/FRANCE3/index.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4" tvg-logo="" tvg-country="FR" group-title="Kids",France 4
@@ -179,7 +179,7 @@ https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC Story" tvg-logo="" tvg-country="FR" group-title="General",RMC Story [1080p]
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France" tvg-logo="" tvg-country="FR" group-title="News",RT France [1080p]
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="ScreamIN.fr" tvg-name="ScreamIN" tvg-logo="" tvg-country="FR" group-title="Movies",ScreamIN [1080p]
 https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneBlacklist.fr" tvg-name="Sony One Blacklist" tvg-logo="" tvg-country="FR" group-title="Series",Sony One Blacklist [1080p]
@@ -213,51 +213,21 @@ http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-name="TV5Monde Asia" tvg-logo="" tvg-country="FR" group-title="General",TV5Monde Asia [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=9852
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5Monde Europe" tvg-logo="" tvg-country="FR" group-title="General",TV5Monde Europe [1080p]
-http://5.180.164.197:8080/TV5MONDE/index.m3u8
+http://45.14.84.37/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr" tvg-name="TV5Monde Style" tvg-logo="" tvg-country="FR" group-title="Lifestyle",TV5Monde Style [1080p]
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr" tvg-name="TV7 Colmar" tvg-logo="" tvg-country="FR" group-title="General",TV7 Colmar [576p]
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TebeoTV.fr" tvg-name="Tebeo TV" tvg-logo="" tvg-country="FR" group-title="General",Tebeo TV [576i]
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-name="Trace Africa" tvg-logo="" tvg-country="FR" group-title="Music",Trace Africa [1080p]
-https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAfrikora.fr" tvg-name="Trace Afrikora" tvg-logo="" tvg-country="FR" group-title="Music",Trace Afrikora [1080p]
-https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceAyiti.fr" tvg-name="Trace Ayiti" tvg-logo="" tvg-country="FR" group-title="Music",Trace Ayiti [1080p]
-https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr" tvg-name="Trace Brazuca" tvg-logo="" tvg-country="FR" group-title="Music",Trace Brazuca [1080p]
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceCaribbean.fr" tvg-name="Trace Caribbean" tvg-logo="" tvg-country="FR" group-title="Music",Trace Caribbean [1080p]
-https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceGospel.fr" tvg-name="Trace Gospel" tvg-logo="" tvg-country="FR" group-title="Music",Trace Gospel [1080p]
-https://channels.trace.plus/Traceprod/GOSPEL_ROA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceIvoire.fr" tvg-name="Trace Ivoire" tvg-logo="" tvg-country="FR" group-title="Music",Trace Ivoire [1080p]
-https://channels.trace.plus/Traceprod/TRACE_IVOIRE_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceJama.fr" tvg-name="Trace Jama" tvg-logo="" tvg-country="FR" group-title="Music",Trace Jama [1080p]
-https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-name="Trace Kitoko" tvg-logo="" tvg-country="FR" group-title="Music",Trace Kitoko [1080p]
-https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="" tvg-country="FR" group-title="Music",Trace Latina [1080p]
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr" tvg-name="Trace Mboa" tvg-logo="" tvg-country="FR" group-title="Music",Trace Mboa [1080p]
-https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMuzika.fr" tvg-name="Trace Muzika" tvg-logo="" tvg-country="FR" group-title="Music",Trace Muzika [1080p]
-https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceMziki.fr" tvg-name="Trace Mziki" tvg-logo="" tvg-country="FR" group-title="Music",Trace Mziki [1080p]
-https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Naija" tvg-logo="" tvg-country="FR" group-title="Music",Trace Naija [1080p]
-https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceNgoma.fr" tvg-name="Trace Ngoma" tvg-logo="" tvg-country="FR" group-title="Music",Trace Ngoma [1080p]
-https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-name="Trace Sport Stars" tvg-logo="" tvg-country="FR" group-title="Sports",Trace Sport Stars [1080p]
-https://channels.trace.plus/Traceprod/TRACE_SPORT_STARS_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca" tvg-logo="" tvg-country="FR" group-title="Music",Trace Toca [1080p]
-https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban" tvg-logo="" tvg-country="FR" group-title="Music",Trace Urban [1080p]
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1 tvg-id="TraceVanillaIslands.fr" tvg-name="Trace Vanilla Islands" tvg-logo="" tvg-country="FR" group-title="Music",Trace Vanilla Islands [1080p]
-https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="ViaMatele.fr" tvg-name="ViaMatele" tvg-logo="" tvg-country="FR" group-title="General",ViaMatele [1080p]
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="VosgesTV.fr" tvg-name="Vosges TV" tvg-logo="" tvg-country="FR" group-title="General",Vosges TV [576p]
@@ -269,4 +239,4 @@ http://5.180.164.197:8080/ARTEFR/index.m3u8
 #EXTINF:-1 tvg-id="viaTelePaese.fr" tvg-name="viaTelePaese" tvg-logo="" tvg-country="FR" group-title="General",viaTelePaese [720p]
 https://srv.webtvmanager.fr:3970/live/viatelepaeselive.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.m3u8
+https://live.azenagroup.com/zenith/index.ll.m3u8

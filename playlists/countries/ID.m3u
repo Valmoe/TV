@@ -11,6 +11,9 @@ http://202.150.161.117:8000/play/AlBahjahTV
 #EXTINF:-1 tvg-id="AshiilTV.id" tvg-name="Ashiil TV" tvg-logo="" tvg-country="ID" group-title="Religious",Ashiil TV [480p]
 #EXTVLCOPT:http-referrer=https://ashiil.tv/
 https://5bf7b725107e5.streamlock.net/ashiiltv/ashiiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="AsthaTV.id" tvg-name="Astha TV" tvg-logo="" tvg-country="ID" group-title="General",Astha TV [1080p]
+#EXTVLCOPT:http-referrer=https://asthatv.com/
+https://hgmtv.com:2020/hls/asthalive/asthalive.m3u8
 #EXTINF:-1 tvg-id="AstroBlitarTV.id" tvg-name="Astro Blitar TV" tvg-logo="" tvg-country="ID" group-title="General",Astro Blitar TV [720p]
 #EXTVLCOPT:http-referrer=https://abtelevisi.com/
 https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8
@@ -33,8 +36,6 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" tvg-logo="" tvg-country="ID" group-title="General",Batam TV [480p]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" tvg-logo="" tvg-country="ID" group-title="General",Bungo TV [480p]
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="" tvg-country="ID" group-title="Business",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
@@ -64,8 +65,8 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="IndonesianaTV.id" tvg-name="Indonesiana.TV" tvg-logo="" tvg-country="ID" group-title="Entertainment",Indonesiana.TV [720p]
 #EXTVLCOPT:http-referrer=https://indonesiana.tv/
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="" tvg-country="ID" group-title="General",JTV [1080p]
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="" tvg-country="ID" group-title="General",JTV [720p]
+http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id" tvg-name="Jambi TV" tvg-logo="" tvg-country="ID" group-title="General",Jambi TV
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id" tvg-name="Jawa Pos TV" tvg-logo="" tvg-country="ID" group-title="General",Jawa Pos TV [720p]
@@ -124,9 +125,6 @@ http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="" tvg-country="ID" group-title="General",Rodja TV [720p]
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1 tvg-id="SMTV.id" tvg-name="SMTV" tvg-logo="" tvg-country="ID" group-title="General",SMTV [720p]
-#EXTVLCOPT:http-referrer=https://smtv.digital/
-https://e.siar.us/live/smtv.m3u8
 #EXTINF:-1 tvg-id="STV.id" tvg-name="STV" tvg-logo="" tvg-country="ID" group-title="General",STV [720p]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id" tvg-name="Salam TV" tvg-logo="" tvg-country="ID" group-title="General",Salam TV [720p]
@@ -146,8 +144,8 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTVLCOPT:http-referrer=sriwijayatv.tv
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" tvg-logo="" tvg-country="ID" group-title="General",Stara TV [1080p]
-#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
-https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" tvg-country="ID" group-title="News",Suara Surabaya Visual Radio [720p]
 #EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
@@ -169,8 +167,6 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="UChannel.id" tvg-name="U Channel" tvg-logo="" tvg-country="ID" group-title="General",U Channel
 #EXTVLCOPT:http-referrer=https://www.u-channel.tv
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
-#EXTINF:-1 tvg-id="UGTV.id" tvg-name="UGTV" tvg-logo="" tvg-country="ID" group-title="General",UGTV [720p]
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="USMTV.id" tvg-name="USM TV" tvg-logo="" tvg-country="ID" group-title="General",USM TV [1080p]
 #EXTVLCOPT:http-referrer=https://usmtv.id/live-tv/
 https://play.fsa-stream.my.id/hls/siaran.m3u8

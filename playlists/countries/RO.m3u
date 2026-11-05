@@ -100,8 +100,8 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="" tvg-country="RO" group-title="General",Intermedia TV [576p]
 https://live.intermediatv.ro/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080p]
-https://jobtvserver.eu/hls/stream.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080i]
+https://jobtvserver.eu/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="" tvg-country="RO" group-title="General",Kanal D [480p]
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="" tvg-country="RO" group-title="General",Kanal D2 [1080i]
@@ -110,6 +110,8 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="" tvg-country="RO" group-title="Music",Kiss TV [1080p]
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="" tvg-country="RO" group-title="General",Light Channel [480p]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" tvg-logo="" tvg-country="RO" group-title="Religious",MISA TV
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="" tvg-country="RO" group-title="Music",Magic TV [720p]

@@ -61,8 +61,8 @@ https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 https://cdn.streamnet.pro/columnatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="" tvg-country="RO" group-title="Comedy",Comedy Play [576i]
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="" tvg-country="RO" group-title="Religious",Credo TV [720p]
-http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="" tvg-country="RO" group-title="Religious",Credo TV [1080p]
+https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" tvg-logo="" tvg-country="RO" group-title="Education",DeParinti.ro [576p]
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="" tvg-country="RO" group-title="News",Digi 24 [720p]
@@ -100,8 +100,8 @@ https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="" tvg-country="RO" group-title="General",Intermedia TV [576p]
 https://live.intermediatv.ro/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080i]
-https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080p]
+https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="" tvg-country="RO" group-title="General",Kanal D [480p]
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="" tvg-country="RO" group-title="General",Kanal D2 [1080i]
@@ -112,7 +112,7 @@ https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="" tvg-country="RO" group-title="General",Light Channel [480p]
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
-#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" tvg-logo="" tvg-country="RO" group-title="Religious",MISA TV
+#EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" tvg-logo="" tvg-country="RO" group-title="Religious",MISA TV [720p]
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="" tvg-country="RO" group-title="Music",Magic TV [720p]
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
@@ -162,7 +162,7 @@ http://89.44.231.73:7000/primatv
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-prox/live_fullhd?offsetSeconds=0
 #EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="Pro Cinema" tvg-logo="" tvg-country="RO" group-title="Movies",Pro Cinema [1080p]
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-#EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" tvg-logo="" tvg-country="RO" group-title="General",Qub TV
+#EXTINF:-1 tvg-id="QubTV.ro" tvg-name="Qub TV" tvg-logo="" tvg-country="RO" group-title="General",Qub TV [720p]
 https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 #EXTINF:-1 tvg-id="RadioFxNet.ro" tvg-name="Radio Fx Net" tvg-logo="" tvg-country="RO" group-title="Music",Radio Fx Net [720p]
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
@@ -214,31 +214,31 @@ http://78.96.33.89:8080
 http://89.38.8.130:39419
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TVPlus Suceava" tvg-logo="" tvg-country="RO" group-title="General",TVPlus Suceava [576p]
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="" tvg-country="RO" group-title="General",TVR 1
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="" tvg-country="RO" group-title="General",TVR 1 [1440p]
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="" tvg-country="RO" group-title="General",TVR 2
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="" tvg-country="RO" group-title="General",TVR 2 [1440p]
 https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="" tvg-country="RO" group-title="General",TVR 3
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="" tvg-country="RO" group-title="General",TVR 3 [1440p]
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" tvg-logo="" tvg-country="RO" group-title="General",TVR Cluj
+#EXTINF:-1 tvg-id="TVRCluj.ro" tvg-name="TVR Cluj" tvg-logo="" tvg-country="RO" group-title="General",TVR Cluj [1440p]
 https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" tvg-logo="" tvg-country="RO" group-title="General",TVR Craiova
+#EXTINF:-1 tvg-id="TVRCraiova.ro" tvg-name="TVR Craiova" tvg-logo="" tvg-country="RO" group-title="General",TVR Craiova [1440p]
 https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="" tvg-country="RO" group-title="Culture",TVR Cultural
+#EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="" tvg-country="RO" group-title="Culture",TVR Cultural [1440p]
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" tvg-logo="" tvg-country="RO" group-title="General",TVR Folclor
+#EXTINF:-1 tvg-id="TVRFolclor.ro" tvg-name="TVR Folclor" tvg-logo="" tvg-country="RO" group-title="General",TVR Folclor [1440p]
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" tvg-logo="" tvg-country="RO" group-title="General",TVR Iasi [1080p]
-http://82.208.141.70:8778/1.m3u8
-#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="" tvg-country="RO" group-title="News",TVR Info
+#EXTINF:-1 tvg-id="TVRIasi.ro" tvg-name="TVR Iasi" tvg-logo="" tvg-country="RO" group-title="General",TVR Iasi [1440p]
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRInfo.ro" tvg-name="TVR Info" tvg-logo="" tvg-country="RO" group-title="News",TVR Info [1440p]
 https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="" tvg-country="RO" group-title="General",TVR International
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="" tvg-country="RO" group-title="General",TVR International [1440p]
 https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" tvg-country="RO" group-title="General",TVR Sport
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="" tvg-country="RO" group-title="General",TVR Sport [1440p]
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-logo="" tvg-country="RO" group-title="General",TVR Targu-Mures
+#EXTINF:-1 tvg-id="TVRTarguMures.ro" tvg-name="TVR Targu-Mures" tvg-logo="" tvg-country="RO" group-title="General",TVR Targu-Mures [1440p]
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" tvg-logo="" tvg-country="RO" group-title="General",TVR Timisoara
+#EXTINF:-1 tvg-id="TVRTimisoara.ro" tvg-name="TVR Timisoara" tvg-logo="" tvg-country="RO" group-title="General",TVR Timisoara [1440p]
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro" tvg-name="TVSat" tvg-logo="" tvg-country="RO" group-title="General",TVSat [576p]
 http://89.38.8.130:39443

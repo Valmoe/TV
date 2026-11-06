@@ -44,7 +44,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-name="Canale 2 Altamura" tvg-logo="" tvg-country="IT" group-title="General",Canale 2 Altamura [576p]
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-logo="" tvg-country="IT" group-title="General",Canale 7 [480p]
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-logo="" tvg-country="IT" group-title="General",Canale 8 [480p]
 http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="" tvg-country="IT" group-title="Animation",Cartoonito [720p]
@@ -156,7 +156,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" tvg-logo="" tvg-country="IT" group-title="General",Mediaset Italia [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it" tvg-name="Medjugorje Italia TV" tvg-logo="" tvg-country="IT" group-title="Religious",Medjugorje Italia TV [480p]
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="" tvg-country="IT" group-title="Sports",Milan TV [720p]
@@ -274,8 +274,7 @@ http://team-tv.co:81/rai5/index.m3u8
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="" tvg-country="IT" group-title="General",Rai Gulp [576p]
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" tvg-logo="" tvg-country="IT" group-title="General",Rai Italia [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+http://138.59.177.78:9999/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="" tvg-country="IT" group-title="Movies",Rai Movie [1080p]
 http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="" tvg-country="IT" group-title="News",Rai News 24 [1080p]
@@ -365,6 +364,8 @@ https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/p
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleSanDomenico.it" tvg-name="TeleSanDomenico" tvg-logo="" tvg-country="IT" group-title="Religious",TeleSanDomenico [1080p]
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleTusciaSabina2000.it" tvg-name="TeleTusciaSabina 2000" tvg-logo="" tvg-country="IT" group-title="General",TeleTusciaSabina 2000 [576p]
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="" tvg-country="IT" group-title="General",Telecity Lombardia [1080p]
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-name="Telecolor Lombardia" tvg-logo="" tvg-country="IT" group-title="General",Telecolor Lombardia [1080p]

@@ -8,7 +8,7 @@ https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="" tvg-country="BR" group-title="Shop",1001 Noites [480p]
 https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" tvg-name="TSC" tvg-logo="" tvg-country="CA" group-title="Shop",TSC [720p]
-https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-logo="" tvg-country="DE" group-title="Shop",HSE [1080p]
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 #EXTINF:-1 tvg-id="HSEExtra.de" tvg-name="HSE Extra" tvg-logo="" tvg-country="DE" group-title="Shop",HSE Extra [1080p]
@@ -91,8 +91,6 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="" tvg-country="UK" group-title="Shop",TJC [1080p]
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
-#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-name="30A The Beach Show" tvg-logo="" tvg-country="US" group-title="Shop",30A The Beach Show [720p]
-https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-name="Fashion Finds" tvg-logo="" tvg-country="US" group-title="Shop",Fashion Finds [720p]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
 #EXTINF:-1 tvg-id="GemShoppingNetwork.us" tvg-name="Gem Shopping Network" tvg-logo="" tvg-country="US" group-title="Shop",Gem Shopping Network [720p]
@@ -109,6 +107,8 @@ https://content.jwplatform.com/live/broadcast/oe7UD7Ag.m3u8
 https://cdn.jwplayer.com/live/broadcast/0rrJ3kkM.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us" tvg-name="Lao-Thai TV" tvg-logo="" tvg-country="US" group-title="Shop",Lao-Thai TV [720p]
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OnTV4U.us" tvg-name="OnTV4U" tvg-logo="" tvg-country="US" group-title="Shop",OnTV4U [1080p]
+https://stirr.b-cdn.net/stirr/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.us" tvg-name="QVC" tvg-logo="" tvg-country="US" group-title="Shop",QVC [720p]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8
 #EXTINF:-1 tvg-id="QVC2.us" tvg-name="QVC2" tvg-logo="" tvg-country="US" group-title="Shop",QVC2 [720p]
@@ -116,7 +116,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="" tvg-country="US" group-title="Shop",QVC3 [1080p]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" tvg-logo="" tvg-country="US" group-title="Shop",Shop LC [1080p]
-https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8
+https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us" tvg-name="TVS Consumer Direct" tvg-logo="" tvg-country="US" group-title="Shop",TVS Consumer Direct [720p]
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-name="Lao SV TV" tvg-logo="" tvg-country="VN" group-title="Shop",Lao SV TV [480p]

@@ -72,6 +72,8 @@ https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" tvg-logo="" tvg-country="CL" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" tvg-logo="" tvg-country="CM" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-logo="" tvg-country="CN" group-title="Culture",CCTV-8 [720p]
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="" tvg-country="CN" group-title="Documentary",China Travel [1080p]
@@ -124,8 +126,8 @@ https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" tvg-country="IN" group-title="News",DD Mizoram [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/381/master.m3u8
-#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" tvg-country="IN" group-title="Culture",DD Punjabi [504p]
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/da821c24a59d4e57960497aeaca8fb33/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" tvg-country="IN" group-title="Culture",DD Punjabi [576p]
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
 #EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" tvg-logo="" tvg-country="IN" group-title="Religious",JTBS Classic
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" tvg-logo="" tvg-country="IN" group-title="Culture",Odisha TV [720p]
@@ -200,13 +202,13 @@ http://92.114.85.87:8016/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="" tvg-country="RO" group-title="Culture",TVR Cultural [1440p]
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" tvg-logo="" tvg-country="RU" group-title="Culture",ART [576p]
-http://185.23.80.23:8080/ART/index.m3u8
+http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="" tvg-country="RU" group-title="Culture",Ministerstvo idey [1080p]
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
-https://streaming.thestream.cyou/live/213.m3u8
+http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="" tvg-country="RU" group-title="Culture",Russia-K [1080p]
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-name="Saudi Thaqafiya TV" tvg-logo="" tvg-country="SA" group-title="Culture",Saudi Thaqafiya TV [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" tvg-logo="" tvg-country="SE" group-title="Culture",Komala TV
@@ -252,7 +254,7 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" tvg-logo="" tvg-country="US" group-title="Culture",Hmong TV Network [720p]
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" tvg-logo="" tvg-country="US" group-title="Culture",Jewish Life Television [1080p]
-https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-name="KIIO-LD 10.1" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.4 [480p]

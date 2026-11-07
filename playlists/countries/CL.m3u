@@ -139,6 +139,8 @@ https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 https://scl.edge.grupoz.cl/isatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" tvg-logo="" tvg-country="CL" group-title="General",ITV Patagonia [720p]
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IquiqueTV.cl" tvg-name="Iquique TV" tvg-logo="" tvg-country="CL" group-title="General",Iquique TV [1080p]
+https://origin.skarnetchile.com:8081/iquiquetv-hd/index.m3u8
 #EXTINF:-1 tvg-id="IslitaTV.cl" tvg-name="Islita TV" tvg-logo="" tvg-country="CL" group-title="General",Islita TV [1080p]
 https://tv.arkeo.cl:1936/unetev/unetev/playlist.m3u8
 #EXTINF:-1 tvg-id="LaChilenaTV.cl" tvg-name="La Chilena TV" tvg-logo="" tvg-country="CL" group-title="General",La Chilena TV
@@ -167,6 +169,8 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8
 http://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
 http://15.204.246.24:8080/Mega2HD/index.m3u8
+#EXTINF:-1 tvg-id="MegaFiccion.cl" tvg-name="Mega Ficcion" tvg-logo="" tvg-country="CL" group-title="Series",Mega Ficcion [1080p]
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasAhora.cl" tvg-name="Meganoticias Ahora" tvg-logo="" tvg-country="CL" group-title="News",Meganoticias Ahora [1080p]
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 #EXTINF:-1 tvg-id="MiRadioTV.cl" tvg-name="Mi Radio TV" tvg-logo="" tvg-country="CL" group-title="General",Mi Radio TV [1080p]
@@ -267,8 +271,6 @@ https://v4.tustreaming.cl/sannicolastv/index.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SensacionCosta.cl" tvg-name="Sensacion Costa" tvg-logo="" tvg-country="CL" group-title="Music",Sensacion Costa [1080p]
 https://tvcosta.gleeze.com/memfs/4d48db09-0b1e-4803-8da7-22be388bdd7e.m3u8
-#EXTINF:-1 tvg-id="Sextavision.cl" tvg-name="Sextavision" tvg-logo="" tvg-country="CL" group-title="General",Sextavision [1080p]
-https://5ff3d9babae13.streamlock.net/fzkqsdfray/fzkqsdfray/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloBailalo.cl" tvg-name="Solo Bailalo" tvg-logo="" tvg-country="CL" group-title="Music",Solo Bailalo [480p]
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:-1 tvg-id="SoloTV.cl" tvg-name="Solo TV" tvg-logo="" tvg-country="CL" group-title="General",Solo TV
@@ -287,8 +289,6 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" tvg-logo="" tvg-country="CL" group-title="Sports",TNT Sports [480p]
 http://209.45.101.130:8040/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" tvg-logo="" tvg-country="CL" group-title="Sports",TNT Sports Premium [1080p]
-http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado" tvg-logo="" tvg-country="CL" group-title="General",TV Senado [360p]
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUCT.cl" tvg-name="TV UCT" tvg-logo="" tvg-country="CL" group-title="General",TV UCT [1080p]
@@ -316,8 +316,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleangolRadio.cl" tvg-name="Teleangol Radio" tvg-logo="" tvg-country="CL" group-title="Music",Teleangol Radio [720p]
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecanal.cl" tvg-name="Telecanal" tvg-logo="" tvg-country="CL" group-title="News",Telecanal [576p]
-https://tr.live.clarovtrcdn.vtrplay.com/telecanalsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-id="Televida.cl" tvg-name="Televida" tvg-logo="" tvg-country="CL" group-title="Religious",Televida [1080p]
 https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TendenciasPrime.cl" tvg-name="Tendencias Prime" tvg-logo="" tvg-country="CL" group-title="General",Tendencias Prime [720p]
@@ -349,7 +347,7 @@ https://5ff3d9babae13.streamlock.net/ubyecbxnfd/ubyecbxnfd/playlist.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" tvg-logo="" tvg-country="CL" group-title="Music",V Classic TV [1080p]
 http://186.148.196.100:8000/play/a02z
 #EXTINF:-1 tvg-id="VTVValledeAconcagua.cl" tvg-name="VTV Valle de Aconcagua" tvg-logo="" tvg-country="CL" group-title="General",VTV Valle de Aconcagua [720p]
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
+https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" tvg-logo="" tvg-country="CL" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-id="ViaX.cl" tvg-name="Via X" tvg-logo="" tvg-country="CL" group-title="General",Via X [576p]

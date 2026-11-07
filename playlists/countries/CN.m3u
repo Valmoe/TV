@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AndoTV.cn" tvg-name="Ando TV" tvg-logo="" tvg-country="CN" group-title="Religious",Ando TV [1080p]
 http://play.kankanlive.com/live/1711956137852982.m3u8
+#EXTINF:-1 tvg-id="AnhuiTV.cn" tvg-name="Anhui TV" tvg-logo="" tvg-country="CN" group-title="General",Anhui TV
+https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8
 #EXTINF:-1 tvg-id="BaichengTV.cn" tvg-name="Baicheng TV" tvg-logo="" tvg-country="CN" group-title="General",Baicheng TV
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 #EXTINF:-1 tvg-id="BreadTV.cn" tvg-name="Bread TV" tvg-logo="" tvg-country="CN" group-title="General",Bread TV [720p]
@@ -36,7 +38,7 @@ http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4Europe.cn" tvg-name="CCTV-4 Europe" tvg-logo="" tvg-country="CN" group-title="General",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV6.cn" tvg-name="CCTV-6" tvg-logo="" tvg-country="CN" group-title="Movies",CCTV-6 [1080p]
-http://198.204.240.250:82/live/cctv6.m3u8
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV7.cn" tvg-name="CCTV-7" tvg-logo="" tvg-country="CN" group-title="Education",CCTV-7 [720p]
 http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-logo="" tvg-country="CN" group-title="Culture",CCTV-8 [720p]
@@ -47,12 +49,8 @@ http://192.151.150.154/live/cctv8k.m3u8
 https://xykt-fix.github.io/Y77.m3u8
 #EXTINF:-1 tvg-id="CCTVBilliards.cn" tvg-name="CCTV-Billiards" tvg-logo="" tvg-country="CN" group-title="Sports",CCTV-Billiards [1080p]
 http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVCultureofQuality.cn" tvg-name="CCTV-Culture of Quality" tvg-logo="" tvg-country="CN" group-title="General",CCTV-Culture of Quality [1080p]
-http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVGolfTennis.cn" tvg-name="CCTV-Golf & Tennis" tvg-logo="" tvg-country="CN" group-title="Sports",CCTV-Golf & Tennis [1080p]
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVHealth.cn" tvg-name="CCTV-Health" tvg-logo="" tvg-country="CN" group-title="Lifestyle",CCTV-Health [1080p]
-http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVNostalgiaTheater.cn" tvg-name="CCTV-Nostalgia Theater" tvg-logo="" tvg-country="CN" group-title="Classic",CCTV-Nostalgia Theater [1080p]
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVStormFootball.cn" tvg-name="CCTV-Storm Football" tvg-logo="" tvg-country="CN" group-title="Sports",CCTV-Storm Football [1080p]
@@ -67,14 +65,12 @@ http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-name="CCTV-Women's Fashion" tvg-logo="" tvg-country="CN" group-title="Lifestyle",CCTV-Women's Fashion [1080p]
 http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="CCTVWorldGeography.cn" tvg-name="CCTV-World Geography" tvg-logo="" tvg-country="CN" group-title="Education",CCTV-World Geography [1080p]
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN" tvg-logo="" tvg-country="CN" group-title="News",CGTN [1080p]
 https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-name="CGTN Arabic" tvg-logo="" tvg-country="CN" group-title="News",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-name="CGTN Documentary" tvg-logo="" tvg-country="CN" group-title="Documentary",CGTN Documentary [1080p]
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-name="CGTN French" tvg-logo="" tvg-country="CN" group-title="News",CGTN French [1080p]
 https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNGlobalBiz.cn" tvg-name="CGTN Global Biz" tvg-logo="" tvg-country="CN" group-title="Business",CGTN Global Biz [1080p]
@@ -83,8 +79,6 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="" tvg-country="CN" group-title="News",CGTN Spanish [1080p]
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" tvg-logo="" tvg-country="CN" group-title="Movies",CND Film Middle School Channel
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn" tvg-name="Chaozhou Public Channel" tvg-logo="" tvg-country="CN" group-title="General",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn" tvg-name="Chifeng Comprehensive News Chanel" tvg-logo="" tvg-country="CN" group-title="News",Chifeng Comprehensive News Chanel
@@ -96,7 +90,7 @@ http://hwapi.yntv.net/ew265l/848y54.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn" tvg-name="Discovering China" tvg-logo="" tvg-country="CN" group-title="Documentary",Discovering China [1080p]
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
 #EXTINF:-1 tvg-id="DongguanComprehensiveNewsChannel.cn" tvg-name="Dongguan Comprehensive News Channel" tvg-logo="" tvg-country="CN" group-title="News",Dongguan Comprehensive News Channel
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv
 #EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn" tvg-name="Guangdong Satellite TV" tvg-logo="" tvg-country="CN" group-title="General",Guangdong Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8
 #EXTINF:-1 tvg-id="GuangxiVarietyTravelChannel.cn" tvg-name="Guangxi Variety & Travel Channel" tvg-logo="" tvg-country="CN" group-title="General",Guangxi Variety & Travel Channel
@@ -157,6 +151,10 @@ http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-name="Xizang TV Tibetan" tvg-logo="" tvg-country="CN" group-title="General",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn" tvg-name="Yichang Sanxia General Channel" tvg-logo="" tvg-country="CN" group-title="General",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn" tvg-name="Yichang Sanxia Travel & Life Channel" tvg-logo="" tvg-country="CN" group-title="Travel",Yichang Sanxia Travel & Life Channel
+https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" tvg-logo="" tvg-country="CN" group-title="General",Yunnan Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-name="Zhejiang International Channel" tvg-logo="" tvg-country="CN" group-title="General",Zhejiang International Channel

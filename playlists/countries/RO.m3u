@@ -26,12 +26,18 @@ https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="Antena 3 Suceava" tvg-logo="" tvg-country="RO" group-title="News",Antena 3 Suceava [576i]
 https://livestream.a3sv.ro/master.m3u8
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="" tvg-country="RO" group-title="Lifestyle",Antena Monden [720p]
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" tvg-logo="" tvg-country="RO" group-title="General",Antena International [576p]
+https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="" tvg-country="RO" group-title="Entertainment",Antena Stars [1080i]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaPlay Events [576i]
+https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" tvg-logo="" tvg-country="RO" group-title="General",Arges TV [720p]
 https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+#EXTINF:-1 tvg-id="AsiaExpressNonStop.ro" tvg-name="Asia Express NonStop" tvg-logo="" tvg-country="RO" group-title="Entertainment",Asia Express NonStop [576p]
+https://live77cdn2.antenaplay.ro/live2_sport05/live2_sport05.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-name="Atomic Academy TV" tvg-logo="" tvg-country="RO" group-title="Music",Atomic Academy TV [480p]
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="" tvg-country="RO" group-title="Music",Atomic TV [360p]
@@ -67,6 +73,8 @@ https://651c69fa2ff4e.streamlock.net/ctv/_definst_/livecredo/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="Digi24.ro" tvg-name="Digi 24" tvg-logo="" tvg-country="RO" group-title="News",Digi 24 [720p]
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+#EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" tvg-logo="" tvg-country="RO" group-title="General",Digi 4K [2160p]
+https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" tvg-logo="" tvg-country="RO" group-title="News",Dotto TV [1080p]
 https://live.dottotv.ro/index.m3u8
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" tvg-logo="" tvg-country="RO" group-title="Music",EMI TV [576i]
@@ -79,8 +87,10 @@ https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
 https://hls02ns.antenaplay.ro/hls/favorit-sd/index.m3u8
 #EXTINF:-1 tvg-id="HD365TV.ro" tvg-name="HD365 TV" tvg-logo="" tvg-country="RO" group-title="General",HD365 TV
 https://s2.netstreaming.eu/hd365.m3u8
-#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="" tvg-country="RO" group-title="Cooking",Hello Taste
-https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
+#EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="" tvg-country="RO" group-title="Entertainment",Happy Channel [1080i]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
+#EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" tvg-logo="" tvg-country="RO" group-title="General",Hunedoara 1 [480p]
+https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="" tvg-country="RO" group-title="Music",Impact TV [1080p]
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8
@@ -96,10 +106,12 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 https://hls02ns.antenaplay.ro/hls/inedit-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="" tvg-country="RO" group-title="News",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
+#EXTINF:-1 tvg-id="Insulanonstop.ro" tvg-name="Insula non stop" tvg-logo="" tvg-country="RO" group-title="Entertainment",Insula non stop [576i]
+https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="" tvg-country="RO" group-title="General",Intermedia TV [576p]
 https://live.intermediatv.ro/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080i]
-https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080p]
+https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="" tvg-country="RO" group-title="General",Kanal D [480p]
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro" tvg-name="Kanal D2" tvg-logo="" tvg-country="RO" group-title="General",Kanal D2 [1080i]

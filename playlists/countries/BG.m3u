@@ -36,6 +36,8 @@ http://213.91.179.28:8000/play/a045
 #EXTINF:-1 tvg-id="DiemaFamily.bg" tvg-name="Diema Family" tvg-logo="" tvg-country="BG" group-title="Family",Diema Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel" tvg-logo="" tvg-country="BG" group-title="Entertainment",Discovery Channel
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" tvg-country="BG" group-title="Kids",Disney Channel [576i]
 http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-logo="" tvg-country="BG" group-title="Kids",EKids [576p]
@@ -109,6 +111,8 @@ http://213.91.179.28:8000/play/a0cs
 #EXTINF:-1 tvg-id="StarLife.bg" tvg-name="Star Life" tvg-logo="" tvg-country="BG" group-title="Series",Star Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cr
+#EXTINF:-1 tvg-id="SuperToons.bg" tvg-name="Super Toons" tvg-logo="" tvg-country="BG" group-title="Kids",Super Toons [1080p]
+https://d3bxvshzgfq6in.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8a0c583l9gryw/feed/samsung/streams/SUPERTOONS_EN/master.m3u8?token=737aa2c3f17862a448f403cd2ac2b5ef1a0c413e1cf080a13a19cea99119221f
 #EXTINF:-1 tvg-id="TVRodina.bg" tvg-name="TV Rodina" tvg-logo="" tvg-country="BG" group-title="Music",TV Rodina [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/RodinaTV/index.m3u8
@@ -117,8 +121,7 @@ https://tv.tvsb.bg/112.m3u8
 #EXTINF:-1 tvg-id="TVZagora.bg" tvg-name="TV Zagora" tvg-logo="" tvg-country="BG" group-title="General",TV Zagora [576p]
 http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="TV1000.bg" tvg-name="TV1000" tvg-logo="" tvg-country="BG" group-title="Movies",TV1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://85.14.32.26:8800/udp/239.100.10.100:5000
+http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 #EXTINF:-1 tvg-id="TheVoice.bg" tvg-name="The Voice" tvg-logo="" tvg-country="BG" group-title="Music",The Voice [720p]
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="ThisisBulgariaHD.bg" tvg-name="This is Bulgaria HD" tvg-logo="" tvg-country="BG" group-title="Entertainment",This is Bulgaria HD [1080p]

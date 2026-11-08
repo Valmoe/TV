@@ -38,6 +38,9 @@ https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
 https://s6.hopslan.com/tlcX/index.m3u8
 #EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Senales TV" tvg-logo="" tvg-country="DO" group-title="Lifestyle",Senales TV
 https://live.dionelysterrero.com/senalestv/stream.m3u8
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="" tvg-country="ES" group-title="Lifestyle",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="" tvg-country="ES" group-title="Lifestyle",El Mueble [720p]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" tvg-logo="" tvg-country="ES" group-title="Travel",Voyages & Saveurs [720p]
@@ -62,12 +65,12 @@ http://88.212.7.14/live/tlc_hungary/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/parpika_hun/index.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv/p/3870/hybrid/play.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="GoodLife.il" tvg-name="Good Life" tvg-logo="" tvg-country="IL" group-title="Lifestyle",Good Life [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/47/index.m3u8
 #EXTINF:-1 tvg-id="AyushTV.in" tvg-name="Ayush TV" tvg-logo="" tvg-country="IN" group-title="Lifestyle",Ayush TV [576p]
-http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
+https://cdn.pishow.tv/ott/live/221/master.m3u8
 #EXTINF:-1 tvg-id="CVRHealth.in" tvg-name="CVR Health" tvg-logo="" tvg-country="IN" group-title="Lifestyle",CVR Health [576p]
 https://cdn.pishow.tv/ott/live/395/master.m3u8
 #EXTINF:-1 tvg-id="FashionTV.in" tvg-name="FashionTV" tvg-logo="" tvg-country="IN" group-title="Lifestyle",FashionTV [576p]
@@ -76,7 +79,7 @@ http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/143/143_0.m3u8
 #EXTINF:-1 tvg-id="KappaTV.in" tvg-name="Kappa TV" tvg-logo="" tvg-country="IN" group-title="Lifestyle",Kappa TV [576p]
-https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8
+https://cdn.pishow.tv/ott/live/1123/master.m3u8
 #EXTINF:-1 tvg-id="NDTVGoodTimes.in" tvg-name="NDTV Good Times" tvg-logo="" tvg-country="IN" group-title="Lifestyle",NDTV Good Times [1080p]
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.in" tvg-name="TLC" tvg-logo="" tvg-country="IN" group-title="Lifestyle",TLC [720p]
@@ -105,7 +108,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="FashionBox.nl" tvg-name="FashionBox" tvg-logo="" tvg-country="NL" group-title="Lifestyle",FashionBox
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl" tvg-name="INFAST" tvg-logo="" tvg-country="NL" group-title="Lifestyle",INFAST [1080p]
-https://amg00861-terncloud-amg00861c5-cineverse-us-963.playouts.now.amagi.tv/playlist/amg00861-terninternationalfast-lifestyleushd-cineverseus/playlist.m3u8
+https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.nz" tvg-name="HGTV" tvg-logo="" tvg-country="NZ" group-title="Lifestyle",HGTV [1080p]
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="" tvg-country="RO" group-title="Lifestyle",Antena Monden [720p]
@@ -115,7 +118,7 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="CityEdenMedZdrav.ru" tvg-name="City Eden MedZdrav" tvg-logo="" tvg-country="RU" group-title="Lifestyle",City Eden MedZdrav
 https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="" tvg-country="RU" group-title="Education",Doctor [576p]
-http://stream.mcquack.net/80/index.m3u8
+http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Domashnie Zhivotnye" tvg-logo="" tvg-country="RU" group-title="Lifestyle",Domashnie Zhivotnye [576p]
 https://stream8.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Domashniy" tvg-logo="" tvg-country="RU" group-title="Lifestyle",Domashniy [576p]
@@ -159,7 +162,7 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="" tvg-country="US" group-title="Lifestyle",30A Luxe Life Discovered [720p]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" tvg-logo="" tvg-country="US" group-title="Lifestyle",Antiques Road Trip [1080p]
-https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
+https://amg02333-pbs-amg02333c5-samsung-nz-2440.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us" tvg-name="Aspire TV Life" tvg-logo="" tvg-country="US" group-title="Lifestyle",Aspire TV Life [1080p]
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" tvg-logo="" tvg-country="US" group-title="Lifestyle",BBC Home & Garden [1080p]

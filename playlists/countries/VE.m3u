@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" tvg-logo="" tvg-country="VE" group-title="Kids",123TV [480p]
+http://200.59.191.177:8000/play/a0lb/index.m3u8
 #EXTINF:-1 tvg-id="ANTV.ve" tvg-name="ANTV" tvg-logo="" tvg-country="VE" group-title="Legislative",ANTV [720p]
 http://181.78.8.199:8000/play/a0fo/index.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="" tvg-country="VE" group-title="Sports",AS3 Sport TV [1080p]
@@ -20,14 +22,22 @@ https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
 https://streaming.canal-i.com/canal-i/live/master.m3u8
 #EXTINF:-1 tvg-id="CatatumboTV.ve" tvg-name="Catatumbo TV" tvg-logo="" tvg-country="VE" group-title="General",Catatumbo TV [406p]
 https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" tvg-logo="" tvg-country="VE" group-title="Education",Colombeia [576p]
+http://200.59.191.177:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="Globovision.ve" tvg-name="Globovision" tvg-logo="" tvg-country="VE" group-title="General",Globovision [576p]
 http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="GrandeTV.ve" tvg-name="Grande TV" tvg-logo="" tvg-country="VE" group-title="General",Grande TV [720p]
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8
 #EXTINF:-1 tvg-id="GuaroTV.ve" tvg-name="Guaro TV" tvg-logo="" tvg-country="VE" group-title="Entertainment",Guaro TV [720p]
 https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="IVC.ve" tvg-name="IVC" tvg-logo="" tvg-country="VE" group-title="General",IVC [480p]
+http://200.59.191.177:8000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" tvg-logo="" tvg-country="VE" group-title="Entertainment",Inter TV [1080p]
 https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" tvg-logo="" tvg-country="VE" group-title="General",Isla TV [480p]
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="KandelaTV" tvg-logo="" tvg-country="VE" group-title="Music",KandelaTV [480p]
+https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 #EXTINF:-1 tvg-id="LGDTelevision.ve" tvg-name="LGD Television" tvg-logo="" tvg-country="VE" group-title="Religious",LGD Television [720p]
 https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="LaTeleTuya.ve" tvg-name="La Tele Tuya" tvg-logo="" tvg-country="VE" group-title="Entertainment",La Tele Tuya [576p]
@@ -58,12 +68,16 @@ https://cdnbarinas.tvzamora.com/showven/index.m3u8
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-id="SomosTV.ve" tvg-name="Somos TV" tvg-logo="" tvg-country="VE" group-title="General",Somos TV [720p]
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
+#EXTINF:-1 tvg-id="SportsMaxNews.ve" tvg-name="SportsMax News" tvg-logo="" tvg-country="VE" group-title="Sports",SportsMax News [1080p]
+http://181.79.86.130:8000/play/a081/index.m3u8
 #EXTINF:-1 tvg-id="SunChannel.ve" tvg-name="Sun Channel" tvg-logo="" tvg-country="VE" group-title="Travel",Sun Channel [720p]
 http://168.196.127.137:6001/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="TAMTV.ve" tvg-name="TAM TV" tvg-logo="" tvg-country="VE" group-title="General",TAM TV
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TRT.ve" tvg-name="TRT" tvg-logo="" tvg-country="VE" group-title="General",TRT [410p]
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFANB.ve" tvg-name="TV FANB" tvg-logo="" tvg-country="VE" group-title="General",TV FANB [576p]
+http://200.59.191.177:8000/play/a0le/index.m3u8
 #EXTINF:-1 tvg-id="TVFamilia.ve" tvg-name="TV Familia" tvg-logo="" tvg-country="VE" group-title="Family",TV Familia [576p]
 https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOasisMonay.ve" tvg-name="TV Oasis Monay" tvg-logo="" tvg-country="VE" group-title="General",TV Oasis Monay [1080i]
@@ -72,12 +86,14 @@ https://live.teve.pro/live/tvoasis/index.m3u8
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:-1 tvg-id="TVS.ve" tvg-name="TVS" tvg-logo="" tvg-country="VE" group-title="General",TVS [720p]
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+#EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" tvg-logo="" tvg-country="VE" group-title="General",TVes [1080p]
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="" tvg-country="VE" group-title="General",TeleAragua [480p]
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" tvg-country="VE" group-title="General",Telecentro [480p]
 https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="" tvg-country="VE" group-title="News",Telesur [1080p]
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+http://181.78.211.244:8005/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="" tvg-country="VE" group-title="General",Televen [1080p]
 http://38.134.250.110:8000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="TelevisoradeOriente.ve" tvg-name="Televisora de Oriente" tvg-logo="" tvg-country="VE" group-title="General",Televisora de Oriente [406p]
@@ -99,6 +115,8 @@ http://181.78.8.199:8000/play/a0if/index.m3u8
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="VepacoTV.ve" tvg-name="Vepaco TV" tvg-logo="" tvg-country="VE" group-title="General",Vepaco TV [480p]
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" tvg-logo="" tvg-country="VE" group-title="Education",Vive [576p]
+http://200.59.191.177:8000/play/a0l6/index.m3u8
 #EXTINF:-1 tvg-id="WataVision.ve" tvg-name="Wata Vision" tvg-logo="" tvg-country="VE" group-title="General",Wata Vision
 https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
 #EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="eSports Max TV" tvg-logo="" tvg-country="VE" group-title="Animation",eSports Max TV

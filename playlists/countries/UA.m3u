@@ -128,6 +128,8 @@ http://stream.mcquack.net/158/index.m3u8
 #EXTINF:-1 tvg-id="ICTV2.ua" tvg-name="ICTV2" tvg-logo="" tvg-country="UA" group-title="Entertainment",ICTV2 [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/368/index.m3u8
+#EXTINF:-1 tvg-id="IRT.ua" tvg-name="IRT" tvg-logo="" tvg-country="UA" group-title="General",IRT [720p]
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="" tvg-country="UA" group-title="General",ITV [720p]
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="InRatingTV.ua" tvg-name="InRating TV" tvg-logo="" tvg-country="UA" group-title="Music",InRating TV [1080p]
@@ -156,6 +158,9 @@ http://stream.mcquack.net/465/index.m3u8
 #EXTINF:-1 tvg-id="Kinoliving.ua" tvg-name="Kinoliving" tvg-logo="" tvg-country="UA" group-title="Movies",Kinoliving [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 tvg-id="Kinowood.ua" tvg-name="Kinowood" tvg-logo="" tvg-country="UA" group-title="Movies",Kinowood [1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="KonkurentUkraine.ua" tvg-name="Konkurent Ukraine" tvg-logo="" tvg-country="UA" group-title="General",Konkurent Ukraine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
@@ -221,6 +226,8 @@ http://stream.mcquack.net/157/index.m3u8
 #EXTINF:-1 tvg-id="OTSE.ua" tvg-name="OTSE" tvg-logo="" tvg-country="UA" group-title="Entertainment",OTSE [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/329/index.m3u8
+#EXTINF:-1 tvg-id="OTV.ua" tvg-name="OTV" tvg-logo="" tvg-country="UA" group-title="General",OTV [576p]
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" tvg-logo="" tvg-country="UA" group-title="News",Obshchestvennoe Nezavisimoe Televidenie [576p]
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OnePlanet.ua" tvg-name="One Planet" tvg-logo="" tvg-country="UA" group-title="General",One Planet [1080p]
@@ -269,7 +276,7 @@ https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" tvg-logo="" tvg-country="UA" group-title="Outdoor",Rybalka [1080p]
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" tvg-logo="" tvg-country="UA" group-title="News",SK 1 [720p]
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="STB.ua" tvg-name="STB" tvg-logo="" tvg-country="UA" group-title="General",STB [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8

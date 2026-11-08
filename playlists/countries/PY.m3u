@@ -74,7 +74,7 @@ https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" tvg-country="PY" group-title="General",Paraguay TV [1080p]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" tvg-country="PY" group-title="General",Paravision
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
+http://45.170.130.224:8000/play/a032/index.m3u8?hls
 #EXTINF:-1 tvg-id="PopuTV.py" tvg-name="Popu TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",Popu TV [1080p]
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
@@ -113,8 +113,7 @@ http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-name="TV Canindeyu" tvg-logo="" tvg-country="PY" group-title="General",TV Canindeyu [1080p]
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="" tvg-country="PY" group-title="General",Telefuturo [1080p]
-#EXTVLCOPT:http-referrer=https://www.telefuturo.com.py
-https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+http://158.172.217.18:8000/play/a0ns/index.m3u8
 #EXTINF:-1 tvg-id="Trece.py" tvg-name="Trece" tvg-logo="" tvg-country="PY" group-title="General",Trece
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8
 #EXTINF:-1 tvg-id="Tropicalia939FM.py" tvg-name="Tropicalia 93.9 FM" tvg-logo="" tvg-country="PY" group-title="Music",Tropicalia 93.9 FM

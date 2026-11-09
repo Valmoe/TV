@@ -10,7 +10,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca" tvg-name="Ontario Parliamentary Network" tvg-logo="" tvg-country="CA" group-title="Legislative",Ontario Parliamentary Network [720p]
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCongreso.co" tvg-name="Canal Congreso" tvg-logo="" tvg-country="CO" group-title="Legislative",Canal Congreso [1080p]
-http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
+http://181.78.82.130:8000/play/a0s1/index.m3u8
 #EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-name="Parlamentsfernsehen 1" tvg-logo="" tvg-country="DE" group-title="Legislative",Parlamentsfernsehen 1 [1080p]
 https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
 #EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk" tvg-name="TV from the Danish Parliament" tvg-logo="" tvg-country="DK" group-title="Legislative",TV from the Danish Parliament [1080p]
@@ -19,10 +19,14 @@ https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7q
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" tvg-logo="" tvg-country="ES" group-title="Legislative",Canal Parlamento [360p]
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="ParlamentodeNavarra.es" tvg-name="Parlamento de Navarra" tvg-logo="" tvg-country="ES" group-title="Legislative",Parlamento de Navarra [368p]
+https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP" tvg-logo="" tvg-country="FR" group-title="Legislative",LCP [477p]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="HellenicParliamentTV.gr" tvg-name="Hellenic Parliament TV" tvg-logo="" tvg-country="GR" group-title="Legislative",Hellenic Parliament TV [1080p]
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" tvg-logo="" tvg-country="HU" group-title="Legislative",Orszaggyules: OGY plenaris [720p]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="Knesset Channel" tvg-logo="" tvg-country="IL" group-title="Legislative",Knesset Channel [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/48/index.m3u8
@@ -49,8 +53,6 @@ https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="ParliamentTV.nz" tvg-name="Parliament TV" tvg-logo="" tvg-country="NZ" group-title="Legislative",Parliament TV [1080p]
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 tvg-id="JNETV.pe" tvg-name="JNE TV" tvg-logo="" tvg-country="PE" group-title="Legislative",JNE TV [720p]
-https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe" tvg-name="Justicia TV" tvg-logo="" tvg-country="PE" group-title="Legislative",Justicia TV [1080p]
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="" tvg-country="PT" group-title="Legislative",ARTV [720p]

@@ -5,10 +5,6 @@ https://tv.alterna.ar/stream/hls/live.m3u8
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="" tvg-country="AR" group-title="Culture",Encuentro [720p]
 http://138.59.227.20:8000/play/a05s/index.m3u8
-#EXTINF:-1 tvg-id="SenalU.ar" tvg-name="Senal U" tvg-logo="" tvg-country="AR" group-title="Culture",Senal U
-https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
-#EXTINF:-1 tvg-id="SomosEntreRios.ar" tvg-name="Somos Entre Rios" tvg-logo="" tvg-country="AR" group-title="General",Somos Entre Rios [360p]
-https://live20.bozztv.com/akamaissh101/ssh101/somosentrerios/playlist.m3u8
 #EXTINF:-1 tvg-id="ORFIII.at" tvg-name="ORF III" tvg-logo="" tvg-country="AT" group-title="Culture",ORF III [720p]
 https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 #EXTINF:-1 tvg-id="ChannelS.bd" tvg-name="Channel S" tvg-logo="" tvg-country="BD" group-title="Culture",Channel S [720p]
@@ -72,6 +68,8 @@ https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" tvg-logo="" tvg-country="CL" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
+#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" tvg-logo="" tvg-country="CM" group-title="Culture",Kemet TV
+https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-logo="" tvg-country="CN" group-title="Culture",CCTV-8 [720p]
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="" tvg-country="CN" group-title="Documentary",China Travel [1080p]
@@ -101,20 +99,20 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" tvg-country="EE" group-title="Kids",ETV 2 [720p]
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-logo="" tvg-country="ES" group-title="Culture",Hamaika Telebista [1080p]
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.m3u8
+https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="" tvg-country="HU" group-title="Culture",Liceum TV [576p]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv/p/3870/hybrid/play.m3u8
+https://live.salira.tv:3870/stream/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
@@ -150,8 +148,6 @@ https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AbaiTV.kz" tvg-name="Abai TV" tvg-logo="" tvg-country="KZ" group-title="Culture",Abai TV [720p]
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="" tvg-country="LK" group-title="Culture",Imai TV [1080p]
-https://live20.bozztv.com/akamaissh101/ssh101/imaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" tvg-logo="" tvg-country="LT" group-title="Culture",LRT Plius [1080p]
 http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" tvg-logo="" tvg-country="LU" group-title="Lifestyle",apart TV [1080p]
@@ -175,8 +171,6 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" tvg-logo="" tvg-country="MX" group-title="Education",UAA TV [1080p]
 https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
-#EXTINF:-1 tvg-id="Nigbati.ng" tvg-name="Nigbati" tvg-logo="" tvg-country="NG" group-title="Culture",Nigbati [720p]
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng" tvg-name="Qausain TV" tvg-logo="" tvg-country="NG" group-title="Culture",Qausain TV [720p]
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="" tvg-country="NL" group-title="Culture",Jin TV
@@ -196,7 +190,7 @@ http://92.114.85.87:8016/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="TVRCultural.ro" tvg-name="TVR Cultural" tvg-logo="" tvg-country="RO" group-title="Culture",TVR Cultural [1440p]
 https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" tvg-logo="" tvg-country="RU" group-title="Culture",ART [576p]
-http://185.23.80.23:8080/ART/index.m3u8
+http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="" tvg-country="RU" group-title="Culture",Ministerstvo idey [1080p]
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
@@ -235,8 +229,6 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="" tvg-country="US" group-title="Culture",Classic Arts Showcase [720p]
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-id="EBS.us" tvg-name="EBS" tvg-logo="" tvg-country="US" group-title="Culture",EBS [1080p]
-https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 #EXTINF:-1 tvg-id="FNX.us" tvg-name="FNX" tvg-logo="" tvg-country="US" group-title="Culture",FNX [1080p]
 https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" tvg-logo="" tvg-country="US" group-title="Culture",Flowers TV USA [396p]
@@ -248,7 +240,7 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" tvg-logo="" tvg-country="US" group-title="Culture",Hmong TV Network [720p]
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" tvg-logo="" tvg-country="US" group-title="Culture",Jewish Life Television [1080p]
-https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-name="KIIO-LD 10.1" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.4 [480p]

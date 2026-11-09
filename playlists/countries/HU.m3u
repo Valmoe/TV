@@ -13,12 +13,16 @@ http://88.212.7.14/live/test_atv_spirit/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="Alfold TV" tvg-logo="" tvg-country="HU" group-title="Entertainment",Alfold TV [1080p]
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.hu" tvg-name="Animal Planet" tvg-logo="" tvg-country="HU" group-title="General",Animal Planet
 http://88.212.7.14/live/animal_hun/index.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-name="Apostol TV" tvg-logo="" tvg-country="HU" group-title="Religious",Apostol TV [576p]
 https://live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Arena4.hu" tvg-name="Arena4" tvg-logo="" tvg-country="HU" group-title="Sports",Arena4
 http://88.212.7.14/live/arena4/index.m3u8
+#EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="" tvg-country="HU" group-title="General",Bajai TV [720p]
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="" tvg-country="HU" group-title="General",Balaton TV [432p]
 https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-name="Budapest Europa Televizio" tvg-logo="" tvg-country="HU" group-title="General",Budapest Europa Televizio [576p]
@@ -81,6 +85,10 @@ http://88.212.7.14/live/jim_jam_hun/index.m3u8
 http://88.212.7.14/live/jocky/index.m3u8
 #EXTINF:-1 tvg-id="KanizsaTV.hu" tvg-name="Kanizsa TV" tvg-logo="" tvg-country="HU" group-title="General",Kanizsa TV [400p]
 https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KarcagTV.hu" tvg-name="Karcag TV" tvg-logo="" tvg-country="HU" group-title="General",Karcag TV [720p]
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KecskemetiTV.hu" tvg-name="Kecskemeti TV" tvg-logo="" tvg-country="HU" group-title="General",Kecskemeti TV [416p]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub.hu" tvg-name="Kolyokklub" tvg-logo="" tvg-country="HU" group-title="Kids",Kolyokklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/kolyokklub_atk/index.m3u8
@@ -144,6 +152,8 @@ http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 http://88.212.7.14/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1 tvg-id="OroszlanyiVarosiTelevizio.hu" tvg-name="Oroszlanyi Varosi Televizio" tvg-logo="" tvg-country="HU" group-title="General",Oroszlanyi Varosi Televizio [720p]
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OrszaggyulesOGYplenaris.hu" tvg-name="Orszaggyules: OGY plenaris" tvg-logo="" tvg-country="HU" group-title="Legislative",Orszaggyules: OGY plenaris [720p]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OxygenMusic.hu" tvg-name="Oxygen Music" tvg-logo="" tvg-country="HU" group-title="Music",Oxygen Music [1080p]
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 #EXTINF:-1 tvg-id="OzdiVarosiTV.hu" tvg-name="Ozdi Varosi TV" tvg-logo="" tvg-country="HU" group-title="General",Ozdi Varosi TV [720p]
@@ -198,8 +208,8 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Story4.hu" tvg-name="Story4" tvg-logo="" tvg-country="HU" group-title="General",Story4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.7.14/live/story_4_cze_atk/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="Super TV2" tvg-logo="" tvg-country="HU" group-title="General",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
@@ -232,7 +242,8 @@ http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="TelePaks.hu" tvg-name="TelePaks" tvg-logo="" tvg-country="HU" group-title="General",TelePaks [396p]
 https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" tvg-logo="" tvg-country="HU" group-title="Outdoor",The Fishing & Hunting Channel
-http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.hu" tvg-name="Travel Channel" tvg-logo="" tvg-country="HU" group-title="General",Travel Channel
 http://88.212.7.14/live/travel_hun/index.m3u8
 #EXTINF:-1 tvg-id="Viasat3.hu" tvg-name="Viasat 3" tvg-logo="" tvg-country="HU" group-title="General",Viasat 3

@@ -99,13 +99,13 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" tvg-country="EE" group-title="Kids",ETV 2 [720p]
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-logo="" tvg-country="ES" group-title="Culture",Hamaika Telebista [1080p]
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.ll.m3u8
+https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
@@ -171,6 +171,8 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" tvg-logo="" tvg-country="MX" group-title="Education",UAA TV [1080p]
 https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-id="Nigbati.ng" tvg-name="Nigbati" tvg-logo="" tvg-country="NG" group-title="Culture",Nigbati [720p]
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="QausainTV.ng" tvg-name="Qausain TV" tvg-logo="" tvg-country="NG" group-title="Culture",Qausain TV [720p]
 https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="" tvg-country="NL" group-title="Culture",Jin TV
@@ -213,8 +215,6 @@ https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91c5ac96898.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" tvg-logo="" tvg-country="TR" group-title="Religious",Sercem TV [1080p]
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="TRTGenc.tr" tvg-name="TRT Genc" tvg-logo="" tvg-country="TR" group-title="General",TRT Genc [1440p]
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" tvg-logo="" tvg-country="TW" group-title="Culture",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" tvg-logo="" tvg-country="UA" group-title="Culture",ATR [1080p]
@@ -229,6 +229,8 @@ https://dlttx48mxf9m3.cloudfront.net/vod_clients/amp/live/ch2/video.m3u8
 https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(c55d1594-ad62-7434-aa17-4d71adb80f99)/index.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="" tvg-country="US" group-title="Culture",Classic Arts Showcase [720p]
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 tvg-id="EBS.us" tvg-name="EBS" tvg-logo="" tvg-country="US" group-title="Culture",EBS [1080p]
+https://rpn.bozztv.com/ebstv/ebstv/index.m3u8
 #EXTINF:-1 tvg-id="FNX.us" tvg-name="FNX" tvg-logo="" tvg-country="US" group-title="Culture",FNX [1080p]
 https://fnx.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="FlowersTVUSA.us" tvg-name="Flowers TV USA" tvg-logo="" tvg-country="US" group-title="Culture",Flowers TV USA [396p]

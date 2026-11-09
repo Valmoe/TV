@@ -44,7 +44,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale2Altamura.it" tvg-name="Canale 2 Altamura" tvg-logo="" tvg-country="IT" group-title="General",Canale 2 Altamura [576p]
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-logo="" tvg-country="IT" group-title="General",Canale 7 [480p]
-http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-logo="" tvg-country="IT" group-title="General",Canale 8 [480p]
 http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="" tvg-country="IT" group-title="Animation",Cartoon Network
@@ -148,7 +148,7 @@ http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 tvg-id="LaCNews24.it" tvg-name="LaC News 24" tvg-logo="" tvg-country="IT" group-title="News",LaC News 24 [720p]
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" tvg-logo="" tvg-country="IT" group-title="General",Le Cronache TV [720p]
-http://77.68.40.210:8888/hls/cronache.m3u8
+http://stucazz.com:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="LiraTV.it" tvg-name="Lira TV" tvg-logo="" tvg-country="IT" group-title="News",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" tvg-logo="" tvg-country="IT" group-title="General",Lombardia TV [720p]
@@ -159,7 +159,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" tvg-logo="" tvg-country="IT" group-title="General",Mediaset Italia [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it" tvg-name="Medjugorje Italia TV" tvg-logo="" tvg-country="IT" group-title="Religious",Medjugorje Italia TV [480p]
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="" tvg-country="IT" group-title="Sports",Milan TV [720p]
@@ -247,7 +247,7 @@ http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioIglesiasSardegna.it" tvg-name="Radio Iglesias Sardegna" tvg-logo="" tvg-country="IT" group-title="General",Radio Iglesias Sardegna [576p]
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTrendTV.it" tvg-name="Radio Italia Trend TV" tvg-logo="" tvg-country="IT" group-title="Music",Radio Italia Trend TV [720p]
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
+https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-name="Radio Norba TV" tvg-logo="" tvg-country="IT" group-title="General",Radio Norba TV [1080p]
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-name="Radio Number One" tvg-logo="" tvg-country="IT" group-title="General",Radio Number One [720p]
@@ -277,6 +277,8 @@ http://team-tv.co:81/rai5/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
 #EXTINF:-1 tvg-id="RaiItalia.it" tvg-name="Rai Italia" tvg-logo="" tvg-country="IT" group-title="General",Rai Italia [1080p]
 http://138.59.177.78:9999/play/a0gf/index.m3u8
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="" tvg-country="IT" group-title="Movies",Rai Movie [1080p]
+http://team-tv.co:81/raimovie/index.m3u8
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="" tvg-country="IT" group-title="News",Rai News 24 [1080p]
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" tvg-country="IT" group-title="General",Rai Storia [1080p]
@@ -311,7 +313,7 @@ https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="" tvg-country="IT" group-title="Sports",Sportitalia [1080p]
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="" tvg-country="IT" group-title="Sports",Sportitalia Solocalcio [1080p]
-https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-name="Stereo 5 TV" tvg-logo="" tvg-country="IT" group-title="General",Stereo 5 TV [720p]
 https://stream1.aswifi.it/stereo5/live/index.m3u8
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-name="Super Six" tvg-logo="" tvg-country="IT" group-title="General",Super Six [720p]
@@ -373,7 +375,7 @@ https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlis
 #EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-name="Telecolor Lombardia" tvg-logo="" tvg-country="IT" group-title="General",Telecolor Lombardia [1080p]
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefoggia.it" tvg-name="Telefoggia" tvg-logo="" tvg-country="IT" group-title="General",Telefoggia [480p]
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 #EXTINF:-1 tvg-id="Telefriuli.it" tvg-name="Telefriuli" tvg-logo="" tvg-country="IT" group-title="General",Telefriuli [1080p]
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
 #EXTINF:-1 tvg-id="Telegela647.it" tvg-name="Telegela 647" tvg-logo="" tvg-country="IT" group-title="News",Telegela 647 [720p]
@@ -398,8 +400,6 @@ https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 #EXTINF:-1 tvg-id="UmbriaTV.it" tvg-name="Umbria TV" tvg-logo="" tvg-country="IT" group-title="General",Umbria TV [576p]
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
-#EXTINF:-1 tvg-id="UniNettunoUniversityTV.it" tvg-name="UniNettuno University TV" tvg-logo="" tvg-country="IT" group-title="General",UniNettuno University TV [720p]
-https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 #EXTINF:-1 tvg-id="Value24TV.it" tvg-name="Value 24 TV" tvg-logo="" tvg-country="IT" group-title="General",Value 24 TV [1080p]
 https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
 #EXTINF:-1 tvg-id="VisualRadio.it" tvg-name="Visual Radio" tvg-logo="" tvg-country="IT" group-title="General",Visual Radio [576p]

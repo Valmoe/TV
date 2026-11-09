@@ -19,9 +19,8 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="" tvg-country="RO" group-title="General",Antena 1 [1440p]
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8
-#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="" tvg-country="RO" group-title="News",Antena 3 CNN [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="" tvg-country="RO" group-title="News",Antena 3 CNN [1080i]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="Antena3Constanta.ro" tvg-name="Antena 3 Constanta" tvg-logo="" tvg-country="RO" group-title="News",Antena 3 Constanta [576p]
 https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-id="Antena3Suceava.ro" tvg-name="Antena 3 Suceava" tvg-logo="" tvg-country="RO" group-title="News",Antena 3 Suceava [576i]
@@ -61,8 +60,8 @@ https://tvboom.ro/live-tv/live.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi la cutite [576i]
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080p]
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080i]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" tvg-logo="" tvg-country="RO" group-title="Movies",CineWow [576i]
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="" tvg-country="RO" group-title="Movies",Cinemaraton Plus [1080i]
@@ -124,6 +123,8 @@ https://stream2.kanald.ro/iphone/knd2-live.m3u8
 https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro" tvg-name="Kiss TV" tvg-logo="" tvg-country="RO" group-title="Music",Kiss TV [1080p]
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="" tvg-country="RO" group-title="General",Light Channel [480p]
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="MISATV.ro" tvg-name="MISA TV" tvg-logo="" tvg-country="RO" group-title="Religious",MISA TV [720p]
 https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro" tvg-name="Magic TV" tvg-logo="" tvg-country="RO" group-title="Music",Magic TV [720p]

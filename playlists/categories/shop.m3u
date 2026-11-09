@@ -6,7 +6,7 @@ https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" tvg-name="Red TV Shop" tvg-logo="" tvg-country="BO" group-title="Shop",Red TV Shop [720p]
 https://master.tucableip.com/redtvshop/index.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" tvg-name="TSC" tvg-logo="" tvg-country="CA" group-title="Shop",TSC [720p]
-https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-logo="" tvg-country="DE" group-title="Shop",HSE [1080p]
 https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
 #EXTINF:-1 tvg-id="HSEExtra.de" tvg-name="HSE Extra" tvg-logo="" tvg-country="DE" group-title="Shop",HSE Extra [1080p]
@@ -15,6 +15,8 @@ https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
 https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
 #EXTINF:-1 tvg-id="Handystar.de" tvg-name="Handystar" tvg-logo="" tvg-country="DE" group-title="Shop",Handystar [404p]
 https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-name="Juwelo" tvg-logo="" tvg-country="DE" group-title="Shop",Juwelo [720p]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
 #EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-name="KaufBei TV" tvg-logo="" tvg-country="DE" group-title="Shop",KaufBei TV [720p]
 https://elephant.t62a.com/hls/8103/index.m3u8
 #EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" tvg-logo="" tvg-country="DE" group-title="Shop",QVC [720p]
@@ -27,6 +29,8 @@ http://62.1.176.18:8888/extra/index.m3u8
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" tvg-logo="" tvg-country="IT" group-title="Shop",Casa Italia 53 [720p]
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Juwelo.it" tvg-name="Juwelo" tvg-logo="" tvg-country="IT" group-title="Shop",Juwelo [480p]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="" tvg-country="IT" group-title="Shop",QVC [540p]
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="GSTV.jp" tvg-name="GSTV" tvg-logo="" tvg-country="JP" group-title="Shop",GSTV [720p]
@@ -112,7 +116,7 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
 #EXTINF:-1 tvg-id="QVC3.us" tvg-name="QVC3" tvg-logo="" tvg-country="US" group-title="Shop",QVC3 [1080p]
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8
 #EXTINF:-1 tvg-id="ShopLC.us" tvg-name="Shop LC" tvg-logo="" tvg-country="US" group-title="Shop",Shop LC [1080p]
-https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
 #EXTINF:-1 tvg-id="TVSConsumerDirect.us" tvg-name="TVS Consumer Direct" tvg-logo="" tvg-country="US" group-title="Shop",TVS Consumer Direct [720p]
 https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8
 #EXTINF:-1 tvg-id="LaoSVTV.vn" tvg-name="Lao SV TV" tvg-logo="" tvg-country="VN" group-title="Shop",Lao SV TV [480p]

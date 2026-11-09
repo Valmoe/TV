@@ -19,6 +19,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://canal.mediaserver.com.co/live/buenisimatv.m3u8
 #EXTINF:-1 tvg-id="CMBTelevision.co" tvg-name="CMB Television" tvg-logo="" tvg-country="CO" group-title="Religious",CMB Television [1080p]
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+#EXTINF:-1 tvg-id="CNCBugavision.co" tvg-name="CNC Bugavision" tvg-logo="" tvg-country="CO" group-title="General",CNC Bugavision [720p]
+https://video.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" tvg-logo="" tvg-country="CO" group-title="General",CNC Medellin [1080p]
 http://181.79.86.130:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CNCPereira.co" tvg-name="CNC Pereira" tvg-logo="" tvg-country="CO" group-title="General",CNC Pereira [720p]
@@ -38,7 +40,7 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8Sincelejo.co" tvg-name="Canal 8 Sincelejo" tvg-logo="" tvg-country="CO" group-title="General",Canal 8 Sincelejo [720p]
 http://181.78.21.38:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-name="Canal 8 TV+" tvg-logo="" tvg-country="CO" group-title="General",Canal 8 TV+ [720p]
-https://movil.ejeserver.com/live/canal8tv.m3u8
+https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="CanalCalimaTV.co" tvg-name="Canal Calima TV" tvg-logo="" tvg-country="CO" group-title="General",Canal Calima TV [720p]
 https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="CanalCapital.co" tvg-name="Canal Capital" tvg-logo="" tvg-country="CO" group-title="General",Canal Capital [1080p]
@@ -52,7 +54,7 @@ http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" tvg-logo="" tvg-country="CO" group-title="General",Canal Institucional [1080p]
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" tvg-country="CO" group-title="General",Canal Mas Television [720p]
-https://movil.ejeserver.com/live/teledoradahd.m3u8
+https://video.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" tvg-logo="" tvg-country="CO" group-title="Entertainment",Canal Nets [720p]
 https://video.ejeserver.com/live/nets.m3u8
 #EXTINF:-1 tvg-id="CanalOracionConSon.co" tvg-name="Canal Oracion Con Son" tvg-logo="" tvg-country="CO" group-title="Religious",Canal Oracion Con Son [1080p]
@@ -74,9 +76,9 @@ https://stmv4.voxtvhd.com.br/canicatv/canicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co" tvg-name="Caracol HD2" tvg-logo="" tvg-country="CO" group-title="General",Caracol HD2 [1080p]
 http://190.109.2.92:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="" tvg-country="CO" group-title="General",Caracol Internacional [1080p]
-http://45.238.141.222:8000/play/a0oo/index.m3u8
+http://45.5.117.57:8200/play/a0e9/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="" tvg-country="CO" group-title="General",Caracol TV [1080p]
-http://168.228.44.241:9997/play/a03t/index.m3u8
+http://181.78.17.228:8081/CARACOL-HD/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="Citytv Bogota" tvg-logo="" tvg-country="CO" group-title="General",Citytv Bogota [1080p]
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-id="ClaroMusicaTV.co" tvg-name="Claro Musica TV" tvg-logo="" tvg-country="CO" group-title="Music",Claro Musica TV [1080p]
@@ -134,10 +136,9 @@ https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co" tvg-name="RCN HD2" tvg-logo="" tvg-country="CO" group-title="General",RCN HD2 [1080p]
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Mas" tvg-logo="" tvg-country="CO" group-title="Entertainment",RCN Mas [1080p]
-https://rcntv-rcnmas-1-us.roku.wurl.tv/3000.m3u8
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co" tvg-name="RCN Novelas" tvg-logo="" tvg-country="CO" group-title="Entertainment",RCN Novelas [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadiolaTV.co" tvg-name="Radiola TV" tvg-logo="" tvg-country="CO" group-title="Music",Radiola TV [1080p]
 http://158.172.217.18:8000/play/a01k/index.m3u8
 #EXTINF:-1 tvg-id="RanchenatoTV.co" tvg-name="Ranchenato TV" tvg-logo="" tvg-country="CO" group-title="Music",Ranchenato TV [1080p]
@@ -147,9 +148,7 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1 tvg-id="Reyali.co" tvg-name="Reyali" tvg-logo="" tvg-country="CO" group-title="Music",Reyali [614p]
 https://eu1.servers10.com:8081/8090/index.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co" tvg-name="Rumba TV" tvg-logo="" tvg-country="CO" group-title="Music",Rumba TV [1080p]
-http://190.61.47.54:8000/play/a01l/index.m3u8
-#EXTINF:-1 tvg-id="SalsaGordaTelevision.co" tvg-name="Salsa Gorda Television" tvg-logo="" tvg-country="CO" group-title="Music",Salsa Gorda Television [1080p]
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+http://38.134.250.110:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="SantelTV.co" tvg-name="Santel TV" tvg-logo="" tvg-country="CO" group-title="Religious",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
 #EXTINF:-1 tvg-id="SenalColombia.co" tvg-name="Senal Colombia" tvg-logo="" tvg-country="CO" group-title="General",Senal Colombia [1080p]
@@ -162,12 +161,16 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 #EXTINF:-1 tvg-id="SupermusicaTV.co" tvg-name="Supermusica TV" tvg-logo="" tvg-country="CO" group-title="Music",Supermusica TV [720p]
 https://backupmaxmedia.hvmultiplay.com/hls/stream4/supermusica.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-logo="" tvg-country="CO" group-title="General",Suram TV [720p]
+https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 tvg-id="TVGolfoUraba.co" tvg-name="TV Golfo Uraba" tvg-logo="" tvg-country="CO" group-title="Entertainment",TV Golfo Uraba
 https://stmv7.voxtvhd.com.br/golfo/golfo/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3LaPlata.co" tvg-name="TV3 La Plata" tvg-logo="" tvg-country="CO" group-title="General",TV3 La Plata [480p]
 https://live.amelbatv.co:81/teleopita/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="TVAgro.co" tvg-name="TVAgro" tvg-logo="" tvg-country="CO" group-title="Outdoor",TVAgro [1080p]
 http://190.61.47.54:8000/play/a01k/index.m3u8
+#EXTINF:-1 tvg-id="TVGracia.co" tvg-name="TVGracia" tvg-logo="" tvg-country="CO" group-title="Religious",TVGracia
+https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 #EXTINF:-1 tvg-id="TeleAmiga.co" tvg-name="Tele Amiga" tvg-logo="" tvg-country="CO" group-title="Culture",Tele Amiga [480p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8
@@ -181,11 +184,11 @@ http://38.134.250.110:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="TeleQuindio.co" tvg-name="TeleQuindio" tvg-logo="" tvg-country="CO" group-title="General",TeleQuindio [1080p]
 https://live20.bozztv.com/akamaissh101/ssh101/telequindio/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="" tvg-country="CO" group-title="General",Teleantioquia [1080p]
-http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+http://200.115.120.1:8000/play/ca246/index.m3u8
 #EXTINF:-1 tvg-id="Telecafe.co" tvg-name="Telecafe" tvg-logo="" tvg-country="CO" group-title="General",Telecafe [1080p]
 http://138.121.15.230:9002/TELECAFE/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co" tvg-name="Telecaribe" tvg-logo="" tvg-country="CO" group-title="General",Telecaribe [1080p]
-http://138.121.15.230:9002/TELECARIBE/index.m3u8
+http://190.61.47.54:8000/play/a010/index.m3u8
 #EXTINF:-1 tvg-id="TelecaribePlus.co" tvg-name="Telecaribe Plus" tvg-logo="" tvg-country="CO" group-title="General",Telecaribe Plus [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8

@@ -22,7 +22,7 @@ https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq" tvg-name="Bonaire.tv" tvg-logo="" tvg-country="BQ" group-title="Culture",Bonaire.tv [1080p]
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="" tvg-country="BR" group-title="Culture",Arte 1 [720p]
-http://45.162.64.114/ARTE1/index.m3u8
+http://170.83.16.50/ARTE_1/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" tvg-logo="" tvg-country="BR" group-title="Culture",Bem Mais TV [1080p]
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
@@ -53,7 +53,7 @@ https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pamir TV [1080p]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-name="Pardesi TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pardesi TV [720p]
-http://stream.pardesitv.online/pardesi/index.m3u8
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Evtele.cg" tvg-name="Ev-tele" tvg-logo="" tvg-country="CG" group-title="Culture",Ev-tele [720p]
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" tvg-country="CL" group-title="Culture",13C [1080p]
@@ -94,8 +94,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do" tvg-name="Canal 17 RTVD" tvg-logo="" tvg-country="DO" group-title="Culture",Canal 17 RTVD [1080p]
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV" tvg-logo="" tvg-country="DO" group-title="Culture",Guaymate TV [720p]
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec" tvg-name="Ciracu TV" tvg-logo="" tvg-country="EC" group-title="Culture",Ciracu TV [720p]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="" tvg-country="EC" group-title="Culture",Manavision [480p]
@@ -109,14 +107,14 @@ https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.ll.m3u8
+https://live.azenagroup.com/zenith/index.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="" tvg-country="HU" group-title="Culture",Liceum TV [576p]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
@@ -145,7 +143,7 @@ https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarycha
 #EXTINF:-1 tvg-id="Telepace2.it" tvg-name="Telepace 2" tvg-logo="" tvg-country="IT" group-title="Religious",Telepace 2 [1080p]
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="" tvg-country="JP" group-title="News",NHK World-Japan [1080p]
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="KTV2.kw" tvg-name="KTV 2" tvg-logo="" tvg-country="KW" group-title="Culture",KTV 2 [1080p]
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVArabe.kw" tvg-name="KTV Arabe" tvg-logo="" tvg-country="KW" group-title="Culture",KTV Arabe [1080p]
@@ -214,7 +212,7 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" tvg-logo="" tvg-country="SR" group-title="Culture",Trishul Broadcasting Network [720p]
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="" tvg-country="TM" group-title="Culture",Miras [406p]
-https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+https://alpha.tv.online.tm/hls/ch003.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="LuysTV.tr" tvg-name="Luys TV" tvg-logo="" tvg-country="TR" group-title="Culture",Luys TV [1080p]

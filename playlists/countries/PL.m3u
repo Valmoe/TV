@@ -17,10 +17,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="" tvg-country="PL" group-title="General",BTB 2 [1080p]
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
-#EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" tvg-logo="" tvg-country="PL" group-title="General",BTB 3 [1080p]
-https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="" tvg-country="PL" group-title="Documentary",BTB Info [1080p]
-https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" tvg-logo="" tvg-country="PL" group-title="Entertainment",Bialogardzka Telewizja Kablowa [1080p]
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="" tvg-country="PL" group-title="General",Bigtime [720p]
@@ -35,6 +33,18 @@ http://92.114.85.87:8017/play/a004/index.m3u8
 http://92.114.85.87:8019/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusKuchnia.pl" tvg-name="Canal+ Kuchnia" tvg-logo="" tvg-country="PL" group-title="Cooking",Canal+ Kuchnia [576i]
 http://92.114.85.87:8019/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.pl" tvg-name="Canal+ Sport" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/92/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-name="Canal+ Sport 2" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/94/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/93/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" tvg-logo="" tvg-country="PL" group-title="General",Car City Adventures [720p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" tvg-logo="" tvg-country="PL" group-title="Entertainment",Crime + Investigation Polsat [576i]
@@ -160,9 +170,9 @@ https://prx-y5cf8.mediatool.tv/playout/sepl-abr67/index.m3u8
 #EXTINF:-1 tvg-id="SuperPolsat.pl" tvg-name="Super Polsat" tvg-logo="" tvg-country="PL" group-title="General",Super Polsat
 http://92.114.85.87:8004/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel" tvg-logo="" tvg-country="PL" group-title="General",TNA Wrestling Channel [720p]
-https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-id="TOPBarca.pl" tvg-name="TOP Barca" tvg-logo="" tvg-country="PL" group-title="General",TOP Barca [1080p]
-https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" tvg-logo="" tvg-country="PL" group-title="General",TV ASTA [720p]
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="" tvg-country="PL" group-title="General",TV Kujawy [576p]

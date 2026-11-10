@@ -67,8 +67,6 @@ https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 tvg-id="Balabol.ru" tvg-name="Balabol" tvg-logo="" tvg-country="RU" group-title="Series",Balabol [1080p]
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1 tvg-id="Belgorod24.ru" tvg-name="Belgorod 24" tvg-logo="" tvg-country="RU" group-title="General",Belgorod 24 [1080p]
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-name="Big Asia" tvg-logo="" tvg-country="RU" group-title="General",Big Asia [720p]
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Blokbaster.ru" tvg-name="Blokbaster" tvg-logo="" tvg-country="RU" group-title="Movies",Blokbaster [1080p]
@@ -86,12 +84,11 @@ http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="Channel10.ru" tvg-name="Channel 10" tvg-logo="" tvg-country="RU" group-title="General",Channel 10 [576i]
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" tvg-logo="" tvg-country="RU" group-title="General",Channel 12 [1080p]
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="" tvg-country="RU" group-title="General",Channel 5 [576p]
 http://31.148.5.241/kanal_5/index.m3u8
-#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="" tvg-country="RU" group-title="General",Channel 5 International [576i]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8
+#EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="" tvg-country="RU" group-title="General",Channel 5 International [576p]
+http://178.134.1.158:8081/5channel/index.m3u8
 #EXTINF:-1 tvg-id="Channel8.ru" tvg-name="Channel 8" tvg-logo="" tvg-country="RU" group-title="Entertainment",Channel 8 [576p]
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1 tvg-id="Channel8International.ru" tvg-name="Channel 8 International" tvg-logo="" tvg-country="RU" group-title="General",Channel 8 International [576p]
@@ -111,8 +108,8 @@ https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 tvg-id="Che.ru" tvg-name="Che!" tvg-logo="" tvg-country="RU" group-title="Entertainment",Che! [576p]
 http://176.118.197.101/Che/index.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="" tvg-country="RU" group-title="Movies",Cinema [576p]
-http://flussonic.linkintel.ru/cinema/index.m3u8
+#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="" tvg-country="RU" group-title="Movies",Cinema
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CityEdenAutoGid.ru" tvg-name="City Eden AutoGid" tvg-logo="" tvg-country="RU" group-title="Auto",City Eden AutoGid
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenBirmaPlay.ru" tvg-name="City Eden Birma Play" tvg-logo="" tvg-country="RU" group-title="Music",City Eden Birma Play
@@ -170,7 +167,7 @@ http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Dikij.ru" tvg-name="Dikij" tvg-logo="" tvg-country="RU" group-title="Outdoor",Dikij [576p]
 https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="" tvg-country="RU" group-title="Education",Doctor [576p]
-http://178.134.1.158:8081/doktor/index.m3u8
+http://stream.mcquack.net/80/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Dom kino" tvg-logo="" tvg-country="RU" group-title="Movies",Dom kino [576p]
 http://88.212.15.50/live/test_dom_kino/playlist.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru" tvg-name="Dom kino Premium" tvg-logo="" tvg-country="RU" group-title="Movies",Dom kino Premium [1080p]
@@ -253,10 +250,12 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1 tvg-id="KinoHit.ru" tvg-name="KinoHit" tvg-logo="" tvg-country="RU" group-title="Movies",KinoHit [576p]
 http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Kinokomedija" tvg-logo="" tvg-country="RU" group-title="Comedy",Kinokomedija [576p]
+http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Kinomix" tvg-logo="" tvg-country="RU" group-title="Movies",Kinomix [576p]
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" tvg-country="RU" group-title="Movies",Kinopokaz
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Kinopokaz" tvg-logo="" tvg-country="RU" group-title="Movies",Kinopokaz [576p]
+http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Kinopremyera" tvg-logo="" tvg-country="RU" group-title="Movies",Kinopremyera
 https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Kinosemja" tvg-logo="" tvg-country="RU" group-title="Movies",Kinosemja [576p]
@@ -269,6 +268,8 @@ http://stream.mcquack.net/171/index.m3u8
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 tvg-id="Komedia.ru" tvg-name="Komedia" tvg-logo="" tvg-country="RU" group-title="Comedy",Komedia [576p]
 http://stream.mcquack.net/68/index.m3u8
+#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Komediynoe" tvg-logo="" tvg-country="RU" group-title="Comedy",Komediynoe [1080p]
+http://stream.mcquack.net/74/index.m3u8
 #EXTINF:-1 tvg-id="KongressTV.ru" tvg-name="Kongress TV" tvg-logo="" tvg-country="RU" group-title="General",Kongress TV [1080p]
 https://live-3.otcnet.ru/congresstv/index.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru" tvg-name="Krik-TV" tvg-logo="" tvg-country="RU" group-title="News",Krik-TV [1080p]
@@ -367,7 +368,7 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-name="NTS" tvg-logo="" tvg-country="RU" group-title="General",NTS [1080p]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="" tvg-country="RU" group-title="General",NTV [1080p]
-http://flussonic.linkintel.ru/ntv/index.m3u8
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVLaw.ru" tvg-name="NTV Law" tvg-logo="" tvg-country="RU" group-title="General",NTV Law [576p]
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
@@ -416,7 +417,7 @@ http://88.212.15.50/live/test_telekanal_o/playlist.m3u8
 #EXTINF:-1 tvg-id="OSN.ru" tvg-name="OSN" tvg-logo="" tvg-country="RU" group-title="General",OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="OTR.ru" tvg-name="OTR" tvg-logo="" tvg-country="RU" group-title="General",OTR [576p]
-http://flussonic.linkintel.ru/otr/index.m3u8
+http://31.148.5.241/kanal_9/index.m3u8
 #EXTINF:-1 tvg-id="OTVPrim.ru" tvg-name="OTV-Prim" tvg-logo="" tvg-country="RU" group-title="Entertainment",OTV-Prim
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru" tvg-name="Ohotnik i rybolov" tvg-logo="" tvg-country="RU" group-title="Outdoor",Ohotnik i rybolov [1080p]
@@ -429,8 +430,6 @@ http://178.124.179.122:8080/Setanta1/index.m3u8
 http://91.224.16.9:7779/Oplot_2/index.m3u8
 #EXTINF:-1 tvg-id="OplotTV.ru" tvg-name="Oplot TV" tvg-logo="" tvg-country="RU" group-title="News",Oplot TV [1080p]
 http://31.131.139.253:9002/oplot_hd/index.m3u8
-#EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-name="Osetiya-Iryston" tvg-logo="" tvg-country="RU" group-title="General",Osetiya-Iryston [1080p]
-https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Ostrosyuzhetnoye" tvg-logo="" tvg-country="RU" group-title="Movies",Ostrosyuzhetnoye [1080p]
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru" tvg-name="Otkritiy mir. Zdorove" tvg-logo="" tvg-country="RU" group-title="Lifestyle",Otkritiy mir. Zdorove [576p]
@@ -473,7 +472,7 @@ https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru" tvg-name="RT Balkan" tvg-logo="" tvg-country="RU" group-title="News",RT Balkan [1080p]
 https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" tvg-name="RT Documentary" tvg-logo="" tvg-country="RU" group-title="Documentary",RT Documentary [1080p]
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-name="RT en Espanol" tvg-logo="" tvg-country="RU" group-title="News",RT en Espanol [1080p]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
@@ -483,7 +482,7 @@ http://stream.mcquack.net/164/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="RTRPlaneta.ru" tvg-name="RTR-Planeta" tvg-logo="" tvg-country="RU" group-title="General",RTR-Planeta [720p]
-https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
+https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
 #EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVi" tvg-logo="" tvg-country="RU" group-title="General",RTVi [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/RTVi/index.m3u8
@@ -494,7 +493,7 @@ https://stream.radio1.ru/memfs/49dee7fe-77ba-4e6b-8cdc-fa840535b242.m3u8
 #EXTINF:-1 tvg-id="RadioRossii.ru" tvg-name="Radio Rossii" tvg-logo="" tvg-country="RU" group-title="General",Radio Rossii [720p]
 https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RadostMoya.ru" tvg-name="Radost Moya" tvg-logo="" tvg-country="RU" group-title="Kids",Radost Moya [576p]
-https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 tvg-id="RedLine.ru" tvg-name="Red Line" tvg-logo="" tvg-country="RU" group-title="General",Red Line [480p]
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru" tvg-name="Retro" tvg-logo="" tvg-country="RU" group-title="Classic",Retro [576p]
@@ -510,7 +509,7 @@ http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Russia-1" tvg-logo="" tvg-country="RU" group-title="General",Russia-1 [1080p]
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Russia-24" tvg-logo="" tvg-country="RU" group-title="News",Russia-24 [1080p]
-https://live.smotrim.ru/vgtrk/0/russia24-hd/index.m3u8
+https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="" tvg-country="RU" group-title="Culture",Russia-K [1080p]
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussianExtremeUltra.ru" tvg-name="Russian Extreme Ultra" tvg-logo="" tvg-country="RU" group-title="Sports",Russian Extreme Ultra [1440p]
@@ -554,7 +553,7 @@ http://stream.mcquack.net/81/index.m3u8
 #EXTINF:-1 tvg-id="Sever.ru" tvg-name="Sever" tvg-logo="" tvg-country="RU" group-title="General",Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="" tvg-country="RU" group-title="Music",Shanson TV [576p]
-http://catchup.videoline.ru/shanson/index.m3u8
+http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 #EXTINF:-1 tvg-id="ShchyolkovskoeTV.ru" tvg-name="Shchyolkovskoe TV" tvg-logo="" tvg-country="RU" group-title="General",Shchyolkovskoe TV [576p]
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 tvg-id="Shef.ru" tvg-name="Shef" tvg-logo="" tvg-country="RU" group-title="Series",Shef [1080p]
@@ -586,11 +585,11 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Sochi24.ru" tvg-name="Sochi24" tvg-logo="" tvg-country="RU" group-title="General",Sochi24 [720p]
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Solnce" tvg-logo="" tvg-country="RU" group-title="Animation",Solnce [576p]
-http://stream.mcquack.net/118/index.m3u8
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Soyuz" tvg-logo="" tvg-country="RU" group-title="Religious",Soyuz [576p]
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="Soyuzny.ru" tvg-name="Soyuzny" tvg-logo="" tvg-country="RU" group-title="General",Soyuzny [576p]
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
+#EXTINF:-1 tvg-id="Soyuzny.ru" tvg-name="Soyuzny" tvg-logo="" tvg-country="RU" group-title="General",Soyuzny [480p]
+http://178.124.179.122:8080/TRO/index.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" tvg-logo="" tvg-country="RU" group-title="Religious",Spas [576p]
 http://31.148.5.241/kanal_12/index.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru" tvg-name="Sportivnyy" tvg-logo="" tvg-country="RU" group-title="Sports",Sportivnyy [1080p]
@@ -630,7 +629,7 @@ http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-name="TV BRICS Russian" tvg-logo="" tvg-country="RU" group-title="General",TV BRICS Russian [1080p]
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="" tvg-country="RU" group-title="General",TV Centr [576p]
-http://flussonic.linkintel.ru/tvc/index.m3u8
+http://31.148.5.241/kanal_10/index.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="TV Centr International" tvg-logo="" tvg-country="RU" group-title="General",TV Centr International [576p]
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru" tvg-name="TV PRO" tvg-logo="" tvg-country="RU" group-title="General",TV PRO
@@ -658,7 +657,7 @@ http://stream.mcquack.net/111/index.m3u8
 #EXTINF:-1 tvg-id="Tochkaotryva.ru" tvg-name="Tochka otryva" tvg-logo="" tvg-country="RU" group-title="General",Tochka otryva [576p]
 https://stream8.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Tolk.ru" tvg-name="Tolk" tvg-logo="" tvg-country="RU" group-title="News",Tolk [720p]
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Tonus.ru" tvg-name="Tonus" tvg-logo="" tvg-country="RU" group-title="General",Tonus [576p]
 http://194.143.148.28:8080/Mir24/index.m3u8
 #EXTINF:-1 tvg-id="Tooku.ru" tvg-name="Tooku" tvg-logo="" tvg-country="RU" group-title="Animation",Tooku [1080p]
@@ -721,11 +720,11 @@ https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" tvg-name="Zhivaya Planeta" tvg-logo="" tvg-country="RU" group-title="General",Zhivaya Planeta [576p]
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" tvg-logo="" tvg-country="RU" group-title="General",Zhivaya priroda [1080p]
-http://stream.mcquack.net/83/index.m3u8
+http://stream.mcquack.net/225/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" tvg-name="Zoopark" tvg-logo="" tvg-country="RU" group-title="General",Zoopark [576i]
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="" tvg-country="RU" group-title="General",Zvezda [1080p]
-https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="ZvezdaPlus.ru" tvg-name="Zvezda Plus" tvg-logo="" tvg-country="RU" group-title="General",Zvezda Plus [1080p]
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="vijuExplore.ru" tvg-name="viju Explore" tvg-logo="" tvg-country="RU" group-title="Documentary",viju Explore [576p]

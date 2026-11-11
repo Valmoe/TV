@@ -31,8 +31,6 @@ http://170.83.16.50/BAND_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" tvg-logo="" tvg-country="BR" group-title="Culture",Bem Mais TV [1080p]
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
-#EXTINF:-1 tvg-id="BoasNovas.br" tvg-name="Boas Novas" tvg-logo="" tvg-country="BR" group-title="General",Boas Novas [1080p]
-https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br" tvg-name="Box Kids TV" tvg-logo="" tvg-country="BR" group-title="Kids",Box Kids TV [720p]
 http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 #EXTINF:-1 tvg-id="CINDIETV.br" tvg-name="CINDIE TV" tvg-logo="" tvg-country="BR" group-title="Movies",CINDIE TV [1080p]
@@ -192,16 +190,12 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 http://46.151.196.223:14244
 #EXTINF:-1 tvg-id="RedeTVParana.br" tvg-name="RedeTV! Parana" tvg-logo="" tvg-country="BR" group-title="General",RedeTV! Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroCartoon.br" tvg-name="Retro Cartoon" tvg-logo="" tvg-country="BR" group-title="Classic",Retro Cartoon [720p]
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="" tvg-country="BR" group-title="General",SBT Interior [720p]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-name="SBT Nacional" tvg-logo="" tvg-country="BR" group-title="General",SBT Nacional [1080p]
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br" tvg-name="SBT News" tvg-logo="" tvg-country="BR" group-title="News",SBT News [720p]
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
-#EXTINF:-1 tvg-id="SBTNovaMutum.br" tvg-name="SBT Nova Mutum" tvg-logo="" tvg-country="BR" group-title="General",SBT Nova Mutum [818p]
-https://video09.logicahost.com.br/sbtmutum/sbtmutum/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-name="SESC TV" tvg-logo="" tvg-country="BR" group-title="General",SESC TV [720p]
 http://186.219.52.187/sesc_tv/index.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-name="SIC TV" tvg-logo="" tvg-country="BR" group-title="General",SIC TV [720p]
@@ -234,7 +228,7 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil [720p]
-http://170.83.49.66:8083/TVBRASILHD/index.m3u8
+http://186.219.52.187/tv_brasil/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-name="TV Brasil Oeste" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil Oeste [720p]
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" tvg-logo="" tvg-country="BR" group-title="News",TV Brusque [720p]
@@ -312,8 +306,6 @@ https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamo
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-name="TV Sim Sao Mateus" tvg-logo="" tvg-country="BR" group-title="News",TV Sim Sao Mateus [720p]
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-name="TV Sul Bahia" tvg-logo="" tvg-country="BR" group-title="General",TV Sul Bahia [320p]
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-logo="" tvg-country="BR" group-title="Religious",TV Terceiro Anjo [360p]
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="" tvg-country="BR" group-title="Public",TV UFOP [1080p]
@@ -369,6 +361,6 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br" tvg-name="Unisul TV" tvg-logo="" tvg-country="BR" group-title="Education",Unisul TV [720p]
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" tvg-country="BR" group-title="News",VEJA+ TV [1080p]
-https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja.m3u8
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="" tvg-country="BR" group-title="General",WooHoo [720p]
 http://170.83.16.50/WOOHOO/index.m3u8

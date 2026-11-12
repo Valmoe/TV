@@ -1,35 +1,35 @@
 # Playlist status
 
-Updated: 2026-11-12T06:35:21+00:00
+Updated: 2026-11-12T17:31:44+00:00
 
-- Working channels: **7778**
-- Working streams (with backups kept): **10437**
-- Countries: **172**
+- Working channels: **7807**
+- Working streams (with backups kept): **10465**
+- Countries: **171**
 
 | Country | Working channels |
 |---|---|
-| United States (US) | 1423 |
-| India (IN) | 712 |
-| Russia (RU) | 369 |
-| Germany (DE) | 328 |
-| Italy (IT) | 214 |
-| Dominican Republic (DO) | 192 |
+| United States (US) | 1435 |
+| India (IN) | 710 |
+| Russia (RU) | 370 |
+| Germany (DE) | 327 |
+| Italy (IT) | 216 |
+| Dominican Republic (DO) | 195 |
 | Sweden (SE) | 187 |
-| Brazil (BR) | 180 |
-| Chile (CL) | 177 |
-| Spain (ES) | 157 |
+| Brazil (BR) | 182 |
+| Chile (CL) | 174 |
+| Spain (ES) | 155 |
 | Peru (PE) | 150 |
-| Romania (RO) | 149 |
-| Argentina (AR) | 145 |
-| Ukraine (UA) | 144 |
+| Romania (RO) | 148 |
+| Argentina (AR) | 146 |
+| Ukraine (UA) | 146 |
 | France (FR) | 131 |
-| United Kingdom (UK) | 121 |
-| Turkiye (TR) | 119 |
-| Netherlands (NL) | 116 |
-| Mexico (MX) | 112 |
-| Poland (PL) | 111 |
-| Hungary (HU) | 103 |
-| Canada (CA) | 102 |
-| Colombia (CO) | 100 |
-| Vietnam (VN) | 87 |
+| United Kingdom (UK) | 122 |
+| Turkiye (TR) | 121 |
+| Netherlands (NL) | 117 |
+| Mexico (MX) | 114 |
+| Poland (PL) | 110 |
+| Hungary (HU) | 104 |
+| Colombia (CO) | 103 |
+| Canada (CA) | 100 |
+| Vietnam (VN) | 86 |
 | China (CN) | 82 |

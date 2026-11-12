@@ -51,7 +51,8 @@ https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=naci
 #EXTINF:-1 tvg-id="InvasivaTV.py" tvg-name="Invasiva TV" tvg-logo="" tvg-country="PY" group-title="General",Invasiva TV [720p]
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1 tvg-id="Latele.py" tvg-name="Latele" tvg-logo="" tvg-country="PY" group-title="General",Latele [1080p]
-http://190.128.214.97:64333/play/a03i/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="LosAngelesTVRadio.py" tvg-name="Los Angeles TV Radio" tvg-logo="" tvg-country="PY" group-title="Music",Los Angeles TV Radio
 https://stmv6.voxtvhd.com.br/losangeles/losangeles/playlist.m3u8
 #EXTINF:-1 tvg-id="MegaTV.py" tvg-name="Mega TV" tvg-logo="" tvg-country="PY" group-title="News",Mega TV [1080p]
@@ -82,7 +83,7 @@ https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" tvg-country="PY" group-title="General",Paraguay TV [1080p]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" tvg-country="PY" group-title="General",Paravision
-http://45.170.130.224:8000/play/a032/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="PopuTV.py" tvg-name="Popu TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",Popu TV [1080p]
 #EXTVLCOPT:http-referrer=https://www.popular.com.py/
 https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion
@@ -103,7 +104,7 @@ https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3
 #EXTINF:-1 tvg-id="RedInteriorTV.py" tvg-name="Red Interior TV" tvg-logo="" tvg-country="PY" group-title="General",Red Interior TV
 https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8
 #EXTINF:-1 tvg-id="RegionalTVYaguaron.py" tvg-name="Regional TV Yaguaron" tvg-logo="" tvg-country="PY" group-title="General",Regional TV Yaguaron [1080p]
-https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
+http://190.128.214.97:64333/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="RepublicaTV.py" tvg-name="Republica TV" tvg-logo="" tvg-country="PY" group-title="General",Republica TV [720p]
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SNT.py" tvg-name="SNT" tvg-logo="" tvg-country="PY" group-title="General",SNT
@@ -117,7 +118,7 @@ https://live.enhdtv.com:8081/8060/index.m3u8
 #EXTINF:-1 tvg-id="TVAire.py" tvg-name="TV Aire" tvg-logo="" tvg-country="PY" group-title="General",TV Aire [1080p]
 http://190.128.214.97:64333/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="" tvg-country="PY" group-title="Legislative",TV Camara [1080p]
-http://158.172.217.18:8000/play/a00m/index.m3u8
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVCanindeyu.py" tvg-name="TV Canindeyu" tvg-logo="" tvg-country="PY" group-title="General",TV Canindeyu [1080p]
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.py" tvg-name="Telefuturo" tvg-logo="" tvg-country="PY" group-title="General",Telefuturo [1080p]

@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-logo="" tvg-country="SV" group-title="Religious",Agape TV [720p]
-https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" tvg-country="SV" group-title="General",Canal 10 [720p]
 https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" tvg-logo="" tvg-country="SV" group-title="General",Canal 11 TuTV [349p]
@@ -27,5 +27,8 @@ https://radiocret.net:8082/hls/tvcret.m3u8
 https://serversv.com:8080/hls/tvgetsemani.m3u8
 #EXTINF:-1 tvg-id="TVLeondeJuda.sv" tvg-name="TV Leon de Juda" tvg-logo="" tvg-country="SV" group-title="Religious",TV Leon de Juda [720p]
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv" tvg-name="TVC Network" tvg-logo="" tvg-country="SV" group-title="General",TVC Network [720p]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv" tvg-name="TVO Canal 23" tvg-logo="" tvg-country="SV" group-title="General",TVO Canal 23 [480p]
 http://168.196.127.137:6001/play/a080/index.m3u8

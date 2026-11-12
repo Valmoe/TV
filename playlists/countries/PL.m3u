@@ -13,12 +13,14 @@ http://92.114.85.87:8015/play/a00f/index.m3u8
 http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="AmericanCrimeChannel.pl" tvg-name="American Crime Channel" tvg-logo="" tvg-country="PL" group-title="Entertainment",American Crime Channel [720p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-id="BTB.pl" tvg-name="BTB" tvg-logo="" tvg-country="PL" group-title="General",BTB [1080p]
+https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8
 #EXTINF:-1 tvg-id="BTB2.pl" tvg-name="BTB 2" tvg-logo="" tvg-country="PL" group-title="General",BTB 2 [1080p]
 https://emisja.btb.j00r.us/iptv/session/2/live.m3u8
 #EXTINF:-1 tvg-id="BTB3.pl" tvg-name="BTB 3" tvg-logo="" tvg-country="PL" group-title="General",BTB 3 [1080p]
 https://emisja3.btb.j00r.us/iptv/session/3/live.m3u8
 #EXTINF:-1 tvg-id="BTBInfo.pl" tvg-name="BTB Info" tvg-logo="" tvg-country="PL" group-title="Documentary",BTB Info [1080p]
-https://emisja2.btb.j00r.us/iptv/session/4/live.m3u8
+https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8
 #EXTINF:-1 tvg-id="BialogardzkaTelewizjaKablowa.pl" tvg-name="Bialogardzka Telewizja Kablowa" tvg-logo="" tvg-country="PL" group-title="Entertainment",Bialogardzka Telewizja Kablowa [1080p]
 https://bsmbialogard.pl/live/index.m3u8
 #EXTINF:-1 tvg-id="Bigtime.pl" tvg-name="Bigtime" tvg-logo="" tvg-country="PL" group-title="General",Bigtime [720p]
@@ -42,9 +44,6 @@ http://57.129.96.133:888/stream/94/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport3.pl" tvg-name="Canal+ Sport 3" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1 tvg-id="CanalPlusSport4.pl" tvg-name="Canal+ Sport 4" tvg-logo="" tvg-country="PL" group-title="Sports",Canal+ Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://57.129.96.133:888/stream/95/index.m3u8
 #EXTINF:-1 tvg-id="CarCityAdventures.pl" tvg-name="Car City Adventures" tvg-logo="" tvg-country="PL" group-title="General",Car City Adventures [720p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095
 #EXTINF:-1 tvg-id="CrimePlusInvestigationPolsat.pl" tvg-name="Crime + Investigation Polsat" tvg-logo="" tvg-country="PL" group-title="Entertainment",Crime + Investigation Polsat [576i]
@@ -170,7 +169,7 @@ http://92.114.85.87:8004/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="TNAWrestlingChannel.pl" tvg-name="TNA Wrestling Channel" tvg-logo="" tvg-country="PL" group-title="General",TNA Wrestling Channel [720p]
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-id="TOPBarca.pl" tvg-name="TOP Barca" tvg-logo="" tvg-country="PL" group-title="General",TOP Barca [1080p]
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVASTA.pl" tvg-name="TV ASTA" tvg-logo="" tvg-country="PL" group-title="General",TV ASTA [720p]
 https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVKujawy.pl" tvg-name="TV Kujawy" tvg-logo="" tvg-country="PL" group-title="General",TV Kujawy [576p]
@@ -178,7 +177,7 @@ http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
 #EXTINF:-1 tvg-id="TVOkazje.pl" tvg-name="TV Okazje" tvg-logo="" tvg-country="PL" group-title="General",TV Okazje [576i]
 http://92.114.85.87:8014/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="TVPuls.pl" tvg-name="TV Puls" tvg-logo="" tvg-country="PL" group-title="General",TV Puls [1080p]
-https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8
+https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8
 #EXTINF:-1 tvg-id="TVRegionalnaLubin.pl" tvg-name="TV Regionalna Lubin" tvg-logo="" tvg-country="PL" group-title="General",TV Regionalna Lubin [1080p]
 https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8
 #EXTINF:-1 tvg-id="TVRepublika.pl" tvg-name="TV Republika" tvg-logo="" tvg-country="PL" group-title="General",TV Republika
@@ -219,8 +218,6 @@ https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.pl" tvg-name="Travel Channel" tvg-logo="" tvg-country="PL" group-title="Travel",Travel Channel [576i]
 http://92.114.85.87:8011/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" tvg-logo="" tvg-country="PL" group-title="General",Twoja.TV [1080p]
-https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
 #EXTINF:-1 tvg-id="VOXMusicTV.pl" tvg-name="VOX Music TV" tvg-logo="" tvg-country="PL" group-title="Music",VOX Music TV [1080p]
 http://92.114.85.87:8016/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic" tvg-logo="" tvg-country="PL" group-title="General",Viasat Explore Classic [720p]

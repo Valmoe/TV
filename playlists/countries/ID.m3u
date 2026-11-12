@@ -33,6 +33,8 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" tvg-logo="" tvg-country="ID" group-title="General",Batam TV [480p]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" tvg-logo="" tvg-country="ID" group-title="General",Bungo TV [480p]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="" tvg-country="ID" group-title="Business",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
@@ -117,9 +119,6 @@ https://pujatv.siar.us/live/pujatv.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV" tvg-logo="" tvg-country="ID" group-title="General",RCTV [720p]
 #EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-name="Radar Lampung TV" tvg-logo="" tvg-country="ID" group-title="General",Radar Lampung TV [480p]
-#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
-https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-name="Radar Tasikmalaya TV" tvg-logo="" tvg-country="ID" group-title="General",Radar Tasikmalaya TV [720p]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id" tvg-name="Riau TV" tvg-logo="" tvg-country="ID" group-title="General",Riau TV [1080p]
@@ -136,7 +135,7 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-referrer=salamtelevisi.com
 https://live.salamtelevisi.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SampitTV.id" tvg-name="Sampit TV" tvg-logo="" tvg-country="ID" group-title="General",Sampit TV [720p]
 https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-name="Sangaji TV" tvg-logo="" tvg-country="ID" group-title="General",Sangaji TV [720p]
@@ -149,8 +148,8 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTVLCOPT:http-referrer=sriwijayatv.tv
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" tvg-logo="" tvg-country="ID" group-title="General",Stara TV [1080p]
-#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
-https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" tvg-country="ID" group-title="News",Suara Surabaya Visual Radio [720p]
 #EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
@@ -163,6 +162,8 @@ https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-name="TV 9 Nusantara" tvg-logo="" tvg-country="ID" group-title="General",TV 9 Nusantara [720p]
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTabalong.id" tvg-name="TV Tabalong" tvg-logo="" tvg-country="ID" group-title="General",TV Tabalong [720p]
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="" tvg-country="ID" group-title="General",TVRI [1080p]
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-id="TVRIWorld.id" tvg-name="TVRI World" tvg-logo="" tvg-country="ID" group-title="General",TVRI World [1080p]

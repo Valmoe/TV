@@ -11,7 +11,7 @@ http://190.14.10.19:16000/play/a02d/index.m3u8
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" tvg-logo="" tvg-country="AR" group-title="Kids",Pakapaka [1080p]
 http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="PlimPlim.ar" tvg-name="Plim Plim" tvg-logo="" tvg-country="AR" group-title="Animation",Plim Plim [1080p]
-http://200.115.120.1:8000/play/ca091/index.m3u8
+http://45.70.168.162:1503/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-name="Xtrema Cartoons" tvg-logo="" tvg-country="AR" group-title="Animation",Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -33,7 +33,8 @@ http://87.120.179.187:8000/play/a010
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-logo="" tvg-country="BG" group-title="Kids",EKids [576p]
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="" tvg-country="BG" group-title="Kids",Nickelodeon
-http://87.120.179.187:8000/play/a00x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="RING.bg" tvg-name="RING" tvg-logo="" tvg-country="BG" group-title="Kids",RING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a06e
@@ -196,7 +197,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/688/master.m3u8
 #EXTINF:-1 tvg-id="WOWKidz.in" tvg-name="WOW Kidz" tvg-logo="" tvg-country="IN" group-title="Animation",WOW Kidz [720p]
-https://yuppparoriglin.akamaized.net/181224/smil:wowkidztelgu.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://yuppparoriglin.akamaized.net/181224/smil:wowkidztam.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="ZBCartoon.in" tvg-name="ZB Cartoon" tvg-logo="" tvg-country="IN" group-title="Kids",ZB Cartoon [1080p]
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq" tvg-name="Afarin Baxcha" tvg-logo="" tvg-country="IQ" group-title="Kids",Afarin Baxcha [1080p]
@@ -257,6 +258,8 @@ https://stream.4fun.tv:8889/hls/4fk.m3u8
 http://92.114.85.87:8017/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl" tvg-name="Disney Channel" tvg-logo="" tvg-country="PL" group-title="Kids",Disney Channel [1080p]
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.pl" tvg-name="Disney Junior" tvg-logo="" tvg-country="PL" group-title="Kids",Disney Junior [576p]
+http://111.88.7.92:8000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.pl" tvg-name="Disney XD" tvg-logo="" tvg-country="PL" group-title="Kids",Disney XD [576p]
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.pl" tvg-name="Nick Jr." tvg-logo="" tvg-country="PL" group-title="Kids",Nick Jr. [576i]
@@ -324,7 +327,7 @@ http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="V gostyakh u skazki" tvg-logo="" tvg-country="RU" group-title="Kids",V gostyakh u skazki [1080p]
 https://stream8.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AtfalMawahebTV.sa" tvg-name="Atfal & Mawaheb TV" tvg-logo="" tvg-country="SA" group-title="Kids",Atfal & Mawaheb TV [1080p]
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 tvg-id="Avatar.se" tvg-name="Avatar" tvg-logo="" tvg-country="SE" group-title="Kids",Avatar
 https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJuniorklubben.se" tvg-name="Pluto TV Juniorklubben" tvg-logo="" tvg-country="SE" group-title="Kids",Pluto TV Juniorklubben [720p]
@@ -338,17 +341,17 @@ https://jmp2.uk/plu-67f5095a3481170e6843d95d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTecknat.se" tvg-name="Pluto TV Tecknat" tvg-logo="" tvg-country="SE" group-title="Kids",Pluto TV Tecknat [720p]
 https://jmp2.uk/plu-61c0b6f028e94c000782684a.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTegnefilm.se" tvg-name="Pluto TV Tegnefilm" tvg-logo="" tvg-country="SE" group-title="Kids",Pluto TV Tegnefilm [720p]
-https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVUngdomsserier.se" tvg-name="Pluto TV Ungdomsserier" tvg-logo="" tvg-country="SE" group-title="Kids",Pluto TV Ungdomsserier [720p]
-https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
 #EXTINF:-1 tvg-id="SvampBobFyrkant.se" tvg-name="SvampBob Fyrkant" tvg-logo="" tvg-country="SE" group-title="Kids",SvampBob Fyrkant [720p]
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1 tvg-id="SvampeBobFirkant.se" tvg-name="SvampeBob Firkant" tvg-logo="" tvg-country="SE" group-title="Kids",SvampeBob Firkant [720p]
 https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
 #EXTINF:-1 tvg-id="TotallyTurtles.se" tvg-name="Totally Turtles" tvg-logo="" tvg-country="SE" group-title="Kids",Totally Turtles [720p]
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
 #EXTINF:-1 tvg-id="iCarly.se" tvg-name="iCarly" tvg-logo="" tvg-country="SE" group-title="Kids",iCarly
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network Asia" tvg-logo="" tvg-country="SG" group-title="Animation",Cartoon Network Asia [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
@@ -362,9 +365,9 @@ http://103.253.74.210:7070/stream/116/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://103.253.74.210:7070/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="ZooMoo.sg" tvg-name="ZooMoo" tvg-logo="" tvg-country="SG" group-title="Kids",ZooMoo [1080p]
-https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+http://168.196.127.137:6001/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="" tvg-country="SK" group-title="Kids",ducktv [720p]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
+https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" tvg-logo="" tvg-country="SK" group-title="Kids",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx" tvg-name="TVCARiB Kids & Teens" tvg-logo="" tvg-country="SX" group-title="Kids",TVCARiB Kids & Teens [720p]
@@ -409,13 +412,13 @@ http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-name="Moonbug Kids" tvg-logo="" tvg-country="UK" group-title="Kids",Moonbug Kids [1080p]
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk" tvg-name="Mr Bean Animated" tvg-logo="" tvg-country="UK" group-title="Animation",Mr Bean Animated [1080p]
-https://amg00627-amg00627c23-samsung-gb-3927.playouts.now.amagi.tv/playlist.m3u8
+https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8
 #EXTINF:-1 tvg-id="MrBeanLiveAction.uk" tvg-name="Mr Bean Live Action" tvg-logo="" tvg-country="UK" group-title="Comedy",Mr Bean Live Action [1080p]
-https://amg00627-amg00627c39-samsung-gb-5569.playouts.now.amagi.tv/playlist.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" tvg-country="UK" group-title="Kids",Teletubbies [720p]
 https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" tvg-logo="" tvg-country="UK" group-title="Kids",Tiny Pop [1080p]
-https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="3ABNKids.us" tvg-name="3ABN Kids" tvg-logo="" tvg-country="US" group-title="Kids",3ABN Kids [720p]
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="90sKids.us" tvg-name="90's Kids" tvg-logo="" tvg-country="US" group-title="Kids",90's Kids
@@ -437,14 +440,14 @@ https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
 #EXTINF:-1 tvg-id="Bobleponge.us" tvg-name="Bob l'eponge" tvg-logo="" tvg-country="US" group-title="Kids",Bob l'eponge [720p]
 https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="" tvg-country="US" group-title="Kids",Boomerang [720p]
-http://212.5.144.156:8080/boomerang/index.m3u8
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="BratTV.us" tvg-name="Brat TV" tvg-logo="" tvg-country="US" group-title="Kids",Brat TV [1080p]
-https://brat-samsung-us.amagi.tv/playlist.m3u8
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04072b68-dc6a-4d5e-98af-f356ba8d5063/playlist.m3u8
 #EXTINF:-1 tvg-id="CampSpoopy.us" tvg-name="Camp Spoopy" tvg-logo="" tvg-country="US" group-title="Kids",Camp Spoopy [576p]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="CanalInfantil.us" tvg-name="Canal Infantil" tvg-logo="" tvg-country="US" group-title="Kids",Canal Infantil
 http://177.234.218.66:8084/play/a01x/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="" tvg-country="US" group-title="Animation",Cartoon Network [720p]
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" tvg-logo="" tvg-country="US" group-title="Animation",Cartoon Network [1080p]
 http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us" tvg-name="Cartoon Network Latin America" tvg-logo="" tvg-country="US" group-title="Animation",Cartoon Network Latin America [1080p]
 http://158.172.217.18:8000/play/a03a/index.m3u8
@@ -479,7 +482,7 @@ https://amg02713-amg02713c11-amgplt0852.playout.now3.amagi.tv/ts-us-e2-n2/playli
 #EXTINF:-1 tvg-id="HeyArnold.us" tvg-name="Hey Arnold!" tvg-logo="" tvg-country="US" group-title="Kids",Hey Arnold!
 https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 #EXTINF:-1 tvg-id="InazumaEleven.us" tvg-name="Inazuma Eleven" tvg-logo="" tvg-country="US" group-title="Series",Inazuma Eleven
-https://jmp2.uk/plu-611e75226b7f420007c3f319.m3u8
+https://jmp2.uk/plu-612375086abc84000738fc03.m3u8
 #EXTINF:-1 tvg-id="KartoonChannel.us" tvg-name="Kartoon Channel!" tvg-logo="" tvg-country="US" group-title="Kids",Kartoon Channel! [1080p]
 https://hlspackager.akamaized.net/live/DB/KARTOON_CHANNEL/HLS/KARTOON_CHANNEL.m3u8
 #EXTINF:-1 tvg-id="KidsMovieClub.us" tvg-name="Kids Movie Club" tvg-logo="" tvg-country="US" group-title="Kids",Kids Movie Club
@@ -501,7 +504,7 @@ https://sr-live-weigel1.akamaized.net/out/v1/0d1dbf29e64e47bc991796cc24fbeb97/in
 #EXTINF:-1 tvg-id="NickJr.us" tvg-name="Nick Jr." tvg-logo="" tvg-country="US" group-title="Kids",Nick Jr. [720p]
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us" tvg-name="Nick Jr. Club" tvg-logo="" tvg-country="US" group-title="Kids",Nick Jr. Club [720p]
-https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
+https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us" tvg-name="Nick Jr. Latin America" tvg-logo="" tvg-country="US" group-title="Kids",Nick Jr. Latin America [1080p]
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-name="Nick Jr. Pluto TV" tvg-logo="" tvg-country="US" group-title="Kids",Nick Jr. Pluto TV [720p]
@@ -515,9 +518,9 @@ http://190.93.224.42/NICK/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us" tvg-name="Nickelodeon Pluto TV" tvg-logo="" tvg-country="US" group-title="Animation",Nickelodeon Pluto TV [720p]
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us" tvg-name="Nickelodeon Teen" tvg-logo="" tvg-country="US" group-title="Kids",Nickelodeon Teen [720p]
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonToons.us" tvg-name="Nickelodeon Toons" tvg-logo="" tvg-country="US" group-title="Kids",Nickelodeon Toons [720p]
-https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us" tvg-name="Nickelodeon en espanol" tvg-logo="" tvg-country="US" group-title="Kids",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons" tvg-logo="" tvg-country="US" group-title="Kids",Nicktoons [720p]
@@ -541,7 +544,7 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="PeppaPig.us" tvg-name="Peppa Pig" tvg-logo="" tvg-country="US" group-title="Kids",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-id="PlutoTVJunior.us" tvg-name="Pluto TV Junior" tvg-logo="" tvg-country="US" group-title="Kids",Pluto TV Junior
-https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us" tvg-name="Pluto TV Kids" tvg-logo="" tvg-country="US" group-title="Kids",Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKidsClub.us" tvg-name="Pluto TV Kids Club" tvg-logo="" tvg-country="US" group-title="Kids",Pluto TV Kids Club
@@ -578,7 +581,7 @@ https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTVLCOPT:http-referrer=https://tomsings.bamboo-cloud.com/channel/6af043956f49ecefd30d7fd4
 https://vodcdn.bamboo-cloud.com/livehls/6af043956f49ecefd30d7fd4/master.m3u8
 #EXTINF:-1 tvg-id="ToonGoggles.us" tvg-name="ToonGoggles" tvg-logo="" tvg-country="US" group-title="Kids",ToonGoggles [720p]
-https://d1eg24xrsfr6kv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b4b1bzxkt1uzo-prod/tg/tg/tg.m3u8
+https://tg-tg-xumo.otteravision.com/tg/tg/tg.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast" tvg-logo="" tvg-country="US" group-title="Animation",Tooncast [1080p]
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-id="TortuesNinjaTV.us" tvg-name="Tortues Ninja TV" tvg-logo="" tvg-country="US" group-title="Kids",Tortues Ninja TV [720p]

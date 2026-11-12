@@ -27,8 +27,8 @@ https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="A Punt" tvg-logo="" tvg-country="ES" group-title="General",A Punt [720p]
 https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" tvg-logo="" tvg-country="ES" group-title="Movies",AXN CEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-logo="" tvg-country="ES" group-title="Music",Activa TV [720p]
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" tvg-logo="" tvg-country="ES" group-title="News",Actualidad 360 [1080p]
@@ -44,8 +44,10 @@ https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BDN.es" tvg-name="BDN" tvg-logo="" tvg-country="ES" group-title="News",BDN [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta318.cdnmedia.tv/badalonatvlive/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="" tvg-country="ES" group-title="Kids",Boing
+http://digisat.ddns.net:4022/udp/239.0.5.177:8208
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" tvg-logo="" tvg-country="ES" group-title="General",Bon Dia TV [1080p]
-https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es" tvg-name="CMM TV" tvg-logo="" tvg-country="ES" group-title="General",CMM TV [1080p]
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="CadenaElite.es" tvg-name="Cadena Elite" tvg-logo="" tvg-country="ES" group-title="Music",Cadena Elite [720p]
@@ -64,12 +66,12 @@ https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-id="Canal56.es" tvg-name="Canal 56" tvg-logo="" tvg-country="ES" group-title="General",Canal 56 [576p]
 https://videos.canal56.com/directe/stream/index.m3u8
-#EXTINF:-1 tvg-id="Canal7TeleValencia.es" tvg-name="Canal 7 TeleValencia" tvg-logo="" tvg-country="ES" group-title="General",Canal 7 TeleValencia [576p]
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiocesano.es" tvg-name="Canal Diocesano" tvg-logo="" tvg-country="ES" group-title="General",Canal Diocesano [576p]
 https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
 #EXTINF:-1 tvg-id="CanalDonana.es" tvg-name="Canal Donana" tvg-logo="" tvg-country="ES" group-title="General",Canal Donana [720p]
 https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-id="CanalLuzTelevision.es" tvg-name="Canal Luz Television" tvg-logo="" tvg-country="ES" group-title="General",Canal Luz Television
+https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMalagaRTV.es" tvg-name="Canal Malaga RTV" tvg-logo="" tvg-country="ES" group-title="General",Canal Malaga RTV [720p]
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalParlamento.es" tvg-name="Canal Parlamento" tvg-logo="" tvg-country="ES" group-title="Legislative",Canal Parlamento [360p]
@@ -96,7 +98,7 @@ https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-name="Cetelmon TV" tvg-logo="" tvg-country="ES" group-title="Religious",Cetelmon TV [404p]
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-name="Cine Friki" tvg-logo="" tvg-country="ES" group-title="Movies",Cine Friki [1080p]
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-name="Cine Western" tvg-logo="" tvg-country="ES" group-title="Movies",Cine Western [1080p]
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" tvg-logo="" tvg-country="ES" group-title="Entertainment",Ciudades del Ocio TV [720p]
@@ -133,7 +135,7 @@ https://cdn1.etbon.eus/etb2on/index.mpd
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" tvg-logo="" tvg-country="ES" group-title="Religious",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="" tvg-country="ES" group-title="Lifestyle",El Mueble [720p]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="" tvg-country="ES" group-title="General",El Toro TV [720p]
@@ -172,6 +174,8 @@ https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
 #EXTINF:-1 tvg-id="KinoKazka.es" tvg-name="KinoKazka" tvg-logo="" tvg-country="ES" group-title="Kids",KinoKazka [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 Catalunya" tvg-logo="" tvg-country="ES" group-title="General",La 2 Catalunya [720p]
+https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-name="La 8 Mediterraneo" tvg-logo="" tvg-country="ES" group-title="General",La 8 Mediterraneo [1080p]
 https://newscript.gestec-video.com/hls/8TVEVENTOS.m3u8
 #EXTINF:-1 tvg-id="LancelotTV.es" tvg-name="Lancelot TV" tvg-logo="" tvg-country="ES" group-title="General",Lancelot TV [404p]
@@ -186,7 +190,7 @@ https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1 tvg-id="LogosTVKids.es" tvg-name="Logos TV Kids" tvg-logo="" tvg-country="ES" group-title="Religious",Logos TV Kids [720p]
 https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveThePlanet.es" tvg-name="Love The Planet" tvg-logo="" tvg-country="ES" group-title="Documentary",Love The Planet [1080p]
-https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk/playlist.m3u8
+https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es" tvg-name="M95 Television Marbella" tvg-logo="" tvg-country="ES" group-title="News",M95 Television Marbella [1080p]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es" tvg-name="Mijas 3.40TV" tvg-logo="" tvg-country="ES" group-title="General",Mijas 3.40TV [720p]
@@ -241,12 +245,12 @@ https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="RakutenTVDramaMovies.es" tvg-name="Rakuten TV Drama Movies" tvg-logo="" tvg-country="ES" group-title="Movies",Rakuten TV Drama Movies [1080p]
 https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es" tvg-name="Rakuten TV Family Movies" tvg-logo="" tvg-country="ES" group-title="Family",Rakuten TV Family Movies [1080p]
-https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV" tvg-logo="" tvg-country="ES" group-title="Sports",Real Madrid TV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://90.163.85.113:8093/stream/26/index.m3u8
 #EXTINF:-1 tvg-id="RealMadridTVEnglish.es" tvg-name="Real Madrid TV English" tvg-logo="" tvg-country="ES" group-title="Sports",Real Madrid TV English
-http://88.212.15.50/live/real_madrid_tv/index.m3u8
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-id="SolMusica.es" tvg-name="Sol Musica" tvg-logo="" tvg-country="ES" group-title="Music",Sol Musica [720p]
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 #EXTINF:-1 tvg-id="SpektraTV.es" tvg-name="SpektraTV" tvg-logo="" tvg-country="ES" group-title="Music",SpektraTV [720p]
@@ -287,8 +291,6 @@ https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleElx.es" tvg-name="Tele Elx" tvg-logo="" tvg-country="ES" group-title="General",Tele Elx [1080p]
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-#EXTINF:-1 tvg-id="TeleSafor.es" tvg-name="Tele Safor" tvg-logo="" tvg-country="ES" group-title="General",Tele Safor [720p]
-https://video.telesafor.com/hls/video.m3u8
 #EXTINF:-1 tvg-id="TeleVigo.es" tvg-name="TeleVigo" tvg-logo="" tvg-country="ES" group-title="General",TeleVigo [1080p]
 #EXTVLCOPT:http-referrer=http://www.televigo.com
 https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8
@@ -314,8 +316,6 @@ https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playl
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
 #EXTINF:-1 tvg-id="UniversTV.es" tvg-name="Univers TV" tvg-logo="" tvg-country="ES" group-title="Entertainment",Univers TV [720p]
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-name="Urola Telebista" tvg-logo="" tvg-country="ES" group-title="General",Urola Telebista [416p]
-https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="VOTV.es" tvg-name="VOTV" tvg-logo="" tvg-country="ES" group-title="General",VOTV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8

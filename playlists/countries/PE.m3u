@@ -12,7 +12,7 @@ http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-name="ATV+" tvg-logo="" tvg-country="PE" group-title="News",ATV+ [1080p]
 http://45.171.108.253:8888/ATV/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe" tvg-name="Agro TV" tvg-logo="" tvg-country="PE" group-title="Outdoor",Agro TV [720p]
-https://play.agenciastreaming.com:8081/agrotv/index.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" tvg-name="Altura TV" tvg-logo="" tvg-country="PE" group-title="General",Altura TV [720p]
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="" tvg-country="PE" group-title="General",Amazonica TV [720p]
@@ -87,6 +87,8 @@ https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" tvg-logo="" tvg-country="PE" group-title="General",Foro TV [576p]
 https://mc.servidor.stream:19360/8274/8274.m3u8
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-name="Galactica TV" tvg-logo="" tvg-country="PE" group-title="Music",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-logo="" tvg-country="PE" group-title="General",Genios TV [1080p]
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="" tvg-country="PE" group-title="General",Global TV [1080p]
@@ -211,8 +213,6 @@ https://livestream.perucast.com/hls/stream.m3u8
 https://video2.lhdserver.es/siscomtv/live.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-name="SolTV" tvg-logo="" tvg-country="PE" group-title="General",SolTV [720p]
 https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-logo="" tvg-country="PE" group-title="General",Solar Television
-https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:-1 tvg-id="SqalaTV.pe" tvg-name="Sqala TV" tvg-logo="" tvg-country="PE" group-title="Sports",Sqala TV [720p]
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-logo="" tvg-country="PE" group-title="General",Studio Pasco TV [720p]

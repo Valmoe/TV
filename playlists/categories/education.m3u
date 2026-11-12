@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ShamsTV.af" tvg-name="Shams TV" tvg-logo="" tvg-country="AF" group-title="Education",Shams TV [1080p]
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="CanalUniversidad.ar" tvg-name="Canal Universidad" tvg-logo="" tvg-country="AR" group-title="Education",Canal Universidad
-https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 #EXTINF:-1 tvg-id="ABCEntertains.au" tvg-name="ABC Entertains" tvg-logo="" tvg-country="AU" group-title="Education",ABC Entertains [720p]
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" tvg-logo="" tvg-country="BO" group-title="Culture",Radio Universitaria San Andres [720p]
@@ -14,12 +12,14 @@ https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="" tvg-country="BR" group-title="Education",AgroCanal [720p]
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+http://186.219.52.187/agro_canal/index.m3u8
 #EXTINF:-1 tvg-id="BemMaisTV.br" tvg-name="Bem Mais TV" tvg-logo="" tvg-country="BR" group-title="Culture",Bem Mais TV [1080p]
 #EXTVLCOPT:http-referrer=https://bemmaistv.com.br/
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" tvg-country="BR" group-title="Education",Canal Educacao [720p]
 https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" tvg-logo="" tvg-country="BR" group-title="General",Canal FDR [1080p]
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
 http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" tvg-country="BR" group-title="Education",Futura [720p]
@@ -240,7 +240,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://pbs.lls.cdn.pbs.org/est/index.m3u8
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]

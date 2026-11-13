@@ -46,7 +46,8 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-logo="" tvg-country="EC" group-title="General",Loreto TV [720p]
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="" tvg-country="EC" group-title="Entertainment",MakroDigital Television [1080p]
-http://205.235.6.29:8000/play/a0wp/index.m3u8
+#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="" tvg-country="EC" group-title="Culture",Manavision [480p]
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec" tvg-name="Marca TV" tvg-logo="" tvg-country="EC" group-title="General",Marca TV [1080p]
@@ -97,6 +98,8 @@ http://45.224.97.181:9999/TVC/index.m3u8
 http://45.224.97.181:9999/Teleamazonas/index.m3u8
 #EXTINF:-1 tvg-id="Telemar.ec" tvg-name="Telemar" tvg-logo="" tvg-country="EC" group-title="General",Telemar [720p]
 https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-id="Telerama.ec" tvg-name="Telerama" tvg-logo="" tvg-country="EC" group-title="General",Telerama [240p]
+https://play.once.net.ec/telerama/live.tv/538.m3u8
 #EXTINF:-1 tvg-id="TvOro.ec" tvg-name="TvOro" tvg-logo="" tvg-country="EC" group-title="General",TvOro [1080p]
 http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" tvg-logo="" tvg-country="EC" group-title="Education",UNIANDES TV [720p]

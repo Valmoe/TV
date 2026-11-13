@@ -60,8 +60,8 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
 #EXTINF:-1 tvg-id="Sport2.sk" tvg-name="Sport 2" tvg-logo="" tvg-country="SK" group-title="Sports",Sport 2
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
-#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" tvg-logo="" tvg-country="SK" group-title="General",TV Central [540p]
-https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk" tvg-name="TV Central" tvg-logo="" tvg-country="SK" group-title="General",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDK.sk" tvg-name="TV DK" tvg-logo="" tvg-country="SK" group-title="General",TV DK [486p]
 https://5ca49f2417d90.streamlock.net/live/dolnykubin1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLiptov.sk" tvg-name="TV Liptov" tvg-logo="" tvg-country="SK" group-title="General",TV Liptov [1080p]
@@ -101,6 +101,6 @@ http://88.212.15.50/live/via_tv/index.m3u8
 #EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk" tvg-name="Zapadoslovenska TV" tvg-logo="" tvg-country="SK" group-title="General",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
 #EXTINF:-1 tvg-id="ducktv.sk" tvg-name="ducktv" tvg-logo="" tvg-country="SK" group-title="Kids",ducktv [720p]
-https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13168
 #EXTINF:-1 tvg-id="ducktvPLUS.sk" tvg-name="ducktv PLUS" tvg-logo="" tvg-country="SK" group-title="Kids",ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8

@@ -108,6 +108,8 @@ https://playhls.media.nic.in/hls/live/vyas/vyas.m3u8
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="EBCGeneralEducation.kh" tvg-name="EBC General Education" tvg-logo="" tvg-country="KH" group-title="Education",EBC General Education [720p]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh" tvg-name="One TV E-School Cambodia" tvg-logo="" tvg-country="KH" group-title="Education",One TV E-School Cambodia [1080p]
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh" tvg-name="TVK 2" tvg-logo="" tvg-country="KH" group-title="Education",TVK 2 [720p]
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh" tvg-name="Wiki TV" tvg-logo="" tvg-country="KH" group-title="Education",Wiki TV [720p]
@@ -130,7 +132,7 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="EdutainmentTV.mn" tvg-name="Edutainment TV" tvg-logo="" tvg-country="MN" group-title="Education",Edutainment TV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8
 #EXTINF:-1 tvg-id="ILCECanal15SummaSaberes.mx" tvg-name="ILCE Canal 15 Summa Saberes" tvg-logo="" tvg-country="MX" group-title="Education",ILCE Canal 15 Summa Saberes [720p]
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx" tvg-name="Jalisco TV" tvg-logo="" tvg-country="MX" group-title="Culture",Jalisco TV [720p]
@@ -209,28 +211,44 @@ http://185.19.191.2:8090/PBS/index.m3u8
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BUTV10.us" tvg-name="BUTV10" tvg-logo="" tvg-country="US" group-title="Education",BUTV10 [1080p]
 https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="CMAC2.us" tvg-name="CMAC 2" tvg-logo="" tvg-country="US" group-title="Education",CMAC 2 [720p]
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CVCEducation.us" tvg-name="CVC Education" tvg-logo="" tvg-country="US" group-title="Education",CVC Education [480p]
 https://dlttx48mxf9m3.cloudfront.net/vod_clients/bolton/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="ClassicArtsShowcase.us" tvg-name="Classic Arts Showcase" tvg-logo="" tvg-country="US" group-title="Culture",Classic Arts Showcase [720p]
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="CloudflareTV.us" tvg-name="Cloudflare TV" tvg-logo="" tvg-country="US" group-title="Education",Cloudflare TV [720p]
 https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="CreaTVChannel28.us" tvg-name="CreaTV Channel 28" tvg-logo="" tvg-country="US" group-title="Education",CreaTV Channel 28 [720p]
+https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8
 #EXTINF:-1 tvg-id="Create.us" tvg-name="Create" tvg-logo="" tvg-country="US" group-title="Education",Create [1080p]
 https://create.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="DKN.us" tvg-name="DKN" tvg-logo="" tvg-country="US" group-title="Education",DKN [1080p]
 https://video.oct.dc.gov/out/u/DKN.m3u8
 #EXTINF:-1 tvg-id="DerryTV23.us" tvg-name="DerryTV 23" tvg-logo="" tvg-country="US" group-title="General",DerryTV 23 [720p]
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" tvg-logo="" tvg-country="US" group-title="Education",Detroit Channel 22
+https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="" tvg-country="US" group-title="Education",Gillette Public Access Television Channel 189
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
+#EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" tvg-logo="" tvg-country="US" group-title="Education",HCTV Educational Access Channel
+https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
+#EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" tvg-logo="" tvg-country="US" group-title="Education",HKTV [1080p]
+https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="KCAT.us" tvg-name="KCAT" tvg-logo="" tvg-country="US" group-title="Education",KCAT [1080p]
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KOCTChannel19.us" tvg-name="KOCT Channel 19" tvg-logo="" tvg-country="US" group-title="Education",KOCT Channel 19 [720p]
 https://securestream10.champds.com/LIVE/KOCTCALIVE2/KOCTCALIVE2.m3u8
+#EXTINF:-1 tvg-id="LA36.us" tvg-name="LA36" tvg-logo="" tvg-country="US" group-title="Education",LA36 [1080p]
+https://reflect-channel36-la.cablecast.tv/live-3/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="LeominsterTVEducational.us" tvg-name="Leominster TV Educational" tvg-logo="" tvg-country="US" group-title="Education",Leominster TV Educational [720p]
 https://livestream.telvue.com/leominster2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" tvg-logo="" tvg-country="US" group-title="Culture",MCN6 Arts Channel [1080p]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MidpenMediaCenterChannel28.us" tvg-name="Midpen Media Center Channel 28" tvg-logo="" tvg-country="US" group-title="Education",Midpen Media Center Channel 28 [720p]
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MonroeCommunityMediaEducationChannel.us" tvg-name="Monroe Community Media Education Channel" tvg-logo="" tvg-country="US" group-title="Education",Monroe Community Media Education Channel
+https://reflect-monroe-public-access.cablecast.tv/live-4/live/live.m3u8
 #EXTINF:-1 tvg-id="NashuaETV.us" tvg-name="Nashua ETV" tvg-logo="" tvg-country="US" group-title="Education",Nashua ETV [720p]
 https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NatickEducationChannel.us" tvg-name="Natick Education Channel" tvg-logo="" tvg-country="US" group-title="Education",Natick Education Channel [720p]
@@ -238,7 +256,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://pbs.lls.cdn.pbs.org/pst/index.m3u8
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]
@@ -252,7 +270,7 @@ https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 #EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-name="Payam Javan TV" tvg-logo="" tvg-country="US" group-title="Education",Payam Javan TV [720p]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Misterios
-https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatureza.us" tvg-name="Pluto TV Natureza" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Paisagens por Stingray [720p]
@@ -265,12 +283,14 @@ https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 tvg-id="SMCTVChannel24.us" tvg-name="SMCTV Channel 24" tvg-logo="" tvg-country="US" group-title="Education",SMCTV Channel 24 [720p]
 https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="StLuciePublicSchools.us" tvg-name="St Lucie Public Schools" tvg-logo="" tvg-country="US" group-title="Education",St Lucie Public Schools
+https://reflect-stlucie-ps-fl.cablecast.tv/live-1/live/stream-1/WIFI-1896k-720p.m3u8
 #EXTINF:-1 tvg-id="TUTV.us" tvg-name="TUTV" tvg-logo="" tvg-country="US" group-title="Education",TUTV [1080p]
 https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="UCTV.us" tvg-name="UCTV" tvg-logo="" tvg-country="US" group-title="Education",UCTV [720p]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" tvg-logo="" tvg-country="US" group-title="Education",World Channel [1080p]
-https://world.lls.pbs.org/index.m3u8
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" tvg-logo="" tvg-country="VE" group-title="Education",Colombeia [576p]
 http://200.59.191.177:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" tvg-logo="" tvg-country="VE" group-title="Education",Vive [576p]
@@ -280,4 +300,4 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="" tvg-country="VN" group-title="Education",HTV4 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="" tvg-country="ZA" group-title="Outdoor",WildEarth [1080p]
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+https://wildearth-xumo.amagi.tv/master.m3u8

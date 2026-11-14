@@ -43,7 +43,7 @@ https://zjarr.future.al/hls/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/36/index.m3u8
 #EXTINF:-1 tvg-id="Armenia1.am" tvg-name="Armenia 1" tvg-logo="" tvg-country="AM" group-title="General",Armenia 1 [1080p]
-https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="Armenia2.am" tvg-name="Armenia 2" tvg-logo="" tvg-country="AM" group-title="General",Armenia 2 [1080p]
 https://amtv.tulixcdn.com/amtv3/am3abr/index.m3u8
 #EXTINF:-1 tvg-id="ArmeniaTVSatellite.am" tvg-name="Armenia TV Satellite" tvg-logo="" tvg-country="AM" group-title="General",Armenia TV Satellite [576p]
@@ -56,8 +56,6 @@ http://stream.mcquack.net/39/index.m3u8
 http://stream.mcquack.net/37/index.m3u8
 #EXTINF:-1 tvg-id="YerkirMedia.am" tvg-name="Yerkir Media" tvg-logo="" tvg-country="AM" group-title="General",Yerkir Media [1080p]
 http://yerkirmedia.am/yerkirmedia/live.m3u8
-#EXTINF:-1 tvg-id="TVZimbo.ao" tvg-name="TV Zimbo" tvg-logo="" tvg-country="AO" group-title="General",TV Zimbo [1080p]
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="" tvg-country="AR" group-title="General",5tv [480p]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTVBariloche.ar" tvg-name="ABTV Bariloche" tvg-logo="" tvg-country="AR" group-title="General",ABTV Bariloche
@@ -93,6 +91,8 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" tvg-name="Canal 2 NexTV Rafaela" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 NexTV Rafaela [720p]
 https://edge.enhdtv.com/nexthd/index.m3u8
+#EXTINF:-1 tvg-id="Canal2deUshuaia.ar" tvg-name="Canal 2 de Ushuaia" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 de Ushuaia [1080p]
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-name="Canal 20 Villa Maria" tvg-logo="" tvg-country="AR" group-title="General",Canal 20 Villa Maria [1080p]
 #EXTVLCOPT:http-referrer=https://www.canal20villamaria.com.ar/
 https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
@@ -149,8 +149,6 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="" tvg-country="AR" group-title="General",Canal 9 Resistencia [720p]
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal99Miramar.ar" tvg-name="Canal 99 Miramar" tvg-logo="" tvg-country="AR" group-title="General",Canal 99 Miramar
-https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" tvg-logo="" tvg-country="AR" group-title="General",Canal Provincial [360p]
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CeltaTV.ar" tvg-name="Celta TV" tvg-logo="" tvg-country="AR" group-title="General",Celta TV [240p]
@@ -186,8 +184,6 @@ http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-id="NeoxTV.ar" tvg-name="Neox TV" tvg-logo="" tvg-country="AR" group-title="General",Neox TV
 https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
-#EXTINF:-1 tvg-id="NorteTV.ar" tvg-name="Norte TV" tvg-logo="" tvg-country="AR" group-title="General",Norte TV [720p]
-https://ntvcanal7.com.ar:81/dash/stream.mpd
 #EXTINF:-1 tvg-id="PowerHD.ar" tvg-name="PowerHD" tvg-logo="" tvg-country="AR" group-title="General",PowerHD [720p]
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTN.ar" tvg-name="RTN" tvg-logo="" tvg-country="AR" group-title="General",RTN [720p]
@@ -202,8 +198,6 @@ http://204.199.3.2/.m3u8
 https://canalsantaferts.argtelemax.workers.dev
 #EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-name="Senillosa TV" tvg-logo="" tvg-country="AR" group-title="General",Senillosa TV [360p]
 https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SicardiTV.ar" tvg-name="Sicardi TV" tvg-logo="" tvg-country="AR" group-title="General",Sicardi TV [720p]
-https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-id="SoliveTV.ar" tvg-name="Solive TV" tvg-logo="" tvg-country="AR" group-title="General",Solive TV
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.ar" tvg-name="Sony Channel" tvg-logo="" tvg-country="AR" group-title="General",Sony Channel [1080p]
@@ -212,8 +206,6 @@ http://138.121.15.230:9002/SONY/index.m3u8
 http://45.171.64.30:6060/play/a04n/index.m3u8
 #EXTINF:-1 tvg-id="T5Satelital.ar" tvg-name="T5 Satelital" tvg-logo="" tvg-country="AR" group-title="General",T5 Satelital
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
-#EXTINF:-1 tvg-id="TIVTelevision.ar" tvg-name="TIV Television" tvg-logo="" tvg-country="AR" group-title="General",TIV Television [720p]
-https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-id="TVCanal72.ar" tvg-name="TV Canal 72" tvg-logo="" tvg-country="AR" group-title="General",TV Canal 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublicaFueguina.ar" tvg-name="TV Publica Fueguina" tvg-logo="" tvg-country="AR" group-title="General",TV Publica Fueguina [1080p]
@@ -283,8 +275,6 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
 #EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" tvg-logo="" tvg-country="AZ" group-title="General",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba" tvg-name="RTRS TV" tvg-logo="" tvg-country="BA" group-title="General",RTRS TV [576p]
-https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1 tvg-id="RTRSplus.ba" tvg-name="RTRS plus" tvg-logo="" tvg-country="BA" group-title="General",RTRS plus [576p]
 https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVHB.ba" tvg-name="RTV HB" tvg-logo="" tvg-country="BA" group-title="General",RTV HB [576p]
@@ -299,8 +289,6 @@ https://tvsen5.aynaott.com/atnbangla/index.m3u8
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-name="Boishakhi TV" tvg-logo="" tvg-country="BD" group-title="General",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 tvg-id="GaziTV.bd" tvg-name="Gazi TV" tvg-logo="" tvg-country="BD" group-title="General",Gazi TV [720p]
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MatribhumiTV.bd" tvg-name="Matribhumi TV" tvg-logo="" tvg-country="BD" group-title="General",Matribhumi TV [720p]
 http://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-id="MyTV.bd" tvg-name="My TV" tvg-logo="" tvg-country="BD" group-title="General",My TV [480p]
@@ -328,7 +316,7 @@ https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio1.be" tvg-name="Radio 1" tvg-logo="" tvg-country="BE" group-title="General",Radio 1 [720p]
 https://live.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.mpd
 #EXTINF:-1 tvg-id="Radio2.be" tvg-name="Radio 2" tvg-logo="" tvg-country="BE" group-title="General",Radio 2 [720p]
-https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.mpd
+https://live.vrtcdn.be/groupa/live/66a9668e-b37b-4de2-878e-0218563b2dd2/live.isml/.m3u8
 #EXTINF:-1 tvg-id="TVLux.be" tvg-name="TV Lux" tvg-logo="" tvg-country="BE" group-title="General",TV Lux [504p]
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.m3u8
 #EXTINF:-1 tvg-id="TeleMB.be" tvg-name="Tele MB" tvg-logo="" tvg-country="BE" group-title="General",Tele MB [504p]
@@ -372,6 +360,8 @@ http://85.11.189.178:8080/bTV/index.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainTV.bh" tvg-name="Bahrain TV" tvg-logo="" tvg-country="BH" group-title="General",Bahrain TV [720p]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNBTV.bi" tvg-name="RTNB TV" tvg-logo="" tvg-country="BI" group-title="General",RTNB TV
+https://tv1-stream.rtnb.bi/hls/master.m3u8
 #EXTINF:-1 tvg-id="DigitalChannel.bj" tvg-name="Digital Channel" tvg-logo="" tvg-country="BJ" group-title="General",Digital Channel [480p]
 https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
 #EXTINF:-1 tvg-id="EdenTV.bj" tvg-name="Eden TV" tvg-logo="" tvg-country="BJ" group-title="General",Eden TV [540p]
@@ -424,15 +414,15 @@ https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
 #EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo" tvg-name="Radio Mega TV Amazonia" tvg-logo="" tvg-country="BO" group-title="General",Radio Mega TV Amazonia [720p]
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="" tvg-country="BO" group-title="General",Red Uno [1080p]
-http://190.181.61.93:8000/play/a003/index.m3u8
+http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-name="RedADvenir TV" tvg-logo="" tvg-country="BO" group-title="General",RedADvenir TV [360p]
-https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-id="SPCCanal15.bo" tvg-name="SPC Canal 15" tvg-logo="" tvg-country="BO" group-title="General",SPC Canal 15 [720p]
 https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8
 #EXTINF:-1 tvg-id="TDTMultimedia.bo" tvg-name="TDT Multimedia" tvg-logo="" tvg-country="BO" group-title="General",TDT Multimedia [720p]
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo" tvg-name="TV Latina" tvg-logo="" tvg-country="BO" group-title="General",TV Latina [1080p]
-https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
+https://master.tucableip.com/tvlatina/index.m3u8
 #EXTINF:-1 tvg-id="TVUSucre.bo" tvg-name="TVU Sucre" tvg-logo="" tvg-country="BO" group-title="General",TVU Sucre [720p]
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" tvg-name="UPEA TV" tvg-logo="" tvg-country="BO" group-title="General",UPEA TV [720p]
@@ -514,7 +504,7 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="" tvg-country="BR" group-title="General",Rede Brasil [1080p]
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" tvg-logo="" tvg-country="BR" group-title="General",Rede CNT Rio de Janeiro [720p]
-http://186.219.52.187/cnt/index.m3u8
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Familia" tvg-logo="" tvg-country="BR" group-title="General",Rede Familia [720p]
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" tvg-name="Rede Meio Norte" tvg-logo="" tvg-country="BR" group-title="General",Rede Meio Norte [720p]
@@ -558,8 +548,6 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil [720p]
 http://186.219.52.187/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-name="TV Brasil Oeste" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil Oeste [720p]
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Cancao Nova" tvg-logo="" tvg-country="BR" group-title="General",TV Cancao Nova [720p]
 http://170.83.16.50/CANCAO_NOVA/index.m3u8
 #EXTINF:-1 tvg-id="TVCidadeVerdeCuiaba.br" tvg-name="TV Cidade Verde Cuiaba" tvg-logo="" tvg-country="BR" group-title="General",TV Cidade Verde Cuiaba
@@ -611,8 +599,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br" tvg-name="TV Show Fortaleza" tvg-logo="" tvg-country="BR" group-title="General",TV Show Fortaleza [720p]
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-name="TV Sul Bahia" tvg-logo="" tvg-country="BR" group-title="General",TV Sul Bahia [320p]
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br" tvg-name="TV Vila Real" tvg-logo="" tvg-country="BR" group-title="General",TV Vila Real [720p]
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-name="TVCOM Maceio" tvg-logo="" tvg-country="BR" group-title="General",TVCOM Maceio [480p]
@@ -626,7 +612,7 @@ https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVitape.br" tvg-name="TVitape" tvg-logo="" tvg-country="BR" group-title="General",TVitape [720p]
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="" tvg-country="BR" group-title="General",WooHoo [720p]
-http://170.83.16.50/WOOHOO/index.m3u8
+http://186.219.52.187/woohoo/index.m3u8
 #EXTINF:-1 tvg-id="ZNSTV.bs" tvg-name="ZNS-TV" tvg-logo="" tvg-country="BS" group-title="General",ZNS-TV [1080p]
 https://zns-edge1.streamcomedia.cloud/znstv13/zns1080p_stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus1.by" tvg-name="Belarus-1" tvg-logo="" tvg-country="BY" group-title="General",Belarus-1 [1080p]
@@ -656,7 +642,7 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-name="Gaunda Punjab TV" tvg-logo="" tvg-country="CA" group-title="General",Gaunda Punjab TV [720p]
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Homeful.ca" tvg-name="Homeful" tvg-logo="" tvg-country="CA" group-title="General",Homeful [1080p]
-https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
+https://amg00090-blueantcanada-amg00090c4-samsung-nz-820.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca" tvg-name="Ici Radio-Canada Tele" tvg-logo="" tvg-country="CA" group-title="General",Ici Radio-Canada Tele [720p]
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="NTV.ca" tvg-name="NTV" tvg-logo="" tvg-country="CA" group-title="General",NTV [480p]
@@ -817,7 +803,7 @@ https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVNuble.cl" tvg-name="RTV Nuble" tvg-logo="" tvg-country="CL" group-title="General",RTV Nuble [1080p]
 https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioAmericaTV.cl" tvg-name="Radio America TV" tvg-logo="" tvg-country="CL" group-title="General",Radio America TV [720p]
-https://v2.tustreaming.cl/americamovil/index.m3u8
+https://v2.tustreaming.cl/radioamericatv/index.m3u8
 #EXTINF:-1 tvg-id="RadioAncoaTV.cl" tvg-name="Radio Ancoa TV" tvg-logo="" tvg-country="CL" group-title="General",Radio Ancoa TV [720p]
 https://v2.tustreaming.cl/radioancoatv/index.m3u8
 #EXTINF:-1 tvg-id="RadioContemporaneaCoihueco.cl" tvg-name="Radio Contemporanea Coihueco" tvg-logo="" tvg-country="CL" group-title="General",Radio Contemporanea Coihueco [720p]
@@ -961,13 +947,15 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV2.cn" tvg-name="Xinjiang TV 2" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 2
 http://110.153.180.106:55555/out_3/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 3
-http://110.153.180.106:55555/out_2/index.m3u8
+http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV8.cn" tvg-name="Xinjiang TV 8" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-name="Xizang TV Chinese" tvg-logo="" tvg-country="CN" group-title="General",Xizang TV Chinese
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn" tvg-name="Xizang TV Tibetan" tvg-logo="" tvg-country="CN" group-title="General",Xizang TV Tibetan
 https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+#EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn" tvg-name="Yichang Sanxia General Channel" tvg-logo="" tvg-country="CN" group-title="General",Yichang Sanxia General Channel
+https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" tvg-logo="" tvg-country="CN" group-title="General",Yunnan Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-name="Zhejiang International Channel" tvg-logo="" tvg-country="CN" group-title="General",Zhejiang International Channel
@@ -979,13 +967,13 @@ https://canal.aupurtv.co/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="BluRadio.co" tvg-name="Blu Radio" tvg-logo="" tvg-country="CO" group-title="General",Blu Radio [720p]
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-id="CNCBugavision.co" tvg-name="CNC Bugavision" tvg-logo="" tvg-country="CO" group-title="General",CNC Bugavision [720p]
-https://video.ejeserver.com/live/cncbuga.m3u8
+https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co" tvg-name="CNC Medellin" tvg-logo="" tvg-country="CO" group-title="General",CNC Medellin [1080p]
 http://181.79.86.130:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CNCPereira.co" tvg-name="CNC Pereira" tvg-logo="" tvg-country="CO" group-title="General",CNC Pereira [720p]
 https://cloudvideo.servers10.com:8081/latinchaneltv/index.m3u8
 #EXTINF:-1 tvg-id="CNCSantanderdeQuilichao.co" tvg-name="CNC Santander de Quilichao" tvg-logo="" tvg-country="CO" group-title="General",CNC Santander de Quilichao [480p]
-https://movil.ejeserver.com/live/cncsantander.m3u8
+https://video.ejeserver.com/live/cncsantander.m3u8
 #EXTINF:-1 tvg-id="CNCTulua.co" tvg-name="CNC Tulua" tvg-logo="" tvg-country="CO" group-title="General",CNC Tulua [1080p]
 https://live.amelbatv.co:81/cnctulualive/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="Canal1.co" tvg-name="Canal 1" tvg-logo="" tvg-country="CO" group-title="General",Canal 1 [1080p]
@@ -995,7 +983,7 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8Sincelejo.co" tvg-name="Canal 8 Sincelejo" tvg-logo="" tvg-country="CO" group-title="General",Canal 8 Sincelejo [720p]
 http://181.78.21.38:8000/play/a0df/index.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co" tvg-name="Canal 8 TV+" tvg-logo="" tvg-country="CO" group-title="General",Canal 8 TV+ [720p]
-https://video.ejeserver.com/live/canal8tv.m3u8
+https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal9Cosespu.co" tvg-name="Canal 9 Cosespu" tvg-logo="" tvg-country="CO" group-title="General",Canal 9 Cosespu
 https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:-1 tvg-id="CanalCHD.co" tvg-name="Canal CHD" tvg-logo="" tvg-country="CO" group-title="General",Canal CHD
@@ -1005,21 +993,21 @@ http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="CanalDos.co" tvg-name="Canal Dos" tvg-logo="" tvg-country="CO" group-title="General",Canal Dos [720p]
 http://131.221.41.94/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-name="Canal Institucional" tvg-logo="" tvg-country="CO" group-title="General",Canal Institucional [1080p]
-http://190.109.2.92:8000/play/a00z/index.m3u8
+http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="" tvg-country="CO" group-title="General",Canal Mas Television [720p]
-https://video.ejeserver.com/live/teledoradahd.m3u8
+https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:-1 tvg-id="CanalRCN.co" tvg-name="Canal RCN" tvg-logo="" tvg-country="CO" group-title="General",Canal RCN [1080p]
-http://138.121.15.230:9002/RCN/index.m3u8
+http://181.78.17.228:8081/RCN-HD/index.m3u8
 #EXTINF:-1 tvg-id="CanalTRO.co" tvg-name="Canal TRO" tvg-logo="" tvg-country="CO" group-title="General",Canal TRO [1080p]
-http://181.78.82.130:8000/play/a0o1/index.m3u8
+http://181.78.211.244:8005/play/a08c/index.m3u8
 #EXTINF:-1 tvg-id="CanalTV3.co" tvg-name="Canal TV3" tvg-logo="" tvg-country="CO" group-title="General",Canal TV3 [720p]
 https://streaming.telenetdigital.net.co:8086/canal3tv/stream.m3u8
 #EXTINF:-1 tvg-id="CaracolHD2.co" tvg-name="Caracol HD2" tvg-logo="" tvg-country="CO" group-title="General",Caracol HD2 [1080p]
-http://190.109.2.92:8000/play/a05u/index.m3u8
+http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="CaracolInternacional.co" tvg-name="Caracol Internacional" tvg-logo="" tvg-country="CO" group-title="General",Caracol Internacional [1080p]
-http://190.123.76.22:8002/play/a06j/index.m3u8
+http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-id="CaracolTV.co" tvg-name="Caracol TV" tvg-logo="" tvg-country="CO" group-title="General",Caracol TV [1080p]
-http://190.121.140.222:8081/CARACOL/index.m3u8
+http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="CitytvBogota.co" tvg-name="Citytv Bogota" tvg-logo="" tvg-country="CO" group-title="General",Citytv Bogota [1080p]
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-id="EnlaceTelevision.co" tvg-name="Enlace Television" tvg-logo="" tvg-country="CO" group-title="General",Enlace Television [1080p]
@@ -1035,7 +1023,7 @@ https://live.arnoproducciones.com/hls/norte.m3u8
 #EXTINF:-1 tvg-id="NSTV.co" tvg-name="NSTV" tvg-logo="" tvg-country="CO" group-title="General",NSTV [1080p]
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-id="NuestraTeleInternacional.co" tvg-name="Nuestra Tele Internacional" tvg-logo="" tvg-country="CO" group-title="General",Nuestra Tele Internacional [1080p]
-https://stream1.bitred.cl/nuestra-tele/index.m3u8
+http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="PancheTelevision.co" tvg-name="Panche Television" tvg-logo="" tvg-country="CO" group-title="General",Panche Television
 https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-id="RCNHD2.co" tvg-name="RCN HD2" tvg-logo="" tvg-country="CO" group-title="General",RCN HD2 [1080p]
@@ -1108,8 +1096,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr" tvg-name="TV Sur Canal 14" tvg-logo="" tvg-country="CR" group-title="General",TV Sur Canal 14 [1080p]
 https://k20.usastreams.com:8081/tvsur/index.m3u8
-#EXTINF:-1 tvg-id="TVSurCanal9.cr" tvg-name="TV Sur Canal 9" tvg-logo="" tvg-country="CR" group-title="General",TV Sur Canal 9 [620p]
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr" tvg-name="TVN 14" tvg-logo="" tvg-country="CR" group-title="General",TVN 14 [720p]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr" tvg-name="Tele Uno" tvg-logo="" tvg-country="CR" group-title="General",Tele Uno [720p]
@@ -1125,10 +1111,6 @@ https://k20.usastreams.com:8081/telered/index.m3u8
 http://190.61.101.11:7050/play/a07t/index.m3u8
 #EXTINF:-1 tvg-id="TicaVision.cr" tvg-name="TicaVision" tvg-logo="" tvg-country="CR" group-title="General",TicaVision [1080p]
 https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-#EXTINF:-1 tvg-id="Trivision36.cr" tvg-name="Trivision 36" tvg-logo="" tvg-country="CR" group-title="General",Trivision 36 [720p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-#EXTVLCOPT:http-referrer=https://player.instantvideocloud.net/
-https://liveingesta118.cdnmedia.tv/trivisionlive/rtmp01-900/chunklist.m3u8?DVR=
 #EXTINF:-1 tvg-id="ZurquiTV.cr" tvg-name="Zurqui TV" tvg-logo="" tvg-country="CR" group-title="General",Zurqui TV [720p]
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="TVDirect13.cw" tvg-name="TV Direct 13" tvg-logo="" tvg-country="CW" group-title="General",TV Direct 13 [480p]
@@ -1239,7 +1221,7 @@ https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3
 #EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" tvg-logo="" tvg-country="DE" group-title="General",Cira TV [1080p]
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="" tvg-country="DE" group-title="General",Das Erste [1080p]
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-name="Erz-TV Stollberg" tvg-logo="" tvg-country="DE" group-title="General",Erz-TV Stollberg [576p]
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Filstalwelle.de" tvg-name="Filstalwelle" tvg-logo="" tvg-country="DE" group-title="General",Filstalwelle [1080p]
@@ -1253,7 +1235,7 @@ https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="Munchen TV" tvg-logo="" tvg-country="DE" group-title="General",Munchen TV [1080p]
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehen.de" tvg-name="NDR Fernsehen" tvg-logo="" tvg-country="DE" group-title="General",NDR Fernsehen [720p]
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
 #EXTINF:-1 tvg-id="NDRFernsehenInternational.de" tvg-name="NDR Fernsehen International" tvg-logo="" tvg-country="DE" group-title="General",NDR Fernsehen International [720p]
 https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-name="Niederbayern TV" tvg-logo="" tvg-country="DE" group-title="General",Niederbayern TV [720p]
@@ -1261,7 +1243,7 @@ https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u
 #EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-name="Niederbayern TV Deggendorf & Straubing" tvg-logo="" tvg-country="DE" group-title="General",Niederbayern TV Deggendorf & Straubing [1080p]
 https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-name="Niederbayern TV Landshut" tvg-logo="" tvg-country="DE" group-title="General",Niederbayern TV Landshut [1080p]
-https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-name="Niederbayern TV Passau" tvg-logo="" tvg-country="DE" group-title="General",Niederbayern TV Passau [1080p]
 https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
 #EXTINF:-1 tvg-id="OKDessau.de" tvg-name="OK Dessau" tvg-logo="" tvg-country="DE" group-title="General",OK Dessau [1080p]
@@ -1277,9 +1259,9 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3
 #EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-name="OK Salzwedel" tvg-logo="" tvg-country="DE" group-title="General",OK Salzwedel [1080p]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKStendal.de" tvg-name="OK Stendal" tvg-logo="" tvg-country="DE" group-title="General",OK Stendal [1080p]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OKWernigerode.de" tvg-name="OK Wernigerode" tvg-logo="" tvg-country="DE" group-title="General",OK Wernigerode [1080p]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz TV" tvg-logo="" tvg-country="DE" group-title="General",Oberpfalz TV [1080p]
 https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="PUNKTumFernsehen.de" tvg-name="PUNKTum Fernsehen" tvg-logo="" tvg-country="DE" group-title="General",PUNKTum Fernsehen [1080p]
@@ -1358,7 +1340,7 @@ https://dash4.antik.sk/live/test_vox_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Voxup.de" tvg-name="Voxup" tvg-logo="" tvg-country="DE" group-title="General",Voxup [576p]
 https://s6.hopslan.com/voxupz/index.m3u8
 #EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR Fernsehen" tvg-logo="" tvg-country="DE" group-title="General",WDR Fernsehen [720p]
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-name="Welt der Wunder TV" tvg-logo="" tvg-country="DE" group-title="General",Welt der Wunder TV [576p]
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-id="YOLTV.de" tvg-name="YOL TV" tvg-logo="" tvg-country="DE" group-title="General",YOL TV [720p]
@@ -1419,8 +1401,6 @@ https://edge.essastream.com/cntmas/tracks-v1a1/mono.m3u8
 https://cdnfox.hostlagarto.com/cct49/index.m3u8
 #EXTINF:-1 tvg-id="CVVisionTV.do" tvg-name="CV Vision TV" tvg-logo="" tvg-country="DO" group-title="General",CV Vision TV [288p]
 https://eu1.servers10.com:8081/8128/index.m3u8
-#EXTINF:-1 tvg-id="CanaTVDigital.do" tvg-name="Cana TV Digital" tvg-logo="" tvg-country="DO" group-title="General",Cana TV Digital [720p]
-https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 #EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" tvg-logo="" tvg-country="DO" group-title="General",Canal 4 RD [1080p]
 https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCatorce.do" tvg-name="Canal Catorce" tvg-logo="" tvg-country="DO" group-title="General",Canal Catorce [1080p]
@@ -1462,9 +1442,9 @@ https://vdopanel.jlahozconsulting.com:3869/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DeltaTVCanal50.do" tvg-name="Delta TV Canal 50" tvg-logo="" tvg-country="DO" group-title="General",Delta TV Canal 50 [720p]
 https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Digital15.do" tvg-name="Digital 15" tvg-logo="" tvg-country="DO" group-title="General",Digital 15 [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/15tv/index_pc.php
-https://live2.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="DigitalVision63.do" tvg-name="Digital Vision 63" tvg-logo="" tvg-country="DO" group-title="General",Digital Vision 63 [720p]
 https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 #EXTINF:-1 tvg-id="EcosCanal57.do" tvg-name="Ecos Canal 57" tvg-logo="" tvg-country="DO" group-title="General",Ecos Canal 57 [1080p]
@@ -1473,8 +1453,6 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTINF:-1 tvg-id="EliasPinaTV.do" tvg-name="Elias Pina TV" tvg-logo="" tvg-country="DO" group-title="General",Elias Pina TV [720p]
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="Enntivision.do" tvg-name="Enntivision" tvg-logo="" tvg-country="DO" group-title="General",Enntivision [1080p]
-https://edge.essastream.com/enntivision/playlist.m3u8
 #EXTINF:-1 tvg-id="EnterateRD.do" tvg-name="Enterate RD" tvg-logo="" tvg-country="DO" group-title="General",Enterate RD [1080p]
 https://5790d294af2dc.streamlock.net/enteraterd/enteraterd/playlist.m3u8
 #EXTINF:-1 tvg-id="EntunoTV.do" tvg-name="Entuno TV" tvg-logo="" tvg-country="DO" group-title="General",Entuno TV [1080p]
@@ -1485,8 +1463,6 @@ https://video-eu1.streamerr.co/hls/sb77f834a54/live.m3u8
 https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Farovision.do" tvg-name="Farovision" tvg-logo="" tvg-country="DO" group-title="General",Farovision [720p]
 https://5790d294af2dc.streamlock.net/femeninatv/femeninatv/playlist.m3u8
-#EXTINF:-1 tvg-id="GHTelevision.do" tvg-name="GH Television" tvg-logo="" tvg-country="DO" group-title="General",GH Television [1080p]
-https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GlobalSocialTV.do" tvg-name="Global Social TV" tvg-logo="" tvg-country="DO" group-title="General",Global Social TV [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.castr.com/
@@ -1515,8 +1491,6 @@ https://cloud2.streaminglivehd.com:1936/lareinatv/lareinatv/playlist.m3u8
 https://streamunoapp.com:3983/live/larutatvlive.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do" tvg-name="Laguna TV" tvg-logo="" tvg-country="DO" group-title="General",Laguna TV [1080p]
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
-#EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" tvg-logo="" tvg-country="DO" group-title="General",Larivision TV [720p]
-https://live.larivision.net/livelan/live.m3u8
 #EXTINF:-1 tvg-id="LatinaTVInternacional.do" tvg-name="Latina TV Internacional" tvg-logo="" tvg-country="DO" group-title="General",Latina TV Internacional [720p]
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" tvg-logo="" tvg-country="DO" group-title="General",Lena TV [614p]
@@ -1553,6 +1527,8 @@ https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="NexxoTV.do" tvg-name="Nexxo TV" tvg-logo="" tvg-country="DO" group-title="General",Nexxo TV [1080p]
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
+#EXTINF:-1 tvg-id="NotisurTV.do" tvg-name="Notisur TV" tvg-logo="" tvg-country="DO" group-title="General",Notisur TV [720p]
+https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV" tvg-logo="" tvg-country="DO" group-title="General",ORBIT TV [1080p]
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-name="Onda TV" tvg-logo="" tvg-country="DO" group-title="General",Onda TV [720p]
@@ -1581,8 +1557,6 @@ https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3
 https://host.streamingnation.live/p/3345/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SantiagoTV.do" tvg-name="Santiago TV" tvg-logo="" tvg-country="DO" group-title="General",Santiago TV [720p]
 https://edge.essastream.com/telemilenio/playlist.m3u8
-#EXTINF:-1 tvg-id="SenalDigitalTV.do" tvg-name="Senal Digital TV" tvg-logo="" tvg-country="DO" group-title="General",Senal Digital TV
-https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
 #EXTINF:-1 tvg-id="SiTV.do" tvg-name="SiTV" tvg-logo="" tvg-country="DO" group-title="General",SiTV [1080p]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.do" tvg-name="Super Canal" tvg-logo="" tvg-country="DO" group-title="General",Super Canal [1080p]
@@ -1626,9 +1600,9 @@ https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecanal28.do" tvg-name="Telecanal 28" tvg-logo="" tvg-country="DO" group-title="General",Telecanal 28 [1080p]
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telecentro.do" tvg-name="Telecentro" tvg-logo="" tvg-country="DO" group-title="General",Telecentro [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:152.0) Gecko/20100101 Firefox/152.0
-#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/13tv/index_pc.php
-https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+#EXTVLCOPT:http-referrer=https://telemicro.com.do/players/5tv/
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto" tvg-logo="" tvg-country="DO" group-title="General",Telecontacto
 https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" tvg-logo="" tvg-country="DO" group-title="General",Telefuturo [480p]
@@ -1778,7 +1752,7 @@ https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 kanala" tvg-logo="" tvg-country="ES" group-title="General",28 kanala
 https://streaming.28kanala.eus/hls/z.m3u8
 #EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" tvg-country="ES" group-title="General",7TV
-https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-logo="" tvg-country="ES" group-title="General",8 La Marina TV [576p]
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="A Punt" tvg-logo="" tvg-country="ES" group-title="General",A Punt [720p]
@@ -1794,7 +1768,7 @@ https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="BCNGospelTV.es" tvg-name="BCN Gospel TV" tvg-logo="" tvg-country="ES" group-title="General",BCN Gospel TV [720p]
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" tvg-logo="" tvg-country="ES" group-title="General",Bon Dia TV [1080p]
-https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es" tvg-name="CMM TV" tvg-logo="" tvg-country="ES" group-title="General",CMM TV [1080p]
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="Canal10Emporda.es" tvg-name="Canal 10 Emporda" tvg-logo="" tvg-country="ES" group-title="General",Canal 10 Emporda [360p]
@@ -1877,6 +1851,8 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="" tvg-country="ES" group-title="General",Intercomarcal TV [576p]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="La1Catalunya.es" tvg-name="La 1 Catalunya" tvg-logo="" tvg-country="ES" group-title="General",La 1 Catalunya [720p]
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="" tvg-country="ES" group-title="General",La 2 [1080p]
 https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="" tvg-country="ES" group-title="General",La 2 Canarias [720p]
@@ -1958,6 +1934,8 @@ https://rtvclive.flumotion.cloud/rtvc1live/smil:channel1PRG.smil/playlist.m3u8
 https://cloud.tvomix.com/TITOTV/index.m3u8
 #EXTINF:-1 tvg-id="UneVinalopo.es" tvg-name="Une Vinalopo" tvg-logo="" tvg-country="ES" group-title="General",Une Vinalopo [576p]
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
+#EXTINF:-1 tvg-id="UrolaTelebista.es" tvg-name="Urola Telebista" tvg-logo="" tvg-country="ES" group-title="General",Urola Telebista [416p]
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
 #EXTINF:-1 tvg-id="VOTV.es" tvg-name="VOTV" tvg-logo="" tvg-country="ES" group-title="General",VOTV [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8
@@ -2003,6 +1981,8 @@ https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="GenerationsTV.fr" tvg-name="Generations TV" tvg-logo="" tvg-country="FR" group-title="General",Generations TV [576p]
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="ILTV.fr" tvg-name="ILTV" tvg-logo="" tvg-country="FR" group-title="General",ILTV [720p]
+https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr" tvg-name="Le Figaro TV Ile-de-France" tvg-logo="" tvg-country="FR" group-title="General",Le Figaro TV Ile-de-France [1080p]
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="MDL.fr" tvg-name="MDL" tvg-logo="" tvg-country="FR" group-title="General",MDL [720p]
@@ -2107,7 +2087,7 @@ https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="LepantoTV.gr" tvg-name="Lepanto TV" tvg-logo="" tvg-country="GR" group-title="General",Lepanto TV [1080p]
 https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
 #EXTINF:-1 tvg-id="NeaTV.gr" tvg-name="Nea TV" tvg-logo="" tvg-country="GR" group-title="General",Nea TV [720p]
-https://live.neatv.gr:8888/hls/neatv.m3u8
+https://live.neatv.gr:8888/hls/neatv_high/index.m3u8
 #EXTINF:-1 tvg-id="NotioiTV.gr" tvg-name="Notioi TV" tvg-logo="" tvg-country="GR" group-title="General",Notioi TV [1080p]
 https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 tvg-id="OneChannel.gr" tvg-name="One Channel" tvg-logo="" tvg-country="GR" group-title="General",One Channel [1080p]
@@ -2172,6 +2152,8 @@ http://181.78.106.127:5000/play/ca090/index.m3u8
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 #EXTINF:-1 tvg-id="WorldTVGuatemala.gt" tvg-name="World TV Guatemala" tvg-logo="" tvg-country="GT" group-title="General",World TV Guatemala [720p]
 https://183.giatvcdn.com/giatv/giatv-worldtvgt/worldtvgt/playlist.m3u8
+#EXTINF:-1 tvg-id="HGPTV.gy" tvg-name="HGPTV" tvg-logo="" tvg-country="GY" group-title="General",HGPTV [720p]
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
 #EXTINF:-1 tvg-id="IgniteTelevision.gy" tvg-name="Ignite Television" tvg-logo="" tvg-country="GY" group-title="General",Ignite Television [1080p]
 https://rpn.bozztv.com/ignitelive/ignitetv/ignitetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTVGuyana.gy" tvg-name="MTV Guyana" tvg-logo="" tvg-country="GY" group-title="General",MTV Guyana [1080p]
@@ -2292,8 +2274,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Story4.hu" tvg-name="Story4" tvg-logo="" tvg-country="HU" group-title="General",Story4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://88.212.7.14/live/story_4_cze_atk/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="Super TV2" tvg-logo="" tvg-country="HU" group-title="General",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
@@ -2354,6 +2336,8 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id" tvg-name="Batam TV" tvg-logo="" tvg-country="ID" group-title="General",Batam TV [480p]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" tvg-logo="" tvg-country="ID" group-title="General",Bungo TV [480p]
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CarubanTV.id" tvg-name="Caruban TV" tvg-logo="" tvg-country="ID" group-title="General",Caruban TV [1080p]
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 https://stream.carubantv.id/hls/0/stream.m3u8
@@ -2364,8 +2348,6 @@ https://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="" tvg-country="ID" group-title="General",Efarina TV [720p]
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="" tvg-country="ID" group-title="General",Garuda TV [1080p]
-https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="" tvg-country="ID" group-title="General",JTV [1080p]
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JambiTV.id" tvg-name="Jambi TV" tvg-logo="" tvg-country="ID" group-title="General",Jambi TV
@@ -2377,6 +2359,8 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 http://27.124.81.245:1935/jektv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id" tvg-name="Kawanua TV" tvg-logo="" tvg-country="ID" group-title="General",Kawanua TV [720p]
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" tvg-logo="" tvg-country="ID" group-title="General",Kilisuci TV
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-logo="" tvg-country="ID" group-title="General",MDTV [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=dens.tv/tv-local
@@ -2432,8 +2416,8 @@ https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTVLCOPT:http-referrer=sriwijayatv.tv
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" tvg-logo="" tvg-country="ID" group-title="General",Stara TV [1080p]
-#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
-https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-name="Surau TV" tvg-logo="" tvg-country="ID" group-title="General",Surau TV [720p]
 #EXTVLCOPT:http-referrer=https://surau.tv/
 https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8
@@ -2494,13 +2478,11 @@ http://163.61.226.31:9981/stream/channelid/297962113?profile=pass
 #EXTINF:-1 tvg-id="ColorsRishteyAmericas.in" tvg-name="Colors Rishtey Americas" tvg-logo="" tvg-country="IN" group-title="General",Colors Rishtey Americas [396p]
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-name="DD Arun Prabha" tvg-logo="" tvg-country="IN" group-title="General",DD Arun Prabha [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/203/master.m3u8
+https://cdn.pishow.tv/ott/live/32/master.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-name="DD Assam" tvg-logo="" tvg-country="IN" group-title="General",DD Assam [504p]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-name="DD Bangla" tvg-logo="" tvg-country="IN" group-title="General",DD Bangla [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/197/master.m3u8
+https://cdn.pishow.tv/ott/live/37/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in" tvg-name="DD Bihar" tvg-logo="" tvg-country="IN" group-title="General",DD Bihar [720p]
 https://cdn.pishow.tv/ott/live/35/master.m3u8
 #EXTINF:-1 tvg-id="DDChandana.in" tvg-name="DD Chandana" tvg-logo="" tvg-country="IN" group-title="General",DD Chandana [576p]
@@ -2520,15 +2502,14 @@ https://fta.ektv.in/live/580/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/575/master.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in" tvg-name="DD India" tvg-logo="" tvg-country="IN" group-title="General",DD India [1080p]
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/119/119_0.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-name="DD Jharkhand" tvg-logo="" tvg-country="IN" group-title="General",DD Jharkhand [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/573/master.m3u8
+https://cdn.pishow.tv/ott/live/1617/master.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in" tvg-name="DD Kashir" tvg-logo="" tvg-country="IN" group-title="General",DD Kashir [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/248/master.m3u8
+https://cdn.pishow.tv/ott/live/16/master.m3u8
 #EXTINF:-1 tvg-id="DDMadhyaPradesh.in" tvg-name="DD Madhya Pradesh" tvg-logo="" tvg-country="IN" group-title="General",DD Madhya Pradesh [720p]
-https://mumbai-edge.smartplaytv.in/ddmadhyapradesh/index.m3u8
+https://cdn.pishow.tv/ott/live/31/master.m3u8
 #EXTINF:-1 tvg-id="DDManipur.in" tvg-name="DD Manipur" tvg-logo="" tvg-country="IN" group-title="General",DD Manipur [504p]
 https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
 #EXTINF:-1 tvg-id="DDMeghalaya.in" tvg-name="DD Meghalaya" tvg-logo="" tvg-country="IN" group-title="General",DD Meghalaya [504p]
@@ -2568,29 +2549,28 @@ https://live.castmaxcloud.com/live/hstv.m3u8
 #EXTINF:-1 tvg-id="JanTV.in" tvg-name="Jan TV" tvg-logo="" tvg-country="IN" group-title="General",Jan TV [576p]
 https://d1msejlow1t3l4.cloudfront.net/fta/jantv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeevanTV.in" tvg-name="Jeevan TV" tvg-logo="" tvg-country="IN" group-title="General",Jeevan TV [576p]
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+https://cdn.pishow.tv/ott/live/1467/master.m3u8
 #EXTINF:-1 tvg-id="Jonack.in" tvg-name="Jonack" tvg-logo="" tvg-country="IN" group-title="General",Jonack [576p]
-https://mumt04.tangotv.in/m18aqlK4JONAKTV/index.m3u8
+https://cdn.pishow.tv/ott/live/10006/master.m3u8
 #EXTINF:-1 tvg-id="KTVBangla.in" tvg-name="KTV Bangla" tvg-logo="" tvg-country="IN" group-title="General",KTV Bangla [1080p]
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
 #EXTINF:-1 tvg-id="KairaliTV.in" tvg-name="Kairali TV" tvg-logo="" tvg-country="IN" group-title="General",Kairali TV [576p]
-https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="KalaignarTV.in" tvg-name="Kalaignar TV" tvg-logo="" tvg-country="IN" group-title="General",Kalaignar TV [396p]
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-id="KaumudyTV.in" tvg-name="Kaumudy TV" tvg-logo="" tvg-country="IN" group-title="General",Kaumudy TV [720p]
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in" tvg-name="MBC TV" tvg-logo="" tvg-country="IN" group-title="General",MBC TV [576p]
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/667/master.m3u8
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
 #EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" tvg-logo="" tvg-country="IN" group-title="General",MH One [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/353/master.m3u8
-#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" tvg-country="IN" group-title="General",Makkal TV [576i]
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="" tvg-country="IN" group-title="General",Makkal TV [576p]
+https://mumt01.tangotv.in/O5aw8Zn3MAKKALTV/index.m3u8
 #EXTINF:-1 tvg-id="MeiAlaiTV.in" tvg-name="Mei Alai TV" tvg-logo="" tvg-country="IN" group-title="General",Mei Alai TV [576p]
 https://meialai.iptelevishion.com/meialai/2/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-name="Metro TV" tvg-logo="" tvg-country="IN" group-title="General",Metro TV [1080p]
-https://stream.ottlive.co.in/metrotv/index.m3u8
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
 #EXTINF:-1 tvg-id="Mh1Prime.in" tvg-name="Mh 1 Prime" tvg-logo="" tvg-country="IN" group-title="General",Mh 1 Prime [576p]
 https://streams.tangotv.in/MHONE/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NKRTVKannada.in" tvg-name="NKR TV Kannada" tvg-logo="" tvg-country="IN" group-title="General",NKR TV Kannada [1080p]
@@ -2600,8 +2580,7 @@ https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Network10.in" tvg-name="Network 10" tvg-logo="" tvg-country="IN" group-title="General",Network 10 [720p]
 https://network10.livebox.co.in/network10outhls/live.m3u8
 #EXTINF:-1 tvg-id="News11.in" tvg-name="News 11" tvg-logo="" tvg-country="IN" group-title="General",News 11 [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/307/master.m3u8
+https://mumt07.tangotv.in/zHjX9OFlNEWS11BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="PrarthanaBhawanTV.in" tvg-name="Prarthana Bhawan TV" tvg-logo="" tvg-country="IN" group-title="General",Prarthana Bhawan TV [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/623/master.m3u8
@@ -2614,7 +2593,7 @@ https://mumt04.tangotv.in/m18aqlK4PUTHUYUGAMTV/index.m3u8
 #EXTINF:-1 tvg-id="RPlus.in" tvg-name="R Plus" tvg-logo="" tvg-country="IN" group-title="General",R Plus [1080p]
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
 #EXTINF:-1 tvg-id="RPlusGold.in" tvg-name="R Plus Gold" tvg-logo="" tvg-country="IN" group-title="General",R Plus Gold [1080p]
-https://stream.ottlive.co.in/rplusgold/index.m3u8
+https://vglivessai.akamaized.net/ptnr-lg/title-Rplus_Gold/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/33172241-82f7-4c91-8ae8-4754309b66a0/index.m3u8
 #EXTINF:-1 tvg-id="RaftaarMedia.in" tvg-name="Raftaar Media" tvg-logo="" tvg-country="IN" group-title="General",Raftaar Media [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/306/master.m3u8
@@ -2629,15 +2608,13 @@ https://fta.ektv.in/live/709/master.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in" tvg-name="Rongeen TV" tvg-logo="" tvg-country="IN" group-title="General",Rongeen TV [720p]
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in" tvg-name="Saam TV" tvg-logo="" tvg-country="IN" group-title="General",Saam TV [576p]
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/650/master.m3u8
+https://cdn.pishow.tv/ott/live/437/master.m3u8
 #EXTINF:-1 tvg-id="SaiTV.in" tvg-name="Sai TV" tvg-logo="" tvg-country="IN" group-title="General",Sai TV [576p]
 https://cdn.pishow.tv/ott/live/1235/master.m3u8
 #EXTINF:-1 tvg-id="SantvaniChannel.in" tvg-name="Santvani Channel" tvg-logo="" tvg-country="IN" group-title="General",Santvani Channel [720p]
 https://d1hyhsds9hb4o2.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="SarvDharmSangam.in" tvg-name="Sarv Dharm Sangam" tvg-logo="" tvg-country="IN" group-title="General",Sarv Dharm Sangam [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/630/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
 #EXTINF:-1 tvg-id="SharnamTV.in" tvg-name="Sharnam TV" tvg-logo="" tvg-country="IN" group-title="General",Sharnam TV [576p]
 https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ShekinahTV.in" tvg-name="Shekinah TV" tvg-logo="" tvg-country="IN" group-title="General",Shekinah TV [576p]
@@ -2685,8 +2662,6 @@ https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 http://185.9.2.18/chid_144/index.m3u8
 #EXTINF:-1 tvg-id="AlawlaTV.iq" tvg-name="Alawla TV" tvg-logo="" tvg-country="IQ" group-title="General",Alawla TV [720p]
 https://live.alawla.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AvarTV.iq" tvg-name="Avar TV" tvg-logo="" tvg-country="IQ" group-title="General",Avar TV [1080p]
-https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IraqFuture.iq" tvg-name="Iraq Future" tvg-logo="" tvg-country="IQ" group-title="General",Iraq Future [480p]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_040/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KurdChannel.iq" tvg-name="Kurd Channel" tvg-logo="" tvg-country="IQ" group-title="General",Kurd Channel
@@ -2700,7 +2675,7 @@ https://vmi747311.contaboserver.net/hls/livetv.m3u8
 #EXTINF:-1 tvg-id="UTV.iq" tvg-name="UTV" tvg-logo="" tvg-country="IQ" group-title="General",UTV [1080p]
 https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq" tvg-name="Waar TV" tvg-logo="" tvg-country="IQ" group-title="General",Waar TV [1080p]
-https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-name="Zagros TV" tvg-logo="" tvg-country="IQ" group-title="General",Zagros TV [1080p]
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
 #EXTINF:-1 tvg-id="AraxTV.ir" tvg-name="Arax TV" tvg-logo="" tvg-country="IR" group-title="General",Arax TV
@@ -2748,7 +2723,7 @@ https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-logo="" tvg-country="IT" group-title="General",Canale 7 [480p]
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-logo="" tvg-country="IT" group-title="General",Canale 8 [480p]
-http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="CusanoItaliaTV.it" tvg-name="Cusano Italia TV" tvg-logo="" tvg-country="IT" group-title="General",Cusano Italia TV [720p]
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DITV80.it" tvg-name="DI.TV 80" tvg-logo="" tvg-country="IT" group-title="General",DI.TV 80 [720p]
@@ -2782,12 +2757,14 @@ http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C TV" tvg-logo="" tvg-country="IT" group-title="General",La C TV [720p]
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" tvg-logo="" tvg-country="IT" group-title="General",La Nuova TV [720p]
+https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" tvg-logo="" tvg-country="IT" group-title="General",La TR3 Marsala [720p]
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" tvg-logo="" tvg-country="IT" group-title="General",La7 Cinema [720p]
 http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 tvg-id="LeCronacheTV.it" tvg-name="Le Cronache TV" tvg-logo="" tvg-country="IT" group-title="General",Le Cronache TV [720p]
-http://stucazz.com:8888/hls/cronache.m3u8
+http://77.68.40.210:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="LombardiaTV.it" tvg-name="Lombardia TV" tvg-logo="" tvg-country="IT" group-title="General",Lombardia TV [720p]
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" tvg-logo="" tvg-country="IT" group-title="General",Mediaset Italia [1080p]
@@ -2936,8 +2913,6 @@ https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleRama.it" tvg-name="TeleRama" tvg-logo="" tvg-country="IT" group-title="General",TeleRama [576p]
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleTusciaSabina2000.it" tvg-name="TeleTusciaSabina 2000" tvg-logo="" tvg-country="IT" group-title="General",TeleTusciaSabina 2000 [576p]
-http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="" tvg-country="IT" group-title="General",Telecity Lombardia [1080p]
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecolorLombardia.it" tvg-name="Telecolor Lombardia" tvg-logo="" tvg-country="IT" group-title="General",Telecolor Lombardia [1080p]
@@ -2996,14 +2971,16 @@ https://live-onesignal.royalmedia.co.ke/live/T-MxRsFebq6zx7k2QFMbLw.m3u8
 https://livecdn.premiumfree.tv/afxpstr/K24Backup/index.m3u8
 #EXTINF:-1 tvg-id="MERUTV.ke" tvg-name="MERU TV" tvg-logo="" tvg-country="KE" group-title="General",MERU TV [720p]
 https://goliveafrica.media:9998/live/628e5c1991061/index.m3u8
-#EXTINF:-1 tvg-id="TV1KG.kg" tvg-name="TV1.KG" tvg-logo="" tvg-country="KG" group-title="General",TV1.KG [1080p]
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh" tvg-name="Bayon TV" tvg-logo="" tvg-country="KH" group-title="General",Bayon TV
 https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV9.kh" tvg-name="CTV 9" tvg-logo="" tvg-country="KH" group-title="General",CTV 9 [1080p]
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
 #EXTINF:-1 tvg-id="SEATV.kh" tvg-name="SEA TV" tvg-logo="" tvg-country="KH" group-title="General",SEA TV [1080p]
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TVK.kh" tvg-name="TVK" tvg-logo="" tvg-country="KH" group-title="General",TVK [720p]
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh" tvg-name="Town TV" tvg-logo="" tvg-country="KH" group-title="General",Town TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8
 #EXTINF:-1 tvg-id="NevisTelevision.kn" tvg-name="Nevis Television" tvg-logo="" tvg-country="KN" group-title="General",Nevis Television [720p]
 https://media.slactech.com:1936/NTvDirect/ngrp:NTvDirect_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionCaribbean.kn" tvg-name="Television Caribbean" tvg-logo="" tvg-country="KN" group-title="General",Television Caribbean [1080p]
@@ -3015,7 +2992,7 @@ https://live.koryocdn.org/kctv/index.m3u8
 #EXTINF:-1 tvg-id="ABN.kr" tvg-name="ABN" tvg-logo="" tvg-country="KR" group-title="General",ABN [720p]
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="ArirangRadio.kr" tvg-name="Arirang Radio" tvg-logo="" tvg-country="KR" group-title="General",Arirang Radio [720p]
-http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr" tvg-name="Arirang TV" tvg-logo="" tvg-country="KR" group-title="News",Arirang TV [1080p]
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAJDTV.kr" tvg-name="HLAJ-DTV" tvg-logo="" tvg-country="KR" group-title="General",HLAJ-DTV [352p]
@@ -3302,8 +3279,6 @@ https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-id="CBTVMichoacan.mx" tvg-name="CB TV Michoacan" tvg-logo="" tvg-country="MX" group-title="General",CB TV Michoacan [720p]
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
-#EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-name="California Medios TV" tvg-logo="" tvg-country="MX" group-title="General",California Medios TV [720p]
-https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Durango.mx" tvg-name="Canal 10 Durango" tvg-logo="" tvg-country="MX" group-title="General",Canal 10 Durango [1080p]
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx" tvg-name="Canal 22 Nacional" tvg-logo="" tvg-country="MX" group-title="General",Canal 22 Nacional [720p]
@@ -3349,15 +3324,13 @@ https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-id="Radiotele.mx" tvg-name="Radiotele" tvg-logo="" tvg-country="MX" group-title="General",Radiotele [352p]
 http://linkrt.ddns.net:8080/hls/rtmorelia_MID.m3u8
 #EXTINF:-1 tvg-id="SICOMTelevision.mx" tvg-name="SICOM Television" tvg-logo="" tvg-country="MX" group-title="General",SICOM Television [720p]
-https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal2/playlist.m3u8
 #EXTINF:-1 tvg-id="SIPSETV81.mx" tvg-name="SIPSE TV 8.1" tvg-logo="" tvg-country="MX" group-title="General",SIPSE TV 8.1 [1080p]
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 #EXTINF:-1 tvg-id="SIPSETVCUN81.mx" tvg-name="SIPSE TVCUN 8.1" tvg-logo="" tvg-country="MX" group-title="General",SIPSE TVCUN 8.1 [1080p]
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 #EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx" tvg-name="Sistema Michoacano de TV" tvg-logo="" tvg-country="MX" group-title="General",Sistema Michoacano de TV [1080p]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="TRCTV.mx" tvg-name="TRC TV" tvg-logo="" tvg-country="MX" group-title="General",TRC TV [720p]
-https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDN" tvg-logo="" tvg-country="MX" group-title="General",TUDN [576p]
 http://45.5.118.152:8000/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="TVCuatro41.mx" tvg-name="TV Cuatro 4.1" tvg-logo="" tvg-country="MX" group-title="General",TV Cuatro 4.1 [1080p]
@@ -3380,9 +3353,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPObregon.mx" tvg-name="TVP Obregon" tvg-logo="" tvg-country="MX" group-title="General",TVP Obregon [720p]
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="Tele Yucatan" tvg-logo="" tvg-country="MX" group-title="General",Tele Yucatan [1080p]
-#EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
-https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" tvg-country="MX" group-title="General",TeleFormula [720p]
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="Telemax.mx" tvg-name="Telemax" tvg-logo="" tvg-country="MX" group-title="General",Telemax [1080p]
@@ -3403,8 +3373,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
 #EXTINF:-1 tvg-id="XHTTGTDT.mx" tvg-name="XHTTG-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHTTG-TDT [720p]
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
-#EXTINF:-1 tvg-id="XHZHZTDT.mx" tvg-name="XHZHZ-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHZHZ-TDT [720p]
-https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="Okey.my" tvg-name="Okey" tvg-logo="" tvg-country="MY" group-title="General",Okey [1080p]
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
@@ -3421,12 +3389,16 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/nouve
 #EXTINF:-1 tvg-id="TeleSahel.ne" tvg-name="Tele Sahel" tvg-logo="" tvg-country="NE" group-title="General",Tele Sahel [1080p]
 https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
 #EXTINF:-1 tvg-id="ApprovalTV.ng" tvg-name="Approval TV" tvg-logo="" tvg-country="NG" group-title="General",Approval TV [720p]
-#EXTVLCOPT:http-referrer=https://live.approvaltv.com/
-https://live.approvaltv.com/approvaltv/index.m3u8
+https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8
 #EXTINF:-1 tvg-id="BCSStarCrossTV.ng" tvg-name="BCS StarCross TV" tvg-logo="" tvg-country="NG" group-title="General",BCS StarCross TV [576p]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_001/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BrideTV.ng" tvg-name="Bride TV" tvg-logo="" tvg-country="NG" group-title="General",Bride TV [576p]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FortisTV.ng" tvg-name="Fortis TV" tvg-logo="" tvg-country="NG" group-title="General",Fortis TV
+https://stream.fortistv.com/hls/fortis-news/index.m3u8
+#EXTINF:-1 tvg-id="OSBCTV.ng" tvg-name="OSBC TV" tvg-logo="" tvg-country="NG" group-title="General",OSBC TV [480p]
+#EXTVLCOPT:http-referrer=https://odysee.com/
+https://cloud.odysee.live/content/0edfb4b7fb52d2d5ae30e052ce6b61d376fcd662/master.m3u8
 #EXTINF:-1 tvg-id="RapidTV.ng" tvg-name="Rapid TV" tvg-logo="" tvg-country="NG" group-title="General",Rapid TV [480p]
 https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19e748901a3f596d0/index.m3u8
 #EXTINF:-1 tvg-id="RaveTV.ng" tvg-name="Rave TV" tvg-logo="" tvg-country="NG" group-title="General",Rave TV [576p]
@@ -3527,7 +3499,7 @@ https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepSudwest.nl" tvg-name="Omroep Sudwest" tvg-logo="" tvg-country="NL" group-title="General",Omroep Sudwest [720p]
 https://d2ecwd3cgy6wo0.cloudfront.net/nlpo/clr-nlpo/omroepsudwest/index.m3u8
 #EXTINF:-1 tvg-id="OmroepTilburg.nl" tvg-name="Omroep Tilburg" tvg-logo="" tvg-country="NL" group-title="General",Omroep Tilburg [480p]
-https://ms2.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepVenlo.nl" tvg-name="Omroep Venlo" tvg-logo="" tvg-country="NL" group-title="General",Omroep Venlo [720p]
 https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
 #EXTINF:-1 tvg-id="OmroepVenray.nl" tvg-name="Omroep Venray" tvg-logo="" tvg-country="NL" group-title="General",Omroep Venray [720p]
@@ -3648,8 +3620,6 @@ https://movil.ejeserver.com/live/nextv.m3u8
 http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="36TVHuacho.pe" tvg-name="36 TV Huacho" tvg-logo="" tvg-country="PE" group-title="General",36 TV Huacho [720p]
 https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCTeleshow.pe" tvg-name="ABC Teleshow" tvg-logo="" tvg-country="PE" group-title="General",ABC Teleshow [720p]
-https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8
 #EXTINF:-1 tvg-id="ABTelevision.pe" tvg-name="ABTelevision" tvg-logo="" tvg-country="PE" group-title="General",ABTelevision [720p]
 https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV" tvg-logo="" tvg-country="PE" group-title="General",ATV [1080p]
@@ -3658,8 +3628,6 @@ http://190.93.224.42/ATV/index.m3u8
 http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="AlturaTV.pe" tvg-name="Altura TV" tvg-logo="" tvg-country="PE" group-title="General",Altura TV [720p]
 https://play.agenciastreaming.com:8081/tvalturalimalive/video.m3u8
-#EXTINF:-1 tvg-id="AmazonicaTV.pe" tvg-name="Amazonica TV" tvg-logo="" tvg-country="PE" group-title="General",Amazonica TV [720p]
-https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaInternacional.pe" tvg-name="America Internacional" tvg-logo="" tvg-country="PE" group-title="General",America Internacional [720p]
 https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="America Television" tvg-logo="" tvg-country="PE" group-title="General",America Television [1080p]
@@ -3741,11 +3709,9 @@ https://play.agenciastreaming.com:8081/nacionaltv/index.m3u8
 #EXTINF:-1 tvg-id="Nativa.pe" tvg-name="Nativa" tvg-logo="" tvg-country="PE" group-title="General",Nativa [720p]
 http://187.102.210.46/NATIVATV/index.m3u8
 #EXTINF:-1 tvg-id="NativaTVSatipo.pe" tvg-name="Nativa TV Satipo" tvg-logo="" tvg-country="PE" group-title="General",Nativa TV Satipo [720p]
-https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ONDADIGITAL.pe" tvg-name="ONDA DIGITAL" tvg-logo="" tvg-country="PE" group-title="General",ONDA DIGITAL [720p]
 https://tv.ondadigital.pe/ondadigital/index.m3u8
-#EXTINF:-1 tvg-id="OndaTV.pe" tvg-name="Onda TV" tvg-logo="" tvg-country="PE" group-title="General",Onda TV [720p]
-https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
 #EXTINF:-1 tvg-id="OzonoTV.pe" tvg-name="Ozono TV" tvg-logo="" tvg-country="PE" group-title="General",Ozono TV [720p]
 https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-name="Panamericana TV" tvg-logo="" tvg-country="PE" group-title="General",Panamericana TV [1080p]
@@ -3769,19 +3735,19 @@ https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RegionTVCallao.pe" tvg-name="Region TV Callao" tvg-logo="" tvg-country="PE" group-title="General",Region TV Callao [720p]
 https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="RumboMineroTV.pe" tvg-name="Rumbo Minero TV" tvg-logo="" tvg-country="PE" group-title="General",Rumbo Minero TV [1080p]
-http://38.87.224.19:2220/play/a049/index.m3u8
+http://45.70.201.81:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-name="Senal Peru TV" tvg-logo="" tvg-country="PE" group-title="General",Senal Peru TV [404p]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe" tvg-name="Siscom TV" tvg-logo="" tvg-country="PE" group-title="General",Siscom TV
 https://video2.lhdserver.es/siscomtv/live.m3u8
 #EXTINF:-1 tvg-id="SolTV.pe" tvg-name="SolTV" tvg-logo="" tvg-country="PE" group-title="General",SolTV [720p]
 https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-logo="" tvg-country="PE" group-title="General",Solar Television [720p]
-https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="SolarTelevision.pe" tvg-name="Solar Television" tvg-logo="" tvg-country="PE" group-title="General",Solar Television
+https://7.innovatestream.pe:19360/corporacionperiodistica/corporacionperiodistica.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe" tvg-name="Studio Pasco TV" tvg-logo="" tvg-country="PE" group-title="General",Studio Pasco TV [720p]
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe" tvg-name="Super Canal" tvg-logo="" tvg-country="PE" group-title="General",Super Canal [720p]
-https://live.obslivestream.com/supercanal/index.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-name="TV Bella Asuncion" tvg-logo="" tvg-country="PE" group-title="General",TV Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="" tvg-country="PE" group-title="General",TV Cosmos [720p]
@@ -3793,7 +3759,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe" tvg-name="TV Norte Chiclayo" tvg-logo="" tvg-country="PE" group-title="General",TV Norte Chiclayo [720p]
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-name="TV Peru" tvg-logo="" tvg-country="PE" group-title="General",TV Peru [1080p]
-http://190.93.224.42/TV-PERU/index.m3u8
+http://190.93.224.42/VIVA-TV/index.m3u8
 #EXTINF:-1 tvg-id="TVPlusChincha.pe" tvg-name="TV+ Chincha" tvg-logo="" tvg-country="PE" group-title="General",TV+ Chincha [720p]
 https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVenLinea.pe" tvg-name="TVenLinea" tvg-logo="" tvg-country="PE" group-title="General",TVenLinea [1080p]
@@ -3850,8 +3816,6 @@ https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCTV.pg" tvg-name="NBC TV" tvg-logo="" tvg-country="PG" group-title="General",NBC TV [1080p]
 https://205444.global.ssl.fastly.net/64ee8a084b935f9f8a6f8825/live_ab333a6093bc11eeb89fbd81423485b7/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="CLTV36.ph" tvg-name="CLTV 36" tvg-logo="" tvg-country="PH" group-title="General",CLTV 36 [720p]
-https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="" tvg-country="PH" group-title="General",Mindanow Network TV [1080p]
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-name="SMNI" tvg-logo="" tvg-country="PH" group-title="General",SMNI [720p]
@@ -3959,7 +3923,7 @@ https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u
 #EXTINF:-1 tvg-id="TopMoviesPolska.pl" tvg-name="Top Movies Polska" tvg-logo="" tvg-country="PL" group-title="General",Top Movies Polska [1080p]
 https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8
 #EXTINF:-1 tvg-id="TwojaTV.pl" tvg-name="Twoja.TV" tvg-logo="" tvg-country="PL" group-title="General",Twoja.TV [1080p]
-https://stream.twoja.tv/ttv_hls/live.m3u8
+https://stream.twoja.tv/ttv_hls/live_720p/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExploreClassic.pl" tvg-name="Viasat Explore Classic" tvg-logo="" tvg-country="PL" group-title="General",Viasat Explore Classic [720p]
 https://da9c49fa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXBsX1ZpYXNhdEV4cGxvcmVfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="WPolscePL.pl" tvg-name="W Polsce PL" tvg-logo="" tvg-country="PL" group-title="General",W Polsce PL [720p]
@@ -3982,11 +3946,11 @@ https://wapa.hostless.app/WAPA-TV-4-1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
 #EXTINF:-1 tvg-id="WKAQTV22.pr" tvg-name="WKAQ-TV 2.2" tvg-logo="" tvg-country="PR" group-title="General",WKAQ-TV 2.2 [1080p]
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 #EXTINF:-1 tvg-id="WXWZLD231.pr" tvg-name="WXWZ-LD 23.1" tvg-logo="" tvg-country="PR" group-title="General",WXWZ-LD 23.1 [720p]
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
 #EXTINF:-1 tvg-id="AjyalTV.ps" tvg-name="Ajyal TV" tvg-logo="" tvg-country="PS" group-title="General",Ajyal TV [720p]
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-id="AlMadina.ps" tvg-name="Al Madina" tvg-logo="" tvg-country="PS" group-title="General",Al Madina [720p]
 https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps" tvg-name="Musawa Channel" tvg-logo="" tvg-country="PS" group-title="General",Musawa Channel [1080p]
@@ -4034,8 +3998,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPMundo.pt" tvg-name="RTP Mundo" tvg-logo="" tvg-country="PT" group-title="General",RTP Mundo [504p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSines.pt" tvg-name="Radio Sines" tvg-logo="" tvg-country="PT" group-title="General",Radio Sines [720p]
-https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SICAltaDefinicao.pt" tvg-name="SIC Alta Definicao" tvg-logo="" tvg-country="PT" group-title="General",SIC Alta Definicao [1080p]
 https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 #EXTINF:-1 tvg-id="SICReplay.pt" tvg-name="SIC Replay" tvg-logo="" tvg-country="PT" group-title="General",SIC Replay [1080p]
@@ -4069,10 +4031,12 @@ http://190.128.214.97:64333/play/a03i/index.m3u8
 http://190.128.214.97:64333/play/a046/index.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py" tvg-name="Occidental TV" tvg-logo="" tvg-country="PY" group-title="General",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
+#EXTINF:-1 tvg-id="OviedoTV.py" tvg-name="Oviedo TV" tvg-logo="" tvg-country="PY" group-title="General",Oviedo TV
+https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py" tvg-name="Paraguay TV" tvg-logo="" tvg-country="PY" group-title="General",Paraguay TV [1080p]
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py" tvg-name="Paravision" tvg-logo="" tvg-country="PY" group-title="General",Paravision
-http://45.170.130.224:8000/play/a032/index.m3u8?hls
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8
 #EXTINF:-1 tvg-id="RadioGuairaTV.py" tvg-name="Radio Guaira TV" tvg-logo="" tvg-country="PY" group-title="General",Radio Guaira TV
 https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tvg-id="RedDigital.py" tvg-name="Red Digital" tvg-logo="" tvg-country="PY" group-title="General",Red Digital [1080p]
@@ -4106,9 +4070,9 @@ https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa" tvg-name="Al Rayyan TV" tvg-logo="" tvg-country="QA" group-title="General",Al Rayyan TV [1080p]
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-name="Qatar Television" tvg-logo="" tvg-country="QA" group-title="General",Qatar Television [1080p]
-https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-name="Qatar Television 2" tvg-logo="" tvg-country="QA" group-title="General",Qatar Television 2 [1080p]
-https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
+https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-name="A7TV" tvg-logo="" tvg-country="RO" group-title="General",A7TV [1080p]
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
 #EXTINF:-1 tvg-id="ASTV.ro" tvg-name="AS TV" tvg-logo="" tvg-country="RO" group-title="General",AS TV [576p]
@@ -4153,8 +4117,6 @@ https://hls02ns.antenaplay.ro/hls/kapital-tv-sd/index.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="M9TVRomania.ro" tvg-name="M9TV Romania" tvg-logo="" tvg-country="RO" group-title="General",M9TV Romania [576i]
 https://netstreaming.eu/m9tv.m3u8
-#EXTINF:-1 tvg-id="MetropolaTV.ro" tvg-name="Metropola TV" tvg-logo="" tvg-country="RO" group-title="General",Metropola TV [1080p]
-https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="MuscelTV.ro" tvg-name="Muscel TV" tvg-logo="" tvg-country="RO" group-title="General",Muscel TV [720p]
 https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NCN.ro" tvg-name="NCN" tvg-logo="" tvg-country="RO" group-title="General",NCN [576p]
@@ -4269,7 +4231,7 @@ https://stream2.nmih.hu:4102/live.m3u8
 #EXTINF:-1 tvg-id="TVPiKanal.rs" tvg-name="TV Pi Kanal" tvg-logo="" tvg-country="RS" group-title="General",TV Pi Kanal [576p]
 https://stream.pikanal.rs/pikanal/pgm.m3u8
 #EXTINF:-1 tvg-id="360.ru" tvg-name="360°" tvg-logo="" tvg-country="RU" group-title="General",360° [1080p]
-https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="555.ru" tvg-name="555" tvg-logo="" tvg-country="RU" group-title="General",555 [720p]
 http://trk555.tv:8888/live
 #EXTINF:-1 tvg-id="6TVGorlovka.ru" tvg-name="6 TV Gorlovka" tvg-logo="" tvg-country="RU" group-title="General",6 TV Gorlovka [720p]
@@ -4289,13 +4251,13 @@ https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="BST.ru" tvg-name="BST" tvg-logo="" tvg-country="RU" group-title="General",BST [576p]
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 tvg-id="BigAsia.ru" tvg-name="Big Asia" tvg-logo="" tvg-country="RU" group-title="General",Big Asia [720p]
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Bober.ru" tvg-name="Bober" tvg-logo="" tvg-country="RU" group-title="General",Bober [576p]
 http://88.212.15.50/live/test_bober/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel10.ru" tvg-name="Channel 10" tvg-logo="" tvg-country="RU" group-title="General",Channel 10 [576i]
 https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?e=2072611029&s=eqlTXebDP9wSWTZgre6BwQ&scheme=https
 #EXTINF:-1 tvg-id="Channel12.ru" tvg-name="Channel 12" tvg-logo="" tvg-country="RU" group-title="General",Channel 12 [1080p]
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Channel 5" tvg-logo="" tvg-country="RU" group-title="General",Channel 5 [576p]
 http://31.148.5.241/kanal_5/index.m3u8
 #EXTINF:-1 tvg-id="Channel5International.ru" tvg-name="Channel 5 International" tvg-logo="" tvg-country="RU" group-title="General",Channel 5 International [576p]
@@ -4367,7 +4329,7 @@ https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS.ru" tvg-name="NTS" tvg-logo="" tvg-country="RU" group-title="General",NTS [1080p]
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.ru" tvg-name="NTV" tvg-logo="" tvg-country="RU" group-title="General",NTV [1080p]
-https://cdn.ntv.ru/ntv0/playlist.m3u8
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?e=2077050299&s=HSWg81JrQ3OqmwuWkEIDAQ&scheme=https
 #EXTINF:-1 tvg-id="NTVLaw.ru" tvg-name="NTV Law" tvg-logo="" tvg-country="RU" group-title="General",NTV Law [576p]
 https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVSledstviyeveli.ru" tvg-name="NTV Sledstviye veli" tvg-logo="" tvg-country="RU" group-title="General",NTV Sledstviye veli [1080p]
@@ -4389,15 +4351,12 @@ http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 http://31.148.5.241/kanal_9/index.m3u8
 #EXTINF:-1 tvg-id="Oplot2.ru" tvg-name="Oplot 2" tvg-logo="" tvg-country="RU" group-title="General",Oplot 2 [720p]
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:-1 tvg-id="OsetiyaIryston.ru" tvg-name="Osetiya-Iryston" tvg-logo="" tvg-country="RU" group-title="General",Osetiya-Iryston [1080p]
-https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1 tvg-id="Pobeda.ru" tvg-name="Pobeda" tvg-logo="" tvg-country="RU" group-title="General",Pobeda [576p]
 https://streaming.thestream.cyou/live/43.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-name="Priklyucheniya" tvg-logo="" tvg-country="RU" group-title="General",Priklyucheniya [1080p]
 http://stream.mcquack.net/198/index.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-name="Prima" tvg-logo="" tvg-country="RU" group-title="General",Prima [1080p]
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 #EXTINF:-1 tvg-id="Prodvizhenie.ru" tvg-name="Prodvizhenie" tvg-logo="" tvg-country="RU" group-title="General",Prodvizhenie [1080p]
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1 tvg-id="Prosveshchenie.ru" tvg-name="Prosveshchenie" tvg-logo="" tvg-country="RU" group-title="General",Prosveshchenie [576p]
@@ -4452,7 +4411,7 @@ https://sitv.ru/vgtrk/stv.m3u8
 #EXTINF:-1 tvg-id="SvoyoTV.ru" tvg-name="Svoyo TV" tvg-logo="" tvg-country="RU" group-title="General",Svoyo TV [1080p]
 https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8
 #EXTINF:-1 tvg-id="T24.ru" tvg-name="T24" tvg-logo="" tvg-country="RU" group-title="General",T24 [576p]
-http://178.134.1.158:8081/t24/index.m3u8
+http://stream.mcquack.net/209/index.m3u8
 #EXTINF:-1 tvg-id="TKR.ru" tvg-name="TKR" tvg-logo="" tvg-country="RU" group-title="General",TKR [1080p]
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TNVPlanet.ru" tvg-name="TNV-Planet" tvg-logo="" tvg-country="RU" group-title="General",TNV-Planet [576p]
@@ -4462,7 +4421,7 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1 tvg-id="TVBRICSRussian.ru" tvg-name="TV BRICS Russian" tvg-logo="" tvg-country="RU" group-title="General",TV BRICS Russian [1080p]
 http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="TV Centr" tvg-logo="" tvg-country="RU" group-title="General",TV Centr [576p]
-http://31.148.5.241/kanal_10/index.m3u8
+https://stream8.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVCentrInternational.ru" tvg-name="TV Centr International" tvg-logo="" tvg-country="RU" group-title="General",TV Centr International [576p]
 https://stream8.cinerama.uz/1281/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVPRO.ru" tvg-name="TV PRO" tvg-logo="" tvg-country="RU" group-title="General",TV PRO
@@ -4484,7 +4443,7 @@ http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 tvg-id="UgraTV.ru" tvg-name="Ugra-TV" tvg-logo="" tvg-country="RU" group-title="General",Ugra-TV [1080p]
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1 tvg-id="UniverTV.ru" tvg-name="Univer TV" tvg-logo="" tvg-country="RU" group-title="General",Univer TV [1080p]
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Usadba.ru" tvg-name="Usadba" tvg-logo="" tvg-country="RU" group-title="General",Usadba [576p]
 http://stream.mcquack.net/211/index.m3u8
 #EXTINF:-1 tvg-id="Vmirezhivotnykh.ru" tvg-name="V mire zhivotnykh" tvg-logo="" tvg-country="RU" group-title="General",V mire zhivotnykh [1080p]
@@ -4509,7 +4468,7 @@ http://185.57.68.33/40/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru" tvg-name="Zhivaya Planeta" tvg-logo="" tvg-country="RU" group-title="General",Zhivaya Planeta [576p]
 https://stream8.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Zhivaya priroda" tvg-logo="" tvg-country="RU" group-title="General",Zhivaya priroda [1080p]
-http://stream.mcquack.net/225/index.m3u8
+http://stream.mcquack.net/83/index.m3u8
 #EXTINF:-1 tvg-id="Zoopark.ru" tvg-name="Zoopark" tvg-logo="" tvg-country="RU" group-title="General",Zoopark [576i]
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Zvezda" tvg-logo="" tvg-country="RU" group-title="General",Zvezda [1080p]
@@ -4519,7 +4478,7 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 tvg-id="IsiboTV.rw" tvg-name="Isibo TV" tvg-logo="" tvg-country="RW" group-title="General",Isibo TV
 https://5c46fa289c89f.streamlock.net/pub2live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RwandaTV.rw" tvg-name="Rwanda TV" tvg-logo="" tvg-country="RW" group-title="General",Rwanda TV [480p]
-https://5c46fa289c89f.streamlock.net/rtv25/rtv/playlist.m3u8
+http://197.243.19.131:1935/rtv25/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV1.rw" tvg-name="TV1" tvg-logo="" tvg-country="RW" group-title="General",TV1 [480p]
 https://live.tv1.rw/index.m3u8
 #EXTINF:-1 tvg-id="TV10.rw" tvg-name="TV10" tvg-logo="" tvg-country="RW" group-title="General",TV10 [720p]
@@ -4551,9 +4510,9 @@ https://jmp2.uk/plu-6400c095498393000878a634.m3u8
 #EXTINF:-1 tvg-id="GustavLinsepaudebane.se" tvg-name="Gustav & Linse pa udebane" tvg-logo="" tvg-country="SE" group-title="General",Gustav & Linse pa udebane
 https://jmp2.uk/plu-69c290eeed1b1f1acb446dd8.m3u8
 #EXTINF:-1 tvg-id="MTVReality.se" tvg-name="MTV Reality" tvg-logo="" tvg-country="SE" group-title="General",MTV Reality [720p]
-https://jmp2.uk/plu-685137f4a1e091e16f2dd471.m3u8
+https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
 #EXTINF:-1 tvg-id="TheMillers.se" tvg-name="The Millers" tvg-logo="" tvg-country="SE" group-title="General",The Millers
-https://jmp2.uk/plu-69afeefa0a7f2095e768401c.m3u8
+https://jmp2.uk/plu-69afef4b0306b277744de1e4.m3u8
 #EXTINF:-1 tvg-id="Channel5.sg" tvg-name="Channel 5" tvg-logo="" tvg-country="SG" group-title="General",Channel 5 [720p]
 https://cdn.qd.je/163189/ch5
 #EXTINF:-1 tvg-id="Channel8.sg" tvg-name="Channel 8" tvg-logo="" tvg-country="SG" group-title="General",Channel 8 [720p]
@@ -4639,14 +4598,10 @@ https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 #EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="" tvg-country="SO" group-title="General",Saab TV [576p]
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10.sv" tvg-name="Canal 10" tvg-logo="" tvg-country="SV" group-title="General",Canal 10 [720p]
-https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-name="Canal 11 TuTV" tvg-logo="" tvg-country="SV" group-title="General",Canal 11 TuTV [349p]
 https://stream.giostreaming.app/canal11/canal11.m3u8
 #EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" tvg-logo="" tvg-country="SV" group-title="General",Canal 3 Impresionante [480p]
 https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
-#EXTINF:-1 tvg-id="CanalTRV.sv" tvg-name="Canal TRV" tvg-logo="" tvg-country="SV" group-title="General",Canal TRV [576p]
-https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-name="Megavision Canal 19" tvg-logo="" tvg-country="SV" group-title="General",Megavision Canal 19 [720p]
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-name="Megavision Canal 21" tvg-logo="" tvg-country="SV" group-title="General",Megavision Canal 21 [720p]
@@ -4737,21 +4692,21 @@ http://185.121.1.163:8083/Badakhshon/index.m3u8
 #EXTINF:-1 tvg-id="DushanbeHD.tj" tvg-name="Dushanbe HD" tvg-logo="" tvg-country="TJ" group-title="General",Dushanbe HD [1080p]
 http://185.121.1.163:8083/DushanbeHD/index.m3u8
 #EXTINF:-1 tvg-id="AltynAsyr.tm" tvg-name="Altyn Asyr" tvg-logo="" tvg-country="TM" group-title="General",Altyn Asyr [406p]
-https://alpha.tv.online.tm/hls/ch001.m3u8
+https://alpha.tv.online.tm/legacyhls/ch001.m3u8
 #EXTINF:-1 tvg-id="ArkadagTV.tm" tvg-name="Arkadag TV" tvg-logo="" tvg-country="TM" group-title="General",Arkadag TV [406p]
-https://alpha.tv.online.tm/legacyhls/ch000.m3u8
+https://alpha.tv.online.tm/hls/ch000.m3u8
 #EXTINF:-1 tvg-id="Asgabat.tm" tvg-name="Asgabat" tvg-logo="" tvg-country="TM" group-title="General",Asgabat [406p]
-https://alpha.tv.online.tm/legacyhls/ch006.m3u8
+https://alpha.tv.online.tm/hls/ch006.m3u8
 #EXTINF:-1 tvg-id="Turkmenistan.tm" tvg-name="Turkmenistan" tvg-logo="" tvg-country="TM" group-title="General",Turkmenistan [406p]
-https://alpha.tv.online.tm/legacyhls/ch007.m3u8
+https://alpha.tv.online.tm/hls/ch007.m3u8
 #EXTINF:-1 tvg-id="ElWatania1.tn" tvg-name="El Watania 1" tvg-logo="" tvg-country="TN" group-title="General",El Watania 1 [1080i]
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/chunklist.m3u8
 #EXTINF:-1 tvg-id="ElWatania2.tn" tvg-name="El Watania 2" tvg-logo="" tvg-country="TN" group-title="General",El Watania 2 [1080p]
 https://sw1.tanitweb.net/TunisiaTV/_definst_/watania2/playlist.m3u8?DVR
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2TV" tvg-logo="" tvg-country="TR" group-title="General",A2TV [1080p]
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" tvg-country="TR" group-title="General",ATV [360p]
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" tvg-country="TR" group-title="General",ATV [1080p]
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="" tvg-country="TR" group-title="General",ATV Alanya [1080p]
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" tvg-logo="" tvg-country="TR" group-title="General",Aksu TV [720p]
@@ -4764,6 +4719,8 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-name="Benguturk TV" tvg-logo="" tvg-country="TR" group-title="General",Benguturk TV [720p]
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
+#EXTINF:-1 tvg-id="BirTV.tr" tvg-name="Bir TV" tvg-logo="" tvg-country="TR" group-title="General",Bir TV [720p]
+https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" tvg-logo="" tvg-country="TR" group-title="General",Bric ve Satranc TV [480p]
 http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" tvg-logo="" tvg-country="TR" group-title="General",Deniz Postasi TV [720p]
@@ -4850,8 +4807,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 https://live.artidijitalmedya.com/artidijital_tv41/tv41/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDen.tr" tvg-name="TV Den" tvg-logo="" tvg-country="TR" group-title="General",TV Den [576p]
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="Tele 1" tvg-logo="" tvg-country="TR" group-title="General",Tele 1 [1080p]
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr" tvg-name="Tempo TV" tvg-logo="" tvg-country="TR" group-title="General",Tempo TV [720p]
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="Tivi 6" tvg-logo="" tvg-country="TR" group-title="General",Tivi 6 [720p]
@@ -5041,9 +4996,9 @@ https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LatestTV.uk" tvg-name="Latest TV" tvg-logo="" tvg-country="UK" group-title="General",Latest TV [480p]
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="Pop.uk" tvg-name="Pop" tvg-logo="" tvg-country="UK" group-title="General",Pop [1080p]
-https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="" tvg-country="UK" group-title="General",Real Wild [1080p]
-https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="" tvg-country="UK" group-title="General",S4C [1080p]
 https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
 #EXTINF:-1 tvg-id="SangatTV.uk" tvg-name="Sangat TV" tvg-logo="" tvg-country="UK" group-title="General",Sangat TV [576p]
@@ -5079,7 +5034,7 @@ https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEInternational.us" tvg-name="AWE International" tvg-logo="" tvg-country="US" group-title="General",AWE International [720p]
 https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 #EXTINF:-1 tvg-id="AWEPlus.us" tvg-name="AWE Plus" tvg-logo="" tvg-country="US" group-title="General",AWE Plus [720p]
-https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
+https://a-cdn.klowdtv.com/live1/awee/playlist.m3u8
 #EXTINF:-1 tvg-id="Access19.us" tvg-name="Access 19" tvg-logo="" tvg-country="US" group-title="General",Access 19
 https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/stream-3/live.m3u8
 #EXTINF:-1 tvg-id="Access4PAC.us" tvg-name="Access 4 PAC" tvg-logo="" tvg-country="US" group-title="General",Access 4 PAC
@@ -5123,7 +5078,7 @@ https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
 #EXTINF:-1 tvg-id="BXOmni.us" tvg-name="BX Omni" tvg-logo="" tvg-country="US" group-title="General",BX Omni [720p]
 https://reflect-stream-bronxnet.cablecast.tv/live-16/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="BYUTV.us" tvg-name="BYU TV" tvg-logo="" tvg-country="US" group-title="General",BYU TV [1080p]
-https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
 #EXTINF:-1 tvg-id="BerksCommunityTV.us" tvg-name="Berks Community TV" tvg-logo="" tvg-country="US" group-title="General",Berks Community TV [1080p]
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BestofBATVChannel.us" tvg-name="Best of BATV Channel" tvg-logo="" tvg-country="US" group-title="General",Best of BATV Channel [1080p]
@@ -5147,7 +5102,7 @@ https://cantv.streamguys1.com/cantv/cantv27hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CANTV36.us" tvg-name="CAN TV36" tvg-logo="" tvg-country="US" group-title="General",CAN TV36 [1080p]
 https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS.us" tvg-name="CBS" tvg-logo="" tvg-country="US" group-title="General",CBS [1080p]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV.us" tvg-name="CC-TV" tvg-logo="" tvg-country="US" group-title="General",CC-TV [720p]
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 #EXTINF:-1 tvg-id="CCX1.us" tvg-name="CCX1" tvg-logo="" tvg-country="US" group-title="General",CCX1 [1080p]
@@ -5225,7 +5180,7 @@ https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9a
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us" tvg-name="FilAmTV Network" tvg-logo="" tvg-country="US" group-title="General",FilAmTV Network [1080p]
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us" tvg-name="Fox" tvg-logo="" tvg-country="US" group-title="General",Fox [1080p]
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="Galavision.us" tvg-name="Galavision" tvg-logo="" tvg-country="US" group-title="General",Galavision [1080p]
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us" tvg-name="Ganj e Hozour TV" tvg-logo="" tvg-country="US" group-title="General",Ganj e Hozour TV [1080p]
@@ -5295,7 +5250,7 @@ https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/stream-4/live
 #EXTINF:-1 tvg-id="NATTV.us" tvg-name="NAT TV" tvg-logo="" tvg-country="US" group-title="General",NAT TV [1080p]
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NBC.us" tvg-name="NBC" tvg-logo="" tvg-country="US" group-title="General",NBC [1080p]
-https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NCTV79.us" tvg-name="NCTV79" tvg-logo="" tvg-country="US" group-title="General",NCTV79 [1080p]
 https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTV.us" tvg-name="NTD TV" tvg-logo="" tvg-country="US" group-title="General",NTD TV [1080p]
@@ -5303,17 +5258,15 @@ https://ntd02.akamaized.net/HD-NY/index.m3u8
 #EXTINF:-1 tvg-id="NTDTVAsiaPacific.us" tvg-name="NTD TV Asia-Pacific" tvg-logo="" tvg-country="US" group-title="General",NTD TV Asia-Pacific
 https://live.ntdtv.com/aplive200/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVCanada.us" tvg-name="NTD TV Canada" tvg-logo="" tvg-country="US" group-title="General",NTD TV Canada
-https://live.ntdtv.com/cwlive220/playlist.m3u8
+https://live.ntdtv.com/mllive860/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVChina.us" tvg-name="NTD TV China" tvg-logo="" tvg-country="US" group-title="General",NTD TV China
 https://live.ntdtv.com/cnlive900/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us" tvg-name="NTD TV English" tvg-logo="" tvg-country="US" group-title="News",NTD TV English [1080p]
-https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
 #EXTINF:-1 tvg-id="NatickPublicAccessChannel.us" tvg-name="Natick Public Access Channel" tvg-logo="" tvg-country="US" group-title="General",Natick Public Access Channel [720p]
 https://livestream.telvue.com/natickpegasus2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="OntarioPublicAccessChannel.us" tvg-name="Ontario Public Access Channel" tvg-logo="" tvg-country="US" group-title="General",Ontario Public Access Channel [360p]
 https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8
-#EXTINF:-1 tvg-id="PBCTapeshTV.us" tvg-name="PBC Tapesh TV" tvg-logo="" tvg-country="US" group-title="General",PBC Tapesh TV [720p]
-https://iptv.tapesh.tv/tapesh/playlist.m3u8
 #EXTINF:-1 tvg-id="PCTChannel26.us" tvg-name="PCT Channel 26" tvg-logo="" tvg-country="US" group-title="General",PCT Channel 26 [720p]
 https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="PCTChannel27.us" tvg-name="PCT Channel 27" tvg-logo="" tvg-country="US" group-title="General",PCT Channel 27 [720p]
@@ -5333,7 +5286,7 @@ https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDocumentales.us" tvg-name="Pluto TV Documentales" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Documentales
 https://jmp2.uk/plu-5ddc503ac7ef120009b101a2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVElReinoInfantil.us" tvg-name="Pluto TV El Reino Infantil" tvg-logo="" tvg-country="US" group-title="General",Pluto TV El Reino Infantil
-https://jmp2.uk/plu-66fedd65d7de140008dccd66.m3u8
+https://jmp2.uk/plu-6523f672a6c38300088cb807.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoria.us" tvg-name="Pluto TV Historia" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Historia
 https://jmp2.uk/plu-5f1ef1a8cec6be00072a7ac9.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistoriasdeUltratumba.us" tvg-name="Pluto TV Historias de Ultratumba" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Historias de Ultratumba
@@ -5343,7 +5296,7 @@ https://jmp2.uk/plu-5e8397936791b30007ebb5a7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVLosnuevosdetectives.us" tvg-name="Pluto TV Los nuevos detectives" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMelrosePlace.us" tvg-name="Pluto TV Melrose Place" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Melrose Place
-https://jmp2.uk/plu-62a0b070d4566c0007a0d1bd.m3u8
+https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPeleas.us" tvg-name="Pluto TV Peleas" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Peleas
 https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 #EXTINF:-1 tvg-id="PlutoTVVelocidad.us" tvg-name="Pluto TV Velocidad" tvg-logo="" tvg-country="US" group-title="General",Pluto TV Velocidad
@@ -5395,7 +5348,7 @@ https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="SamsungWildlife.us" tvg-name="Samsung Wildlife" tvg-logo="" tvg-country="US" group-title="General",Samsung Wildlife [720p]
 https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
 #EXTINF:-1 tvg-id="ScientologyNetwork.us" tvg-name="Scientology Network" tvg-logo="" tvg-country="US" group-title="General",Scientology Network [1080p]
-https://stream6.scientology.org/master.m3u8
+https://stream-losangeles.scientology.org/master.m3u8
 #EXTINF:-1 tvg-id="ScottsdaleChannel11.us" tvg-name="Scottsdale Channel 11" tvg-logo="" tvg-country="US" group-title="General",Scottsdale Channel 11
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8
 #EXTINF:-1 tvg-id="SemillitasTV.us" tvg-name="Semillitas TV" tvg-logo="" tvg-country="US" group-title="General",Semillitas TV [1080p]
@@ -5431,15 +5384,15 @@ https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNUkraine.us" tvg-name="TBN Ukraine" tvg-logo="" tvg-country="US" group-title="General",TBN Ukraine [720p]
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="" tvg-country="US" group-title="General",TBS [720p]
-https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us" tvg-name="TCM Latin America" tvg-logo="" tvg-country="US" group-title="General",TCM Latin America [1080p]
-http://181.78.14.26:4000/play/a04d/index.m3u8
+http://45.171.64.30:6060/play/a014/index.m3u8
 #EXTINF:-1 tvg-id="TCT.us" tvg-name="TCT" tvg-logo="" tvg-country="US" group-title="General",TCT [1080p]
-https://cdn.jwplayer.com/live/broadcast/frRD2nUK.m3u8
+https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
 #EXTINF:-1 tvg-id="TED.us" tvg-name="TED" tvg-logo="" tvg-country="US" group-title="General",TED [1080p]
 https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="" tvg-country="US" group-title="General",TNT [720p]
-https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+http://212.5.144.156/tnt/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us" tvg-name="TNT Latin America" tvg-logo="" tvg-country="US" group-title="General",TNT Latin America [1080p]
 http://45.134.141.161:2200/ARG/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TSTV.us" tvg-name="TSTV" tvg-logo="" tvg-country="US" group-title="General",TSTV [720p]
@@ -5484,17 +5437,17 @@ https://a-cdn.klowdtv.com/live2/thegrio_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="TribecaChannel.us" tvg-name="Tribeca Channel" tvg-logo="" tvg-country="US" group-title="General",Tribeca Channel [1080p]
 https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueCrimeNow.us" tvg-name="True Crime Now" tvg-logo="" tvg-country="US" group-title="General",True Crime Now [1080p]
-https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+https://amg00376-magellan-amg00376c12-samsung-nz-1727.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueHistory.us" tvg-name="True History" tvg-logo="" tvg-country="US" group-title="General",True History [720p]
 https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="USANetworkLatinAmerica.us" tvg-name="USA Network Latin America" tvg-logo="" tvg-country="US" group-title="General",USA Network Latin America [1080p]
 http://138.121.15.230:9002/USA/index.m3u8
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="UniMas" tvg-logo="" tvg-country="US" group-title="General",UniMas [1080p]
-https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+https://streaming-live-fcdn.api.prd.univisionnow.com/kuvn/kuvn.isml/hls/kuvn.m3u8
 #EXTINF:-1 tvg-id="Unidaddeinvestigacion.us" tvg-name="Unidad de investigacion" tvg-logo="" tvg-country="US" group-title="General",Unidad de investigacion
 https://jmp2.uk/plu-61bb2814ac085a00074309a6.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us" tvg-name="Universal TV Latin America" tvg-logo="" tvg-country="US" group-title="General",Universal TV Latin America [1080p]
-http://138.121.15.230:9002/UNIVERSAL-CHANNEL/index.m3u8
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="Univision.us" tvg-name="Univision" tvg-logo="" tvg-country="US" group-title="General",Univision [1080p]
 https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8
 #EXTINF:-1 tvg-id="VBSTV.us" tvg-name="VBS TV" tvg-logo="" tvg-country="US" group-title="General",VBS TV [480p]
@@ -5540,7 +5493,7 @@ https://reflect-greater-clackamas-county-tv.cablecast.tv/live-7/live/stream-4/li
 #EXTINF:-1 tvg-id="WindowTV.us" tvg-name="Window TV" tvg-logo="" tvg-country="US" group-title="General",Window TV [720p]
 https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
 #EXTINF:-1 tvg-id="WineWatchesWhiskey.us" tvg-name="Wine Watches & Whiskey" tvg-logo="" tvg-country="US" group-title="General",Wine Watches & Whiskey [1080p]
-https://www-on-stirr.b-cdn.net/Wine-Watches-and-Whiskey/playlist.m3u8
+https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
 #EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-name="Wired2FishTV" tvg-logo="" tvg-country="US" group-title="General",Wired2FishTV [720p]
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="WomensSportsNetwork.us" tvg-name="Women's Sports Network" tvg-logo="" tvg-country="US" group-title="General",Women's Sports Network [1080p]
@@ -5608,10 +5561,10 @@ http://200.59.191.177:8000/play/a00j/index.m3u8
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaTV.ve" tvg-name="Latina TV" tvg-logo="" tvg-country="VE" group-title="General",Latina TV [1080p]
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="PortuguesaTelevision.ve" tvg-name="Portuguesa Television" tvg-logo="" tvg-country="VE" group-title="General",Portuguesa Television [480p]
+https://streamtv.intervenhosting.net:3789/live/portutvlive.m3u8
 #EXTINF:-1 tvg-id="PromarTV.ve" tvg-name="PromarTV" tvg-logo="" tvg-country="VE" group-title="General",PromarTV [1080p]
 http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
-#EXTINF:-1 tvg-id="SiembraTV.ve" tvg-name="Siembra TV" tvg-logo="" tvg-country="VE" group-title="General",Siembra TV
-https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-id="TAMTV.ve" tvg-name="TAM TV" tvg-logo="" tvg-country="VE" group-title="General",TAM TV
 https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TRT.ve" tvg-name="TRT" tvg-logo="" tvg-country="VE" group-title="General",TRT [410p]
@@ -5625,7 +5578,7 @@ https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
 #EXTINF:-1 tvg-id="TVS.ve" tvg-name="TVS" tvg-logo="" tvg-country="VE" group-title="General",TVS [720p]
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="TVes.ve" tvg-name="TVes" tvg-logo="" tvg-country="VE" group-title="General",TVes [1080p]
-http://45.226.205.96:48000/play/a0dn/index.m3u8
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="" tvg-country="VE" group-title="General",TeleAragua [480p]
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" tvg-country="VE" group-title="General",Telecentro [480p]
@@ -5669,7 +5622,7 @@ https://stream.langsontv.vn/live/2855dfeccb7f49a41a2b0441b3bfeda413c/playlist.m3
 #EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-name="Dong Nai TV 1" tvg-logo="" tvg-country="VN" group-title="News",Dong Nai TV 1 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-name="Dong Nai TV 3" tvg-logo="" tvg-country="VN" group-title="General",Dong Nai TV 3 [720p]
-https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
+https://dethich.pw/dongnai3/index.m3u8
 #EXTINF:-1 tvg-id="GiaLaiTV.vn" tvg-name="Gia Lai TV" tvg-logo="" tvg-country="VN" group-title="General",Gia Lai TV [720p]
 http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" tvg-logo="" tvg-country="VN" group-title="General",HTV1 [720p]

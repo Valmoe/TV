@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AMCEurope.uk" tvg-name="AMC Europe" tvg-logo="" tvg-country="UK" group-title="Movies",AMC Europe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://88.212.7.14/live/amc_hun/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://88.212.7.14/live/test_amc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK" tvg-logo="" tvg-country="UK" group-title="General",ATN Bangla UK [576p]
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AathavanTV.uk" tvg-name="Aathavan TV" tvg-logo="" tvg-country="UK" group-title="Entertainment",Aathavan TV [720p]
@@ -21,11 +21,11 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk" tvg-name="Anand TV" tvg-logo="" tvg-country="UK" group-title="General",Anand TV [720p]
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-name="BBC Arabic" tvg-logo="" tvg-country="UK" group-title="News",BBC Arabic [720p]
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_http.mpd
 #EXTINF:-1 tvg-id="BBCDrama.uk" tvg-name="BBC Drama" tvg-logo="" tvg-country="UK" group-title="Series",BBC Drama [1080p]
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk" tvg-name="BBC Earth" tvg-logo="" tvg-country="UK" group-title="Documentary",BBC Earth [1080p]
-https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCFirst.uk" tvg-name="BBC First" tvg-logo="" tvg-country="UK" group-title="Entertainment",BBC First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/bbc_first/index.m3u8
@@ -40,7 +40,7 @@ http://138.121.15.230:9002/BABY-TV/index.m3u8
 #EXTINF:-1 tvg-id="BritAsiaTV.uk" tvg-name="Brit Asia TV" tvg-logo="" tvg-country="UK" group-title="General",Brit Asia TV [1080p]
 https://hls.autopo.st/hls/britasiatv/index.m3u8
 #EXTINF:-1 tvg-id="CNBCUK.uk" tvg-name="CNBC UK" tvg-logo="" tvg-country="UK" group-title="News",CNBC UK [1080p]
-https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Canaf54TV.uk" tvg-name="Canaf54 TV" tvg-logo="" tvg-country="UK" group-title="General",Canaf54 TV [480p]
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk" tvg-name="Cartoon Network CEE" tvg-logo="" tvg-country="UK" group-title="Animation",Cartoon Network CEE [576p]
@@ -55,14 +55,12 @@ http://88.212.7.14/live/test_cai_hevc/playlist.m3u8
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk" tvg-name="DAZN Combat" tvg-logo="" tvg-country="UK" group-title="Sports",DAZN Combat [684p]
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-id="DAZNF1.uk" tvg-name="DAZN F1" tvg-logo="" tvg-country="UK" group-title="Sports",DAZN F1
-https://tvorb.net/ZTV/6918-live.m3u8
 #EXTINF:-1 tvg-id="DeenTV.uk" tvg-name="Deen TV" tvg-logo="" tvg-country="UK" group-title="General",Deen TV [576p]
 https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
 #EXTINF:-1 tvg-id="DerTV.uk" tvg-name="Der TV" tvg-logo="" tvg-country="UK" group-title="General",Der TV
 https://stream.berosat.live/hls/der-tv/der-tv.m3u8
 #EXTINF:-1 tvg-id="DontTellTheBride.uk" tvg-name="Don't Tell The Bride" tvg-logo="" tvg-country="UK" group-title="Series",Don't Tell The Bride [1080p]
-https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+https://amg00426-lds-amg00426c15-samsung-nz-3685.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DunyaNewsUK.uk" tvg-name="Dunya News UK" tvg-logo="" tvg-country="UK" group-title="News",Dunya News UK [720p]
 https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk" tvg-name="ENT Channel" tvg-logo="" tvg-country="UK" group-title="Entertainment",ENT Channel [720p]
@@ -91,13 +89,13 @@ https://faithworldtv.abs.tv/1826926230/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://techtraveleat.in/stream.m3u8?id=foodxp
 #EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="" tvg-country="UK" group-title="News",GB News [1080p]
-https://live-gbnews.simplestreamcdn.com/s3/gbnews_subs/index.m3u8
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1 tvg-id="GODTV.uk" tvg-name="GOD TV" tvg-logo="" tvg-country="UK" group-title="Religious",GOD TV [576p]
 https://fl-dvr.iptvcdn.tv/chid_1/playlist.m3u8
 #EXTINF:-1 tvg-id="GODTVAsia.uk" tvg-name="GOD TV Asia" tvg-logo="" tvg-country="UK" group-title="Religious",GOD TV Asia [576p]
 https://d1msejlow1t3l4.cloudfront.net/211125/godtv/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATmovies.uk" tvg-name="GREAT! movies" tvg-logo="" tvg-country="UK" group-title="Movies",GREAT! movies [1080p]
-https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
+https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk" tvg-name="GREAT! romance" tvg-logo="" tvg-country="UK" group-title="Movies",GREAT! romance [1080p]
 https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="HalaLondon.uk" tvg-name="Hala London" tvg-logo="" tvg-country="UK" group-title="General",Hala London [1080p]
@@ -164,13 +162,13 @@ https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s" tvg-logo="" tvg-country="UK" group-title="Music",Now 80s [1080p]
 https://samsunguk-lightning-now80s-samsunguk-n908q.amagi.tv/playlist/samsunguk-lightning-now80s-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s00s.uk" tvg-name="Now 90s00s" tvg-logo="" tvg-country="UK" group-title="Music",Now 90s00s [1080p]
-https://amg01076-amg01076c19-samsung-gb-6683.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-samsunggb/playlist.m3u8
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSAmerica.uk" tvg-name="PBS America" tvg-logo="" tvg-country="UK" group-title="Education",PBS America [576p]
 http://185.19.191.2:8090/PBS/index.m3u8
 #EXTINF:-1 tvg-id="PanjabTV.uk" tvg-name="Panjab TV" tvg-logo="" tvg-country="UK" group-title="Religious",Panjab TV [576p]
 https://panjabtv.akamaized.net/panjabtv/panjabtvhlsout/playlist.m3u8
 #EXTINF:-1 tvg-id="Pop.uk" tvg-name="Pop" tvg-logo="" tvg-country="UK" group-title="General",Pop [1080p]
-https://amg01753-narrativeentert-popkids-samsunguk-yjjil.amagi.tv/playlist/amg01753-narrativeentert-popkids-samsunguk/playlist.m3u8
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="QVC.uk" tvg-name="QVC" tvg-logo="" tvg-country="UK" group-title="Shop",QVC [540p]
 https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/master.m3u8
 #EXTINF:-1 tvg-id="QVCBeauty.uk" tvg-name="QVC Beauty" tvg-logo="" tvg-country="UK" group-title="Shop",QVC Beauty [540p]
@@ -180,7 +178,7 @@ https://qvcuk-live.akamaized.net/hls/live/2097112/qex/master.m3u8
 #EXTINF:-1 tvg-id="QVCStyle.uk" tvg-name="QVC Style" tvg-logo="" tvg-country="UK" group-title="Shop",QVC Style [540p]
 https://qvcuk-live.akamaized.net/hls/live/2097112/qst/master.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk" tvg-name="Real Wild" tvg-logo="" tvg-country="UK" group-title="General",Real Wild [1080p]
-https://lds-realwild-samsunguk.amagi.tv/playlist.m3u8
+https://lds-realwild-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="" tvg-country="UK" group-title="General",S4C [1080p]
 https://v2.uk.live.s4c-cdn.co.uk/out/v1/S4C/UK_TX/uk_live/uk-tx-dvb.mpd
 #EXTINF:-1 tvg-id="SafeerTV.uk" tvg-name="Safeer TV" tvg-logo="" tvg-country="UK" group-title="Religious",Safeer TV [1080p]
@@ -214,25 +212,25 @@ https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNUK.uk" tvg-name="TBN UK" tvg-logo="" tvg-country="UK" group-title="General",TBN UK [1080p]
 https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
 #EXTINF:-1 tvg-id="TJC.uk" tvg-name="TJC" tvg-logo="" tvg-country="UK" group-title="Shop",TJC [1080p]
-https://cdn-shop-lc-01.vos360.video/Content/HLS_HLS/Live/channel(HDTJCcustomGFX)/master.m3u8
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 tvg-id="TakbeerTV.uk" tvg-name="Takbeer TV" tvg-logo="" tvg-country="UK" group-title="General",Takbeer TV [720p]
 https://cd198.anystream.uk:9092/iqapp/t5kb86tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="" tvg-country="UK" group-title="General",TalkTV [1080p]
 https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Teletubbies.uk" tvg-name="Teletubbies" tvg-logo="" tvg-country="UK" group-title="Kids",Teletubbies [720p]
-https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="Thats70s.uk" tvg-name="That's 70s" tvg-logo="" tvg-country="UK" group-title="Music",That's 70s [720p]
 https://jmp2.uk/plu-69ef53e12f4d2b4f9c582e76.m3u8
 #EXTINF:-1 tvg-id="Thats80s.uk" tvg-name="That's 80s" tvg-logo="" tvg-country="UK" group-title="Music",That's 80s [720p]
 https://jmp2.uk/plu-69ef54f3c700cf0140272def.m3u8
 #EXTINF:-1 tvg-id="TheChatShowChannel.uk" tvg-name="The Chat Show Channel" tvg-logo="" tvg-country="UK" group-title="Comedy",The Chat Show Channel [1080p]
-https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
+https://amg00426-lds-amg00426c11-rakuten-uk-3888.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk" tvg-name="The Graham Norton Show" tvg-logo="" tvg-country="UK" group-title="Entertainment",The Graham Norton Show [1080p]
-https://amg00654-itv-amg00654c14-samsung-gb-2308.playouts.now.amagi.tv/playlist.m3u8
+https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TinyPop.uk" tvg-name="Tiny Pop" tvg-logo="" tvg-country="UK" group-title="Kids",Tiny Pop [1080p]
-https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/playlist.m3u8
+https://amg01753-narrativeuk-amg01753c1-lg-gb-1830.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01753-narrativeuk-tinypop-lggb/playlist.m3u8
 #EXTINF:-1 tvg-id="TopGear.uk" tvg-name="Top Gear" tvg-logo="" tvg-country="UK" group-title="Entertainment",Top Gear [720p]
-https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8
+https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Totalmusic.uk" tvg-name="Totalmusic" tvg-logo="" tvg-country="UK" group-title="Music",Totalmusic [1080p]
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="Totalmusic2000s.uk" tvg-name="Totalmusic 2000s" tvg-logo="" tvg-country="UK" group-title="Music",Totalmusic 2000s [720p]

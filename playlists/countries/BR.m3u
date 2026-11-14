@@ -7,11 +7,11 @@ https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="" tvg-country="BR" group-title="Movies",AXN [720p]
-http://170.83.49.66:8083/AXNHD/index.m3u8
+http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="" tvg-country="BR" group-title="General",Adesso TV [720p]
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="" tvg-country="BR" group-title="Education",AgroCanal [720p]
-http://170.83.49.66:8083/AGROCANALHD/index.m3u8
+http://186.219.52.187/agro_canal/index.m3u8
 #EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais" tvg-logo="" tvg-country="BR" group-title="News",AgroMais [720p]
 http://170.83.16.50/AGRO_MAIS/index.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat" tvg-logo="" tvg-country="BR" group-title="General",Amazon Sat [1080p]
@@ -48,7 +48,7 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" tvg-country="BR" group-title="Education",Canal Educacao [720p]
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
-http://170.83.16.50/FUTURA/index.m3u8
+http://186.219.52.187/futura/index.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="" tvg-country="BR" group-title="Legislative",Canal Gov [720p]
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalMetropolitanodeNoticias.br" tvg-name="Canal Metropolitano de Noticias" tvg-logo="" tvg-country="BR" group-title="News",Canal Metropolitano de Noticias
@@ -163,17 +163,17 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="Record.br" tvg-name="Record" tvg-logo="" tvg-country="BR" group-title="General",Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-name="Record News" tvg-logo="" tvg-country="BR" group-title="News",Record News [720p]
-http://170.83.49.66:8083/RECORDNEWSHD/index.m3u8
+http://186.219.52.187/record_news/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br" tvg-name="RecordTV Interior SP" tvg-logo="" tvg-country="BR" group-title="General",RecordTV Interior SP
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-name="Rede Brasil" tvg-logo="" tvg-country="BR" group-title="General",Rede Brasil [1080p]
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RedeCNTRiodeJaneiro.br" tvg-name="Rede CNT Rio de Janeiro" tvg-logo="" tvg-country="BR" group-title="General",Rede CNT Rio de Janeiro [720p]
-http://186.219.52.187/cnt/index.m3u8
+http://170.83.49.66:8083/REDECNTHD/index.m3u8
 #EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Familia" tvg-logo="" tvg-country="BR" group-title="General",Rede Familia [720p]
 http://186.219.52.187/rede_familia/index.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br" tvg-name="Rede Gospel" tvg-logo="" tvg-country="BR" group-title="Religious",Rede Gospel [1080p]
-https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMeioNorte.br" tvg-name="Rede Meio Norte" tvg-logo="" tvg-country="BR" group-title="General",Rede Meio Norte [720p]
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" tvg-logo="" tvg-country="BR" group-title="Education",Rede Minas [720p]
@@ -235,8 +235,6 @@ https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil [720p]
 http://186.219.52.187/tv_brasil/index.m3u8
-#EXTINF:-1 tvg-id="TVBrasilOeste.br" tvg-name="TV Brasil Oeste" tvg-logo="" tvg-country="BR" group-title="General",TV Brasil Oeste [720p]
-https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br" tvg-name="TV Brusque" tvg-logo="" tvg-country="BR" group-title="News",TV Brusque [720p]
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Camara" tvg-logo="" tvg-country="BR" group-title="Legislative",TV Camara [1080p]
@@ -310,8 +308,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-name="TV Sim Cachoeiro" tvg-logo="" tvg-country="BR" group-title="News",TV Sim Cachoeiro [720p]
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-name="TV Sul Bahia" tvg-logo="" tvg-country="BR" group-title="General",TV Sul Bahia [320p]
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-name="TV Sim Sao Mateus" tvg-logo="" tvg-country="BR" group-title="News",TV Sim Sao Mateus [720p]
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-logo="" tvg-country="BR" group-title="Religious",TV Terceiro Anjo [360p]
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="" tvg-country="BR" group-title="Public",TV UFOP [1080p]
@@ -369,4 +367,4 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" tvg-country="BR" group-title="News",VEJA+ TV [1080p]
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="" tvg-country="BR" group-title="General",WooHoo [720p]
-http://170.83.16.50/WOOHOO/index.m3u8
+http://186.219.52.187/woohoo/index.m3u8

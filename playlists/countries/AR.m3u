@@ -44,8 +44,6 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" tvg-name="Canal 2 NexTV Rafaela" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 NexTV Rafaela [720p]
 https://edge.enhdtv.com/nexthd/index.m3u8
-#EXTINF:-1 tvg-id="Canal2deUshuaia.ar" tvg-name="Canal 2 de Ushuaia" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 de Ushuaia [1080p]
-https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-name="Canal 20 Villa Maria" tvg-logo="" tvg-country="AR" group-title="General",Canal 20 Villa Maria [1080p]
 #EXTVLCOPT:http-referrer=https://www.canal20villamaria.com.ar/
 https://stmvideo3.livecastv.com/canal20/canal20/playlist.m3u8
@@ -114,6 +112,8 @@ https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" tvg-logo="" tvg-country="AR" group-title="General",Canal Provincial [360p]
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CanalPulpoTV.ar" tvg-name="Canal Pulpo TV" tvg-logo="" tvg-country="AR" group-title="Entertainment",Canal Pulpo TV
+https://vs20.live.opencaster.com/canalpulpotv_bdeee6e2/index.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-name="Canal Santa Maria" tvg-logo="" tvg-country="AR" group-title="Religious",Canal Santa Maria [360p]
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar" tvg-name="Canal Showsport" tvg-logo="" tvg-country="AR" group-title="Sports",Canal Showsport [720p]
@@ -137,7 +137,7 @@ https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" tvg-logo="" tvg-country="AR" group-title="General",Corrientes TV
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" tvg-logo="" tvg-country="AR" group-title="Movies",Cosmos Tv
-https://canaletaplus.com:3922/live/cosmoslive.m3u8
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 tvg-id="CumbiaMix.ar" tvg-name="Cumbia Mix" tvg-logo="" tvg-country="AR" group-title="Music",Cumbia Mix [720p]
 https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="" tvg-country="AR" group-title="Sports",DeporTV [1080p]
@@ -145,7 +145,7 @@ http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" tvg-country="AR" group-title="Animation",Disney Channel Latin America [1080p]
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" tvg-country="AR" group-title="Animation",Disney Jr. Latin America [1080p]
-http://45.185.163.75:8000/play/a016/index.m3u8
+http://181.78.14.26:4000/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="" tvg-country="AR" group-title="Sports",ESPN Premium [1080p]
 http://158.172.155.130:8000/play/a0ao/index.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" tvg-logo="" tvg-country="AR" group-title="General",Eco TV
@@ -162,13 +162,13 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="" tvg-country="AR" group-title="Culture",Encuentro [720p]
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" tvg-logo="" tvg-country="AR" group-title="Series",Europa Europa [1080p]
-http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
+http://45.228.234.9:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" tvg-logo="" tvg-country="AR" group-title="Movies",Film & Arts [1080p]
 http://200.115.120.1:8000/play/ca131/index.m3u8
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar" tvg-name="Folcloreando TV" tvg-logo="" tvg-country="AR" group-title="General",Folcloreando TV
 https://stmvideo6.livecastv.com/radioactivasanjuan/radioactivasanjuan/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports" tvg-logo="" tvg-country="AR" group-title="Sports",Fox Sports [1080p]
-http://138.59.227.20:8000/play/a085/index.m3u8
+http://158.172.155.130:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-name="Garage TV Latin America" tvg-logo="" tvg-country="AR" group-title="Auto",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ItelTVCanal2.ar" tvg-name="Itel TV Canal 2" tvg-logo="" tvg-country="AR" group-title="General",Itel TV Canal 2

@@ -28,8 +28,6 @@ https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 https://livestream.a3sv.ro/master.m3u8
 #EXTINF:-1 tvg-id="AntenaInternational.ro" tvg-name="Antena International" tvg-logo="" tvg-country="RO" group-title="General",Antena International [576p]
 https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
-#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="" tvg-country="RO" group-title="Lifestyle",Antena Monden [720p]
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="" tvg-country="RO" group-title="Entertainment",Antena Stars [1080i]
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
 #EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaPlay Events [576p]
@@ -61,8 +59,8 @@ https://tvboom.ro/live-tv/live.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi la cutite [576i]
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080i]
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080p]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" tvg-logo="" tvg-country="RO" group-title="Movies",CineWow [576i]
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="" tvg-country="RO" group-title="Movies",Cinemaraton Plus [1080i]
@@ -79,10 +77,20 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
 #EXTINF:-1 tvg-id="Digi4K.ro" tvg-name="Digi 4K" tvg-logo="" tvg-country="RO" group-title="General",Digi 4K [2160p]
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
+#EXTINF:-1 tvg-id="DigiSport1.ro" tvg-name="Digi Sport 1" tvg-logo="" tvg-country="RO" group-title="Sports",Digi Sport 1
+http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
+#EXTINF:-1 tvg-id="DigiSport2.ro" tvg-name="Digi Sport 2" tvg-logo="" tvg-country="RO" group-title="Sports",Digi Sport 2
+http://sultanios.alwaysdata.net/vavo.php?ID=867728420
+#EXTINF:-1 tvg-id="DigiSport3.ro" tvg-name="Digi Sport 3" tvg-logo="" tvg-country="RO" group-title="Sports",Digi Sport 3
+http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
+#EXTINF:-1 tvg-id="DigiSport4.ro" tvg-name="Digi Sport 4" tvg-logo="" tvg-country="RO" group-title="Sports",Digi Sport 4
+http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" tvg-logo="" tvg-country="RO" group-title="Entertainment",Discovery Channel
 http://92.180.26.103:80/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="DottoTV.ro" tvg-name="Dotto TV" tvg-logo="" tvg-country="RO" group-title="News",Dotto TV [1080p]
 https://live.dottotv.ro/index.m3u8
+#EXTINF:-1 tvg-id="E.ro" tvg-name="E!" tvg-logo="" tvg-country="RO" group-title="Entertainment",E!
+http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 #EXTINF:-1 tvg-id="EMITV.ro" tvg-name="EMI TV" tvg-logo="" tvg-country="RO" group-title="Music",EMI TV [576i]
 https://hls01ns.antenaplay.ro/hls/emi-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" tvg-logo="" tvg-country="RO" group-title="General",Etno TV
@@ -154,6 +162,8 @@ https://hls01ns.antenaplay.ro/hls/n24-plus-sd/index.m3u8
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="" tvg-country="RO" group-title="General",National TV
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-name="Nickelodeon" tvg-logo="" tvg-country="RO" group-title="Kids",Nickelodeon
+http://sultanios.alwaysdata.net/vavo.php?ID=181751695
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" tvg-logo="" tvg-country="RO" group-title="Movies",Nostalgia TV [1080p]
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
 #EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" tvg-logo="" tvg-country="RO" group-title="General",Nova TV Brasov [576p]

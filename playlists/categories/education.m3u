@@ -8,8 +8,7 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" tvg-logo="" tvg-country="BO" group-title="Culture",Radio Universitaria San Andres [720p]
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="" tvg-country="BO" group-title="Education",UMSA TVU Internacional [720p]
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
-https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
@@ -24,7 +23,7 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalFDR.br" tvg-name="Canal FDR" tvg-logo="" tvg-country="BR" group-title="General",Canal FDR [1080p]
 https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
-http://170.83.16.50/FUTURA/index.m3u8
+http://186.219.52.187/futura/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" tvg-country="BR" group-title="Education",Futura [720p]
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="" tvg-country="BR" group-title="Education",ISTV [720p]
@@ -189,7 +188,7 @@ https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="" tvg-country="TH" group-title="Education",R Channel
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="" tvg-country="TM" group-title="Education",Yaslyk [406p]
-https://alpha.tv.online.tm/hls/ch002.m3u8
+https://alpha.tv.online.tm/legacyhls/ch002.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="" tvg-country="TR" group-title="Education",TRT EBA [720p]
@@ -230,8 +229,6 @@ https://video.oct.dc.gov/out/u/DKN.m3u8
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" tvg-logo="" tvg-country="US" group-title="Education",Detroit Channel 22
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
-#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="" tvg-country="US" group-title="Education",Gillette Public Access Television Channel 189
-https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
 #EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" tvg-logo="" tvg-country="US" group-title="Education",HCTV Educational Access Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" tvg-logo="" tvg-country="US" group-title="Education",HKTV [1080p]
@@ -257,7 +254,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]

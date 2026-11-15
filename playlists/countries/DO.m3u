@@ -24,8 +24,6 @@ https://hls.tvabierta.net/hls/021.m3u8
 https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-name="Bajo Techo TV" tvg-logo="" tvg-country="DO" group-title="Shop",Bajo Techo TV [1080p]
 https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="BaniVision.do" tvg-name="Bani Vision" tvg-logo="" tvg-country="DO" group-title="General",Bani Vision [720p]
-https://videostream.shockmedia.com.ar/hls/banivision/banivision.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do" tvg-name="Bellavision" tvg-logo="" tvg-country="DO" group-title="Entertainment",Bellavision [1080p]
 https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="BocaChicaTV.do" tvg-name="Boca Chica TV" tvg-logo="" tvg-country="DO" group-title="General",Boca Chica TV [720p]
@@ -74,6 +72,8 @@ https://host.streamingnation.live:3940/live/caobatvlive.m3u8
 https://ss2.tvrdomi.com:1936/carivision/carivision/playlist.m3u8
 #EXTINF:-1 tvg-id="CascaraTV.do" tvg-name="Cascara TV" tvg-logo="" tvg-country="DO" group-title="General",Cascara TV [720p]
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CenovisionHD.do" tvg-name="Cenovision HD" tvg-logo="" tvg-country="DO" group-title="General",Cenovision HD [720p]
+https://5790d294af2dc.streamlock.net/cenovision/cenovision/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV" tvg-logo="" tvg-country="DO" group-title="Kids",Chinola TV [480p]
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 tvg-id="CibaenaTV.do" tvg-name="Cibaena TV" tvg-logo="" tvg-country="DO" group-title="Entertainment",Cibaena TV [720p]
@@ -86,8 +86,6 @@ https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
 https://edge.essastream.com/citricotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroTelevisionDominicana.do" tvg-name="Claro Television Dominicana" tvg-logo="" tvg-country="DO" group-title="General",Claro Television Dominicana [360p]
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
-#EXTINF:-1 tvg-id="ClaroVisionTV.do" tvg-name="Claro Vision TV" tvg-logo="" tvg-country="DO" group-title="Entertainment",Claro Vision TV [720p]
-https://streamunoapp.com:3057/live/clarovisiontvlive.m3u8
 #EXTINF:-1 tvg-id="CodigoTV.do" tvg-name="Codigo TV" tvg-logo="" tvg-country="DO" group-title="General",Codigo TV [1080p]
 https://edge.essastream.com/codigotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ColimdoTV.do" tvg-name="Colimdo TV" tvg-logo="" tvg-country="DO" group-title="Sports",Colimdo TV [720p]
@@ -151,8 +149,6 @@ https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.do" tvg-name="Global TV" tvg-logo="" tvg-country="DO" group-title="General",Global TV [720p]
-https://vtm1.msinteractiva.com/globaltv/globaltv/playlist.m3u8
 #EXTINF:-1 tvg-id="HainaVision.do" tvg-name="Haina Vision" tvg-logo="" tvg-country="DO" group-title="General",Haina Vision [720p]
 https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 #EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-name="Hermanas Mirabal TV" tvg-logo="" tvg-country="DO" group-title="News",Hermanas Mirabal TV [720p]
@@ -183,8 +179,6 @@ https://183.giatvcdn.com/giatvplayout7/giatv-208429/playlist.m3u8
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:-1 tvg-id="LagunaTV.do" tvg-name="Laguna TV" tvg-logo="" tvg-country="DO" group-title="General",Laguna TV [1080p]
 https://cnn.hostlagarto.com/lagutv/playlist.m3u8
-#EXTINF:-1 tvg-id="LarivisionTV.do" tvg-name="Larivision TV" tvg-logo="" tvg-country="DO" group-title="General",Larivision TV [720p]
-https://live.larivision.net/livelan/live.m3u8
 #EXTINF:-1 tvg-id="LatinaTVInternacional.do" tvg-name="Latina TV Internacional" tvg-logo="" tvg-country="DO" group-title="General",Latina TV Internacional [720p]
 https://5790d294af2dc.streamlock.net/latinatv/latinatv/chunklist.m3u8
 #EXTINF:-1 tvg-id="LenaTV.do" tvg-name="Lena TV" tvg-logo="" tvg-country="DO" group-title="General",Lena TV [614p]
@@ -242,7 +236,7 @@ https://ss2.tvrdomi.com:1936/notisur/notisur/playlist.m3u8
 #EXTINF:-1 tvg-id="OEPMTV.do" tvg-name="OEPM TV" tvg-logo="" tvg-country="DO" group-title="Travel",OEPM TV [720p]
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV" tvg-logo="" tvg-country="DO" group-title="General",ORBIT TV [1080p]
-https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
+https://edge.essastream.com/orbittv/index.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do" tvg-name="Onda TV" tvg-logo="" tvg-country="DO" group-title="General",Onda TV [720p]
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="PalmarTV.do" tvg-name="Palmar TV" tvg-logo="" tvg-country="DO" group-title="General",Palmar TV
@@ -291,6 +285,8 @@ https://cnn.hostlagarto.com/supercanalhd/playlist.m3u8
 https://cdn.streamrd.cloud/live/ch_kb5qe1zr.m3u8
 #EXTINF:-1 tvg-id="SuperTV55.do" tvg-name="Super TV 55" tvg-logo="" tvg-country="DO" group-title="General",Super TV 55 [720p]
 https://ss2.tvrdomi.com:1936/supertv55/supertv55/playlist.m3u8
+#EXTINF:-1 tvg-id="Super7FM.do" tvg-name="Super7FM" tvg-logo="" tvg-country="DO" group-title="Entertainment",Super7FM
+https://stream.haislin.com/super7fm/index.m3u8
 #EXTINF:-1 tvg-id="SurTV.do" tvg-name="Sur TV" tvg-logo="" tvg-country="DO" group-title="General",Sur TV [720p]
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 #EXTINF:-1 tvg-id="TDNMedios.do" tvg-name="TDN Medios" tvg-logo="" tvg-country="DO" group-title="General",TDN Medios [720p]

@@ -1,7 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVNiksic.me" tvg-name="TV Niksic" tvg-logo="" tvg-country="ME" group-title="General",TV Niksic [720p]
 https://tv.rtv-niksic.me/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" tvg-logo="" tvg-country="ME" group-title="General",TV Teuta
+#EXTINF:-1 tvg-id="TVTeuta.me" tvg-name="TV Teuta" tvg-logo="" tvg-country="ME" group-title="General",TV Teuta [720p]
 http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVCGMNE.me" tvg-name="TVCG MNE" tvg-logo="" tvg-country="ME" group-title="General",TVCG MNE [1080p]
 https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevizijaE.me" tvg-name="Televizija E" tvg-logo="" tvg-country="ME" group-title="General",Televizija E [720p]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_6afb8120b72011f18b96d98dc1bdb4ff
+https://stream.castr.com/6ab37887230ab3cb17e0e5c6/live_6afb8120b72011f18b96d98dc1bdb4ff/index.m3u8

@@ -1,35 +1,35 @@
 # Playlist status
 
-Updated: 2026-11-18T11:24:35+00:00
+Updated: 2026-11-18T20:16:22+00:00
 
-- Working channels: **7839**
-- Working streams (with backups kept): **10519**
+- Working channels: **7866**
+- Working streams (with backups kept): **10551**
 - Countries: **173**
 
 | Country | Working channels |
 |---|---|
-| United States (US) | 1430 |
-| India (IN) | 707 |
-| Russia (RU) | 376 |
+| United States (US) | 1432 |
+| India (IN) | 705 |
+| Russia (RU) | 374 |
 | Germany (DE) | 323 |
-| Dominican Republic (DO) | 211 |
-| Italy (IT) | 208 |
+| Dominican Republic (DO) | 214 |
+| Italy (IT) | 207 |
 | Sweden (SE) | 187 |
-| Brazil (BR) | 177 |
-| Chile (CL) | 171 |
-| Spain (ES) | 167 |
+| Brazil (BR) | 179 |
+| Chile (CL) | 170 |
 | France (FR) | 166 |
-| Romania (RO) | 149 |
-| Peru (PE) | 145 |
-| Ukraine (UA) | 143 |
+| Spain (ES) | 163 |
+| Romania (RO) | 151 |
+| Peru (PE) | 148 |
 | Argentina (AR) | 142 |
+| Ukraine (UA) | 142 |
 | United Kingdom (UK) | 126 |
-| Turkiye (TR) | 121 |
+| Turkiye (TR) | 123 |
 | Netherlands (NL) | 116 |
-| Poland (PL) | 110 |
-| Mexico (MX) | 108 |
-| Hungary (HU) | 102 |
-| Canada (CA) | 101 |
+| Poland (PL) | 115 |
+| Mexico (MX) | 110 |
+| Hungary (HU) | 103 |
+| Canada (CA) | 102 |
 | Colombia (CO) | 101 |
-| China (CN) | 85 |
+| China (CN) | 84 |
 | Czech Republic (CZ) | 82 |

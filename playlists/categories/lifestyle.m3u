@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="10Bold.au" tvg-name="10 Bold" tvg-logo="" tvg-country="AU" group-title="Lifestyle",10 Bold [1080p]
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="CEACOMTV.bo" tvg-name="CEACOM TV" tvg-logo="" tvg-country="BO" group-title="News",CEACOM TV [1080p]
+https://eu1.servers10.com:8081/ceacom/index.m3u8
 #EXTINF:-1 tvg-id="Wapp.cl" tvg-name="Wapp" tvg-logo="" tvg-country="CL" group-title="Lifestyle",Wapp [720p]
 https://stream.wapptv.cl/video/index.m3u8
 #EXTINF:-1 tvg-id="CCTV12.cn" tvg-name="CCTV-12" tvg-logo="" tvg-country="CN" group-title="Lifestyle",CCTV-12 [720p]
@@ -43,8 +45,6 @@ https://live.dionelysterrero.com/senalestv/stream.m3u8
 http://90.163.85.113:8093/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="" tvg-country="ES" group-title="Lifestyle",El Mueble [720p]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="" tvg-country="ES" group-title="Lifestyle",Nova [1080p]
-https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd
 #EXTINF:-1 tvg-id="VoyagesSaveurs.es" tvg-name="Voyages & Saveurs" tvg-logo="" tvg-country="ES" group-title="Travel",Voyages & Saveurs [720p]
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="FashionTVParisLOriginal.fr" tvg-name="FashionTV Paris L'Original" tvg-logo="" tvg-country="FR" group-title="Lifestyle",FashionTV Paris L'Original [1080p]
@@ -159,7 +159,7 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 #EXTINF:-1 tvg-id="30ALuxeLifeDiscovered.us" tvg-name="30A Luxe Life Discovered" tvg-logo="" tvg-country="US" group-title="Lifestyle",30A Luxe Life Discovered [720p]
 https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 #EXTINF:-1 tvg-id="AntiquesRoadTrip.us" tvg-name="Antiques Road Trip" tvg-logo="" tvg-country="US" group-title="Lifestyle",Antiques Road Trip [1080p]
-https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8
+https://amg02333-pbs-amg02333c1-samsung-au-1253.playouts.now.amagi.tv/PBSD-AntiquesRoadTripSF-samsung/playlist.m3u8
 #EXTINF:-1 tvg-id="AspireTVLife.us" tvg-name="Aspire TV Life" tvg-logo="" tvg-country="US" group-title="Lifestyle",Aspire TV Life [1080p]
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCHomeGarden.us" tvg-name="BBC Home & Garden" tvg-logo="" tvg-country="US" group-title="Lifestyle",BBC Home & Garden [1080p]
@@ -203,7 +203,7 @@ https://jmp2.uk/plu-5f32d432d612e50007e56133.m3u8
 #EXTINF:-1 tvg-id="Revry.us" tvg-name="Revry" tvg-logo="" tvg-country="US" group-title="Lifestyle",Revry [1080p]
 https://linear-43.frequency.stream/dist/24i/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RevryQueer.us" tvg-name="Revry Queer" tvg-logo="" tvg-country="US" group-title="Lifestyle",Revry Queer [720p]
-https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8
+https://linear-43.frequency.stream/dist/galxy/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SmartLifeStyleTV.us" tvg-name="Smart LifeStyle TV" tvg-logo="" tvg-country="US" group-title="Lifestyle",Smart LifeStyle TV [720p]
 https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8
 #EXTINF:-1 tvg-id="SoReal.us" tvg-name="So... Real" tvg-logo="" tvg-country="US" group-title="Lifestyle",So... Real [720p]
@@ -213,7 +213,7 @@ http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="TheDesignNetwork.us" tvg-name="The Design Network" tvg-logo="" tvg-country="US" group-title="Lifestyle",The Design Network [1080p]
 https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJamieOliverChannel.us" tvg-name="The Jamie Oliver Channel" tvg-logo="" tvg-country="US" group-title="Lifestyle",The Jamie Oliver Channel [1080p]
-https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+https://d3i68hpvh19xjd.cloudfront.net/JamieOliver_GB.m3u8
 #EXTINF:-1 tvg-id="PlousTV.ve" tvg-name="Plous TV" tvg-logo="" tvg-country="VE" group-title="Lifestyle",Plous TV [1080p]
 https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="HTVCWomen.vn" tvg-name="HTVC Women" tvg-logo="" tvg-country="VN" group-title="Lifestyle",HTVC Women [720p]

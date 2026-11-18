@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Canal de Noticias" tvg-logo="" tvg-country="AR" group-title="News",24/7 Canal de Noticias [360p]
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
-#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="" tvg-country="AR" group-title="General",5tv [480p]
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="5tv.ar" tvg-name="5tv" tvg-logo="" tvg-country="AR" group-title="General",5tv [608p]
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-name="A24" tvg-logo="" tvg-country="AR" group-title="News",A24 [1080p]
 http://138.59.227.20:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-id="ABTVBariloche.ar" tvg-name="ABTV Bariloche" tvg-logo="" tvg-country="AR" group-title="General",ABTV Bariloche
@@ -11,6 +11,8 @@ https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
 #EXTINF:-1 tvg-id="AllegroHD.ar" tvg-name="Allegro HD" tvg-logo="" tvg-country="AR" group-title="Music",Allegro HD [1080p]
 http://158.172.155.130:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" tvg-logo="" tvg-country="AR" group-title="Music",AlternaTV [720p]
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV" tvg-logo="" tvg-country="AR" group-title="General",America TV [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -36,7 +38,7 @@ https://nd106.republicaservers.com:4433/hls/diegologonitv/index.m3u8
 https://nd106.republicaservers.com:4433/c7827.mp4
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-name="Canal 13 La Rioja" tvg-logo="" tvg-country="AR" group-title="General",Canal 13 La Rioja [480p]
 http://arcast.net:1935/mp/mp/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-name="Canal 2 Gualeguay" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 Gualeguay
+#EXTINF:-1 tvg-id="Canal2Gualeguay.ar" tvg-name="Canal 2 Gualeguay" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 Gualeguay [1080p]
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2MardelPlata.ar" tvg-name="Canal 2 Mar del Plata" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 Mar del Plata [720p]
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
@@ -66,8 +68,8 @@ http://intelincloud01.com.ar/hls/cn3/index.m3u8
 http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal4Esquel.ar" tvg-name="Canal 4 Esquel" tvg-logo="" tvg-country="AR" group-title="General",Canal 4 Esquel [720p]
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="" tvg-country="AR" group-title="General",Canal 4 Posadas [1080p]
-http://190.128.214.97:64333/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-name="Canal 4 Posadas" tvg-logo="" tvg-country="AR" group-title="General",Canal 4 Posadas [576p]
+https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4SanJuan.ar" tvg-name="Canal 4 San Juan" tvg-logo="" tvg-country="AR" group-title="General",Canal 4 San Juan [576p]
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar" tvg-name="Canal 4 Teleaire" tvg-logo="" tvg-country="AR" group-title="General",Canal 4 Teleaire
@@ -86,7 +88,7 @@ https://online.coopmorteros.coop/canal50/vivo.m3u8
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal6VientoRecio.ar" tvg-name="Canal 6 Viento Recio" tvg-logo="" tvg-country="AR" group-title="Religious",Canal 6 Viento Recio
 https://stmvideo6.livecastv.com/vientorecio/vientorecio/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" tvg-logo="" tvg-country="AR" group-title="General",Canal 7 Jujuy
+#EXTINF:-1 tvg-id="Canal7Jujuy.ar" tvg-name="Canal 7 Jujuy" tvg-logo="" tvg-country="AR" group-title="General",Canal 7 Jujuy [720p]
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-name="Canal 7 Neuquen" tvg-logo="" tvg-country="AR" group-title="General",Canal 7 Neuquen [1080p]
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
@@ -106,7 +108,7 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 #EXTINF:-1 tvg-id="Canal8MardelPlata.ar" tvg-name="Canal 8 Mar del Plata" tvg-logo="" tvg-country="AR" group-title="General",Canal 8 Mar del Plata [720p]
 https://canal8mdq.unpocodeawita.workers.dev
-#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" tvg-logo="" tvg-country="AR" group-title="Entertainment",Canal 9 Link
+#EXTINF:-1 tvg-id="Canal9Link.ar" tvg-name="Canal 9 Link" tvg-logo="" tvg-country="AR" group-title="Entertainment",Canal 9 Link [720p]
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="" tvg-country="AR" group-title="General",Canal 9 Resistencia [720p]
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
@@ -136,9 +138,9 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-name="Ciudad TV Resistencia" tvg-logo="" tvg-country="AR" group-title="General",Ciudad TV Resistencia [720p]
 https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
-#EXTINF:-1 tvg-id="CorreaRadiovision.ar" tvg-name="Correa Radiovision" tvg-logo="" tvg-country="AR" group-title="General",Correa Radiovision
+#EXTINF:-1 tvg-id="CorreaRadiovision.ar" tvg-name="Correa Radiovision" tvg-logo="" tvg-country="AR" group-title="General",Correa Radiovision [720p]
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" tvg-logo="" tvg-country="AR" group-title="General",Corrientes TV
+#EXTINF:-1 tvg-id="CorrientesTV.ar" tvg-name="Corrientes TV" tvg-logo="" tvg-country="AR" group-title="General",Corrientes TV [352p]
 https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar" tvg-name="Cosmos Tv" tvg-logo="" tvg-country="AR" group-title="Movies",Cosmos Tv
 https://canaletaplus.com:3922/live/cosmoslive.m3u8
@@ -149,10 +151,10 @@ http://158.172.155.130:8000/play/a09y/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar" tvg-name="Disney Channel Latin America" tvg-logo="" tvg-country="AR" group-title="Animation",Disney Channel Latin America [1080p]
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar" tvg-name="Disney Jr. Latin America" tvg-logo="" tvg-country="AR" group-title="Animation",Disney Jr. Latin America [1080p]
-http://181.78.14.26:4000/play/a073/index.m3u8
+http://45.185.163.75:8000/play/a016/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="" tvg-country="AR" group-title="Sports",ESPN Premium [1080p]
 http://158.172.155.130:8000/play/a0ao/index.m3u8
-#EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" tvg-logo="" tvg-country="AR" group-title="General",Eco TV
+#EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" tvg-logo="" tvg-country="AR" group-title="General",Eco TV [1080p]
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" tvg-country="AR" group-title="Cooking",El Gourmet [1080p]
 http://15.204.246.24:8080/ElGourmetHD/index.m3u8
@@ -166,7 +168,7 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/23.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" tvg-logo="" tvg-country="AR" group-title="Culture",Encuentro [720p]
 http://138.59.227.20:8000/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" tvg-logo="" tvg-country="AR" group-title="Series",Europa Europa [1080p]
-http://138.121.15.230:9002/EUROPA-EUROPA/index.m3u8
+http://45.228.234.9:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="FilmArts.ar" tvg-name="Film & Arts" tvg-logo="" tvg-country="AR" group-title="Movies",Film & Arts [1080p]
 http://200.115.120.1:8000/play/ca131/index.m3u8
 #EXTINF:-1 tvg-id="FolcloreandoTV.ar" tvg-name="Folcloreando TV" tvg-logo="" tvg-country="AR" group-title="General",Folcloreando TV
@@ -196,8 +198,6 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
 #EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-name="Multivision Federal" tvg-logo="" tvg-country="AR" group-title="News",Multivision Federal
 https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
-#EXTINF:-1 tvg-id="MusicTop.ar" tvg-name="MusicTop" tvg-logo="" tvg-country="AR" group-title="Music",MusicTop [1080p]
-http://190.128.214.97:64333/play/a06o/index.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-name="NET TV" tvg-logo="" tvg-country="AR" group-title="General",NET TV [1080p]
 http://45.226.205.96:48000/play/a09p/index.m3u8
 #EXTINF:-1 tvg-id="NGFederal.ar" tvg-name="NG Federal" tvg-logo="" tvg-country="AR" group-title="General",NG Federal [720p]
@@ -232,8 +232,6 @@ https://iptv.ixfo.com.ar:30443/live/RadioUpTvStreaming/playlist.m3u8
 https://live.enhdtv.com:8081/radioiguazutv/index.m3u8
 #EXTINF:-1 tvg-id="Radiocanal.ar" tvg-name="Radiocanal" tvg-logo="" tvg-country="AR" group-title="General",Radiocanal [1080p]
 http://204.199.3.2/.m3u8
-#EXTINF:-1 tvg-id="RockPop.ar" tvg-name="Rock & Pop" tvg-logo="" tvg-country="AR" group-title="Music",Rock & Pop [1080p]
-http://190.128.214.97:64333/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="SantaFeCanal.ar" tvg-name="Santa Fe Canal" tvg-logo="" tvg-country="AR" group-title="General",Santa Fe Canal [1080p]
 https://canalsantaferts.argtelemax.workers.dev
 #EXTINF:-1 tvg-id="SenillosaTV.ar" tvg-name="Senillosa TV" tvg-logo="" tvg-country="AR" group-title="General",Senillosa TV [360p]

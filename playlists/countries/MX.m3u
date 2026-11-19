@@ -54,7 +54,7 @@ http://168.196.127.137:6001/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-logo="" tvg-country="MX" group-title="Movies",Claro Cinema [1080p]
 http://45.171.64.30:6060/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" tvg-country="MX" group-title="Sports",Claro Sports [1080p]
-http://45.171.64.30:6060/play/a00w/index.m3u8
+http://168.196.127.137:6001/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-logo="" tvg-country="MX" group-title="Music",Conecta TV [720p]
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-name="CreaLaTV" tvg-logo="" tvg-country="MX" group-title="General",CreaLaTV [1080p]
@@ -123,6 +123,8 @@ http://168.196.127.137:6001/play/a08n/index.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.mx" tvg-name="National Geographic" tvg-logo="" tvg-country="MX" group-title="Documentary",National Geographic [1080p]
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-id="NayaritComunica.mx" tvg-name="Nayarit Comunica" tvg-logo="" tvg-country="MX" group-title="General",Nayarit Comunica [1080p]
+https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx" tvg-name="Nueve TV" tvg-logo="" tvg-country="MX" group-title="General",Nueve TV [720p]
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="PSN.mx" tvg-name="PSN" tvg-logo="" tvg-country="MX" group-title="Entertainment",PSN [288p]
@@ -179,7 +181,7 @@ https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="TeleFormula" tvg-logo="" tvg-country="MX" group-title="General",TeleFormula [720p]
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-id="TeleHit.mx" tvg-name="TeleHit" tvg-logo="" tvg-country="MX" group-title="Music",TeleHit [1080p]
-http://190.61.47.54:8000/play/a029/index.m3u8
+http://186.148.196.100:8000/play/a01s
 #EXTINF:-1 tvg-id="Telemax.mx" tvg-name="Telemax" tvg-logo="" tvg-country="MX" group-title="General",Telemax [1080p]
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleplaySureste.mx" tvg-name="Teleplay Sureste" tvg-logo="" tvg-country="MX" group-title="Entertainment",Teleplay Sureste [720p]
@@ -188,8 +190,6 @@ https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
 http://138.121.15.230:9002/TELENOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasMexico.mx" tvg-name="Tlnovelas Mexico" tvg-logo="" tvg-country="MX" group-title="Series",Tlnovelas Mexico [1080p]
 http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx" tvg-name="Transmedia Television Morelia" tvg-logo="" tvg-country="MX" group-title="General",Transmedia Television Morelia [614p]
-http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TuristikTV.mx" tvg-name="Turistik TV" tvg-logo="" tvg-country="MX" group-title="Travel",Turistik TV [720p]
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx" tvg-name="UAA TV" tvg-logo="" tvg-country="MX" group-title="Education",UAA TV [1080p]
@@ -199,7 +199,7 @@ https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-name="Ultra TV Puebla" tvg-logo="" tvg-country="MX" group-title="General",Ultra TV Puebla [720p]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UnivisionLatinAmerica.mx" tvg-name="Univision Latin America" tvg-logo="" tvg-country="MX" group-title="General",Univision Latin America [1080p]
-http://138.121.15.230:9002/UNIVISION/index.m3u8
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
 #EXTINF:-1 tvg-id="VBMediaTV.mx" tvg-name="VB Media TV" tvg-logo="" tvg-country="MX" group-title="Entertainment",VB Media TV [1080p]
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 #EXTINF:-1 tvg-id="VisionTelevision.mx" tvg-name="Vision Television" tvg-logo="" tvg-country="MX" group-title="Music",Vision Television [720p]

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-name="ACN TV" tvg-logo="" tvg-country="CM" group-title="News",ACN TV [1080p]
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 #EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-name="Afrique Media" tvg-logo="" tvg-country="CM" group-title="News",Afrique Media [720p]
 #EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
@@ -17,8 +19,6 @@ https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
 #EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" tvg-logo="" tvg-country="CM" group-title="News",For You TV
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
-#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" tvg-logo="" tvg-country="CM" group-title="Culture",Kemet TV
-https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-name="My TV Channel" tvg-logo="" tvg-country="CM" group-title="General",My TV Channel [720p]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" tvg-logo="" tvg-country="CM" group-title="Entertainment",PLEX TV [720p]

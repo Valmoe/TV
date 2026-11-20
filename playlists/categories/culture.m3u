@@ -44,12 +44,10 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" tvg-logo="" tvg-country="CA" group-title="Culture",Hyder TV [720p]
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" tvg-logo="" tvg-country="CA" group-title="Culture",Montreal Greek TV [480p]
-http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pamir TV [1080p]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-name="Pardesi TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pardesi TV [720p]
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 tvg-id="Evtele.cg" tvg-name="Ev-tele" tvg-logo="" tvg-country="CG" group-title="Culture",Ev-tele [720p]
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" tvg-country="CL" group-title="Culture",13C [1080p]
@@ -59,7 +57,7 @@ https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" tvg-logo="" tvg-country="CL" group-title="Culture",Holvoet TV [720p]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
-http://15.204.246.24:8080/Mega2HD/index.m3u8
+http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Radio Suyai TV [1080p]
 https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="SuyaiTV.cl" tvg-name="Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Suyai TV [1080p]
@@ -68,8 +66,6 @@ https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VersoTV.cl" tvg-name="Verso TV" tvg-logo="" tvg-country="CL" group-title="Culture",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
-#EXTINF:-1 tvg-id="KemetTV.cm" tvg-name="Kemet TV" tvg-logo="" tvg-country="CM" group-title="Culture",Kemet TV
-https://kemettv.cm/memfs/b6d60ea7-18b4-4afb-b84f-bd082ed7f74f.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-logo="" tvg-country="CN" group-title="Culture",CCTV-8 [720p]
 http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-name="China Travel" tvg-logo="" tvg-country="CN" group-title="Documentary",China Travel [1080p]
@@ -86,11 +82,10 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC022/022/playlist.m3
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de" tvg-name="KulturMD" tvg-logo="" tvg-country="DE" group-title="Culture",KulturMD [1080p]
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OstWest24.de" tvg-name="Ost West 24" tvg-logo="" tvg-country="DE" group-title="Culture",Ost West 24 [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="Canal17RTVD.do" tvg-name="Canal 17 RTVD" tvg-logo="" tvg-country="DO" group-title="Culture",Canal 17 RTVD [1080p]
 https://cdn.protvradiostream.com/rtvd17/ngrp:rtvd17_all/playlist.m3u8
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV" tvg-logo="" tvg-country="DO" group-title="Culture",Guaymate TV [720p]
+https://183.giatvcdn.com/ssh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec" tvg-name="Ciracu TV" tvg-logo="" tvg-country="EC" group-title="Culture",Ciracu TV [720p]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="" tvg-country="EC" group-title="Culture",Manavision [480p]
@@ -98,13 +93,13 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" tvg-country="EE" group-title="Kids",ETV 2 [720p]
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-logo="" tvg-country="ES" group-title="Culture",Hamaika Telebista [1080p]
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
 https://rtvelivestream.rtve.es/rtvesec/rne/rne3_main.m3u8
 #EXTINF:-1 tvg-id="zenith.fr" tvg-name="zenith" tvg-logo="" tvg-country="FR" group-title="General",zenith [1080p]
-https://live.azenagroup.com/zenith/index.m3u8
+https://live.azenagroup.com/zenith/index.ll.m3u8
 #EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="Dikh TV" tvg-logo="" tvg-country="HU" group-title="Culture",Dikh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/dikh/index.m3u8
@@ -149,8 +144,6 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ImaiTV.lk" tvg-name="Imai TV" tvg-logo="" tvg-country="LK" group-title="Culture",Imai TV [576i]
 https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="LRTPlius.lt" tvg-name="LRT Plius" tvg-logo="" tvg-country="LT" group-title="Culture",LRT Plius [1080p]
-http://stream.mcquack.net/353/index.m3u8
 #EXTINF:-1 tvg-id="apartTV.lu" tvg-name="apart TV" tvg-logo="" tvg-country="LU" group-title="Lifestyle",apart TV [1080p]
 https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8
 #EXTINF:-1 tvg-id="StoryChannelTV.ma" tvg-name="StoryChannel TV" tvg-logo="" tvg-country="MA" group-title="Culture",StoryChannel TV [720p]
@@ -211,7 +204,7 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" tvg-logo="" tvg-country="SR" group-title="Culture",Trishul Broadcasting Network [720p]
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="" tvg-country="TM" group-title="Culture",Miras [406p]
-https://alpha.tv.online.tm/legacyhls/ch003.m3u8
+https://alpha.tv.online.tm/hls/ch003.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" tvg-logo="" tvg-country="TR" group-title="Culture",KRT [1080p]
@@ -224,10 +217,6 @@ https://canli.sercemtv.com.tr/hls/0/stream.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="HakkaTV.tw" tvg-name="Hakka TV" tvg-logo="" tvg-country="TW" group-title="Culture",Hakka TV
 https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
-#EXTINF:-1 tvg-id="ATR.ua" tvg-name="ATR" tvg-logo="" tvg-country="UA" group-title="Culture",ATR [1080p]
-http://stream.mcquack.net/244/index.m3u8
-#EXTINF:-1 tvg-id="SuspilneKultura.ua" tvg-name="Suspilne. Kultura" tvg-logo="" tvg-country="UA" group-title="Culture",Suspilne. Kultura [1080p]
-http://stream.mcquack.net/435/index.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="BBC Four" tvg-logo="" tvg-country="UK" group-title="Documentary",BBC Four [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/bbc_four/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelS.uk" tvg-name="Channel S" tvg-logo="" tvg-country="UK" group-title="Culture",Channel S [576p]
@@ -251,7 +240,7 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" tvg-logo="" tvg-country="US" group-title="Culture",Hmong TV Network [720p]
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" tvg-logo="" tvg-country="US" group-title="Culture",Jewish Life Television [1080p]
-https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+https://jlt-jltv-strimm.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-name="KIIO-LD 10.1" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
 #EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.4 [480p]

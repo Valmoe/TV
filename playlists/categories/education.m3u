@@ -21,7 +21,7 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" tvg-country="BR" group-title="Education",Canal Educacao [720p]
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
-http://186.219.52.187/futura/index.m3u8
+http://170.83.16.50/FUTURA/index.m3u8
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" tvg-country="BR" group-title="Education",Futura [720p]
 http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="" tvg-country="BR" group-title="Education",ISTV [720p]
@@ -57,7 +57,7 @@ https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-name="Zoom" tvg-logo="" tvg-country="CO" group-title="Education",Zoom [1080p]
 http://138.121.15.230:9002/ZOOM/index.m3u8
 #EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="ARD-alpha" tvg-logo="" tvg-country="DE" group-title="Education",ARD-alpha [720p]
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-name="Curiosity Channel" tvg-logo="" tvg-country="DE" group-title="Education",Curiosity Channel [720p]
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="" tvg-country="DE" group-title="Education",Da Vinci Asia [1080p]
@@ -90,8 +90,6 @@ http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il" tvg-name="Kan Educational" tvg-logo="" tvg-country="IL" group-title="Education",Kan Educational [720p]
-http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="BVG.in" tvg-name="BVG" tvg-logo="" tvg-country="IN" group-title="Education",BVG [576p]
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" tvg-country="IN" group-title="Education",DD Kisan [1080p]
@@ -151,12 +149,14 @@ https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1 tvg-id="PaighanTV.pk" tvg-name="Paighan TV" tvg-logo="" tvg-country="PK" group-title="Religious",Paighan TV
 https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
+#EXTINF:-1 tvg-id="DaVinci.pl" tvg-name="Da Vinci" tvg-logo="" tvg-country="PL" group-title="Education",Da Vinci [576p]
+http://116.90.120.149:8000/play/a0ad/index.m3u8
 #EXTINF:-1 tvg-id="DeParintiro.ro" tvg-name="DeParinti.ro" tvg-logo="" tvg-country="RO" group-title="Education",DeParinti.ro [576p]
 https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="" tvg-country="RU" group-title="Education",Da Vinci [576p]
-http://stream.mcquack.net/238/index.m3u8
+https://fs.uplink.kz/da_vinci/mono.m3u8?token=onlinetv
 #EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Doctor" tvg-logo="" tvg-country="RU" group-title="Education",Doctor [576p]
-http://stream.mcquack.net/80/index.m3u8
+http://178.134.1.158:8081/doktor/index.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" tvg-logo="" tvg-country="SA" group-title="Documentary",Asharq Discovery [1080p]
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="DabangaTV.sd" tvg-name="Dabanga TV" tvg-logo="" tvg-country="SD" group-title="News",Dabanga TV [1080p]
@@ -194,17 +194,11 @@ https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="" tvg-country="TH" group-title="Education",R Channel
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="" tvg-country="TM" group-title="Education",Yaslyk [406p]
-https://alpha.tv.online.tm/legacyhls/ch002.m3u8
+https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="" tvg-country="TR" group-title="Education",TRT EBA [720p]
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ChemodanTV.ua" tvg-name="Chemodan TV" tvg-logo="" tvg-country="UA" group-title="Education",Chemodan TV [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-http://stream.mcquack.net/399/index.m3u8
-#EXTINF:-1 tvg-id="Fauna.ua" tvg-name="Fauna" tvg-logo="" tvg-country="UA" group-title="Education",Fauna [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1 tvg-id="AlHiwarTV.uk" tvg-name="Al Hiwar TV" tvg-logo="" tvg-country="UK" group-title="Education",Al Hiwar TV [1080p]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk" tvg-name="English Club TV" tvg-logo="" tvg-country="UK" group-title="Education",English Club TV [576i]
@@ -246,7 +240,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]
@@ -278,7 +272,7 @@ https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 #EXTINF:-1 tvg-id="UCTV.us" tvg-name="UCTV" tvg-logo="" tvg-country="US" group-title="Education",UCTV [720p]
 https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldChannel.us" tvg-name="World Channel" tvg-logo="" tvg-country="US" group-title="Education",World Channel [1080p]
-https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+https://world.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-id="Colombeia.ve" tvg-name="Colombeia" tvg-logo="" tvg-country="VE" group-title="Education",Colombeia [576p]
 http://200.59.191.177:8000/play/a0la/index.m3u8
 #EXTINF:-1 tvg-id="Vive.ve" tvg-name="Vive" tvg-logo="" tvg-country="VE" group-title="Education",Vive [576p]

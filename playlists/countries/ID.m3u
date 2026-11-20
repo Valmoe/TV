@@ -35,9 +35,6 @@ https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BungoTV.id" tvg-name="Bungo TV" tvg-logo="" tvg-country="ID" group-title="General",Bungo TV [480p]
 https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-logo="" tvg-country="ID" group-title="Business",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="" tvg-country="ID" group-title="News",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
@@ -114,9 +111,8 @@ http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV" tvg-logo="" tvg-country="ID" group-title="General",RCTV [720p]
 #EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id" tvg-name="Radar Lampung TV" tvg-logo="" tvg-country="ID" group-title="General",Radar Lampung TV [480p]
-#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
-https://www.streaming.radartv.co.id/hls/test.m3u8
+#EXTINF:-1 tvg-id="RadarTasikmalayaTV.id" tvg-name="Radar Tasikmalaya TV" tvg-logo="" tvg-country="ID" group-title="General",Radar Tasikmalaya TV [720p]
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id" tvg-name="Rinjani TV" tvg-logo="" tvg-country="ID" group-title="Education",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-name="Rodja TV" tvg-logo="" tvg-country="ID" group-title="General",Rodja TV [720p]
@@ -136,12 +132,18 @@ https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id" tvg-name="Sangaji TV" tvg-logo="" tvg-country="ID" group-title="General",Sangaji TV [720p]
 #EXTVLCOPT:http-referrer=https://sangajitv.co.id/
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
+#EXTINF:-1 tvg-id="SelaparangTV.id" tvg-name="Selaparang TV" tvg-logo="" tvg-country="ID" group-title="General",Selaparang TV [720p]
+#EXTVLCOPT:http-referrer=selaparangtv.net
+https://selaparangtv.siar.us/live/selaparangtv.m3u8
 #EXTINF:-1 tvg-id="SriwijayaTV.id" tvg-name="Sriwijaya TV" tvg-logo="" tvg-country="ID" group-title="General",Sriwijaya TV [720p]
 #EXTVLCOPT:http-referrer=sriwijayatv.tv
 https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id" tvg-name="Stara TV" tvg-logo="" tvg-country="ID" group-title="General",Stara TV [1080p]
-#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
-https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id" tvg-name="Suara Surabaya Visual Radio" tvg-logo="" tvg-country="ID" group-title="News",Suara Surabaya Visual Radio [720p]
+#EXTVLCOPT:http-referrer=https://www.suarasurabaya.net/
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SurauTV.id" tvg-name="Surau TV" tvg-logo="" tvg-country="ID" group-title="General",Surau TV [720p]
 #EXTVLCOPT:http-referrer=https://surau.tv/
 https://surau-tv-rtmp-surautv.ltjafv.easypanel.host/hls/surautv.m3u8

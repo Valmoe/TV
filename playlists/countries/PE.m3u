@@ -107,8 +107,6 @@ http://45.70.201.81:8000/play/a019/index.m3u8
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" tvg-country="PE" group-title="Music",Karibena [720p]
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="KoraTV.pe" tvg-name="Kora TV" tvg-logo="" tvg-country="PE" group-title="Entertainment",Kora TV
-https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-logo="" tvg-country="PE" group-title="Sports",L1 Max [1080p]
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="" tvg-country="PE" group-title="Music",La Fabulosa TV [720p]
@@ -118,7 +116,7 @@ http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LaTremendaTV.pe" tvg-name="La Tremenda TV" tvg-logo="" tvg-country="PE" group-title="General",La Tremenda TV [1080p]
 https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="" tvg-country="PE" group-title="General",Latina [1080p]
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clasicos" tvg-logo="" tvg-country="PE" group-title="Series",Latina Clasicos [1080p]
 http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-name="Latina Noticias 24/7" tvg-logo="" tvg-country="PE" group-title="News",Latina Noticias 24/7 [1080p]
@@ -221,6 +219,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-name="TV Bella Asuncion" tvg-logo="" tvg-country="PE" group-title="General",TV Bella Asuncion
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe" tvg-name="TV Cosmos" tvg-logo="" tvg-country="PE" group-title="General",TV Cosmos [720p]
+https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
 #EXTINF:-1 tvg-id="TVMAR.pe" tvg-name="TV MAR" tvg-logo="" tvg-country="PE" group-title="General",TV MAR [720p]
 https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMAX.pe" tvg-name="TV MAX" tvg-logo="" tvg-country="PE" group-title="General",TV MAX [720p]

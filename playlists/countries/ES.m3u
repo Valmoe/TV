@@ -17,7 +17,7 @@ https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
 #EXTINF:-1 tvg-id="3CatInfo.es" tvg-name="3CatInfo" tvg-logo="" tvg-country="ES" group-title="News",3CatInfo [1080p]
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 tvg-id="7TV.es" tvg-name="7TV" tvg-logo="" tvg-country="ES" group-title="General",7TV
-https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
 #EXTINF:-1 tvg-id="8LaMarinaTV.es" tvg-name="8 La Marina TV" tvg-logo="" tvg-country="ES" group-title="General",8 La Marina TV [576p]
 https://streaming005.gestec-video.com/hls/canal24.m3u8
 #EXTINF:-1 tvg-id="APunt.es" tvg-name="A Punt" tvg-logo="" tvg-country="ES" group-title="General",A Punt [720p]
@@ -93,7 +93,7 @@ https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CetelmonTV.es" tvg-name="Cetelmon TV" tvg-logo="" tvg-country="ES" group-title="Religious",Cetelmon TV [404p]
 http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
 #EXTINF:-1 tvg-id="CineFriki.es" tvg-name="Cine Friki" tvg-logo="" tvg-country="ES" group-title="Movies",Cine Friki [1080p]
-https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es" tvg-name="Cine Western" tvg-logo="" tvg-country="ES" group-title="Movies",Cine Western [1080p]
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
 #EXTINF:-1 tvg-id="CiudadesdelOcioTV.es" tvg-name="Ciudades del Ocio TV" tvg-logo="" tvg-country="ES" group-title="Entertainment",Ciudades del Ocio TV [720p]
@@ -142,6 +142,8 @@ https://video3.lhdserver.es/empordatv2/live.m3u8
 #EXTINF:-1 tvg-id="EsTuTele.es" tvg-name="EsTuTele" tvg-logo="" tvg-country="ES" group-title="General",EsTuTele [720p]
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://cloud.streamingconnect.tv/hls/estutele/estutele.m3u8
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-logo="" tvg-country="ES" group-title="Public",Esport3 [1080p]
+https://directes-tv-int.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
 #EXTINF:-1 tvg-id="EsteponaTelevision.es" tvg-name="Estepona Television" tvg-logo="" tvg-country="ES" group-title="General",Estepona Television [720p]
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-id="FuerteventuraTV.es" tvg-name="Fuerteventura TV" tvg-logo="" tvg-country="ES" group-title="General",Fuerteventura TV [1080p]
@@ -164,8 +166,10 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="" tvg-country="ES" group-title="General",Intercomarcal TV [576p]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" tvg-logo="" tvg-country="ES" group-title="Entertainment",Kidz [1080p]
+https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8
 #EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="" tvg-country="ES" group-title="General",La 2 [720p]
-https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
 #EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="" tvg-country="ES" group-title="General",La 2 Canarias [720p]
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 Catalunya" tvg-logo="" tvg-country="ES" group-title="General",La 2 Catalunya [720p]
@@ -259,7 +263,7 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-1 tvg-id="TVEInternacionalEurope.es" tvg-name="TVE Internacional Europe" tvg-logo="" tvg-country="ES" group-title="General",TVE Internacional Europe [576p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEStar.es" tvg-name="TVE Star" tvg-logo="" tvg-country="ES" group-title="Series",TVE Star [1080p]
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="TVG2.es" tvg-name="TVG2" tvg-logo="" tvg-country="ES" group-title="General",TVG2 [720p]
 https://crtvg-tvg2.flumotion.cloud/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOJesus.es" tvg-name="TVO Jesus" tvg-logo="" tvg-country="ES" group-title="General",TVO Jesus [720p]

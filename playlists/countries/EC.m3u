@@ -22,7 +22,7 @@ https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="Ecuador TV" tvg-logo="" tvg-country="EC" group-title="General",Ecuador TV
 https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa" tvg-logo="" tvg-country="EC" group-title="General",Ecuavisa [1080p]
-https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-logo="" tvg-country="EC" group-title="Education",Educa TV [720p]
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSolNetworkTV.ec" tvg-name="El Sol Network TV" tvg-logo="" tvg-country="EC" group-title="Music",El Sol Network TV [1080p]
@@ -31,6 +31,8 @@ https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-name="Gamavision" tvg-logo="" tvg-country="EC" group-title="General",Gamavision [1080p]
 http://181.78.211.244:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-id="GaviotaTV.ec" tvg-name="Gaviota TV" tvg-logo="" tvg-country="EC" group-title="Entertainment",Gaviota TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
 #EXTINF:-1 tvg-id="HechosEcuador.ec" tvg-name="Hechos Ecuador" tvg-logo="" tvg-country="EC" group-title="General",Hechos Ecuador [1080p]
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
 #EXTINF:-1 tvg-id="IeanJesusEcuador.ec" tvg-name="IeanJesus Ecuador" tvg-logo="" tvg-country="EC" group-title="Religious",IeanJesus Ecuador [720p]
@@ -44,8 +46,7 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoretoTV.ec" tvg-name="Loreto TV" tvg-logo="" tvg-country="EC" group-title="General",Loreto TV [720p]
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec" tvg-name="MakroDigital Television" tvg-logo="" tvg-country="EC" group-title="Entertainment",MakroDigital Television [1080p]
-#EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
-https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+http://205.235.6.29:8000/play/a0wp/index.m3u8
 #EXTINF:-1 tvg-id="Manavision.ec" tvg-name="Manavision" tvg-logo="" tvg-country="EC" group-title="Culture",Manavision [480p]
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="MarcaTV.ec" tvg-name="Marca TV" tvg-logo="" tvg-country="EC" group-title="General",Marca TV [1080p]

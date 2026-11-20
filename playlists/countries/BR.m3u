@@ -7,7 +7,7 @@ https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN.br" tvg-name="AXN" tvg-logo="" tvg-country="BR" group-title="Movies",AXN [720p]
-http://170.83.49.66:8083/AXNHD/index.m3u8
+http://170.83.16.50/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="" tvg-country="BR" group-title="General",Adesso TV [720p]
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:-1 tvg-id="AgroCanal.br" tvg-name="AgroCanal" tvg-logo="" tvg-country="BR" group-title="Education",AgroCanal [720p]
@@ -191,7 +191,7 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br" tvg-name="Rede Seculo 21" tvg-logo="" tvg-country="BR" group-title="Religious",Rede Seculo 21 [720p]
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="Rede TV!" tvg-logo="" tvg-country="BR" group-title="General",Rede TV! [720p]
-http://186.219.52.187/rede_tv/index.m3u8
+http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br" tvg-name="Rede TV! Mais" tvg-logo="" tvg-country="BR" group-title="General",Rede TV! Mais [720p]
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-name="Rede Vida" tvg-logo="" tvg-country="BR" group-title="Religious",Rede Vida [720p]
@@ -232,8 +232,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida" tvg-logo="" tvg-country="BR" group-title="Religious",TV Aparecida [1080p]
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br" tvg-name="TV Arapuan" tvg-logo="" tvg-country="BR" group-title="General",TV Arapuan [720p]
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSPortuguese.br" tvg-name="TV BRICS Portuguese" tvg-logo="" tvg-country="BR" group-title="General",TV BRICS Portuguese [1080p]
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br" tvg-name="TV Bahia" tvg-logo="" tvg-country="BR" group-title="General",TV Bahia [1080i]
@@ -254,10 +252,8 @@ http://186.219.52.187/cancao_nova/index.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" tvg-name="TV Clube" tvg-logo="" tvg-country="BR" group-title="General",TV Clube [720p]
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br" tvg-name="TV Comunitaria" tvg-logo="" tvg-country="BR" group-title="General",TV Comunitaria [360p]
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-name="TV Cultura" tvg-logo="" tvg-country="BR" group-title="General",TV Cultura [720p]
-http://170.83.16.50/CULTURA/index.m3u8
+http://186.219.52.187/cultura/index.m3u8
 #EXTINF:-1 tvg-id="TVCuruca.br" tvg-name="TV Curuca" tvg-logo="" tvg-country="BR" group-title="Entertainment",TV Curuca [360p]
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusao.br" tvg-name="TV Difusao" tvg-logo="" tvg-country="BR" group-title="General",TV Difusao [720p]
@@ -291,7 +287,7 @@ https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m
 #EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-name="TV Padre Cicero" tvg-logo="" tvg-country="BR" group-title="Religious",TV Padre Cicero [720p]
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" tvg-country="BR" group-title="Religious",TV Pai Eterno [720p]
-https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 tvg-id="TVPantanalMS.br" tvg-name="TV Pantanal MS" tvg-logo="" tvg-country="BR" group-title="General",TV Pantanal MS [360p]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVParanaTurismo.br" tvg-name="TV Parana Turismo" tvg-logo="" tvg-country="BR" group-title="Travel",TV Parana Turismo [720p]
@@ -305,13 +301,15 @@ http://186.219.52.187/ratimbum/index.m3u8
 #EXTINF:-1 tvg-id="TVSaoRaimundo.br" tvg-name="TV Sao Raimundo" tvg-logo="" tvg-country="BR" group-title="General",TV Sao Raimundo [268p]
 https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado" tvg-logo="" tvg-country="BR" group-title="General",TV Senado [720p]
-http://186.219.52.187/tv_senado/index.m3u8
+http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-name="TV Series" tvg-logo="" tvg-country="BR" group-title="Series",TV Series [480p]
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br" tvg-name="TV Show Fortaleza" tvg-logo="" tvg-country="BR" group-title="General",TV Show Fortaleza [720p]
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br" tvg-name="TV Sim Cachoeiro" tvg-logo="" tvg-country="BR" group-title="News",TV Sim Cachoeiro [720p]
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-name="TV Sul Bahia" tvg-logo="" tvg-country="BR" group-title="General",TV Sul Bahia [320p]
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVTerceiroAnjo.br" tvg-name="TV Terceiro Anjo" tvg-logo="" tvg-country="BR" group-title="Religious",TV Terceiro Anjo [360p]
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br" tvg-name="TV UFOP" tvg-logo="" tvg-country="BR" group-title="Public",TV UFOP [1080p]
@@ -355,7 +353,7 @@ http://45.185.15.154:9080/stream/28/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://45.185.15.154:9080/stream/29/index.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-name="Terra Viva" tvg-logo="" tvg-country="BR" group-title="Outdoor",Terra Viva [720p]
-http://170.83.16.50/TERRA_VIVA/index.m3u8
+https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="TikTokRadioBrasil.br" tvg-name="TikTok Radio Brasil" tvg-logo="" tvg-country="BR" group-title="Music",TikTok Radio Brasil [720p]
 https://jmp2.uk/plu-63dac32bda711800088a2ba3.m3u8
 #EXTINF:-1 tvg-id="TimesBrasil.br" tvg-name="Times Brasil" tvg-logo="" tvg-country="BR" group-title="News",Times Brasil [720p]
@@ -369,4 +367,4 @@ https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="VEJAPlusTV.br" tvg-name="VEJA+ TV" tvg-logo="" tvg-country="BR" group-title="News",VEJA+ TV [1080p]
 https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
 #EXTINF:-1 tvg-id="WooHoo.br" tvg-name="WooHoo" tvg-logo="" tvg-country="BR" group-title="General",WooHoo [720p]
-http://186.219.52.187/woohoo/index.m3u8
+http://170.83.16.50/WOOHOO/index.m3u8

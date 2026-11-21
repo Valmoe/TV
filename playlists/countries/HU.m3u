@@ -23,6 +23,8 @@ https://live.apostoltv.hu/live/playlist.m3u8
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 tvg-id="BajaiTV.hu" tvg-name="Bajai TV" tvg-logo="" tvg-country="HU" group-title="General",Bajai TV [720p]
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BalatonTV.hu" tvg-name="Balaton TV" tvg-logo="" tvg-country="HU" group-title="General",Balaton TV [432p]
+https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 tvg-id="BudapestEuropaTelevizio.hu" tvg-name="Budapest Europa Televizio" tvg-logo="" tvg-country="HU" group-title="General",Budapest Europa Televizio [576p]
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV.hu" tvg-name="City TV" tvg-logo="" tvg-country="HU" group-title="General",City TV
@@ -105,6 +107,8 @@ http://88.212.7.14/live/m2_hun/index.m3u8
 http://88.212.7.14/live/uatlmvixrr/index.m3u8
 #EXTINF:-1 tvg-id="M5.hu" tvg-name="M5" tvg-logo="" tvg-country="HU" group-title="Education",M5 [1080p]
 http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="MAX4.hu" tvg-name="MAX4" tvg-logo="" tvg-country="HU" group-title="Movies",MAX4 [1080p]
+http://141.94.193.53/MAX4_HD/index.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu" tvg-name="Magyar Mozi TV" tvg-logo="" tvg-country="HU" group-title="Movies",Magyar Mozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/mozi/index.m3u8
@@ -198,8 +202,8 @@ http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/sport2_hun/index.m3u8
 #EXTINF:-1 tvg-id="Story4.hu" tvg-name="Story4" tvg-logo="" tvg-country="HU" group-title="General",Story4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu" tvg-name="Super TV2" tvg-logo="" tvg-country="HU" group-title="General",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8

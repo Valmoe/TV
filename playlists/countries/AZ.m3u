@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="APATv.az" tvg-name="APA Tv" tvg-logo="" tvg-country="AZ" group-title="News",APA Tv
-http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" tvg-country="AZ" group-title="News",ARB 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://tvstream.az/
+https://az.tvstream.az/hls/stream5/stream.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" tvg-logo="" tvg-country="AZ" group-title="General",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" tvg-logo="" tvg-country="AZ" group-title="General",Az TV
@@ -10,9 +12,9 @@ https://az.tvstream.az/hls/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-name="Azad TV" tvg-logo="" tvg-country="AZ" group-title="General",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" tvg-country="AZ" group-title="News",Baku.TV
-https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" tvg-logo="" tvg-country="AZ" group-title="General",EL TV [260p]
-http://85.132.53.162:1935/live/eltv/playlist.m3u8
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-id="ELTV.az" tvg-name="EL TV" tvg-logo="" tvg-country="AZ" group-title="General",EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az" tvg-name="KN Music TV" tvg-logo="" tvg-country="AZ" group-title="Music",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="KanalS.az" tvg-name="Kanal S" tvg-logo="" tvg-country="AZ" group-title="General",Kanal S

@@ -47,6 +47,8 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" tvg-logo="" tvg-country="RO" group-title="General",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
+#EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" tvg-logo="" tvg-country="RO" group-title="General",Bihor TV [576p]
+https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="" tvg-country="RO" group-title="Movies",Bollywood Classic [576p]
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="" tvg-country="RO" group-title="Movies",Bollywood HD [576p]
@@ -58,8 +60,8 @@ https://tvboom.ro/live-tv/live.m3u8
 https://www.bucovinatv.ro/proxy/video/playlist.m3u8
 #EXTINF:-1 tvg-id="Chefilacutite.ro" tvg-name="Chefi la cutite" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi la cutite [576i]
 https://live77cdn2.antenaplay.ro/live2_fast/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080p]
-https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
+#EXTINF:-1 tvg-id="Chefiro.ro" tvg-name="Chefi.ro" tvg-logo="" tvg-country="RO" group-title="Cooking",Chefi.ro [1080i]
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13_5000k.m3u8
 #EXTINF:-1 tvg-id="CineWow.ro" tvg-name="CineWow" tvg-logo="" tvg-country="RO" group-title="Movies",CineWow [576i]
 https://hls01ns.antenaplay.ro/hls/cinewow-sd/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonPlus.ro" tvg-name="Cinemaraton Plus" tvg-logo="" tvg-country="RO" group-title="Movies",Cinemaraton Plus [1080i]
@@ -119,8 +121,8 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 https://live77cdn2.antenaplay.ro/live2_sdi05/live2_sdi05.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="" tvg-country="RO" group-title="General",Intermedia TV [576p]
 https://live.intermediatv.ro/ram/playlist.m3u8
-#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080i]
-https://jobtvserver.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-id="JOBTV.ro" tvg-name="JOB TV" tvg-logo="" tvg-country="RO" group-title="Business",JOB TV [1080p]
+https://jobtvserver.eu/hls/stream.m3u8
 #EXTINF:-1 tvg-id="JimJam.ro" tvg-name="JimJam" tvg-logo="" tvg-country="RO" group-title="Kids",JimJam [576p]
 #EXTVLCOPT:http-referrer=https://canale-tv.net/
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fsaruman1.tharen001.cfd%2Fjimy%2Fusergenq3n0lz7kr-got.htm
@@ -289,8 +291,6 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf TV" tvg-logo="" tvg-country="RO" group-title="General",Taraf TV [576p]
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
-#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="" tvg-country="RO" group-title="General",Tele7ABC HD [720p]
-https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-name="Tele7music" tvg-logo="" tvg-country="RO" group-title="Music",Tele7music [576i]
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-name="TeleM Botosani" tvg-logo="" tvg-country="RO" group-title="General",TeleM Botosani [540p]

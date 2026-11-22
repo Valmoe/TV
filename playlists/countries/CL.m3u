@@ -71,6 +71,8 @@ https://tv.arkeo.cl:1936/clubtv/clubtv/playlist.m3u8
 https://stream.blserver.cl/hls/ctv/index.m3u8
 #EXTINF:-1 tvg-id="Contivision.cl" tvg-name="Contivision" tvg-logo="" tvg-country="CL" group-title="News",Contivision [720p]
 https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cooperativa.cl" tvg-name="Cooperativa" tvg-logo="" tvg-country="CL" group-title="General",Cooperativa [720p]
+https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CoyhaiqueTV.cl" tvg-name="Coyhaique TV" tvg-logo="" tvg-country="CL" group-title="General",Coyhaique TV [720p]
 https://v2.tustreaming.cl/coyhaiquetv/index.m3u8
 #EXTINF:-1 tvg-id="DCHTV.cl" tvg-name="DCH TV" tvg-logo="" tvg-country="CL" group-title="General",DCH TV [1080p]
@@ -225,8 +227,6 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRitmoFM.cl" tvg-name="Radio Ritmo FM" tvg-logo="" tvg-country="CL" group-title="General",Radio Ritmo FM [1080p]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioSuyaiTV.cl" tvg-name="Radio Suyai TV" tvg-logo="" tvg-country="CL" group-title="Culture",Radio Suyai TV [1080p]
-https://cl-2.backend.energeek.cl/RadioSuyai-Neo/index.m3u8
 #EXTINF:-1 tvg-id="RadioUNIACC.cl" tvg-name="Radio UNIACC" tvg-logo="" tvg-country="CL" group-title="General",Radio UNIACC [720p]
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUSACH.cl" tvg-name="Radio USACH" tvg-logo="" tvg-country="CL" group-title="General",Radio USACH [720p]
@@ -274,7 +274,7 @@ https://redirector.dps.live/hls/t13/playlist.m3u8
 #EXTINF:-1 tvg-id="TNE.cl" tvg-name="TNE" tvg-logo="" tvg-country="CL" group-title="Religious",TNE [720p]
 https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.cl" tvg-name="TNT Sports" tvg-logo="" tvg-country="CL" group-title="Sports",TNT Sports [480p]
-http://209.45.101.130:8040/play/a03s/index.m3u8
+http://205.235.6.29:8000/play/a0xa/index.m3u8
 #EXTINF:-1 tvg-id="TNTSportsPremium.cl" tvg-name="TNT Sports Premium" tvg-logo="" tvg-country="CL" group-title="Sports",TNT Sports Premium [1080p]
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1 tvg-id="TVSenado.cl" tvg-name="TV Senado" tvg-logo="" tvg-country="CL" group-title="General",TV Senado [360p]
@@ -317,7 +317,7 @@ https://redirector.dps.live/hls/turno/playlist.m3u8
 #EXTINF:-1 tvg-id="ULosLagosTV.cl" tvg-name="U Los Lagos TV" tvg-logo="" tvg-country="CL" group-title="General",U Los Lagos TV [1080p]
 http://tv.ulagos.cl/web/live.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-name="UATV" tvg-logo="" tvg-country="CL" group-title="General",UATV [1080p]
-https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UCVTV.cl" tvg-name="UCV TV" tvg-logo="" tvg-country="CL" group-title="Culture",UCV TV [720p]
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UMAGTV.cl" tvg-name="UMAGTV" tvg-logo="" tvg-country="CL" group-title="Education",UMAGTV [720p]

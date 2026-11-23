@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="" tvg-country="TR" group-title="News",24 TV [720p]
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://tv.ensonhaber.com/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" tvg-country="TR" group-title="News",360 [720p]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="" tvg-country="TR" group-title="Entertainment",4U TV [720p]
@@ -35,7 +35,7 @@ https://edge.taksimbilisim.com/birtv/bant1/playlist.m3u8
 https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-name="Bric ve Satranc TV" tvg-logo="" tvg-country="TR" group-title="General",Bric ve Satranc TV [480p]
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="" tvg-country="TR" group-title="Business",CNBC-e
+#EXTINF:-1 tvg-id="CNBCe.tr" tvg-name="CNBC-e" tvg-logo="" tvg-country="TR" group-title="Business",CNBC-e [1080p]
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-name="CNN Turk" tvg-logo="" tvg-country="TR" group-title="News",CNN Turk [1080p]
 http://85.117.61.84/cnnturk/index.m3u8
@@ -73,7 +73,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 http://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FinansTurkTV.tr" tvg-name="Finans Turk TV" tvg-logo="" tvg-country="TR" group-title="News",Finans Turk TV [720p]
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
-#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-logo="" tvg-country="TR" group-title="News",Flash Haber TV
+#EXTINF:-1 tvg-id="FlashHaberTV.tr" tvg-name="Flash Haber TV" tvg-logo="" tvg-country="TR" group-title="News",Flash Haber TV [1080p]
 https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c053c48829f.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortunaTV.tr" tvg-name="Fortuna TV" tvg-logo="" tvg-country="TR" group-title="Lifestyle",Fortuna TV [1080p]
 https://edge.taksimbilisim.com/ftvturk/bant1/playlist.m3u8
@@ -84,7 +84,7 @@ https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-name="Haber Global" tvg-logo="" tvg-country="TR" group-title="News",Haber Global [720p]
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr" tvg-name="Haber61 TV" tvg-logo="" tvg-country="TR" group-title="News",Haber61 TV [720p]
-https://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="Haberturk TV" tvg-logo="" tvg-country="TR" group-title="News",Haberturk TV [720p]
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="Halk TV" tvg-logo="" tvg-country="TR" group-title="News",Halk TV [1080p]
@@ -147,7 +147,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="" tvg-country="TR" group-title="Entertainment",NOW [720p]
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="" tvg-country="TR" group-title="General",NTV
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="" tvg-country="TR" group-title="General",NTV [1080p]
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" tvg-logo="" tvg-country="TR" group-title="Music",Number 1 Ask [720p]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
@@ -212,8 +212,8 @@ https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-logo="" tvg-country="TR" group-title="General",TRT Kurdi [720p]
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="" tvg-country="TR" group-title="Music",TRT Muzik [720p]
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-logo="" tvg-country="TR" group-title="Music",TRT Muzik [1080p]
+https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-logo="" tvg-country="TR" group-title="General",TRT Turk [720p]
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-logo="" tvg-country="TR" group-title="News",TRT World [1080p]
@@ -230,7 +230,7 @@ http://canli.tvden.com.tr/hls/live.m3u8
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr" tvg-name="Tempo TV" tvg-logo="" tvg-country="TR" group-title="General",Tempo TV [720p]
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="" tvg-country="TR" group-title="Religious",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="" tvg-country="TR" group-title="Religious",Thaqalayn TV [480p]
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6.tr" tvg-name="Tivi 6" tvg-logo="" tvg-country="TR" group-title="General",Tivi 6 [720p]
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
@@ -238,7 +238,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_tontv/tontv/playlist.m3u8
 #EXTINF:-1 tvg-id="UrfaNatikTV.tr" tvg-name="Urfa Natik TV" tvg-logo="" tvg-country="TR" group-title="General",Urfa Natik TV [720p]
 https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" tvg-logo="" tvg-country="TR" group-title="General",Van 65 TV
+#EXTINF:-1 tvg-id="Van65TV.tr" tvg-name="Van 65 TV" tvg-logo="" tvg-country="TR" group-title="General",Van 65 TV [720p]
 https://live.artidijitalmedya.com/artidijital_van65/van65/playlist.m3u8
 #EXTINF:-1 tvg-id="VavTV.tr" tvg-name="Vav TV" tvg-logo="" tvg-country="TR" group-title="General",Vav TV [1080p]
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kltr-sanat-tv/playlist.m3u8

@@ -3,8 +3,6 @@
 https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 #EXTINF:-1 tvg-id="PeaceTVBangla.ae" tvg-name="Peace TV Bangla" tvg-logo="" tvg-country="AE" group-title="Religious",Peace TV Bangla [1080p]
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
-#EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-name="Peace TV Chinese" tvg-logo="" tvg-country="AE" group-title="Religious",Peace TV Chinese [1080p]
-https://dzkyvlfyge.erbvr.com/PeaceTvChinese/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-name="Peace TV English" tvg-logo="" tvg-country="AE" group-title="Religious",Peace TV English [1080p]
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVUrdu.ae" tvg-name="Peace TV Urdu" tvg-logo="" tvg-country="AE" group-title="Religious",Peace TV Urdu [1080p]
@@ -26,7 +24,7 @@ https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSantaMaria.ar" tvg-name="Canal Santa Maria" tvg-logo="" tvg-country="AR" group-title="Religious",Canal Santa Maria [360p]
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-id="UnifeTV.ar" tvg-name="Unife TV" tvg-logo="" tvg-country="AR" group-title="Religious",Unife TV [720p]
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8
 #EXTINF:-1 tvg-id="KTV.at" tvg-name="K-TV" tvg-logo="" tvg-country="AT" group-title="Religious",K-TV [720p]
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KITTV.at" tvg-name="KIT-TV" tvg-logo="" tvg-country="AT" group-title="Religious",KIT-TV [720p]
@@ -82,6 +80,8 @@ http://46.151.196.223:14244
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br" tvg-name="TV Evangelizar" tvg-logo="" tvg-country="BR" group-title="Religious",TV Evangelizar [720p]
 http://186.219.52.187/tv_evangelizar/index.m3u8
+#EXTINF:-1 tvg-id="TVMaanaim.br" tvg-name="TV Maanaim" tvg-logo="" tvg-country="BR" group-title="Religious",TV Maanaim [720p]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
 #EXTINF:-1 tvg-id="TVPadreCicero.br" tvg-name="TV Padre Cicero" tvg-logo="" tvg-country="BR" group-title="Religious",TV Padre Cicero [720p]
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br" tvg-name="TV Pai Eterno" tvg-logo="" tvg-country="BR" group-title="Religious",TV Pai Eterno [720p]
@@ -131,7 +131,7 @@ https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8
 #EXTINF:-1 tvg-id="151BPB.cl" tvg-name="15.1 BPB" tvg-logo="" tvg-country="CL" group-title="Religious",15.1 BPB [720p]
 https://v2.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="ADATV.cl" tvg-name="ADA TV" tvg-logo="" tvg-country="CL" group-title="Religious",ADA TV [720p]
-https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
+https://v4.tustreaming.cl/adatvchile/index.m3u8
 #EXTINF:-1 tvg-id="CanalISB.cl" tvg-name="Canal ISB" tvg-logo="" tvg-country="CL" group-title="Religious",Canal ISB [720p]
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FortalezaTV.cl" tvg-name="Fortaleza TV" tvg-logo="" tvg-country="CL" group-title="Religious",Fortaleza TV [1080p]
@@ -179,7 +179,7 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr" tvg-name="Conexion Positiva Television" tvg-logo="" tvg-country="CR" group-title="Religious",Conexion Positiva Television [1080p]
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace" tvg-logo="" tvg-country="CR" group-title="Religious",Enlace [1080p]
-http://45.5.118.152:8000/play/a026/index.m3u8
+http://200.115.120.1:8000/play/ca114/index.m3u8
 #EXTINF:-1 tvg-id="EnlaceJuvenil.cr" tvg-name="Enlace Juvenil" tvg-logo="" tvg-country="CR" group-title="Religious",Enlace Juvenil [720p]
 https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtremaTV.cr" tvg-name="Extrema TV" tvg-logo="" tvg-country="CR" group-title="Religious",Extrema TV [720p]
@@ -288,8 +288,6 @@ https://s.emisoras.tv:8081/radiomaya/index.m3u8
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="IglesiaDelCamino.gt" tvg-name="Iglesia Del Camino" tvg-logo="" tvg-country="GT" group-title="Religious",Iglesia Del Camino [480p]
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="JubiloTV.gt" tvg-name="Jubilo TV" tvg-logo="" tvg-country="GT" group-title="Religious",Jubilo TV [720p]
-http://173.249.60.54/hls/jubilotv.m3u8
 #EXTINF:-1 tvg-id="PenielKY.gt" tvg-name="Peniel K&Y" tvg-logo="" tvg-country="GT" group-title="Religious",Peniel K&Y [480p]
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-id="PenielMusical.gt" tvg-name="Peniel Musical" tvg-logo="" tvg-country="GT" group-title="Religious",Peniel Musical [480p]
@@ -309,7 +307,7 @@ https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1 tvg-id="EbenezerTV.hn" tvg-name="Ebenezer TV" tvg-logo="" tvg-country="HN" group-title="Religious",Ebenezer TV [1080p]
 https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
 #EXTINF:-1 tvg-id="JBNTV.hn" tvg-name="JBN TV" tvg-logo="" tvg-country="HN" group-title="Religious",JBN TV [1080p]
-https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+https://viewhn.com/jbn_live/enlace/playlist.m3u8
 #EXTINF:-1 tvg-id="JEMRTV.hn" tvg-name="JEMR TV" tvg-logo="" tvg-country="HN" group-title="Religious",JEMR TV [1080p]
 https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KerussoTV.hn" tvg-name="Kerusso TV" tvg-logo="" tvg-country="HN" group-title="Religious",Kerusso TV [720p]
@@ -427,8 +425,7 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:-1 tvg-id="DivyaBhajan.in" tvg-name="Divya Bhajan" tvg-logo="" tvg-country="IN" group-title="Religious",Divya Bhajan [1080p]
 https://jmp2.uk/stvp-IN1600002IQ
 #EXTINF:-1 tvg-id="DivyavaniTV.in" tvg-name="Divyavani TV" tvg-logo="" tvg-country="IN" group-title="Religious",Divyavani TV [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/382/master.m3u8
+https://cdn.pishow.tv/ott/live/1624/master.m3u8
 #EXTINF:-1 tvg-id="DukhnivaranPatialaLive.in" tvg-name="Dukhnivaran Patiala Live" tvg-logo="" tvg-country="IN" group-title="Religious",Dukhnivaran Patiala Live [720p]
 https://samitaorigin.tangotv.in/DUKHNIWARAN/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="FGNChannel.in" tvg-name="FGN Channel" tvg-logo="" tvg-country="IN" group-title="Religious",FGN Channel [360p]
@@ -493,6 +490,8 @@ https://d1msejlow1t3l4.cloudfront.net/fta/nambikkaitv/playlist.m3u8
 https://samitaorigin.tangotv.in/NAMDHARICHANNEL/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="NanaksarLive.in" tvg-name="Nanaksar Live" tvg-logo="" tvg-country="IN" group-title="Religious",Nanaksar Live [720p]
 https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8
+#EXTINF:-1 tvg-id="NijamTV.in" tvg-name="Nijam TV" tvg-logo="" tvg-country="IN" group-title="Religious",Nijam TV [1080p]
+https://nijamtv.indiamatrix.in/nijamtv/nijamtv.m3u8
 #EXTINF:-1 tvg-id="NireekshanaTV.in" tvg-name="Nireekshana TV" tvg-logo="" tvg-country="IN" group-title="Religious",Nireekshana TV [576p]
 https://cdn.pishow.tv/ott/live/965/master.m3u8
 #EXTINF:-1 tvg-id="OMTV.in" tvg-name="OM TV" tvg-logo="" tvg-country="IN" group-title="Religious",OM TV [576p]
@@ -573,12 +572,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/5812b1a12b62482f83c38f9c8d34cb5a/in
 https://live.villagetv.net/villagetv/hd/index.m3u8
 #EXTINF:-1 tvg-id="ZBBhakti.in" tvg-name="ZB Bhakti" tvg-logo="" tvg-country="IN" group-title="Religious",ZB Bhakti [720p]
 https://server.zillarbarta.com/zbbhakti/index.m3u8
-#EXTINF:-1 tvg-id="ZainabiaChannel.in" tvg-name="Zainabia Channel" tvg-logo="" tvg-country="IN" group-title="Religious",Zainabia Channel
-https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
 #EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" tvg-logo="" tvg-country="IQ" group-title="Religious",ABNsat [720p]
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-#EXTINF:-1 tvg-id="AlAimmaTV.iq" tvg-name="Al-Aimma TV" tvg-logo="" tvg-country="IQ" group-title="Religious",Al-Aimma TV [1080p]
-https://alaimma.tv/live/index.m3u8
 #EXTINF:-1 tvg-id="AlJawadainTV.iq" tvg-name="Al-Jawadain TV" tvg-logo="" tvg-country="IQ" group-title="Religious",Al-Jawadain TV [1080p]
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq" tvg-name="Alabbassia TV" tvg-logo="" tvg-country="IQ" group-title="Religious",Alabbassia TV [1080p]
@@ -598,7 +593,7 @@ http://ar.imamhossaintv.com/live/ih2.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV3.iq" tvg-name="Imam Hussein TV 3" tvg-logo="" tvg-country="IQ" group-title="Religious",Imam Hussein TV 3 [1080p]
 https://live.imamhossaintv.com/live/ih3.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV4.iq" tvg-name="Imam Hussein TV 4" tvg-logo="" tvg-country="IQ" group-title="Religious",Imam Hussein TV 4 [1080p]
-https://live.imamhossaintv.com/live/ih4.m3u8
+http://ur.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV5.iq" tvg-name="Imam Hussein TV 5" tvg-logo="" tvg-country="IQ" group-title="Religious",Imam Hussein TV 5 [720p]
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV6.iq" tvg-name="Imam Hussein TV 6" tvg-logo="" tvg-country="IQ" group-title="Religious",Imam Hussein TV 6 [1080p]
@@ -698,7 +693,7 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="NoursatEnglish.lb" tvg-name="Noursat English" tvg-logo="" tvg-country="LB" group-title="Religious",Noursat English [576p]
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="" tvg-country="LK" group-title="Religious",Jaya TV
+#EXTINF:-1 tvg-id="JayaTV.lk" tvg-name="Jaya TV" tvg-logo="" tvg-country="LK" group-title="Religious",Jaya TV [1080p]
 https://live.jayatv.lk/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AlcanceTV.mx" tvg-name="Alcance TV" tvg-logo="" tvg-country="MX" group-title="Religious",Alcance TV [720p]
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
@@ -711,7 +706,8 @@ https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ACNN.ng" tvg-name="ACNN" tvg-logo="" tvg-country="NG" group-title="Religious",ACNN [480p]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ApprovalTV.ng" tvg-name="Approval TV" tvg-logo="" tvg-country="NG" group-title="General",Approval TV [720p]
-https://tv.bigicloud.com/hls/approvaltv/approvaltv.m3u8
+#EXTVLCOPT:http-referrer=https://live.approvaltv.com/
+https://live.approvaltv.com/approvaltv/index.m3u8
 #EXTINF:-1 tvg-id="ChosenTVEnglish.ng" tvg-name="Chosen TV English" tvg-logo="" tvg-country="NG" group-title="Religious",Chosen TV English [360p]
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CozaTV.ng" tvg-name="Coza TV" tvg-logo="" tvg-country="NG" group-title="Religious",Coza TV [576p]
@@ -763,7 +759,7 @@ http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk" tvg-name="God Stands Kids Club TV" tvg-logo="" tvg-country="PK" group-title="Kids",God Stands Kids Club TV
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
 #EXTINF:-1 tvg-id="GodStandsTV.pk" tvg-name="God Stands TV" tvg-logo="" tvg-country="PK" group-title="Religious",God Stands TV
-https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
+https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk" tvg-name="Grace Network" tvg-logo="" tvg-country="PK" group-title="Religious",Grace Network [720p]
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaacTV.pk" tvg-name="Isaac TV" tvg-logo="" tvg-country="PK" group-title="Religious",Isaac TV [720p]
@@ -786,20 +782,20 @@ https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playl
 https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
 #EXTINF:-1 tvg-id="EBNTelevision.pr" tvg-name="EBN Television" tvg-logo="" tvg-country="PR" group-title="Religious",EBN Television [1080p]
 https://627bb251f23c7.streamlock.net:444/EBNTELEVISION/EBNTELEVISION/playlist.m3u8
-#EXTINF:-1 tvg-id="FamiliaVisionHD.pr" tvg-name="Familia Vision HD" tvg-logo="" tvg-country="PR" group-title="Religious",Familia Vision HD [1080p]
-https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr" tvg-name="Faro de Santidad TV" tvg-logo="" tvg-country="PR" group-title="Religious",Faro de Santidad TV [720p]
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
-#EXTINF:-1 tvg-id="NuevaVidaFM.pr" tvg-name="Nueva Vida FM" tvg-logo="" tvg-country="PR" group-title="Religious",Nueva Vida FM [720p]
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+#EXTINF:-1 tvg-id="MasterVideo.pr" tvg-name="Master Video" tvg-logo="" tvg-country="PR" group-title="Religious",Master Video [1080p]
+https://eco.streams.ovh:8081/mastervideotv/index.m3u8
 #EXTINF:-1 tvg-id="ParaisoTV.pr" tvg-name="Paraiso TV" tvg-logo="" tvg-country="PR" group-title="Religious",Paraiso TV [720p]
 https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
 #EXTINF:-1 tvg-id="SalvacionTV.pr" tvg-name="Salvacion TV" tvg-logo="" tvg-country="PR" group-title="Religious",Salvacion TV [720p]
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Triunfo969FM.pr" tvg-name="Triunfo 96.9 FM" tvg-logo="" tvg-country="PR" group-title="Religious",Triunfo 96.9 FM [360p]
 https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
-#EXTINF:-1 tvg-id="WECN.pr" tvg-name="WECN" tvg-logo="" tvg-country="PR" group-title="Religious",WECN [720p]
-https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 tvg-id="WCLO501.pr" tvg-name="WCLO 50.1" tvg-logo="" tvg-country="PR" group-title="Religious",WCLO 50.1 [720p]
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+#EXTINF:-1 tvg-id="WECN.pr" tvg-name="WECN" tvg-logo="" tvg-country="PR" group-title="Religious",WECN [1080p]
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/master.m3u8
 #EXTINF:-1 tvg-id="WELU81.pr" tvg-name="WELU 8.1" tvg-logo="" tvg-country="PR" group-title="Religious",WELU 8.1 [480p]
 https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="HolyQuranRadioNablus.ps" tvg-name="Holy Quran Radio Nablus" tvg-logo="" tvg-country="PS" group-title="Religious",Holy Quran Radio Nablus [720p]
@@ -861,7 +857,7 @@ https://3abn.bozztv.com/3abn2/Rus_live/smil:Rus_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CityEdenTV.ru" tvg-name="City Eden TV" tvg-logo="" tvg-country="RU" group-title="General",City Eden TV
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelRussia.ru" tvg-name="Hope Channel Russia" tvg-logo="" tvg-country="RU" group-title="Religious",Hope Channel Russia [720p]
-https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="HuzurTV.ru" tvg-name="Huzur TV" tvg-logo="" tvg-country="RU" group-title="Religious",Huzur TV [1080p]
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 tvg-id="MuzSoyuz.ru" tvg-name="Muz Soyuz" tvg-logo="" tvg-country="RU" group-title="Music",Muz Soyuz [576p]
@@ -869,7 +865,7 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m
 #EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Soyuz" tvg-logo="" tvg-country="RU" group-title="Religious",Soyuz [576p]
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Spas" tvg-logo="" tvg-country="RU" group-title="Religious",Spas [576p]
-https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+http://31.148.5.241/kanal_12/index.m3u8
 #EXTINF:-1 tvg-id="TsargradTV.ru" tvg-name="Tsargrad TV" tvg-logo="" tvg-country="RU" group-title="Religious",Tsargrad TV [1080p]
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?e=2070278263&s=is_mLq_kjPYLsOJ4qj85tw&scheme=https
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-logo="" tvg-country="SA" group-title="Religious",Al Quran Al Kareem TV [720p]
@@ -895,7 +891,7 @@ https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="ShalomTV.sr" tvg-name="Shalom TV" tvg-logo="" tvg-country="SR" group-title="Religious",Shalom TV [360p]
 https://media.streambrothers.com:1936/8400/8400/playlist.m3u8
 #EXTINF:-1 tvg-id="AgapeTV.sv" tvg-name="Agape TV" tvg-logo="" tvg-country="SV" group-title="Religious",Agape TV [720p]
-https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+https://5fc584f3f19c9.streamlock.net/agape/videoagape/chunklist_w153454298.m3u8
 #EXTINF:-1 tvg-id="Canal63TVCatolicoCorinto.sv" tvg-name="Canal 63 TV Catolico Corinto" tvg-logo="" tvg-country="SV" group-title="Religious",Canal 63 TV Catolico Corinto [720p]
 http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8
 #EXTINF:-1 tvg-id="ElCaminoTV.sv" tvg-name="El Camino TV" tvg-logo="" tvg-country="SV" group-title="Religious",El Camino TV [480p]
@@ -914,6 +910,8 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 #EXTINF:-1 tvg-id="RTJVA.tg" tvg-name="RT JVA" tvg-logo="" tvg-country="TG" group-title="Religious",RT JVA [720p]
 https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-id="BoonniyomTV.th" tvg-name="Boonniyom TV" tvg-logo="" tvg-country="TH" group-title="Religious",Boonniyom TV [720p]
+https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 tvg-id="TVMuslimThailand.th" tvg-name="TV Muslim Thailand" tvg-logo="" tvg-country="TH" group-title="Religious",TV Muslim Thailand
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="AlZahraTVTurkic.tr" tvg-name="Al-Zahra TV Turkic" tvg-logo="" tvg-country="TR" group-title="Religious",Al-Zahra TV Turkic [720p]
@@ -928,9 +926,9 @@ https://dost.stream.emsal.im/tv/live.m3u8
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 tvg-id="SercemTV.tr" tvg-name="Sercem TV" tvg-logo="" tvg-country="TR" group-title="Religious",Sercem TV [1080p]
 https://canli.sercemtv.com.tr/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="" tvg-country="TR" group-title="Religious",Thaqalayn TV
+#EXTINF:-1 tvg-id="ThaqalaynTV.tr" tvg-name="Thaqalayn TV" tvg-logo="" tvg-country="TR" group-title="Religious",Thaqalayn TV [480p]
 http://62.60.207.173:8080/hls/thaqalayn/index.m3u8
-#EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-name="Riddim & Hope TV" tvg-logo="" tvg-country="TT" group-title="Religious",Riddim & Hope TV
+#EXTINF:-1 tvg-id="RiddimHopeTV.tt" tvg-name="Riddim & Hope TV" tvg-logo="" tvg-country="TT" group-title="Religious",Riddim & Hope TV [720p]
 https://6zklxwavdw9b-hls-live.5centscdn.com/RIDDIMNHOPE/0954119dc19d9003dd5f4bb37b3f559e.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SankhyaTV.tt" tvg-name="Sankhya TV" tvg-logo="" tvg-country="TT" group-title="Religious",Sankhya TV [720p]
 https://5c59fd5680a05.streamlock.net/live/_definst_/ngrp:SANKHYATV.stream_all/playlist.m3u8
@@ -963,6 +961,8 @@ https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="DreamTV.ug" tvg-name="Dream TV" tvg-logo="" tvg-country="UG" group-title="Religious",Dream TV [480p]
 https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GloriousTimesTV.ug" tvg-name="Glorious Times TV" tvg-logo="" tvg-country="UG" group-title="Religious",Glorious Times TV [1080p]
+https://gttv-cdn.cybercdn.live/GTTV/Live/playlist.m3u8
 #EXTINF:-1 tvg-id="AhlulbaytTV.uk" tvg-name="Ahlulbayt TV" tvg-logo="" tvg-country="UK" group-title="Religious",Ahlulbayt TV [1080p]
 https://cd198.anystream.uk:8082/hls/abtv3ng/index.m3u8
 #EXTINF:-1 tvg-id="AkaalChannel.uk" tvg-name="Akaal Channel" tvg-logo="" tvg-country="UK" group-title="Religious",Akaal Channel [396p]
@@ -1036,7 +1036,7 @@ https://iptv.almahditv.com/almahditv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlientoVision.us" tvg-name="Aliento Vision" tvg-logo="" tvg-country="US" group-title="Religious",Aliento Vision [720p]
 https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVAustralia.us" tvg-name="Alkarma TV Australia" tvg-logo="" tvg-country="US" group-title="Religious",Alkarma TV Australia [1080p]
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVFamily.us" tvg-name="Alkarma TV Family" tvg-logo="" tvg-country="US" group-title="Religious",Alkarma TV Family [1080p]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlkarmaTVMiddleEast.us" tvg-name="Alkarma TV Middle East" tvg-logo="" tvg-country="US" group-title="Religious",Alkarma TV Middle East [1080p]
@@ -1086,7 +1086,7 @@ http://167.249.23.102:8000/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-id="ESNETV.us" tvg-name="ESNE TV" tvg-logo="" tvg-country="US" group-title="Religious",ESNE TV [720p]
 http://168.196.127.137:6001/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" tvg-logo="" tvg-country="US" group-title="Religious",EWTN [720p]
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ElbesharaGTV.us" tvg-name="Elbeshara GTV" tvg-logo="" tvg-country="US" group-title="Religious",Elbeshara GTV [1080p]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ElevationChurchNetwork.us" tvg-name="Elevation Church Network" tvg-logo="" tvg-country="US" group-title="Religious",Elevation Church Network [1080p]
@@ -1196,13 +1196,13 @@ https://bozztv.com/uni10rtmp/ssstv1-cdn/smil:ssstv1web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SUMtvLatino.us" tvg-name="SUMtv Latino" tvg-logo="" tvg-country="US" group-title="Religious",SUMtv Latino [1080p]
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShalomWorld.us" tvg-name="Shalom World" tvg-logo="" tvg-country="US" group-title="Religious",Shalom World [1080p]
-https://broadcaster-1.cclouds.in/srt/channel1_abr/playlist.m3u8
+https://broadcaster-1.cclouds.in/srt-2/channel2_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="ShalomWorldPrayer.us" tvg-name="Shalom World Prayer" tvg-logo="" tvg-country="US" group-title="Religious",Shalom World Prayer [1080p]
 https://broadcaster-1.cclouds.in/srt-4/channel4_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SpiritTV.us" tvg-name="Spirit TV" tvg-logo="" tvg-country="US" group-title="Music",Spirit TV [720p]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #EXTINF:-1 tvg-id="TBN.us" tvg-name="TBN" tvg-logo="" tvg-country="US" group-title="Religious",TBN [720p]
-https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
+http://212.5.144.156:8080/tbn/index.m3u8
 #EXTINF:-1 tvg-id="TLNMediaChicago.us" tvg-name="TLN Media Chicago" tvg-logo="" tvg-country="US" group-title="Religious",TLN Media Chicago [720p]
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/cb165faa-41c9-42ad-83ee-ad5ca9fb927c.m3u8
 #EXTINF:-1 tvg-id="TLNMediaSanFrancisco.us" tvg-name="TLN Media San Francisco" tvg-logo="" tvg-country="US" group-title="Religious",TLN Media San Francisco [720p]

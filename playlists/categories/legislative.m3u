@@ -58,8 +58,9 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1
 #EXTINF:-1 tvg-id="TVCamara.py" tvg-name="TV Camara" tvg-logo="" tvg-country="PY" group-title="Legislative",TV Camara [1080p]
 http://158.172.217.18:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" tvg-logo="" tvg-country="RU" group-title="Legislative",Duma TV [720p]
-http://185.23.80.23:8080/DumaTV/index.m3u8
+#EXTINF:-1 tvg-id="DumaTV.ru" tvg-name="Duma TV" tvg-logo="" tvg-country="RU" group-title="Legislative",Duma TV [1080p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://dumatv.iptv2022.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNRSR.sk" tvg-name="TV NRSR" tvg-logo="" tvg-country="SK" group-title="Legislative",TV NRSR [720p]
 https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ThaiParliamentTelevision.th" tvg-name="Thai Parliament Television" tvg-logo="" tvg-country="TH" group-title="Legislative",Thai Parliament Television [1080p]
@@ -120,8 +121,6 @@ https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/play
 https://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 tvg-id="FGTV.us" tvg-name="FGTV" tvg-logo="" tvg-country="US" group-title="Legislative",FGTV
 https://securestream11.champds.com/LIVE/FultonCoGALIVE/FultonCoGALIVE.m3u8
-#EXTINF:-1 tvg-id="FernandinaBeachChannel.us" tvg-name="Fernandina Beach Channel" tvg-logo="" tvg-country="US" group-title="Legislative",Fernandina Beach Channel [720p]
-https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel192.us" tvg-name="Gillette Public Access Television Channel 192" tvg-logo="" tvg-country="US" group-title="Legislative",Gillette Public Access Television Channel 192
 https://securestream11.champds.com/LIVE/GilletteWYLIVE2/GilletteWYLIVE2.m3u8
 #EXTINF:-1 tvg-id="Glendale11AZ.us" tvg-name="Glendale 11 AZ" tvg-logo="" tvg-country="US" group-title="Legislative",Glendale 11 AZ [360p]

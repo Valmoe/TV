@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="UMSATVUInternacional.bo" tvg-name="UMSA TVU Internacional" tvg-logo="" tvg-country="BO" group-title="Education",UMSA TVU Internacional [720p]
-https://edge.enhdtv.com/8026/index.m3u8
+#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ScienceVieTV.fr" tvg-name="Science & Vie TV" tvg-logo="" tvg-country="FR" group-title="Science",Science & Vie TV [720p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/science_et_vie/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="OzoneTV.hu" tvg-name="Ozone TV" tvg-logo="" tvg-country="HU" group-title="Science",Ozone TV
@@ -16,7 +17,7 @@ https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1 tvg-id="Wonder.uk" tvg-name="Wonder" tvg-logo="" tvg-country="UK" group-title="Science",Wonder [1080p]
-https://lds-wonder-plex.amagi.tv/playlist.m3u8
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="Discovery Science Latin America" tvg-logo="" tvg-country="US" group-title="Science",Discovery Science Latin America [720p]
 http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.us" tvg-name="Pluto TV Science" tvg-logo="" tvg-country="US" group-title="Science",Pluto TV Science

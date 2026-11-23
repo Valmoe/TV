@@ -3,6 +3,8 @@
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="1Plus1Marafon.ua" tvg-name="1+1 Marafon" tvg-logo="" tvg-country="UA" group-title="General",1+1 Marafon [1080p]
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua" tvg-name="100% NEWS" tvg-logo="" tvg-country="UA" group-title="News",100% NEWS [576p]
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua" tvg-name="24 Kanal" tvg-logo="" tvg-country="UA" group-title="News",24 Kanal [720p]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="366TV.ua" tvg-name="36.6 TV" tvg-logo="" tvg-country="UA" group-title="Lifestyle",36.6 TV
@@ -12,6 +14,8 @@ https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua" tvg-name="Army TV" tvg-logo="" tvg-country="UA" group-title="News",Army TV [1080p]
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 tvg-id="Avers.ua" tvg-name="Avers" tvg-logo="" tvg-country="UA" group-title="General",Avers [480p]
+https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-id="BlackSeaTV.ua" tvg-name="Black Sea TV" tvg-logo="" tvg-country="UA" group-title="General",Black Sea TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
@@ -64,6 +68,8 @@ https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-id="HopeChannelUkraine.ua" tvg-name="Hope Channel Ukraine" tvg-logo="" tvg-country="UA" group-title="Religious",Hope Channel Ukraine
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
+#EXTINF:-1 tvg-id="IRT.ua" tvg-name="IRT" tvg-logo="" tvg-country="UA" group-title="General",IRT [720p]
+https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="" tvg-country="UA" group-title="General",ITV [720p]
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="InterPlus.ua" tvg-name="Inter+" tvg-logo="" tvg-country="UA" group-title="General",Inter+ [720p]
@@ -107,6 +113,10 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="NTN.ua" tvg-name="NTN" tvg-logo="" tvg-country="UA" group-title="General",NTN [1080i]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.ua" tvg-name="OTV" tvg-logo="" tvg-country="UA" group-title="General",OTV [576p]
+https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua" tvg-name="Obshchestvennoe Nezavisimoe Televidenie" tvg-logo="" tvg-country="UA" group-title="News",Obshchestvennoe Nezavisimoe Televidenie [576p]
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
 #EXTINF:-1 tvg-id="OrbitaTV.ua" tvg-name="Orbita TV" tvg-logo="" tvg-country="UA" group-title="General",Orbita TV [360p]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
 #EXTINF:-1 tvg-id="PTV.ua" tvg-name="PTV" tvg-logo="" tvg-country="UA" group-title="News",PTV [720p]
@@ -125,12 +135,16 @@ http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4x
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua" tvg-name="Rada TV" tvg-logo="" tvg-country="UA" group-title="Legislative",Rada TV [720p]
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RenomeTV.ua" tvg-name="Renome TV" tvg-logo="" tvg-country="UA" group-title="General",Renome TV [576p]
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="Reporter.ua" tvg-name="Reporter" tvg-logo="" tvg-country="UA" group-title="News",Reporter [720p]
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 #EXTINF:-1 tvg-id="Rivne1.ua" tvg-name="Rivne 1" tvg-logo="" tvg-country="UA" group-title="General",Rivne 1 [720p]
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalka.ua" tvg-name="Rybalka" tvg-logo="" tvg-country="UA" group-title="Outdoor",Rybalka [1080p]
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua" tvg-name="SK 1" tvg-logo="" tvg-country="UA" group-title="News",SK 1 [720p]
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SferaTV.ua" tvg-name="Sfera-TV" tvg-logo="" tvg-country="UA" group-title="General",Sfera-TV [720p]
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="Simon.ua" tvg-name="Simon" tvg-logo="" tvg-country="UA" group-title="General",Simon [720p]

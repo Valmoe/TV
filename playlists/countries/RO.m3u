@@ -31,8 +31,8 @@ https://live77cdn2.antenaplay.ro/live2_sdi06/live2_sdi06.m3u8
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="" tvg-country="RO" group-title="Entertainment",Antena Stars [1080i]
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi10/live2_aws4_sdi10_5000k.m3u8
-#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaPlay Events [576i]
-https://live77cdn2.antenaplay.ro/live2_srt9/live2_srt9_3000k.m3u8
+#EXTINF:-1 tvg-id="AntenaPlayEvents.ro" tvg-name="AntenaPlay Events" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaPlay Events [576p]
+https://live77cdn2.antenaplay.ro/live2_srt/live2_srt_3000k.m3u8
 #EXTINF:-1 tvg-id="AntenaSport.ro" tvg-name="AntenaSport" tvg-logo="" tvg-country="RO" group-title="Sports",AntenaSport
 https://stream1.antenaplay.ro/as/AS.ro/chunklist.m3u8
 #EXTINF:-1 tvg-id="ArgesTV.ro" tvg-name="Arges TV" tvg-logo="" tvg-country="RO" group-title="General",Arges TV [720p]
@@ -47,8 +47,6 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://hls02ns.antenaplay.ro/hls/b1-tv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BanatTV.ro" tvg-name="Banat TV" tvg-logo="" tvg-country="RO" group-title="General",Banat TV
 https://www.btv.ro/hls/banat-tv.m3u8
-#EXTINF:-1 tvg-id="BihorTV.ro" tvg-name="Bihor TV" tvg-logo="" tvg-country="RO" group-title="General",Bihor TV [576p]
-https://bihor-tv.ro/hls/bihortv.m3u8
 #EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-name="Bollywood Classic" tvg-logo="" tvg-country="RO" group-title="Movies",Bollywood Classic [576p]
 https://hls02ns.antenaplay.ro/hls/bollywood-sd/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-name="Bollywood HD" tvg-logo="" tvg-country="RO" group-title="Movies",Bollywood HD [576p]
@@ -98,8 +96,6 @@ https://stream1.antenaplay.ro/promo/f1-academy-las-vegas-20-2211/chunklist.m3u8
 https://s2.netstreaming.eu/hd365.m3u8
 #EXTINF:-1 tvg-id="HappyChannel.ro" tvg-name="Happy Channel" tvg-logo="" tvg-country="RO" group-title="Entertainment",Happy Channel [1080i]
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi12/live2_aws4_sdi12_5000k.m3u8
-#EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" tvg-logo="" tvg-country="RO" group-title="General",Hunedoara 1 [480p]
-https://netstreaming.eu/hd1.m3u8
 #EXTINF:-1 tvg-id="ImpactTV.ro" tvg-name="Impact TV" tvg-logo="" tvg-country="RO" group-title="Music",Impact TV [1080p]
 #EXTVLCOPT:http-referrer=https://tvimpact.ro/
 https://live.tvimpact.ro:8088/hevc/index.m3u8
@@ -166,8 +162,6 @@ https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 https://hls01ns.antenaplay.ro/hls/national-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="NostalgiaTV.ro" tvg-name="Nostalgia TV" tvg-logo="" tvg-country="RO" group-title="Movies",Nostalgia TV [1080p]
 https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-#EXTINF:-1 tvg-id="NovaTVBrasov.ro" tvg-name="Nova TV Brasov" tvg-logo="" tvg-country="RO" group-title="General",Nova TV Brasov [576p]
-http://novapress.ro:2022/live/nova/playlist.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro" tvg-name="Observator News" tvg-logo="" tvg-country="RO" group-title="News",Observator News [360p]
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF:-1 tvg-id="OrizontTV.ro" tvg-name="Orizont TV" tvg-logo="" tvg-country="RO" group-title="Music",Orizont TV [576i]
@@ -211,6 +205,8 @@ https://live.djemba.ro/memfs/474f9942-f72b-4130-817a-435cd54b2c36.m3u8
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomania3Net.ro" tvg-name="Radio Romania 3Net" tvg-logo="" tvg-country="RO" group-title="Music",Radio Romania 3Net [480p]
 https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaAntenaSatelor.ro" tvg-name="Radio Romania Antena Satelor" tvg-logo="" tvg-country="RO" group-title="Music",Radio Romania Antena Satelor [720p]
+https://stream3.srr.ro/live/antenasatelor/chunklist_w1642210843.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaIasi.ro" tvg-name="Radio Romania Iasi" tvg-logo="" tvg-country="RO" group-title="General",Radio Romania Iasi [576i]
 https://stream3.srr.ro/live/radio-iasi/chunklist_w1565024915.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro" tvg-name="Radio Romania Oltenia-Craiova" tvg-logo="" tvg-country="RO" group-title="General",Radio Romania Oltenia-Craiova [576p]
@@ -291,6 +287,8 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="Taraf TV" tvg-logo="" tvg-country="RO" group-title="General",Taraf TV [576p]
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro" tvg-name="Tele7ABC HD" tvg-logo="" tvg-country="RO" group-title="General",Tele7ABC HD [720p]
+https://live.tele7abc.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-name="Tele7music" tvg-logo="" tvg-country="RO" group-title="Music",Tele7music [576i]
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro" tvg-name="TeleM Botosani" tvg-logo="" tvg-country="RO" group-title="General",TeleM Botosani [540p]

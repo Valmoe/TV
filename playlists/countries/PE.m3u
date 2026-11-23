@@ -89,6 +89,8 @@ https://stream.ecoperu.tv/ECOTV/tracks-v1a1/mono.m3u8
 http://190.93.224.42/EXITOSA/index.m3u8
 #EXTINF:-1 tvg-id="ForoTV.pe" tvg-name="Foro TV" tvg-logo="" tvg-country="PE" group-title="General",Foro TV [576p]
 https://mc.servidor.stream:19360/8274/8274.m3u8
+#EXTINF:-1 tvg-id="GalacticaTV.pe" tvg-name="Galactica TV" tvg-logo="" tvg-country="PE" group-title="Music",Galactica TV
+https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8
 #EXTINF:-1 tvg-id="GeniosTV.pe" tvg-name="Genios TV" tvg-logo="" tvg-country="PE" group-title="General",Genios TV [1080p]
 https://sc3.wasidata.com/Genios2_1902/video.m3u8
 #EXTINF:-1 tvg-id="GlobalTV.pe" tvg-name="Global TV" tvg-logo="" tvg-country="PE" group-title="General",Global TV [1080p]
@@ -107,6 +109,8 @@ http://45.70.201.81:8000/play/a019/index.m3u8
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Karibena.pe" tvg-name="Karibena" tvg-logo="" tvg-country="PE" group-title="Music",Karibena [720p]
 https://iptv-pe-x-7-g3s-video.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="KoraTV.pe" tvg-name="Kora TV" tvg-logo="" tvg-country="PE" group-title="Entertainment",Kora TV
+https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8
 #EXTINF:-1 tvg-id="L1Max.pe" tvg-name="L1 Max" tvg-logo="" tvg-country="PE" group-title="Sports",L1 Max [1080p]
 http://190.93.224.42/LIGA-1-MAX/index.m3u8
 #EXTINF:-1 tvg-id="LaFabulosaTV.pe" tvg-name="La Fabulosa TV" tvg-logo="" tvg-country="PE" group-title="Music",La Fabulosa TV [720p]
@@ -188,7 +192,7 @@ https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe" tvg-name="Radio Onda Digital" tvg-logo="" tvg-country="PE" group-title="Music",Radio Onda Digital [1080p]
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioRumbaTV.pe" tvg-name="Radio Rumba TV" tvg-logo="" tvg-country="PE" group-title="Music",Radio Rumba TV [720p]
-https://tv.sistemasandinos.org/rumbatv/video.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTropical.pe" tvg-name="Radio Tropical" tvg-logo="" tvg-country="PE" group-title="Music",Radio Tropical [480p]
 https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:-1 tvg-id="RadioUnoTacna.pe" tvg-name="Radio Uno Tacna" tvg-logo="" tvg-country="PE" group-title="News",Radio Uno Tacna [720p]
@@ -205,6 +209,8 @@ https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8
 http://45.70.201.81:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="SanjuaneraTV.pe" tvg-name="SanjuaneraTV" tvg-logo="" tvg-country="PE" group-title="Music",SanjuaneraTV [1080p]
 https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:-1 tvg-id="SelvaTV.pe" tvg-name="SelvaTV" tvg-logo="" tvg-country="PE" group-title="General",SelvaTV [1080p]
+https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8
 #EXTINF:-1 tvg-id="SenalPeruTV.pe" tvg-name="Senal Peru TV" tvg-logo="" tvg-country="PE" group-title="General",Senal Peru TV [404p]
 https://livestream.perucast.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SiscomTV.pe" tvg-name="Siscom TV" tvg-logo="" tvg-country="PE" group-title="General",Siscom TV
@@ -263,8 +269,8 @@ http://38.87.224.20:2220/play/a02b/index.m3u8
 https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:-1 tvg-id="Trivu.pe" tvg-name="Trivu" tvg-logo="" tvg-country="PE" group-title="General",Trivu [1080p]
 http://190.93.224.42/TRIVU-TV/index.m3u8
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="" tvg-country="PE" group-title="Music",Turbo Mix Radio TV [360p]
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-name="Turbo Mix Radio TV" tvg-logo="" tvg-country="PE" group-title="Music",Turbo Mix Radio TV [720p]
+https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="USILTV.pe" tvg-name="USIL TV" tvg-logo="" tvg-country="PE" group-title="General",USIL TV [1080p]
 https://eu1.servers10.com:8081/8162/index.m3u8
 #EXTINF:-1 tvg-id="USMPTV.pe" tvg-name="USMPTV" tvg-logo="" tvg-country="PE" group-title="Culture",USMPTV [720p]

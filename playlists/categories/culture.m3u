@@ -14,8 +14,7 @@ https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" tvg-logo="" tvg-country="BO" group-title="Culture",Radio Universitaria San Andres [720p]
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
-#EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
+https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Bonairetv.bq" tvg-name="Bonaire.tv" tvg-logo="" tvg-country="BQ" group-title="Culture",Bonaire.tv [1080p]
 https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
 #EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1" tvg-logo="" tvg-country="BR" group-title="Culture",Arte 1 [720p]
@@ -55,6 +54,8 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 https://playtv4k.live/live/EVTELE/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl" tvg-name="13C" tvg-logo="" tvg-country="CL" group-title="Culture",13C [1080p]
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="ChiloeRed25.cl" tvg-name="Chiloe Red 25" tvg-logo="" tvg-country="CL" group-title="Culture",Chiloe Red 25 [720p]
+https://v2.tustreaming.cl/chiloered/index.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" tvg-logo="" tvg-country="CL" group-title="Culture",Holvoet TV [720p]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega2.cl" tvg-name="Mega 2" tvg-logo="" tvg-country="CL" group-title="Culture",Mega 2 [1080p]
@@ -107,7 +108,7 @@ http://88.212.7.14/live/dikh/index.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu" tvg-name="Liceum TV" tvg-logo="" tvg-country="HU" group-title="Culture",Liceum TV [576p]
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="SaliraTV.id" tvg-name="Salira TV" tvg-logo="" tvg-country="ID" group-title="Culture",Salira TV [720p]
-https://live.salira.tv:3870/stream/play.m3u8
+https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
@@ -191,7 +192,7 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" tvg-country="RS" group-title="Culture",RTS 2 [720p]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" tvg-logo="" tvg-country="RU" group-title="Culture",ART [576p]
-http://89.104.114.24:8080/art/index.m3u8
+http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="" tvg-country="RU" group-title="Culture",Ministerstvo idey [1080p]
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
@@ -207,7 +208,7 @@ https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="TrishulBroadcastingNetwork.sr" tvg-name="Trishul Broadcasting Network" tvg-logo="" tvg-country="SR" group-title="Culture",Trishul Broadcasting Network [720p]
 https://live.suricloud.com/hls/tbntv/index.m3u8
 #EXTINF:-1 tvg-id="Miras.tm" tvg-name="Miras" tvg-logo="" tvg-country="TM" group-title="Culture",Miras [406p]
-https://alpha.tv.online.tm/hls/ch003.m3u8
+https://alpha.tv.online.tm/legacyhls/ch003.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" tvg-logo="" tvg-country="TR" group-title="Culture",KRT [1080p]

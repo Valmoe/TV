@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MBCFM.ae" tvg-name="MBC FM" tvg-logo="" tvg-country="AE" group-title="Music",MBC FM [1080p]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-fm/3f36f7db6086acf058dc51681c87f8ad/index.m3u8
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="PMC.ae" tvg-name="PMC" tvg-logo="" tvg-country="AE" group-title="Music",PMC
 https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ae" tvg-name="PMC Royale" tvg-logo="" tvg-country="AE" group-title="Music",PMC Royale [1080p]
@@ -11,8 +11,6 @@ https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-id="MuzangalaTV.ao" tvg-name="Muzangala TV" tvg-logo="" tvg-country="AO" group-title="Music",Muzangala TV [1080p]
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1 tvg-id="AllegroHD.ar" tvg-name="Allegro HD" tvg-logo="" tvg-country="AR" group-title="Music",Allegro HD [1080p]
-http://158.172.155.130:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-name="AlternaTV" tvg-logo="" tvg-country="AR" group-title="Music",AlternaTV [720p]
 https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AzaharesRadiovisualMultimedia.ar" tvg-name="Azahares Radiovisual Multimedia" tvg-logo="" tvg-country="AR" group-title="Music",Azahares Radiovisual Multimedia [720p]
@@ -66,7 +64,7 @@ https://live.vrtcdn.be/groupb/live/9c429b62-e160-417a-b438-cdf985bcd352/live.ism
 #EXTINF:-1 tvg-id="MNM.be" tvg-name="MNM" tvg-logo="" tvg-country="BE" group-title="Music",MNM [720p]
 https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.mpd
 #EXTINF:-1 tvg-id="StuBru.be" tvg-name="StuBru" tvg-logo="" tvg-country="BE" group-title="Music",StuBru [1080p]
-https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
+https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.mpd
 #EXTINF:-1 tvg-id="BOXTV.bg" tvg-name="BOX TV" tvg-logo="" tvg-country="BG" group-title="Music",BOX TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0an
@@ -119,7 +117,7 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pamir TV [1080p]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca" tvg-name="Qello Concerts by Stingray" tvg-logo="" tvg-country="CA" group-title="Music",Qello Concerts by Stingray [1080p]
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 #EXTINF:-1 tvg-id="StingrayCityscapes.ca" tvg-name="Stingray Cityscapes" tvg-logo="" tvg-country="CA" group-title="Music",Stingray Cityscapes [1080p]
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-name="Stingray Classic Rock" tvg-logo="" tvg-country="CA" group-title="Music",Stingray Classic Rock [1080p]
@@ -228,8 +226,6 @@ https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-name="V Classic TV" tvg-logo="" tvg-country="CL" group-title="Music",V Classic TV [1080p]
 http://186.148.196.100:8000/play/a02z
-#EXTINF:-1 tvg-id="PlayTV.cm" tvg-name="Play TV" tvg-logo="" tvg-country="CM" group-title="Music",Play TV [720p]
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV-11" tvg-logo="" tvg-country="CN" group-title="Music",CCTV-11 [720p]
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="CCTV15.cn" tvg-name="CCTV-15" tvg-logo="" tvg-country="CN" group-title="Music",CCTV-15 [720p]
@@ -245,7 +241,7 @@ https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
 #EXTINF:-1 tvg-id="LaMoradaRadioTV.co" tvg-name="La Morada Radio TV" tvg-logo="" tvg-country="CO" group-title="Music",La Morada Radio TV [720p]
 https://movil.ejeserver.com/live/lamoradatv.m3u8
 #EXTINF:-1 tvg-id="MasMusicaFM.co" tvg-name="MasMusica FM" tvg-logo="" tvg-country="CO" group-title="Music",MasMusica FM [720p]
-https://video.ejeserver.com/live/masmusica.m3u8
+https://movil.ejeserver.com/live/masmusica.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co" tvg-name="Parranda Vallenata" tvg-logo="" tvg-country="CO" group-title="Music",Parranda Vallenata [720p]
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="RadiolaTV.co" tvg-name="Radiola TV" tvg-logo="" tvg-country="CO" group-title="Music",Radiola TV [1080p]
@@ -488,7 +484,7 @@ https://channels.trace.plus/Traceprod/JAMA_hd/index.m3u8
 #EXTVLCOPT:http-referrer=https://trace.plus
 https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="Trace Latina" tvg-logo="" tvg-country="FR" group-title="Music",Trace Latina [1080p]
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinait-samsungit/playlist.m3u8
+https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceMboa.fr" tvg-name="Trace Mboa" tvg-logo="" tvg-country="FR" group-title="Music",Trace Mboa [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://trace.plus
@@ -596,7 +592,7 @@ https://cdn.pishow.tv/ott/live/1456/master.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in" tvg-name="ETV Beats" tvg-logo="" tvg-country="IN" group-title="Music",ETV Beats [1080p]
 https://amg00871-amg00871c3-amgplt0173.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg00871-amg00871c3-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="ETVMusic.in" tvg-name="ETV Music" tvg-logo="" tvg-country="IN" group-title="Music",ETV Music [1080p]
-https://d3q3jhzdhmsx48.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
+https://diy3vq1irs76a.cloudfront.net/78e9244a64104ef48987207cea0cf20b/index.m3u8
 #EXTINF:-1 tvg-id="EpicMusic.in" tvg-name="Epic Music" tvg-logo="" tvg-country="IN" group-title="Music",Epic Music [1080p]
 https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
 #EXTINF:-1 tvg-id="HareKrsnaMusic.in" tvg-name="Hare Krsna Music" tvg-logo="" tvg-country="IN" group-title="Religious",Hare Krsna Music [1080p]
@@ -632,11 +628,11 @@ https://cdn.pishow.tv/ott/live/441/master.m3u8
 #EXTINF:-1 tvg-id="PunjabiBeatsHD.in" tvg-name="Punjabi Beats HD" tvg-logo="" tvg-country="IN" group-title="Music",Punjabi Beats HD [576p]
 https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiHits.in" tvg-name="Punjabi Hits" tvg-logo="" tvg-country="IN" group-title="Music",Punjabi Hits [1080p]
-https://livingindia.ottlive.co.in/punjabihits/index.m3u8
+https://stream.ottlive.co.in/punjabihits/index.m3u8
 #EXTINF:-1 tvg-id="PunjabiMusicHD.in" tvg-name="Punjabi Music HD" tvg-logo="" tvg-country="IN" group-title="Music",Punjabi Music HD [720p]
 https://samitaorigin.tangotv.in/PUNJABIMUSICHD/SAMITAORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixKannada.in" tvg-name="Raj Musix Kannada" tvg-logo="" tvg-country="IN" group-title="Music",Raj Musix Kannada [576p]
-https://samitaorigin.tangotv.in/RAJMUSIXKANDA/SAMITAORIGIN/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixMalayalam.in" tvg-name="Raj Musix Malayalam" tvg-logo="" tvg-country="IN" group-title="Music",Raj Musix Malayalam [576p]
 https://cdn.pishow.tv/ott/live/1073/master.m3u8
 #EXTINF:-1 tvg-id="RajMusixTamil.in" tvg-name="Raj Musix Tamil" tvg-logo="" tvg-country="IN" group-title="Music",Raj Musix Tamil [1080p]
@@ -722,9 +718,9 @@ https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls
 #EXTINF:-1 tvg-id="RadioPiterPanTV.it" tvg-name="Radio Piter Pan TV" tvg-logo="" tvg-country="IT" group-title="Music",Radio Piter Pan TV [720p]
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="Radio Zeta" tvg-logo="" tvg-country="IT" group-title="Music",Radio Zeta [1080p]
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-name="Radiofreccia" tvg-logo="" tvg-country="IT" group-title="Music",Radiofreccia [1080p]
-https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-name="m2o TV" tvg-logo="" tvg-country="IT" group-title="Music",m2o TV [1080p]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 #EXTINF:-1 tvg-id="Fame95FM.jm" tvg-name="Fame95 FM" tvg-logo="" tvg-country="JM" group-title="Music",Fame95 FM [614p]
@@ -743,6 +739,8 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1 tvg-id="OneTV.lb" tvg-name="One TV" tvg-logo="" tvg-country="LB" group-title="Music",One TV [720p]
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="OneFM.lb" tvg-name="OneFM" tvg-logo="" tvg-country="LB" group-title="Music",OneFM [720p]
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
 #EXTINF:-1 tvg-id="mfm.lb" tvg-name="mfm" tvg-logo="" tvg-country="LB" group-title="Music",mfm [1080p]
 https://hms.pfs.gdn/hms/v1/broadcast/hlmvmp2hfriode891/playlist.m3u8
 #EXTINF:-1 tvg-id="2TV.lt" tvg-name="2TV" tvg-logo="" tvg-country="LT" group-title="Music",2TV [1080p]
@@ -838,9 +836,11 @@ https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
 #EXTINF:-1 tvg-id="XITEReggaeVibes.nl" tvg-name="XITE Reggae Vibes" tvg-logo="" tvg-country="NL" group-title="Music",XITE Reggae Vibes [1080p]
 https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="XITERockxMetal.nl" tvg-name="XITE Rock x Metal" tvg-logo="" tvg-country="NL" group-title="Music",XITE Rock x Metal [1080p]
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+https://amg01243-xite-amg01243c21-tcl-us-6483.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CorazonTV.pa" tvg-name="Corazon TV" tvg-logo="" tvg-country="PA" group-title="Music",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
+#EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa" tvg-name="Fabulosa Estereo 100.5 FM" tvg-logo="" tvg-country="PA" group-title="Music",Fabulosa Estereo 100.5 FM [720p]
+https://www.streaming507.net:19360/videofabulosa/videofabulosa.m3u8
 #EXTINF:-1 tvg-id="Mas23TV.pa" tvg-name="Mas23 TV" tvg-logo="" tvg-country="PA" group-title="Music",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
 #EXTINF:-1 tvg-id="PindinTV.pa" tvg-name="Pindin TV" tvg-logo="" tvg-country="PA" group-title="Music",Pindin TV
@@ -928,6 +928,8 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 tvg-id="E40.py" tvg-name="E40" tvg-logo="" tvg-country="PY" group-title="Music",E40 [1080p]
 #EXTVLCOPT:http-referrer=https://www.estacion40.com.py/
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="FarraPlay.py" tvg-name="Farra Play" tvg-logo="" tvg-country="PY" group-title="Music",Farra Play [720p]
+http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1 tvg-id="GOTV.py" tvg-name="GO TV" tvg-logo="" tvg-country="PY" group-title="Entertainment",GO TV [720p]
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py" tvg-name="HEi Now" tvg-logo="" tvg-country="PY" group-title="Music",HEi Now [1080p]
@@ -1079,7 +1081,7 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Shanson TV" tvg-logo="" tvg-country="RU" group-title="Music",Shanson TV [576p]
 http://46.53.200.153:7777/play/Shanson_TV/index.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-name="Strana FM" tvg-logo="" tvg-country="RU" group-title="Music",Strana FM [720p]
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-name="VIVA Russia" tvg-logo="" tvg-country="RU" group-title="Music",VIVA Russia [1080p]
 https://183.giatvcdn.com/ssh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="Verba.ru" tvg-name="Verba" tvg-logo="" tvg-country="RU" group-title="Music",Verba [720p]
@@ -1099,7 +1101,7 @@ https://shd-amg-fast.edgenextcdn.net/tx019/playlist.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio" tvg-logo="" tvg-country="SA" group-title="Music",Nidae AlIslam Radio [1080p]
 https://live.kwikmotion.com/sbrksanedaradiolive/srpksanedaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="PanoramaFM.sa" tvg-name="Panorama FM" tvg-logo="" tvg-country="SA" group-title="Music",Panorama FM [1080p]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-panorama-fm/ea22f3856a1b772f793c43eb5d1c0636/index.m3u8
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 tvg-id="RabehSaqer.sa" tvg-name="Rabeh Saqer" tvg-logo="" tvg-country="SA" group-title="Music",Rabeh Saqer [1080p]
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-name="Rotana Music" tvg-logo="" tvg-country="SA" group-title="Music",Rotana Music
@@ -1160,7 +1162,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-name="NOW Rock" tvg-logo="" tvg-country="UK" group-title="Music",NOW Rock [1080p]
 https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-name="Now 70s" tvg-logo="" tvg-country="UK" group-title="Music",Now 70s [720p]
-https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+https://amg01076-amg01076c1-samsung-gb-6682.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-name="Now 80s" tvg-logo="" tvg-country="UK" group-title="Music",Now 80s [1080p]
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Now90s00s.uk" tvg-name="Now 90s00s" tvg-logo="" tvg-country="UK" group-title="Music",Now 90s00s [1080p]
@@ -1214,7 +1216,7 @@ https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
 #EXTINF:-1 tvg-id="HMIPROMZNEWS.us" tvg-name="HMI PROMZ NEWS" tvg-logo="" tvg-country="US" group-title="Music",HMI PROMZ NEWS [720p]
 https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-name="HTV" tvg-logo="" tvg-country="US" group-title="Music",HTV [720p]
-https://streaming.onnethn.com/HTV/playlist.m3u8
+http://45.134.141.161:2200/ARG/HTV/index.m3u8
 #EXTINF:-1 tvg-id="HarmonyGospelMusicTV.us" tvg-name="Harmony Gospel Music TV" tvg-logo="" tvg-country="US" group-title="Religious",Harmony Gospel Music TV [1080p]
 https://tgn.bozztv.com/watc57/watc57-harmony/watc57-harmony/index.m3u8
 #EXTINF:-1 tvg-id="HighVisionTV.us" tvg-name="High Vision TV" tvg-logo="" tvg-country="US" group-title="Music",High Vision TV [1080p]
@@ -1226,13 +1228,13 @@ https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da9
 #EXTINF:-1 tvg-id="MCN6MusicChannel.us" tvg-name="MCN6 Music Channel" tvg-logo="" tvg-country="US" group-title="Music",MCN6 Music Channel [1080p]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-name="MTV Biggest Pop" tvg-logo="" tvg-country="US" group-title="Music",MTV Biggest Pop [1080p]
-https://jmp2.uk/plu-6047fabfce6e8e00070bcc9f.m3u8
+https://jmp2.uk/plu-5d14fd1a252d35decbc4080c.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="" tvg-country="US" group-title="Music",MTV Classic [720p]
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 #EXTINF:-1 tvg-id="MTVFlowLatino.us" tvg-name="MTV Flow Latino" tvg-logo="" tvg-country="US" group-title="Music",MTV Flow Latino [720p]
 https://jmp2.uk/plu-62b218fc511d4b00070ddc0c.m3u8
 #EXTINF:-1 tvg-id="MTVSpankinNew.us" tvg-name="MTV Spankin' New" tvg-logo="" tvg-country="US" group-title="Music",MTV Spankin' New [1080p]
-https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
 #EXTINF:-1 tvg-id="MetaleitorTV.us" tvg-name="Metaleitor TV" tvg-logo="" tvg-country="US" group-title="Music",Metaleitor TV
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaPopular.us" tvg-name="Mi Musica Popular" tvg-logo="" tvg-country="US" group-title="Music",Mi Musica Popular [1080p]
@@ -1242,7 +1244,7 @@ http://181.78.12.119:16123/play/ch53/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaRomantica.us" tvg-name="Mi Musica Romantica" tvg-logo="" tvg-country="US" group-title="Music",Mi Musica Romantica [1080p]
 http://181.78.12.119:16123/play/ch54/index.m3u8
 #EXTINF:-1 tvg-id="MiMusicaSalsa.us" tvg-name="Mi Musica Salsa" tvg-logo="" tvg-country="US" group-title="Music",Mi Musica Salsa [1080p]
-http://181.78.12.119:16123/play/ch55/index.m3u8
+http://38.134.250.110:8000/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-name="NEW K-POP" tvg-logo="" tvg-country="US" group-title="Music",NEW K-POP [1080p]
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB17000088V&channel_id=newid_086&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="PlutoTVShowsporStingray.us" tvg-name="Pluto TV Shows por Stingray" tvg-logo="" tvg-country="US" group-title="Music",Pluto TV Shows por Stingray [720p]

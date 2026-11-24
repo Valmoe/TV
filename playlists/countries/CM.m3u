@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ACNTV.cm" tvg-name="ACN TV" tvg-logo="" tvg-country="CM" group-title="News",ACN TV [1080p]
+https://cdn.acnlive.net/LiveApp/streams/hold_the_line.m3u8
 #EXTINF:-1 tvg-id="AfriqueMedia.cm" tvg-name="Afrique Media" tvg-logo="" tvg-country="CM" group-title="News",Afrique Media [720p]
 #EXTVLCOPT:http-referrer=https://odysee.com
 https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
@@ -19,7 +21,3 @@ https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 https://streaming.lauradavemedia.com/ldm/index.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-name="My TV Channel" tvg-logo="" tvg-country="CM" group-title="General",My TV Channel [720p]
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="PLEXTV.cm" tvg-name="PLEX TV" tvg-logo="" tvg-country="CM" group-title="Entertainment",PLEX TV [720p]
-http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayTV.cm" tvg-name="Play TV" tvg-logo="" tvg-country="CM" group-title="Music",Play TV [720p]
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8

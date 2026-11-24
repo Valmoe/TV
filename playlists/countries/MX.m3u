@@ -52,7 +52,7 @@ http://168.196.127.137:6001/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="ClaroCinema.mx" tvg-name="Claro Cinema" tvg-logo="" tvg-country="MX" group-title="Movies",Claro Cinema [1080p]
 http://45.171.64.30:6060/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="" tvg-country="MX" group-title="Sports",Claro Sports [1080p]
-http://168.196.127.137:6001/play/a08r/index.m3u8
+http://45.228.234.9:8000/play/a06i/index.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-name="Conecta TV" tvg-logo="" tvg-country="MX" group-title="Music",Conecta TV [720p]
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CreaLaTV.mx" tvg-name="CreaLaTV" tvg-logo="" tvg-country="MX" group-title="General",CreaLaTV [1080p]
@@ -61,18 +61,16 @@ https://stream.crealatv.com/live.m3u8
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-id="DePeliculaPlus.mx" tvg-name="De Pelicula Plus" tvg-logo="" tvg-country="MX" group-title="Movies",De Pelicula Plus [1080p]
 http://200.115.120.1:8000/play/ca030/index.m3u8
-#EXTINF:-1 tvg-id="DespiertaTV.mx" tvg-name="Despierta TV" tvg-logo="" tvg-country="MX" group-title="General",Despierta TV [1080p]
-https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx" tvg-name="Discovery Home & Health Latin America" tvg-logo="" tvg-country="MX" group-title="Lifestyle",Discovery Home & Health Latin America
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia" tvg-logo="" tvg-country="MX" group-title="Comedy",Distrito Comedia [1080p]
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx" tvg-name="El Chavo TV" tvg-logo="" tvg-country="MX" group-title="Kids",El Chavo TV [720p]
 https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="ElSonorense.mx" tvg-name="El Sonorense" tvg-logo="" tvg-country="MX" group-title="Culture",El Sonorense [1080p]
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx" tvg-name="Expresa TV" tvg-logo="" tvg-country="MX" group-title="General",Expresa TV [720p]
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="FOX.mx" tvg-name="FOX" tvg-logo="" tvg-country="MX" group-title="Sports",FOX
+https://lilac19.pontiscloud.com/live/gt/FOX/index.m3u8
 #EXTINF:-1 tvg-id="FOXCentral.mx" tvg-name="FOX Central" tvg-logo="" tvg-country="MX" group-title="Sports",FOX Central [1080p]
 http://181.78.106.127:5000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx" tvg-name="Filmex" tvg-logo="" tvg-country="MX" group-title="Movies",Filmex [1080p]
@@ -210,8 +208,6 @@ https://cloudvideo.servers10.com:8081/8016/index.m3u8
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="XHBZCTDT.mx" tvg-name="XHBZC-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHBZC-TDT [1080p]
 https://s5.mexside.net:1936/xhbzc81/xhbzc81/playlist.m3u8
-#EXTINF:-1 tvg-id="XHFGLTDT.mx" tvg-name="XHFGL-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHFGL-TDT [1080p]
-https://stream.ontvmx.com/ontv/Wn3jgo4UYNSmwRDIev/playlist.m3u8
 #EXTINF:-1 tvg-id="XHGVTDT.mx" tvg-name="XHGV-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHGV-TDT [360p]
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="XHIJTDT.mx" tvg-name="XHIJ-TDT" tvg-logo="" tvg-country="MX" group-title="General",XHIJ-TDT [720p]

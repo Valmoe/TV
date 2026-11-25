@@ -21,9 +21,7 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalEducacao.br" tvg-name="Canal Educacao" tvg-logo="" tvg-country="BR" group-title="Education",Canal Educacao [720p]
 https://canaleducacao-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Canal Futura" tvg-logo="" tvg-country="BR" group-title="Education",Canal Futura [720p]
-http://170.83.16.50/FUTURA/index.m3u8
-#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura" tvg-logo="" tvg-country="BR" group-title="Education",Futura [720p]
-http://170.83.49.66:8083/FUTURAHD/index.m3u8
+http://186.219.52.187/futura/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-name="ISTV" tvg-logo="" tvg-country="BR" group-title="Education",ISTV [720p]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-name="Rede Minas" tvg-logo="" tvg-country="BR" group-title="Education",Rede Minas [720p]
@@ -60,12 +58,10 @@ http://138.121.15.230:9002/ZOOM/index.m3u8
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="CuriosityChannel.de" tvg-name="Curiosity Channel" tvg-logo="" tvg-country="DE" group-title="Education",Curiosity Channel [720p]
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="" tvg-country="DE" group-title="Education",Da Vinci Asia
-https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTINF:-1 tvg-id="DaVinciAsia.de" tvg-name="Da Vinci Asia" tvg-logo="" tvg-country="DE" group-title="Education",Da Vinci Asia [1080p]
+https://vmttv.dpdns.org/tv360?id=davinci-hd
 #EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-logo="" tvg-country="DE" group-title="Education",NRWision [1080p]
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="iSTUFF.de" tvg-name="iSTUFF" tvg-logo="" tvg-country="DE" group-title="Education",iSTUFF [720p]
-https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec" tvg-name="Educa TV" tvg-logo="" tvg-country="EC" group-title="Education",Educa TV [720p]
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec" tvg-name="UNIANDES TV" tvg-logo="" tvg-country="EC" group-title="Education",UNIANDES TV [720p]
@@ -192,7 +188,7 @@ https://cdn-live.dltv.ac.th/dltv09.m3u8
 #EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="" tvg-country="TH" group-title="Education",R Channel
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="Yaslyk.tm" tvg-name="Yaslyk" tvg-logo="" tvg-country="TM" group-title="Education",Yaslyk [406p]
-https://alpha.tv.online.tm/legacyhls/ch002.m3u8
+https://alpha.tv.online.tm/hls/ch002.m3u8
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-name="Ciftci TV" tvg-logo="" tvg-country="TR" group-title="Education",Ciftci TV [720p]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTEBA.tr" tvg-name="TRT EBA" tvg-logo="" tvg-country="TR" group-title="Education",TRT EBA [720p]
@@ -227,6 +223,8 @@ https://video.oct.dc.gov/out/u/DKN.m3u8
 https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="DetroitChannel22.us" tvg-name="Detroit Channel 22" tvg-logo="" tvg-country="US" group-title="Education",Detroit Channel 22 [720p]
 https://reflect-detroit-vod.cablecast.tv/live-3/live/stream-3/live.m3u8
+#EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us" tvg-name="Gillette Public Access Television Channel 189" tvg-logo="" tvg-country="US" group-title="Education",Gillette Public Access Television Channel 189
+https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
 #EXTINF:-1 tvg-id="HCTVEducationalAccessChannel.us" tvg-name="HCTV Educational Access Channel" tvg-logo="" tvg-country="US" group-title="Education",HCTV Educational Access Channel
 https://reflect-hudsonctv.cablecast.tv/live-26/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="HKTV.us" tvg-name="HKTV" tvg-logo="" tvg-country="US" group-title="Education",HKTV [1080p]
@@ -252,7 +250,7 @@ https://livestream.telvue.com/natickpegasus1/f7b44cfafd5c52223d5498196c8a2e7b.sd
 #EXTINF:-1 tvg-id="OEncantadordeCaes.us" tvg-name="O Encantador de Caes" tvg-logo="" tvg-country="US" group-title="Education",O Encantador de Caes
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 tvg-id="PBS.us" tvg-name="PBS" tvg-logo="" tvg-country="US" group-title="Education",PBS [1080p]
-https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-name="PBS Kids" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids [720p]
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 #EXTINF:-1 tvg-id="PBSKidsAlaska.us" tvg-name="PBS Kids Alaska" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Alaska [1080p]
@@ -263,8 +261,10 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us" tvg-name="PBS Kids Pacific" tvg-logo="" tvg-country="US" group-title="Education",PBS Kids Pacific [1080p]
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="PayamJavanTV.us" tvg-name="Payam Javan TV" tvg-logo="" tvg-country="US" group-title="Education",Payam Javan TV [720p]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMisterios.us" tvg-name="Pluto TV Misterios" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Misterios
-https://jmp2.uk/plu-5dcde2f53449c50009b2b4dc.m3u8
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNatureza.us" tvg-name="Pluto TV Natureza" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Natureza
 https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPaisagensporStingray.us" tvg-name="Pluto TV Paisagens por Stingray" tvg-logo="" tvg-country="US" group-title="Education",Pluto TV Paisagens por Stingray [720p]
@@ -294,4 +294,4 @@ https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="HTV4.vn" tvg-name="HTV4" tvg-logo="" tvg-country="VN" group-title="Education",HTV4 [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="" tvg-country="ZA" group-title="Outdoor",WildEarth [1080p]
-https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+https://wildearth-xumo.amagi.tv/master.m3u8

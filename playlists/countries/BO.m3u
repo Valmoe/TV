@@ -29,8 +29,6 @@ http://190.181.61.93:8000/play/a00q/index.m3u8
 https://tv.cineramatvbo.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CoralTV.bo" tvg-name="Coral TV" tvg-logo="" tvg-country="BO" group-title="General",Coral TV [720p]
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
-#EXTINF:-1 tvg-id="DeltaTV.bo" tvg-name="Delta TV" tvg-logo="" tvg-country="BO" group-title="General",Delta TV
-https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="DmodaChannel.bo" tvg-name="Dmoda Channel" tvg-logo="" tvg-country="BO" group-title="General",Dmoda Channel [1080p]
 https://master.tucableip.com/dmoda/index.m3u8
 #EXTINF:-1 tvg-id="ELDEBER.bo" tvg-name="EL DEBER" tvg-logo="" tvg-country="BO" group-title="General",EL DEBER [1080p]
@@ -75,6 +73,8 @@ https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 https://edge.enhdtv.com/8054/index.m3u8
 #EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-name="Red America TV" tvg-logo="" tvg-country="BO" group-title="General",Red America TV [1080p]
 https://edge.enhdtv.com/redamerica/index.m3u8
+#EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" tvg-logo="" tvg-country="BO" group-title="General",Red CCTV
+https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-name="Red Uno" tvg-logo="" tvg-country="BO" group-title="General",Red Uno [1080p]
 http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo" tvg-name="RedADvenir TV" tvg-logo="" tvg-country="BO" group-title="General",RedADvenir TV [360p]
@@ -95,8 +95,6 @@ https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
 http://190.181.61.93:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="TVLatina.bo" tvg-name="TV Latina" tvg-logo="" tvg-country="BO" group-title="General",TV Latina [1080p]
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:-1 tvg-id="TVOFF.bo" tvg-name="TV OFF" tvg-logo="" tvg-country="BO" group-title="Travel",TV OFF [1080p]
-https://edge.enhdtv.com/tvoff/index.m3u8
 #EXTINF:-1 tvg-id="TVShowOruro.bo" tvg-name="TV Show Oruro" tvg-logo="" tvg-country="BO" group-title="General",TV Show Oruro [720p]
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversitaria.bo" tvg-name="TV Universitaria" tvg-logo="" tvg-country="BO" group-title="General",TV Universitaria [720p]
@@ -110,12 +108,11 @@ https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" tvg-name="UPEA TV" tvg-logo="" tvg-country="BO" group-title="General",UPEA TV [720p]
-#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
-https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
+http://190.181.61.93:8000/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="" tvg-country="BO" group-title="General",Unitel [1080p]
-http://190.181.61.93:8000/play/a00r/index.m3u8
+http://190.181.61.93:8000/play/1910/index.m3u8
 #EXTINF:-1 tvg-id="UnivalleTelevision.bo" tvg-name="Univalle Television" tvg-logo="" tvg-country="BO" group-title="General",Univalle Television [1080p]
 https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-name="VTV Canal 17" tvg-logo="" tvg-country="BO" group-title="Religious",VTV Canal 17 [720p]

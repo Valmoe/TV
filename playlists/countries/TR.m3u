@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="" tvg-country="TR" group-title="News",24 TV [720p]
-https://tv.ensonhaber.com/tv24/tv24.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="" tvg-country="TR" group-title="News",360 [720p]
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="4UTV.tr" tvg-name="4U TV" tvg-logo="" tvg-country="TR" group-title="Entertainment",4U TV [720p]
@@ -13,8 +13,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="" tvg-country="TR" group-title="News",AS TV [900p]
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" tvg-country="TR" group-title="General",ATV [360p]
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="" tvg-country="TR" group-title="General",ATV [1080p]
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 #EXTINF:-1 tvg-id="ATVAlanya.tr" tvg-name="ATV Alanya" tvg-logo="" tvg-country="TR" group-title="General",ATV Alanya [1080p]
 https://cdn-alanyatv.yayin.com.tr/alanyatv/alanyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AksuTV.tr" tvg-name="Aksu TV" tvg-logo="" tvg-country="TR" group-title="General",Aksu TV [720p]
@@ -51,8 +51,6 @@ http://176.65.153.40:6002/play/a013/index.m3u8
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Cine1.tr" tvg-name="Cine 1" tvg-logo="" tvg-country="TR" group-title="General",Cine 1 [1080p]
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
-#EXTINF:-1 tvg-id="DHA.tr" tvg-name="DHA" tvg-logo="" tvg-country="TR" group-title="News",DHA [720p]
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 #EXTINF:-1 tvg-id="DenizPostasiTV.tr" tvg-name="Deniz Postasi TV" tvg-logo="" tvg-country="TR" group-title="General",Deniz Postasi TV [720p]
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-name="Diyanet TV" tvg-logo="" tvg-country="TR" group-title="Religious",Diyanet TV [1080p]
@@ -122,7 +120,7 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="" tvg-country="TR" group-title="General",Kanal D [1080p]
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-name="Kanal D Drama" tvg-logo="" tvg-country="TR" group-title="Entertainment",Kanal D Drama [1080p]
-http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalFirat.tr" tvg-name="Kanal Firat" tvg-logo="" tvg-country="TR" group-title="General",Kanal Firat [720p]
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8
 #EXTINF:-1 tvg-id="KanalV.tr" tvg-name="Kanal V" tvg-logo="" tvg-country="TR" group-title="General",Kanal V [720p]
@@ -155,8 +153,6 @@ https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr" tvg-name="Minika Go" tvg-logo="" tvg-country="TR" group-title="Kids",Minika Go [720p]
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="NOW.tr" tvg-name="NOW" tvg-logo="" tvg-country="TR" group-title="Entertainment",NOW [720p]
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" tvg-logo="" tvg-country="TR" group-title="General",NTV [1080p]
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Number1Ask.tr" tvg-name="Number 1 Ask" tvg-logo="" tvg-country="TR" group-title="Music",Number 1 Ask [720p]

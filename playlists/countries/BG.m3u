@@ -40,8 +40,9 @@ http://213.91.179.28:8000/play/a045
 http://213.91.179.28:8000/play/a047
 #EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel" tvg-logo="" tvg-country="BG" group-title="Entertainment",Discovery Channel
 http://213.91.179.28:8000/play/a044
-#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" tvg-country="BG" group-title="Kids",Disney Channel [576i]
-http://87.120.179.187:8000/play/a010
+#EXTINF:-1 tvg-id="DisneyChannel.bg" tvg-name="Disney Channel" tvg-logo="" tvg-country="BG" group-title="Kids",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-id="EKids.bg" tvg-name="EKids" tvg-logo="" tvg-country="BG" group-title="Kids",EKids [576p]
 http://78.108.244.134:8899/ekids
 #EXTINF:-1 tvg-id="EuronewsBulgaria.bg" tvg-name="Euronews Bulgaria" tvg-logo="" tvg-country="BG" group-title="News",Euronews Bulgaria
@@ -87,7 +88,8 @@ http://213.91.179.28:8000/play/a0ct
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a0cu
 #EXTINF:-1 tvg-id="Nickelodeon.bg" tvg-name="Nickelodeon" tvg-logo="" tvg-country="BG" group-title="Kids",Nickelodeon
-http://87.120.179.187:8000/play/a00x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nostalgia.bg" tvg-name="Nostalgia" tvg-logo="" tvg-country="BG" group-title="Classic",Nostalgia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a03q
@@ -158,3 +160,6 @@ http://213.91.179.28:8000/play/a04k
 #EXTINF:-1 tvg-id="bTVLady.bg" tvg-name="bTV Lady" tvg-logo="" tvg-country="BG" group-title="Movies",bTV Lady
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 tvg-id="cinebox.bg" tvg-name="cine.box" tvg-logo="" tvg-country="BG" group-title="Movies",cine.box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://212.70.131.37:8000/play/a08b

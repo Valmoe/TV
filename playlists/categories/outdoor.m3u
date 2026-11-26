@@ -38,9 +38,10 @@ https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playl
 #EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="Chasse & Peche" tvg-logo="" tvg-country="FR" group-title="Outdoor",Chasse & Peche [540p]
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/chasse_et_peche/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="The Fishing & Hunting Channel" tvg-logo="" tvg-country="HU" group-title="Outdoor",The Fishing & Hunting Channel
-http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" tvg-country="IN" group-title="Education",DD Kisan [720p]
-https://cdn.pishow.tv/ott/live/9/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.7.14/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-id="DDKisan.in" tvg-name="DD Kisan" tvg-logo="" tvg-country="IN" group-title="Education",DD Kisan [1080p]
+https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="CacciaePesca.it" tvg-name="Caccia e Pesca" tvg-logo="" tvg-country="IT" group-title="Outdoor",Caccia e Pesca [720p]
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="" tvg-country="IT" group-title="Outdoor",Italian Fishing TV [1080p]
@@ -71,8 +72,6 @@ https://fonbet.mediacdn.ru/live/nashatema/playlist.m3u8
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Okhota i rybalka" tvg-logo="" tvg-country="RU" group-title="Outdoor",Okhota i rybalka [1080p]
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Poehali.ru" tvg-name="Poehali!" tvg-logo="" tvg-country="RU" group-title="Entertainment",Poehali! [576p]
-http://88.212.15.50/live/test_poehali/playlist.m3u8
 #EXTINF:-1 tvg-id="Rybalkaiokhota.ru" tvg-name="Rybalka i okhota" tvg-logo="" tvg-country="RU" group-title="Outdoor",Rybalka i okhota [576p]
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1 tvg-id="PlutoTVFishing.se" tvg-name="Pluto TV Fishing" tvg-logo="" tvg-country="SE" group-title="Sports",Pluto TV Fishing
@@ -84,7 +83,7 @@ https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us" tvg-name="30A Darcizzle Offshore" tvg-logo="" tvg-country="US" group-title="Outdoor",30A Darcizzle Offshore [720p]
 https://30a-tv.com/darcizzle.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-logo="" tvg-country="US" group-title="Outdoor",AKC TV [1080p]
-https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8
+https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVMeettheBreeds.us" tvg-name="AKC TV Meet the Breeds" tvg-logo="" tvg-country="US" group-title="Outdoor",AKC TV Meet the Breeds [1080p]
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTVPuppies.us" tvg-name="AKC TV Puppies" tvg-logo="" tvg-country="US" group-title="Outdoor",AKC TV Puppies [1080p]
@@ -94,11 +93,11 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 #EXTINF:-1 tvg-id="MonsterJam.us" tvg-name="Monster Jam" tvg-logo="" tvg-country="US" group-title="Sports",Monster Jam [1080p]
 https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorAmerica.us" tvg-name="Outdoor America" tvg-logo="" tvg-country="US" group-title="Outdoor",Outdoor America [1080p]
-https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
+https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="" tvg-country="US" group-title="Outdoor",Outdoor Channel [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-id="OutsideTV.us" tvg-name="Outside TV" tvg-logo="" tvg-country="US" group-title="Outdoor",Outside TV [1080p]
-https://desdobebr2wri.cloudfront.net/Outside.m3u8
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAdventure.us" tvg-name="Pluto TV Adventure" tvg-logo="" tvg-country="US" group-title="Entertainment",Pluto TV Adventure
 https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNaturaleza.us" tvg-name="Pluto TV Naturaleza" tvg-logo="" tvg-country="US" group-title="Documentary",Pluto TV Naturaleza

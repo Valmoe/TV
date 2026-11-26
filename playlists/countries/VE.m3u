@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="123TV.ve" tvg-name="123TV" tvg-logo="" tvg-country="VE" group-title="Kids",123TV [480p]
 http://200.59.191.177:8000/play/a0lb/index.m3u8
-#EXTINF:-1 tvg-id="AS3SportTV.ve" tvg-name="AS3 Sport TV" tvg-logo="" tvg-country="VE" group-title="Sports",AS3 Sport TV [1080p]
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="AbejalesTV.ve" tvg-name="AbejalesTV" tvg-logo="" tvg-country="VE" group-title="Entertainment",AbejalesTV [720p]
 https://183.giatvcdn.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AguacateTV.ve" tvg-name="Aguacate TV" tvg-logo="" tvg-country="VE" group-title="Entertainment",Aguacate TV [1080p]
@@ -32,6 +30,8 @@ https://vs20.live.opencaster.com/grande41_0b593479/index.m3u8
 https://stream.guarotv.net:3592/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="IVC.ve" tvg-name="IVC" tvg-logo="" tvg-country="VE" group-title="General",IVC [480p]
 http://200.59.191.177:8000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-id="InterTV.ve" tvg-name="Inter TV" tvg-logo="" tvg-country="VE" group-title="Entertainment",Inter TV [1080p]
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="IslaTV.ve" tvg-name="Isla TV" tvg-logo="" tvg-country="VE" group-title="General",Isla TV [480p]
 https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
 #EXTINF:-1 tvg-id="KandelaTV.ve" tvg-name="KandelaTV" tvg-logo="" tvg-country="VE" group-title="Music",KandelaTV [480p]
@@ -82,6 +82,8 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-name="TeleAragua" tvg-logo="" tvg-country="VE" group-title="General",TeleAragua [480p]
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="Telecentro.ve" tvg-name="Telecentro" tvg-logo="" tvg-country="VE" group-title="General",Telecentro [480p]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-name="Telesur" tvg-logo="" tvg-country="VE" group-title="News",Telesur [1080p]
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Televen.ve" tvg-name="Televen" tvg-logo="" tvg-country="VE" group-title="General",Televen [1080p]

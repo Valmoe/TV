@@ -95,7 +95,7 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" tvg-country="EE" group-title="Kids",ETV 2 [720p]
 https://sb.err.ee/live/etv2.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-logo="" tvg-country="ES" group-title="Culture",Hamaika Telebista [1080p]
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio3.es" tvg-name="Radio 3" tvg-logo="" tvg-country="ES" group-title="Culture",Radio 3 [720p]
@@ -113,8 +113,9 @@ https://live.salira.tv:3870/stream/play.m3u8
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
 #EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
 https://cdn.pishow.tv/ott/live/10/master.m3u8
-#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" tvg-country="IN" group-title="News",DD Mizoram [504p]
-https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" tvg-country="IN" group-title="News",DD Mizoram [576p]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-logo="" tvg-country="IN" group-title="Culture",DD Punjabi [576p]
 http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
 #EXTINF:-1 tvg-id="JTBSClassic.in" tvg-name="JTBS Classic" tvg-logo="" tvg-country="IN" group-title="Religious",JTBS Classic
@@ -122,7 +123,7 @@ https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="OdishaTV.in" tvg-name="Odisha TV" tvg-logo="" tvg-country="IN" group-title="Culture",Odisha TV [720p]
 https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SanskarTV.in" tvg-name="Sanskar TV" tvg-logo="" tvg-country="IN" group-title="Religious",Sanskar TV [1080p]
-https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8
 #EXTINF:-1 tvg-id="IshtarTV.iq" tvg-name="Ishtar TV" tvg-logo="" tvg-country="IQ" group-title="Culture",Ishtar TV [1080p]
 https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="AuroraArte.it" tvg-name="Aurora Arte" tvg-logo="" tvg-country="IT" group-title="Culture",Aurora Arte [480p]
@@ -189,7 +190,7 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" tvg-country="RS" group-title="Culture",RTS 2 [720p]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" tvg-logo="" tvg-country="RU" group-title="Culture",ART [576p]
-http://89.104.114.24:8080/art/index.m3u8
+http://185.23.80.23:8080/ART/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="" tvg-country="RU" group-title="Culture",Ministerstvo idey [1080p]
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
@@ -239,9 +240,11 @@ https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HmongTVNetwork.us" tvg-name="Hmong TV Network" tvg-logo="" tvg-country="US" group-title="Culture",Hmong TV Network [720p]
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JewishLifeTelevision.us" tvg-name="Jewish Life Television" tvg-logo="" tvg-country="US" group-title="Culture",Jewish Life Television [1080p]
-https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
 #EXTINF:-1 tvg-id="KIIOLD101.us" tvg-name="KIIO-LD 10.1" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.1
 http://livestream.usatv.com/hls/master-iUSATVLIVENET.m3u8
+#EXTINF:-1 tvg-id="KIIOLD104.us" tvg-name="KIIO-LD 10.4" tvg-logo="" tvg-country="US" group-title="Culture",KIIO-LD 10.4 [480p]
+https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-id="KajouTV.us" tvg-name="Kajou TV" tvg-logo="" tvg-country="US" group-title="Culture",Kajou TV [720p]
 https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America" tvg-logo="" tvg-country="US" group-title="Culture",MBC America [1080p]

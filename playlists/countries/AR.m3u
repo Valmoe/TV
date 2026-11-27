@@ -45,8 +45,6 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://stream.arcast.net:4443/gualeguay/gualeguay/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal2MardelPlata.ar" tvg-name="Canal 2 Mar del Plata" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 Mar del Plata [720p]
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
-#EXTINF:-1 tvg-id="Canal2Misiones.ar" tvg-name="Canal 2 Misiones" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 Misiones [1080p]
-https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
 #EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar" tvg-name="Canal 2 NexTV Rafaela" tvg-logo="" tvg-country="AR" group-title="General",Canal 2 NexTV Rafaela [720p]
 https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-name="Canal 20 Villa Maria" tvg-logo="" tvg-country="AR" group-title="General",Canal 20 Villa Maria [1080p]
@@ -113,6 +111,8 @@ https://canal8mdq.unpocodeawita.workers.dev
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-name="Canal 9 Resistencia" tvg-logo="" tvg-country="AR" group-title="General",Canal 9 Resistencia [720p]
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal99Miramar.ar" tvg-name="Canal 99 Miramar" tvg-logo="" tvg-country="AR" group-title="General",Canal 99 Miramar
+https://vivo.solumedia.com:19360/cardinal/cardinal.m3u8
 #EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-name="Canal Orbe 21" tvg-logo="" tvg-country="AR" group-title="Religious",Canal Orbe 21 [1080p]
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-name="Canal Provincial" tvg-logo="" tvg-country="AR" group-title="General",Canal Provincial [360p]
@@ -156,7 +156,7 @@ http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EcoTV.ar" tvg-name="Eco TV" tvg-logo="" tvg-country="AR" group-title="General",Eco TV [1080p]
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" tvg-logo="" tvg-country="AR" group-title="Cooking",El Gourmet [1080p]
-http://15.204.246.24:8080/ElGourmetHD/index.m3u8
+http://190.61.101.11:7050/play/a09s/index.m3u8?hls
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-name="El Nueve" tvg-logo="" tvg-country="AR" group-title="General",El Nueve [1080p]
 http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="El Trece" tvg-logo="" tvg-country="AR" group-title="General",El Trece [1080p]

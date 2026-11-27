@@ -15,8 +15,6 @@ https://live.canthotv.vn/cs3/tv/chunklist.m3u8
 https://stream.thingnet.vn/live/smil:CRTV.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DaNangTV1.vn" tvg-name="Da Nang TV 1" tvg-logo="" tvg-country="VN" group-title="General",Da Nang TV 1 [1080p]
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/chunklist.m3u8
-#EXTINF:-1 tvg-id="DaNangTV2.vn" tvg-name="Da Nang TV2" tvg-logo="" tvg-country="VN" group-title="General",Da Nang TV2 [1080p]
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 tvg-id="DakLakTV.vn" tvg-name="Dak Lak TV" tvg-logo="" tvg-country="VN" group-title="General",Dak Lak TV [720p]
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:-1 tvg-id="DienBienTV.vn" tvg-name="Dien Bien TV" tvg-logo="" tvg-country="VN" group-title="General",Dien Bien TV [1080p]
@@ -91,8 +89,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 https://vmttv.dpdns.org/tv360?id=187
 #EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Dramas [1080p]
 https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
-#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Giai Tri [1080i]
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Giai Tri [1080p]
+https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-name="QPVN" tvg-logo="" tvg-country="VN" group-title="General",QPVN [1080p]
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="QuangNamTV.vn" tvg-name="Quang Nam TV" tvg-logo="" tvg-country="VN" group-title="General",Quang Nam TV
@@ -148,21 +146,19 @@ http://125hvt.ddns.net:21585/vtv2/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV3.vn" tvg-name="VTV3" tvg-logo="" tvg-country="VN" group-title="General",VTV3 [720p]
 https://dethich.pw/vtv3/index.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn" tvg-name="VTV4" tvg-logo="" tvg-country="VN" group-title="General",VTV4 [720p]
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
+https://dethich.pw/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn" tvg-name="VTV5" tvg-logo="" tvg-country="VN" group-title="General",VTV5 [720p]
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn" tvg-name="VTV5 Tay Nam Bo" tvg-logo="" tvg-country="VN" group-title="General",VTV5 Tay Nam Bo [1080p]
 https://dethich.pw/vtv5tnb/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn" tvg-name="VTV5 Tay Nguyen" tvg-logo="" tvg-country="VN" group-title="General",VTV5 Tay Nguyen [1080p]
 http://dethich.pw/vtv5tn/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn" tvg-name="VTV6" tvg-logo="" tvg-country="VN" group-title="Sports",VTV6 [720p]
-https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn" tvg-name="VTV7" tvg-logo="" tvg-country="VN" group-title="General",VTV7 [720p]
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
+https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" tvg-logo="" tvg-country="VN" group-title="General",VTV8 [720p]
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
+https://dethich.pw/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" tvg-logo="" tvg-country="VN" group-title="General",VTV9 [720p]
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
+https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" tvg-logo="" tvg-country="VN" group-title="General",Vietnam Today [1080p]
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" tvg-logo="" tvg-country="VN" group-title="News",Vinh Long TV 1 [720p]

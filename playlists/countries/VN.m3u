@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AnNinhTV.vn" tvg-name="An Ninh TV" tvg-logo="" tvg-country="VN" group-title="General",An Ninh TV [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=20
+#EXTINF:-1 tvg-id="BoxHits.vn" tvg-name="Box Hits" tvg-logo="" tvg-country="VN" group-title="Movies",Box Hits [720p]
+http://antm.dynu.net:14285/rtp/232.84.1.10:8034
 #EXTINF:-1 tvg-id="CaMauTV.vn" tvg-name="Ca Mau TV" tvg-logo="" tvg-country="VN" group-title="General",Ca Mau TV [720p]
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="CanThoTV.vn" tvg-name="Can Tho TV" tvg-logo="" tvg-country="VN" group-title="General",Can Tho TV [1080p]
@@ -25,6 +27,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=53
 https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 tvg-id="DongNaiTV3.vn" tvg-name="Dong Nai TV 3" tvg-logo="" tvg-country="VN" group-title="General",Dong Nai TV 3 [720p]
 https://dethich.pw/dongnai3/index.m3u8
+#EXTINF:-1 tvg-id="GiaLaiTV.vn" tvg-name="Gia Lai TV" tvg-logo="" tvg-country="VN" group-title="General",Gia Lai TV [720p]
+http://tldigital-17th06day-tl9648290.duckdns.org/tv.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn" tvg-name="HTV Sports" tvg-logo="" tvg-country="VN" group-title="Sports",HTV Sports [1080p]
 https://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 tvg-id="HTV1.vn" tvg-name="HTV1" tvg-logo="" tvg-country="VN" group-title="General",HTV1 [1080p]
@@ -51,6 +55,8 @@ https://dethich.pw/htvcphunu/index.m3u8
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoCaiTV.vn" tvg-name="Lao Cai TV" tvg-logo="" tvg-country="VN" group-title="General",Lao Cai TV [1080p]
 https://live.baolaocai.vn/channel2/stream.m3u8
+#EXTINF:-1 tvg-id="MusicBox.vn" tvg-name="Music Box" tvg-logo="" tvg-country="VN" group-title="Music",Music Box [720p]
+http://antm.dynu.net:14285/rtp/232.84.3.144:9588
 #EXTINF:-1 tvg-id="NgheAnTV.vn" tvg-name="Nghe An TV" tvg-logo="" tvg-country="VN" group-title="General",Nghe An TV [1080p]
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/chunklist.m3u8
 #EXTINF:-1 tvg-id="ONBiBi.vn" tvg-name="ON BiBi" tvg-logo="" tvg-country="VN" group-title="Kids",ON BiBi [1080p]
@@ -73,16 +79,20 @@ https://freem3u.xyz/api/live/play.m3u8?vid=185
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="ONPhimViet.vn" tvg-name="ON Phim Viet" tvg-logo="" tvg-country="VN" group-title="Series",ON Phim Viet [1080p]
 https://vmttv.dpdns.org/tv360?id=175
+#EXTINF:-1 tvg-id="ONSports.vn" tvg-name="ON Sports" tvg-logo="" tvg-country="VN" group-title="Sports",ON Sports [720p]
+http://antm.dynu.net:14285/rtp/232.84.1.208:9222
+#EXTINF:-1 tvg-id="ONSportsPlus.vn" tvg-name="ON Sports+" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Sports+ [720p]
+http://antm.dynu.net:14285/rtp/232.84.1.220:9294
 #EXTINF:-1 tvg-id="ONStyleTV.vn" tvg-name="ON Style TV" tvg-logo="" tvg-country="VN" group-title="Lifestyle",ON Style TV [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=184
 #EXTINF:-1 tvg-id="ONTrendingTV.vn" tvg-name="ON Trending TV" tvg-logo="" tvg-country="VN" group-title="General",ON Trending TV [1080p]
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:-1 tvg-id="ONVFamily.vn" tvg-name="ON VFamily" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON VFamily [480p]
 https://vmttv.dpdns.org/tv360?id=187
-#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Dramas [1080i]
-https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Giai Tri [1080p]
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="ONVieDramas.vn" tvg-name="ON Vie Dramas" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Dramas [1080p]
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn" tvg-name="ON Vie Giai Tri" tvg-logo="" tvg-country="VN" group-title="Entertainment",ON Vie Giai Tri [1080i]
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 tvg-id="QPVN.vn" tvg-name="QPVN" tvg-logo="" tvg-country="VN" group-title="General",QPVN [1080p]
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="QuangNamTV.vn" tvg-name="Quang Nam TV" tvg-logo="" tvg-country="VN" group-title="General",Quang Nam TV
@@ -152,7 +162,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn" tvg-name="VTV8" tvg-logo="" tvg-country="VN" group-title="General",VTV8 [720p]
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv8/master.m3u8
 #EXTINF:-1 tvg-id="VTV9.vn" tvg-name="VTV9" tvg-logo="" tvg-country="VN" group-title="General",VTV9 [720p]
-https://dethich.pw/vtv9/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn" tvg-name="Vietnam Today" tvg-logo="" tvg-country="VN" group-title="General",Vietnam Today [1080p]
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV1.vn" tvg-name="Vinh Long TV 1" tvg-logo="" tvg-country="VN" group-title="News",Vinh Long TV 1 [720p]

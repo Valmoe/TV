@@ -1,18 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ARB24.az" tvg-name="ARB 24" tvg-logo="" tvg-country="AZ" group-title="News",ARB 24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://az.tvstream.az/hls/stream5/stream.m3u8
+https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az" tvg-name="AnewZ TV" tvg-logo="" tvg-country="AZ" group-title="News",AnewZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
 https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AyazTV.az" tvg-name="Ayaz TV" tvg-logo="" tvg-country="AZ" group-title="General",Ayaz TV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
 #EXTINF:-1 tvg-id="AzTV.az" tvg-name="Az TV" tvg-logo="" tvg-country="AZ" group-title="General",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://az.tvstream.az/hls/stream9/index.m3u8
+https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az" tvg-name="Azad TV" tvg-logo="" tvg-country="AZ" group-title="General",Azad TV
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="BakuTV.az" tvg-name="Baku.TV" tvg-logo="" tvg-country="AZ" group-title="News",Baku.TV
@@ -30,8 +26,6 @@ http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
 #EXTINF:-1 tvg-id="ShowPlusTV.az" tvg-name="Show Plus TV" tvg-logo="" tvg-country="AZ" group-title="Entertainment",Show Plus TV
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="SpaceTV.az" tvg-name="Space TV" tvg-logo="" tvg-country="AZ" group-title="General",Space TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://tvstream.az/
-https://az.tvstream.az/hls/stream8/stream.m3u8
+https://operativmm.az/tvs/space/stream8/index.m3u8
 #EXTINF:-1 tvg-id="VilayetTV.az" tvg-name="Vilayet TV" tvg-logo="" tvg-country="AZ" group-title="General",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8

@@ -3,9 +3,9 @@
 #EXTVLCOPT:http-referrer=https://www.12tv.es/
 https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
 #EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 Horas" tvg-logo="" tvg-country="ES" group-title="News",24 Horas [720p]
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es" tvg-name="24 Horas Canarias" tvg-logo="" tvg-country="ES" group-title="News",24 Horas Canarias [720p]
-https://ztnr.rtve.es/ztnr/5473142.m3u8
+https://rtvelivestream.rtve.es/rtvesec/can/24h_can_main_dvr.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es" tvg-name="24 Horas Catalunya" tvg-logo="" tvg-country="ES" group-title="News",24 Horas Catalunya [720p]
 https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
 #EXTINF:-1 tvg-id="28kanala.es" tvg-name="28 kanala" tvg-logo="" tvg-country="ES" group-title="General",28 kanala
@@ -25,8 +25,8 @@ https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/605795588500
 #EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" tvg-logo="" tvg-country="ES" group-title="Movies",AXN [1080p]
 https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4238619703
 #EXTINF:-1 tvg-id="AXNCEE.es" tvg-name="AXN CEE" tvg-logo="" tvg-country="ES" group-title="Movies",AXN CEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.212.15.50/live/test_axn/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+http://88.212.15.50/live/axn_hun/index.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-name="Activa TV" tvg-logo="" tvg-country="ES" group-title="Music",Activa TV [720p]
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es" tvg-name="Actualidad 360" tvg-logo="" tvg-country="ES" group-title="News",Actualidad 360 [1080p]
@@ -40,7 +40,7 @@ https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
 #EXTINF:-1 tvg-id="BCNGospelTV.es" tvg-name="BCN Gospel TV" tvg-logo="" tvg-country="ES" group-title="General",BCN Gospel TV [720p]
 https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 #EXTINF:-1 tvg-id="BonDiaTV.es" tvg-name="Bon Dia TV" tvg-logo="" tvg-country="ES" group-title="General",Bon Dia TV [1080p]
-https://directes-tv-int.3catdirectes.cat/live-origin/bondia-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
 #EXTINF:-1 tvg-id="CMMTV.es" tvg-name="CMM TV" tvg-logo="" tvg-country="ES" group-title="General",CMM TV [1080p]
 https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
 #EXTINF:-1 tvg-id="Canal3TVBiar.es" tvg-name="Canal 3 TV Biar" tvg-logo="" tvg-country="ES" group-title="General",Canal 3 TV Biar [480p]
@@ -118,11 +118,11 @@ https://cdn1.etbon.eus/oc1/index.m3u8
 #EXTINF:-1 tvg-id="ETB1On.es" tvg-name="ETB1 On" tvg-logo="" tvg-country="ES" group-title="Public",ETB1 On [1080p]
 https://cdn1.etbon.eus/etb1on/index.mpd
 #EXTINF:-1 tvg-id="ETB2On.es" tvg-name="ETB2 On" tvg-logo="" tvg-country="ES" group-title="Entertainment",ETB2 On [1080p]
-https://cdn1.etbon.eus/etb2on/index.mpd
+https://cdn1.etbon.eus/etb2on/index.m3u8
 #EXTINF:-1 tvg-id="EWTNEspana.es" tvg-name="EWTN Espana" tvg-logo="" tvg-country="ES" group-title="Religious",EWTN Espana
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/q6xkg9py/480/chunklist.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
-https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="ElMueble.es" tvg-name="El Mueble" tvg-logo="" tvg-country="ES" group-title="Lifestyle",El Mueble [720p]
 https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
 #EXTINF:-1 tvg-id="ElToroTV.es" tvg-name="El Toro TV" tvg-logo="" tvg-country="ES" group-title="General",El Toro TV [720p]
@@ -156,6 +156,10 @@ https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es" tvg-name="Intercomarcal TV" tvg-logo="" tvg-country="ES" group-title="General",Intercomarcal TV [576p]
 https://streamingtvi.gestec-video.com/hls/tvixa.m3u8
+#EXTINF:-1 tvg-id="La2.es" tvg-name="La 2" tvg-logo="" tvg-country="ES" group-title="General",La 2 [720p]
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main.m3u8
+#EXTINF:-1 tvg-id="La2Canarias.es" tvg-name="La 2 Canarias" tvg-logo="" tvg-country="ES" group-title="General",La 2 Canarias [720p]
+https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-name="La 2 Catalunya" tvg-logo="" tvg-country="ES" group-title="General",La 2 Catalunya [720p]
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 #EXTINF:-1 tvg-id="La8Mediterraneo.es" tvg-name="La 8 Mediterraneo" tvg-logo="" tvg-country="ES" group-title="General",La 8 Mediterraneo [1080p]

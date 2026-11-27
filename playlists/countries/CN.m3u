@@ -9,8 +9,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-name="CCTV+ 2" tvg-logo="" tvg-country="CN" group-title="News",CCTV+ 2 [600p]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-logo="" tvg-country="CN" group-title="General",CCTV-1 [1080p]
-http://69.30.245.50/live/cctv1.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-logo="" tvg-country="CN" group-title="General",CCTV-1 [720p]
+http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV10.cn" tvg-name="CCTV-10" tvg-logo="" tvg-country="CN" group-title="Education",CCTV-10 [720p]
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV11.cn" tvg-name="CCTV-11" tvg-logo="" tvg-country="CN" group-title="Music",CCTV-11 [720p]
@@ -83,8 +83,6 @@ https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Spanish" tvg-logo="" tvg-country="CN" group-title="News",CGTN Spanish [1080p]
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn" tvg-name="CND Film Middle School Channel" tvg-logo="" tvg-country="CN" group-title="Movies",CND Film Middle School Channel
-http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
 #EXTINF:-1 tvg-id="ChaozhouPublicChannel.cn" tvg-name="Chaozhou Public Channel" tvg-logo="" tvg-country="CN" group-title="General",Chaozhou Public Channel
 http://113.64.146.48:1688/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn" tvg-name="Chifeng Comprehensive News Chanel" tvg-logo="" tvg-country="CN" group-title="News",Chifeng Comprehensive News Chanel
@@ -150,7 +148,7 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 tvg-id="XinjiangTV2.cn" tvg-name="Xinjiang TV 2" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 2
 https://infolive.hongshannet.cn/RedHillEye/1781077833267957853648adb1cc9957853648adb1cc9.m3u8?auth_key=1812613833-0-0-4dabcc60fbe41e40712b37dbf24dc877
 #EXTINF:-1 tvg-id="XinjiangTV3.cn" tvg-name="Xinjiang TV 3" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 3
-http://218.84.35.38:3000/m3u8/live/tctv-2/index.m3u8
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XinjiangTV8.cn" tvg-name="Xinjiang TV 8" tvg-logo="" tvg-country="CN" group-title="General",Xinjiang TV 8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn" tvg-name="Xizang TV Chinese" tvg-logo="" tvg-country="CN" group-title="General",Xizang TV Chinese
@@ -159,8 +157,6 @@ https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
 http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="YichangSanxiaGeneralChannel.cn" tvg-name="Yichang Sanxia General Channel" tvg-logo="" tvg-country="CN" group-title="General",Yichang Sanxia General Channel
 https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
-#EXTINF:-1 tvg-id="YichangSanxiaTravelLifeChannel.cn" tvg-name="Yichang Sanxia Travel & Life Channel" tvg-logo="" tvg-country="CN" group-title="Travel",Yichang Sanxia Travel & Life Channel
-https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 #EXTINF:-1 tvg-id="YunnanSatelliteTV.cn" tvg-name="Yunnan Satellite TV" tvg-logo="" tvg-country="CN" group-title="General",Yunnan Satellite TV
 https://h5cul1yar48um3t.wcetv.com/hls/yunnantv.m3u8
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn" tvg-name="Zhejiang International Channel" tvg-logo="" tvg-country="CN" group-title="General",Zhejiang International Channel

@@ -77,8 +77,6 @@ https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
 https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo" tvg-name="Radio Universitaria San Andres" tvg-logo="" tvg-country="BO" group-title="Culture",Radio Universitaria San Andres [720p]
 https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:-1 tvg-id="RedAmericaTV.bo" tvg-name="Red America TV" tvg-logo="" tvg-country="BO" group-title="General",Red America TV [1080p]
-https://edge.enhdtv.com/redamerica/index.m3u8
 #EXTINF:-1 tvg-id="RedCCTV.bo" tvg-name="Red CCTV" tvg-logo="" tvg-country="BO" group-title="General",Red CCTV
 https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo" tvg-name="Red TV Shop" tvg-logo="" tvg-country="BO" group-title="Shop",Red TV Shop [720p]
@@ -120,11 +118,14 @@ https://edge.enhdtv.com/8026/index.m3u8
 #EXTINF:-1 tvg-id="UMSATVULP.bo" tvg-name="UMSA TVU LP" tvg-logo="" tvg-country="BO" group-title="News",UMSA TVU LP [720p]
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo" tvg-name="UPEA TV" tvg-logo="" tvg-country="BO" group-title="General",UPEA TV [720p]
-http://190.181.61.93:8000/play/a00h/index.m3u8
+#EXTVLCOPT:http-referrer=https://tv.upea.bo/live
+https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo" tvg-name="Unifranz" tvg-logo="" tvg-country="BO" group-title="Education",Unifranz [720p]
-https://live.enhdtv.com:8081/8192/index.m3u8
+https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="Unitel.bo" tvg-name="Unitel" tvg-logo="" tvg-country="BO" group-title="General",Unitel [1080p]
-http://190.181.61.93:8000/play/1909/index.m3u8
+http://190.181.61.93:8000/play/a00r/index.m3u8
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo" tvg-name="Univalle Television" tvg-logo="" tvg-country="BO" group-title="General",Univalle Television [1080p]
+https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVCanal17.bo" tvg-name="VTV Canal 17" tvg-logo="" tvg-country="BO" group-title="Religious",VTV Canal 17 [720p]
 http://190.181.61.93:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="VosTV.bo" tvg-name="Vos TV" tvg-logo="" tvg-country="BO" group-title="General",Vos TV [1080p]

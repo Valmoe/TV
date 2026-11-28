@@ -3,8 +3,6 @@
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-id="12TVParma.it" tvg-name="12 TV Parma" tvg-logo="" tvg-country="IT" group-title="General",12 TV Parma [540p]
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="50Canale.it" tvg-name="50 Canale" tvg-logo="" tvg-country="IT" group-title="General",50 Canale [720p]
-https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8
 #EXTINF:-1 tvg-id="51RadioTV.it" tvg-name="51 Radio TV" tvg-logo="" tvg-country="IT" group-title="Music",51 Radio TV [480p]
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 #EXTINF:-1 tvg-id="7Gold.it" tvg-name="7 Gold" tvg-logo="" tvg-country="IT" group-title="Entertainment",7 Gold [1080p]
@@ -55,7 +53,7 @@ https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist
 #EXTINF:-1 tvg-id="Canale7.it" tvg-name="Canale 7" tvg-logo="" tvg-country="IT" group-title="General",Canale 7 [480p]
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
 #EXTINF:-1 tvg-id="Canale8.it" tvg-name="Canale 8" tvg-logo="" tvg-country="IT" group-title="General",Canale 8 [480p]
-http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="" tvg-country="IT" group-title="Animation",Cartoonito [720p]
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CasaItalia53.it" tvg-name="Casa Italia 53" tvg-logo="" tvg-country="IT" group-title="Shop",Casa Italia 53 [720p]
@@ -115,7 +113,7 @@ https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
 #EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="" tvg-country="IT" group-title="Lifestyle",HGTV [1080p]
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="HorseTV.it" tvg-name="Horse TV" tvg-logo="" tvg-country="IT" group-title="Sports",Horse TV [720p]
-https://streams2.sofast.tv/vglive-sk-469239/index.m3u8
+https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="IcaroTV.it" tvg-name="Icaro TV" tvg-logo="" tvg-country="IT" group-title="General",Icaro TV [720p]
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="" tvg-country="IT" group-title="Sports",Inter TV [1080p]
@@ -145,6 +143,8 @@ https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/p
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 #EXTINF:-1 tvg-id="LaCTV.it" tvg-name="La C TV" tvg-logo="" tvg-country="IT" group-title="General",La C TV [720p]
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1 tvg-id="LaNuovaTV.it" tvg-name="La Nuova TV" tvg-logo="" tvg-country="IT" group-title="General",La Nuova TV [1080p]
+https://play.video.serverroom.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="LaTR3Marsala.it" tvg-name="La TR3 Marsala" tvg-logo="" tvg-country="IT" group-title="General",La TR3 Marsala [720p]
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 tvg-id="La7Cinema.it" tvg-name="La7 Cinema" tvg-logo="" tvg-country="IT" group-title="General",La7 Cinema [720p]
@@ -165,7 +165,7 @@ https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia.it" tvg-name="Mediaset Italia" tvg-logo="" tvg-country="IT" group-title="General",Mediaset Italia [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
 #EXTINF:-1 tvg-id="MedjugorjeItaliaTV.it" tvg-name="Medjugorje Italia TV" tvg-logo="" tvg-country="IT" group-title="Religious",Medjugorje Italia TV [480p]
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 tvg-id="MilanTV.it" tvg-name="Milan TV" tvg-logo="" tvg-country="IT" group-title="Sports",Milan TV [720p]
@@ -173,9 +173,11 @@ http://team-tv.co:81/milan/index.m3u8
 #EXTINF:-1 tvg-id="MinformoTV.it" tvg-name="Minformo TV" tvg-logo="" tvg-country="IT" group-title="News",Minformo TV [720p]
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="NauticalChannel.it" tvg-name="Nautical Channel" tvg-logo="" tvg-country="IT" group-title="Sports",Nautical Channel [720p]
-https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="NickJr.it" tvg-name="Nick Jr." tvg-logo="" tvg-country="IT" group-title="Kids",Nick Jr. [720p]
 http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="" tvg-country="IT" group-title="Kids",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30393892159798f5cebb7c
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-logo="" tvg-country="IT" group-title="General",Nove [1080p]
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="Odeon24.it" tvg-name="Odeon 24" tvg-logo="" tvg-country="IT" group-title="General",Odeon 24 [576p]
@@ -293,8 +295,7 @@ https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 http://95.141.36.9:8080/stream/170/index.m3u8
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="" tvg-country="IT" group-title="General",Rai Storia [1080p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+http://team-tv.co:81/raistoria/index.m3u8
 #EXTINF:-1 tvg-id="RaiSudtirol.it" tvg-name="Rai Sudtirol" tvg-logo="" tvg-country="IT" group-title="General",Rai Sudtirol [1080p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/index.m3u8
@@ -324,10 +325,12 @@ https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="SenatoTV.it" tvg-name="Senato TV" tvg-logo="" tvg-country="IT" group-title="Legislative",Senato TV [1080p]
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="Sky Sport F1" tvg-logo="" tvg-country="IT" group-title="Sports",Sky Sport F1
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-id="SophiaTV.it" tvg-name="Sophia TV" tvg-logo="" tvg-country="IT" group-title="General",Sophia TV [720p]
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="" tvg-country="IT" group-title="Sports",Sportitalia [1080p]
-https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SportitaliaSolocalcio.it" tvg-name="Sportitalia Solocalcio" tvg-logo="" tvg-country="IT" group-title="Sports",Sportitalia Solocalcio [1080p]
 https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Stereo5TV.it" tvg-name="Stereo 5 TV" tvg-logo="" tvg-country="IT" group-title="General",Stereo 5 TV [720p]
@@ -339,7 +342,7 @@ https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="" tvg-country="IT" group-title="Kids",Super! [720p]
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24" tvg-logo="" tvg-country="IT" group-title="News",TGCom24 [720p]
-https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/tgcom24/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="TLTMolise.it" tvg-name="TLT Molise" tvg-logo="" tvg-country="IT" group-title="General",TLT Molise [1080p]
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport" tvg-logo="" tvg-country="IT" group-title="Sports",TR Sport [480p]

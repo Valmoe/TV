@@ -44,6 +44,8 @@ https://eu.streamjo.com/eetlive/eettv.m3u8
 https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/playlist.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca" tvg-name="Hyder TV" tvg-logo="" tvg-country="CA" group-title="Culture",Hyder TV [720p]
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MontrealGreekTV.ca" tvg-name="Montreal Greek TV" tvg-logo="" tvg-country="CA" group-title="Culture",Montreal Greek TV [480p]
+http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 tvg-id="PamirTV.ca" tvg-name="Pamir TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pamir TV [1080p]
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 tvg-id="PardesiTV.ca" tvg-name="Pardesi TV" tvg-logo="" tvg-country="CA" group-title="Culture",Pardesi TV [720p]
@@ -94,6 +96,8 @@ https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee" tvg-name="ETV 2" tvg-logo="" tvg-country="EE" group-title="Kids",ETV 2 [720p]
 https://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="Condavision.es" tvg-name="Condavision" tvg-logo="" tvg-country="ES" group-title="Culture",Condavision [1080p]
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 #EXTINF:-1 tvg-id="El33.es" tvg-name="El 33" tvg-logo="" tvg-country="ES" group-title="Culture",El 33 [1080p]
 https://directes-tv-int.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es" tvg-name="Hamaika Telebista" tvg-logo="" tvg-country="ES" group-title="Culture",Hamaika Telebista [1080p]
@@ -111,9 +115,8 @@ http://193.225.32.62:8890/live.m3u8
 https://live.salira.tv/p/3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="TheIndonesiaChannel.id" tvg-name="The Indonesia Channel" tvg-logo="" tvg-country="ID" group-title="Culture",The Indonesia Channel [1080p]
 https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [576p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://fta.ektv.in/live/335/master.m3u8
+#EXTINF:-1 tvg-id="DDBharati.in" tvg-name="DD Bharati" tvg-logo="" tvg-country="IN" group-title="Culture",DD Bharati [720p]
+https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-name="DD Mizoram" tvg-logo="" tvg-country="IN" group-title="News",DD Mizoram [576p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/381/master.m3u8
@@ -191,13 +194,13 @@ https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u
 #EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2" tvg-logo="" tvg-country="RS" group-title="Culture",RTS 2 [720p]
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-id="ART.ru" tvg-name="ART" tvg-logo="" tvg-country="RU" group-title="Culture",ART [576p]
-http://185.23.80.23:8080/ART/index.m3u8
+http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1 tvg-id="Ministerstvoidey.ru" tvg-name="Ministerstvo idey" tvg-logo="" tvg-country="RU" group-title="Culture",Ministerstvo idey [1080p]
 https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="NTV Mir" tvg-logo="" tvg-country="RU" group-title="Culture",NTV Mir [576p]
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Russia-K" tvg-logo="" tvg-country="RU" group-title="Culture",Russia-K [1080p]
-https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-name="Saudi Thaqafiya TV" tvg-logo="" tvg-country="SA" group-title="Culture",Saudi Thaqafiya TV [1080p]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 tvg-id="KomalaTV.se" tvg-name="Komala TV" tvg-logo="" tvg-country="SE" group-title="Culture",Komala TV
@@ -252,10 +255,6 @@ https://video1.getstreamhosting.com:1936/8055/8055/playlist.m3u8
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 #EXTINF:-1 tvg-id="MCN6ArtsChannel.us" tvg-name="MCN6 Arts Channel" tvg-logo="" tvg-country="US" group-title="Culture",MCN6 Arts Channel [1080p]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel30.us" tvg-name="Midpen Media Center Channel 30" tvg-logo="" tvg-country="US" group-title="Culture",Midpen Media Center Channel 30 [720p]
-https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MidpenMediaCenterChannel75.us" tvg-name="Midpen Media Center Channel 75" tvg-logo="" tvg-country="US" group-title="Culture",Midpen Media Center Channel 75 [720p]
-https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Olelo53.us" tvg-name="Olelo 53" tvg-logo="" tvg-country="US" group-title="Culture",Olelo 53 [720p]
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDiplomatico.ve" tvg-name="Canal Diplomatico" tvg-logo="" tvg-country="VE" group-title="Culture",Canal Diplomatico
